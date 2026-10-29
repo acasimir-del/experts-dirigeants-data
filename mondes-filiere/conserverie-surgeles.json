@@ -1,0 +1,9 @@
+{
+ "phrase_process": "La conserverie et le surgelé relèvent de la ligne continue haute cadence - TRS, automatisation poussée, zéro arrêt non planifié.",
+ "mondes": [
+  {
+   "nom": "Ligne continue haute cadence",
+   "slug": "ligne-haute-cadence"
+  }
+ ]
+}

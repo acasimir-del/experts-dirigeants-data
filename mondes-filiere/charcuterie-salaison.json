@@ -1,0 +1,13 @@
+{
+ "phrase_process": "La charcuterie-salaison relève de deux logiques - l'atelier du vivant pour les salaisons sèches et l'affinage, et le flux tendu du frais pour la découpe et le conditionnement.",
+ "mondes": [
+  {
+   "nom": "Atelier du vivant",
+   "slug": "atelier-vivant"
+  },
+  {
+   "nom": "Flux tendu du frais",
+   "slug": "flux-frais"
+  }
+ ]
+}

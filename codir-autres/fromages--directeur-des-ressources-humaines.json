@@ -1,0 +1,98 @@
+[
+ {
+  "fonction": "Directeur industriel",
+  "phrase_synthese": "38 ans d'expérience, dont 27 dans l'agroalimentaire",
+  "phrase": "38 ans d'expérience, dont 27 dans l'agroalimentaire",
+  "tagline": "Coordination multi-sites affinage et rendement fromager",
+  "photo": "https://files.catbox.moe/fxlir2.png",
+  "entreprises": [
+   "Entremont · 5 ans",
+   "Compagnie des Fromages · 4 ans",
+   "Fromageries Bel · 4 ans",
+   "Lactalis · 4 ans"
+  ],
+  "lien": "/directeur-industriel-fromages"
+ },
+ {
+  "fonction": "Directeur de maintenance",
+  "phrase_synthese": "37 ans d'expérience, dont 27 dans l'agroalimentaire",
+  "phrase": "37 ans d'expérience, dont 27 dans l'agroalimentaire",
+  "tagline": "",
+  "photo": "https://framerusercontent.com/images/izT5jlmfjwpFBGCvtF2MjvpOkc.png",
+  "entreprises": [
+   "Danone · 6 ans",
+   "Fromageries Bel · 5 ans",
+   "3A Groupe · 5 ans",
+   "Fromagerie l’Ermitage · 4 ans"
+  ],
+  "lien": "/directeur-de-maintenance-fromages"
+ },
+ {
+  "fonction": "Directeur d'usine",
+  "phrase_synthese": "35 ans d'expérience, dont 25 dans l'agroalimentaire",
+  "phrase": "35 ans d'expérience, dont 25 dans l'agroalimentaire",
+  "tagline": "Arbitrage collecte-production en flux frais quotidien",
+  "photo": "https://framerusercontent.com/images/aZtBzmtJj5DuHpFjgyKi7qPioI.png",
+  "entreprises": [
+   "Lactalis · 6 ans",
+   "Bel · 5 ans",
+   "Savencia · 4 ans",
+   "Laita · 4 ans"
+  ],
+  "lien": "/directeur-d-usine-fromages"
+ },
+ {
+  "fonction": "Directeur de production",
+  "phrase_synthese": "37 ans d'expérience, dont 26 dans l'agroalimentaire",
+  "phrase": "37 ans d'expérience, dont 26 dans l'agroalimentaire",
+  "tagline": "Pilotage ateliers ultra-frais et DLC tendues",
+  "photo": "https://files.catbox.moe/fxlir2.png",
+  "entreprises": [
+   "Yoplait · 5 ans",
+   "Entremont · 5 ans",
+   "Eurial · 5 ans",
+   "Andros · 4 ans"
+  ],
+  "lien": "/directeur-de-production-fromages"
+ },
+ {
+  "fonction": "Directeur Financier",
+  "phrase_synthese": "30 ans d'expérience, dont 18 dans l'agroalimentaire",
+  "phrase": "30 ans d'expérience, dont 18 dans l'agroalimentaire",
+  "tagline": "",
+  "photo": "https://files.catbox.moe/0hql2j.png",
+  "entreprises": [
+   "Lactalis · 5 ans",
+   "Roquefort Papillon · 4 ans",
+   "Savencia · 4 ans",
+   "Sodiaal · 4 ans"
+  ],
+  "lien": "/directeur-financier-fromages"
+ },
+ {
+  "fonction": "Directeur qualité",
+  "phrase_synthese": "30 ans d'expérience, dont 22 dans l'agroalimentaire",
+  "phrase": "30 ans d'expérience, dont 22 dans l'agroalimentaire",
+  "tagline": "",
+  "photo": "https://files.catbox.moe/6man45.png",
+  "entreprises": [
+   "Fromagerie Guilloteau · 5 ans",
+   "Caprice des Dieux · 5 ans",
+   "Lactalis Camembert · 4 ans",
+   "Compagnie des fromages · 4 ans"
+  ],
+  "lien": "/directeur-qualite-fromages"
+ },
+ {
+  "fonction": "Supply & Achats",
+  "phrase_synthese": "40 ans d'expérience, dont 24 dans l'agroalimentaire",
+  "phrase": "40 ans d'expérience, dont 24 dans l'agroalimentaire",
+  "tagline": "Pilotage collecte-volumes et arbitrage marchés AOP",
+  "photo": "https://framerusercontent.com/images/DJG5kZv4F9gMnGmK7CppjkiL2Vc.png",
+  "entreprises": [
+   "Lactalis",
+   "Savencia"
+  ],
+  "lien": "/supply-achats-fromages"
+ }
+]

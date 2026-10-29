@@ -1,0 +1,24 @@
+{
+ "titre_photo": "Directeur de maintenance",
+ "phrase_synthese": "32 ans d'expérience, dont 22 dans l'agroalimentaire",
+ "annees_total": 32,
+ "annees_agro": 22,
+ "entreprises": [
+  "Grands Moulins de Paris · 5 ans",
+  "Moulins Soufflet · 4 ans",
+  "Axéréal · 3 ans",
+  "Eurogerm · 4 ans",
+  "Dijon Céréales · 3 ans",
+  "Missions de transition · depuis 7 ans"
+ ],
+ "postes_occupes": [
+  "Technicien de maintenance moulin",
+  "Responsable maintenance site",
+  "Responsable travaux neufs",
+  "Directeur de maintenance",
+  "Directeur de maintenance multi-moulins"
+ ],
+ "photo": "https://files.catbox.moe/8ija3d.png",
+ "fonction": "Directeur de maintenance",
+ "filiere": "Meunerie & amidonnerie"
+}

@@ -1,0 +1,97 @@
+[
+ {
+  "fonction": "Directeur qualité",
+  "phrase_synthese": "34 ans d'expérience, dont 26 dans l'agroalimentaire",
+  "phrase": "34 ans d'expérience, dont 26 dans l'agroalimentaire",
+  "tagline": "Convergence IFS et maîtrise allergènes boulangerie industrielle",
+  "photo": "https://files.catbox.moe/ngg0zy.png",
+  "entreprises": [
+   "Brioche Pasquier · 5 ans",
+   "Jacquet Brossard · 4 ans",
+   "Délifrance · 3 ans",
+   "Biscuit International · 4 ans"
+  ],
+  "lien": "/directeur-qualite-boulangerie-patisserie"
+ },
+ {
+  "fonction": "Directeur d'usine",
+  "phrase_synthese": "37 ans d'expérience, dont 28 dans l'agroalimentaire",
+  "phrase": "37 ans d'expérience, dont 28 dans l'agroalimentaire",
+  "tagline": "Pilotage multi-lignes viennoiserie en cadence continue",
+  "photo": "https://files.catbox.moe/gmuje3.png",
+  "entreprises": [
+   "Brioche Pasquier · 6 ans",
+   "Jacquet Brossard · 5 ans",
+   "Harry’s · 4 ans",
+   "La Boulangère · 4 ans"
+  ],
+  "lien": "/directeur-d-usine-boulangerie-patisserie"
+ },
+ {
+  "fonction": "Directeur industriel",
+  "phrase_synthese": "37 ans d'expérience, dont 26 dans l'agroalimentaire",
+  "phrase": "37 ans d'expérience, dont 26 dans l'agroalimentaire",
+  "tagline": "",
+  "photo": "https://framerusercontent.com/images/utNTZwTRlwTfSCifNo5CdGWw8BI.png",
+  "entreprises": [
+   "Grands Moulins de Paris · 5 ans",
+   "Delifrance UK · 4 ans",
+   "Le Fournil de Pierre · 4 ans"
+  ],
+  "lien": "/directeur-industriel-boulangerie-patisserie"
+ },
+ {
+  "fonction": "Directeur des Ressources Humaines",
+  "phrase_synthese": "39 ans d'expérience, dont 25 dans l'agroalimentaire",
+  "phrase": "39 ans d'expérience, dont 25 dans l'agroalimentaire",
+  "tagline": "",
+  "photo": "https://files.catbox.moe/nuh83p.png",
+  "entreprises": [
+   "Coup de Pates · 5 ans",
+   "Paul · 4 ans",
+   "Feuillette · 4 ans"
+  ],
+  "lien": "/directeur-des-ressources-humaines-boulangerie-patisserie"
+ },
+ {
+  "fonction": "Directeur de maintenance",
+  "phrase_synthese": "37 ans d'expérience, dont 27 dans l'agroalimentaire",
+  "phrase": "37 ans d'expérience, dont 27 dans l'agroalimentaire",
+  "tagline": "",
+  "photo": "https://framerusercontent.com/images/RZzsaZNVeOd7IrbSQtu0LEMT80.png",
+  "entreprises": [
+   "Norac Foods · 5 ans",
+   "Banette · 4 ans",
+   "Bridor · 5 ans",
+   "Cerelia · 4 ans"
+  ],
+  "lien": "/directeur-de-maintenance-boulangerie-patisserie"
+ },
+ {
+  "fonction": "Supply & Achats",
+  "phrase_synthese": "39 ans d'expérience, dont 27 dans l'agroalimentaire",
+  "phrase": "39 ans d'expérience, dont 27 dans l'agroalimentaire",
+  "tagline": "Sourcing farines et négociation matières fluctuantes",
+  "photo": "https://framerusercontent.com/images/LBj0jgEqz6FNq6eZ2TOajdjt0.png",
+  "entreprises": [
+   "Episens · 4 ans",
+   "Vivescia · 4 ans",
+   "Kambly · 3 ans"
+  ],
+  "lien": "/supply-achats-boulangerie-patisserie"
+ },
+ {
+  "fonction": "Directeur de production",
+  "phrase_synthese": "40 ans d'expérience, dont 28 dans l'agroalimentaire",
+  "phrase": "40 ans d'expérience, dont 28 dans l'agroalimentaire",
+  "tagline": "Ordonnancement multi-lignes panification fermentation",
+  "photo": "https://files.catbox.moe/a8fygf.png",
+  "entreprises": [
+   "Délifrance · 5 ans",
+   "Vandemoortele · 5 ans",
+   "Neuhauser · 4 ans",
+   "Poujol · 4 ans"
+  ],
+  "lien": "/directeur-de-production-boulangerie-patisserie"
+ }
+]

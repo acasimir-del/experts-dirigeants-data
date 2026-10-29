@@ -1,0 +1,84 @@
+[
+ {
+  "fonction": "Directeur qualité",
+  "phrase_synthese": "35 ans d'expérience, dont 25 dans l'agroalimentaire",
+  "phrase": "35 ans d'expérience, dont 25 dans l'agroalimentaire",
+  "tagline": "Harmonisation certifications food safety et cahiers des charges clients",
+  "photo": "https://files.catbox.moe/loe95q.png",
+  "entreprises": [
+   "Ajinomoto · 5 ans",
+   "Eurosérum · 4 ans",
+   "METAROM · 3 ans",
+   "Lesaffre · 4 ans"
+  ],
+  "lien": "/directeur-qualite-ingredients-transformation"
+ },
+ {
+  "fonction": "Directeur d'usine",
+  "phrase_synthese": "38 ans d'expérience, dont 28 dans l'agroalimentaire",
+  "phrase": "38 ans d'expérience, dont 28 dans l'agroalimentaire",
+  "tagline": "Pilotage process continu et libération lots B2B",
+  "photo": "https://files.catbox.moe/mxatx4.png",
+  "entreprises": [
+   "Tereos · 6 ans",
+   "Roquette · 5 ans",
+   "Episens · 4 ans",
+   "Saipol · 4 ans"
+  ],
+  "lien": "/directeur-d-usine-ingredients-transformation"
+ },
+ {
+  "fonction": "Directeur industriel",
+  "phrase_synthese": "32 ans d'expérience, dont 25 dans l'agroalimentaire",
+  "phrase": "32 ans d'expérience, dont 25 dans l'agroalimentaire",
+  "tagline": "",
+  "photo": "https://files.catbox.moe/6w7u6t.png",
+  "entreprises": [
+   "Tereos · 5 ans",
+   "Oleon · 5 ans",
+   "Emsland · 4 ans",
+   "Ulice · 4 ans"
+  ],
+  "lien": "/directeur-industriel-ingredients-transformation"
+ },
+ {
+  "fonction": "Supply & Achats",
+  "phrase_synthese": "30 ans d'expérience, dont 23 dans l'agroalimentaire",
+  "phrase": "30 ans d'expérience, dont 23 dans l'agroalimentaire",
+  "tagline": "Sourcing matières fonctionnelles et contrats B2B",
+  "photo": "https://framerusercontent.com/images/jsYvJkGOFlp7dDYJzHcKGALNo.png",
+  "entreprises": [
+   "Roquette · 7 ans",
+   "InVivo · 3 ans"
+  ],
+  "lien": "/supply-achats-ingredients-transformation"
+ },
+ {
+  "fonction": "Directeur de maintenance",
+  "phrase_synthese": "39 ans d'expérience, dont 27 dans l'agroalimentaire",
+  "phrase": "39 ans d'expérience, dont 27 dans l'agroalimentaire",
+  "tagline": "",
+  "photo": "https://files.catbox.moe/6w1j2o.png",
+  "entreprises": [
+   "Cargill · 6 ans",
+   "Grands Moulins de Strasbourg · 5 ans",
+   "Avril · 4 ans",
+   "Grands Moulins de Pantin · 4 ans"
+  ],
+  "lien": "/directeur-de-maintenance-ingredients-transformation"
+ },
+ {
+  "fonction": "Directeur de production",
+  "phrase_synthese": "27 ans d'expérience, dont 21 dans l'agroalimentaire",
+  "phrase": "27 ans d'expérience, dont 21 dans l'agroalimentaire",
+  "tagline": "Pilotage extracteurs continus et lots à 47 paramètres",
+  "photo": "https://files.catbox.moe/2vprtm.png",
+  "entreprises": [
+   "Vivescia · 5 ans",
+   "Chamtor · 5 ans",
+   "Lesieur · 4 ans",
+   "Syral · 4 ans"
+  ],
+  "lien": "/directeur-de-production-ingredients-transformation"
+ }
+]

@@ -1,0 +1,83 @@
+[
+ {
+  "fonction": "Directeur de maintenance",
+  "phrase_synthese": "40 ans d'expérience, dont 25 dans l'agroalimentaire",
+  "phrase": "40 ans d'expérience, dont 25 dans l'agroalimentaire",
+  "tagline": "Maintenance prédictive tunnels de ressuage et lignes de découpe",
+  "photo": "https://files.catbox.moe/v4v6pz.png",
+  "entreprises": [
+   "Terrena · 5 ans",
+   "Dawn Meats · 5 ans",
+   "Arcadie SUD-OUEST · 5 ans",
+   "Gazelle · 5 ans"
+  ],
+  "lien": "/directeur-de-maintenance-viande-fraiche-decoupe"
+ },
+ {
+  "fonction": "Directeur des Ressources Humaines",
+  "phrase_synthese": "39 ans d'expérience, dont 29 dans l'agroalimentaire",
+  "phrase": "39 ans d'expérience, dont 29 dans l'agroalimentaire",
+  "tagline": "Accord temps de travail zone froide et réduction intérim découpe",
+  "photo": "https://files.catbox.moe/w5ci29.png",
+  "entreprises": [
+   "Bigard Celles · 4 ans",
+   "CELVIA Bretagne · 4 ans",
+   "Agromousquetaires · 5 ans",
+   "Soviba · 4 ans"
+  ],
+  "lien": "/directeur-des-ressources-humaines-viande-fraiche-decoupe"
+ },
+ {
+  "fonction": "Directeur de production",
+  "phrase_synthese": "31 ans d'expérience, dont 21 dans l'agroalimentaire",
+  "phrase": "31 ans d'expérience, dont 21 dans l'agroalimentaire",
+  "tagline": "Lissage cadences DLC courte sur flux volaille frais",
+  "photo": "https://files.catbox.moe/9es1fa.png",
+  "entreprises": [
+   "Galliance · 5 ans",
+   "Sicarev · 5 ans",
+   "SBV · 5 ans",
+   "Abera · 4 ans"
+  ],
+  "lien": "/directeur-de-production-viande-fraiche-decoupe"
+ },
+ {
+  "fonction": "Supply & Achats",
+  "phrase_synthese": "27 ans d'expérience, dont 17 dans l'agroalimentaire",
+  "phrase": "27 ans d'expérience, dont 17 dans l'agroalimentaire",
+  "tagline": "Sourcing carcasses et arbitrage 5e quartier",
+  "photo": "https://framerusercontent.com/images/MW0bzPbWLggkwsSssUguc2gCqA.png",
+  "entreprises": [
+   "LDC · 4 ans"
+  ],
+  "lien": "/supply-achats-viande-fraiche-decoupe"
+ },
+ {
+  "fonction": "Directeur d'usine",
+  "phrase_synthese": "37 ans d'expérience, dont 26 dans l'agroalimentaire",
+  "phrase": "37 ans d'expérience, dont 26 dans l'agroalimentaire",
+  "tagline": "Pilotage 5e quartier et flux abattage-découpe",
+  "photo": "https://files.catbox.moe/2rma6b.png",
+  "entreprises": [
+   "Bigard · 6 ans",
+   "Socopa · 5 ans",
+   "LDC Volena · 5 ans",
+   "Elivia · 4 ans"
+  ],
+  "lien": "/directeur-d-usine-viande-fraiche-decoupe"
+ },
+ {
+  "fonction": "Directeur qualité",
+  "phrase_synthese": "34 ans d'expérience, dont 24 dans l'agroalimentaire",
+  "phrase": "34 ans d'expérience, dont 24 dans l'agroalimentaire",
+  "tagline": "",
+  "photo": "https://files.catbox.moe/510sho.png",
+  "entreprises": [
+   "Bigard Quimper · 5 ans",
+   "Doux · 5 ans",
+   "Coopérative CECAB · 5 ans",
+   "Euralis Gastronomie · 4 ans"
+  ],
+  "lien": "/directeur-qualite-viande-fraiche-decoupe"
+ }
+]

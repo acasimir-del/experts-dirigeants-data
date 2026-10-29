@@ -1,0 +1,44 @@
+[
+ {
+  "fonction": "Directeur de maintenance",
+  "phrase_synthese": "38 ans d'expérience, dont 30 dans l'agroalimentaire",
+  "phrase": "38 ans d'expérience, dont 30 dans l'agroalimentaire",
+  "tagline": "Fiabilisation pasteurisateurs et maîtrise des utilités froides",
+  "photo": "https://files.catbox.moe/t1z7oa.png",
+  "entreprises": [
+   "Yoplait · 5 ans",
+   "Laiterie Saint-Père · 4 ans",
+   "SILL Entreprises · 3 ans",
+   "EURIAL · 4 ans"
+  ],
+  "lien": "/directeur-de-maintenance-produits-laitiers-frais"
+ },
+ {
+  "fonction": "Directeur qualité",
+  "phrase_synthese": "34 ans d'expérience, dont 23 dans l'agroalimentaire",
+  "phrase": "34 ans d'expérience, dont 23 dans l'agroalimentaire",
+  "tagline": "",
+  "photo": "https://files.catbox.moe/ra3rs5.png",
+  "entreprises": [
+   "Candia · 4 ans",
+   "Régilait · 5 ans",
+   "LSDH · 3 ans",
+   "Laita · 4 ans"
+  ],
+  "lien": "/directeur-qualite-produits-laitiers-frais"
+ },
+ {
+  "fonction": "Directeur d'usine",
+  "phrase_synthese": "35 ans d'expérience, dont 24 dans l'agroalimentaire",
+  "phrase": "35 ans d'expérience, dont 24 dans l'agroalimentaire",
+  "tagline": "",
+  "photo": "https://files.catbox.moe/6nzsgr.png",
+  "entreprises": [
+   "Lactalis · 7 ans",
+   "Savencia · 5 ans",
+   "Sodiaal · 4 ans",
+   "Triballat Noyal · 3 ans"
+  ],
+  "lien": "/directeur-d-usine-produits-laitiers-frais"
+ }
+]

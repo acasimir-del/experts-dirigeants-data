@@ -1,0 +1,24 @@
+{
+ "titre_photo": "Directeur Supply",
+ "phrase_synthese": "34 ans d'expérience, dont 26 dans l'agroalimentaire",
+ "annees_total": 34,
+ "annees_agro": 26,
+ "entreprises": [
+  "Valoriss Nutrition · 5 ans",
+  "Inzo° · 4 ans",
+  "Néopédia Aliments · 4 ans",
+  "Terres du Grand Ouest · 5 ans",
+  "Primnut France · 4 ans",
+  "Missions de transition · depuis 10 ans"
+ ],
+ "postes_occupes": [
+  "Approvisionneur matières premières",
+  "Acheteur commodités",
+  "Responsable achats site",
+  "Directeur supply chain",
+  "Directeur supply & achats multi-sites"
+ ],
+ "photo": "https://files.catbox.moe/l8l3mp.png",
+ "fonction": "Supply & Achats",
+ "filiere": "Petfood"
+}

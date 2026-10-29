@@ -1,0 +1,100 @@
+[
+ {
+  "fonction": "Directeur des Ressources Humaines",
+  "phrase_synthese": "34 ans d'expérience, dont 26 dans l'agroalimentaire",
+  "phrase": "34 ans d'expérience, dont 26 dans l'agroalimentaire",
+  "tagline": "",
+  "photo": "https://files.catbox.moe/6w7u6t.png",
+  "entreprises": [
+   "Agrial · 5 ans",
+   "Euralis · 5 ans",
+   "Terrena · 4 ans",
+   "Le Gouessant · 4 ans"
+  ],
+  "lien": "/directeur-des-ressources-humaines-cooperatives-agricoles"
+ },
+ {
+  "fonction": "Directeur Financier",
+  "phrase_synthese": "38 ans d'expérience, dont 30 dans l'agroalimentaire",
+  "phrase": "38 ans d'expérience, dont 30 dans l'agroalimentaire",
+  "tagline": "",
+  "photo": "https://files.catbox.moe/6nzsgr.png",
+  "entreprises": [
+   "Euralis · 6 ans",
+   "Maïsadour · 5 ans",
+   "Agrial · 5 ans",
+   "Axéréal · 4 ans"
+  ],
+  "lien": "/directeur-financier-cooperatives-agricoles"
+ },
+ {
+  "fonction": "Supply & Achats",
+  "phrase_synthese": "39 ans d'expérience, dont 30 dans l'agroalimentaire",
+  "phrase": "39 ans d'expérience, dont 30 dans l'agroalimentaire",
+  "tagline": "",
+  "photo": "https://files.catbox.moe/xqcjtm.png",
+  "entreprises": [
+   "Vivescia · 6 ans",
+   "Terrena · 5 ans",
+   "Limagrain · 4 ans",
+   "Sodiaal · 4 ans"
+  ],
+  "lien": "/supply-achats-cooperatives-agricoles"
+ },
+ {
+  "fonction": "Directeur industriel",
+  "phrase_synthese": "38 ans d'expérience, dont 25 dans l'agroalimentaire",
+  "phrase": "38 ans d'expérience, dont 25 dans l'agroalimentaire",
+  "tagline": "",
+  "photo": "https://files.catbox.moe/0bqmqn.png",
+  "entreprises": [
+   "InVivo · 6 ans",
+   "Vivescia · 6 ans",
+   "Maïsadour · 5 ans",
+   "Sanders · 4 ans"
+  ],
+  "lien": "/directeur-industriel-cooperatives-agricoles"
+ },
+ {
+  "fonction": "Directeur de maintenance",
+  "phrase_synthese": "27 ans d'expérience, dont 21 dans l'agroalimentaire",
+  "phrase": "27 ans d'expérience, dont 21 dans l'agroalimentaire",
+  "tagline": "",
+  "photo": "https://files.catbox.moe/itr4zh.png",
+  "entreprises": [
+   "Agrial · 6 ans",
+   "Natup · 5 ans",
+   "Vivescia · 5 ans",
+   "Axéréal · 4 ans"
+  ],
+  "lien": "/directeur-de-maintenance-cooperatives-agricoles"
+ },
+ {
+  "fonction": "Directeur d'usine",
+  "phrase_synthese": "36 ans d'expérience, dont 26 dans l'agroalimentaire",
+  "phrase": "36 ans d'expérience, dont 26 dans l'agroalimentaire",
+  "tagline": "",
+  "photo": "https://files.catbox.moe/510sho.png",
+  "entreprises": [
+   "Axéréal · 6 ans",
+   "Vivescia · 5 ans",
+   "Terrena · 5 ans",
+   "Dijon Céréales · 4 ans"
+  ],
+  "lien": "/directeur-d-usine-cooperatives-agricoles"
+ },
+ {
+  "fonction": "Directeur qualité",
+  "phrase_synthese": "36 ans d'expérience, dont 22 dans l'agroalimentaire",
+  "phrase": "36 ans d'expérience, dont 22 dans l'agroalimentaire",
+  "tagline": "",
+  "photo": "https://files.catbox.moe/x0uzgf.png",
+  "entreprises": [
+   "SCAEL · 5 ans",
+   "Dijon Céréales · 5 ans",
+   "Limagrain · 4 ans",
+   "Axéréal · 4 ans"
+  ],
+  "lien": "/directeur-qualite-cooperatives-agricoles"
+ }
+]

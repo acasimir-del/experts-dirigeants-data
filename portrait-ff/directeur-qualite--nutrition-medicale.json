@@ -1,0 +1,24 @@
+{
+ "titre_photo": "Directeur Qualité",
+ "phrase_synthese": "29 ans d'expérience, dont 23 dans l'agroalimentaire",
+ "annees_total": 29,
+ "annees_agro": 23,
+ "entreprises": [
+  "Fresenius Kabi · 5 ans",
+  "Nutricia · 4 ans",
+  "Nestlé Health Science · 3 ans",
+  "B · Braun · 4 ans",
+  "Baxter · 3 ans",
+  "Missions de transition · depuis 6 ans"
+ ],
+ "postes_occupes": [
+  "Technicien qualité",
+  "Responsable qualité site",
+  "Responsable assurance qualité",
+  "Directeur qualité usine",
+  "Directeur qualité groupe"
+ ],
+ "photo": "https://files.catbox.moe/3tq0xz.png",
+ "fonction": "Directeur qualité",
+ "filiere": "Nutrition médicale"
+}

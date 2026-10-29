@@ -1,0 +1,80 @@
+[
+ {
+  "fonction": "Directeur qualité",
+  "phrase_synthese": "28 ans d'expérience, dont 18 dans l'agroalimentaire",
+  "phrase": "28 ans d'expérience, dont 18 dans l'agroalimentaire",
+  "tagline": "Déploiement IFS conserve et maîtrise des CCP autoclaves",
+  "photo": "https://files.catbox.moe/v73cky.png",
+  "entreprises": [
+   "Agrial · 5 ans",
+   "Bonduelle · 4 ans",
+   "d'Aucy · 3 ans",
+   "McCain · 4 ans"
+  ],
+  "lien": "/directeur-qualite-conserverie"
+ },
+ {
+  "fonction": "Supply & Achats",
+  "phrase_synthese": "30 ans d'expérience, dont 22 dans l'agroalimentaire",
+  "phrase": "30 ans d'expérience, dont 22 dans l'agroalimentaire",
+  "tagline": "Pilotage approvisionnement saisonnier et contrats producteurs",
+  "photo": "https://framerusercontent.com/images/gsQepOzgtIFSd0pVXfmCEh6hQk.png",
+  "entreprises": [
+   "d'Aucy · 6 ans",
+   "Coopérative Cecab · 4 ans",
+   "Bonduelle Frais · 4 ans"
+  ],
+  "lien": "/supply-achats-conserverie"
+ },
+ {
+  "fonction": "Directeur de production",
+  "phrase_synthese": "27 ans d'expérience, dont 19 dans l'agroalimentaire",
+  "phrase": "27 ans d'expérience, dont 19 dans l'agroalimentaire",
+  "tagline": "Pilotage campagnes maraîchères et surgélation tunnels",
+  "photo": "https://files.catbox.moe/hut0mg.png",
+  "entreprises": [
+   "Findus · 5 ans",
+   "D’aucy · 4 ans",
+   "Lutosa · 4 ans",
+   "Pom’alliance · 4 ans"
+  ],
+  "lien": "/directeur-de-production-conserverie"
+ },
+ {
+  "fonction": "Directeur d'usine",
+  "phrase_synthese": "34 ans d'expérience, dont 27 dans l'agroalimentaire",
+  "phrase": "34 ans d'expérience, dont 27 dans l'agroalimentaire",
+  "tagline": "Pilotage campagnes saisonnières 24/7 multi-tunnels",
+  "photo": "https://files.catbox.moe/gfg3hy.png",
+  "entreprises": [
+   "Bonduelle · 5 ans",
+   "La Belle-Iloise · 5 ans",
+   "McCain · 4 ans",
+   "Agristo · 4 ans"
+  ],
+  "lien": "/directeur-d-usine-conserverie"
+ },
+ {
+  "fonction": "Directeur industriel",
+  "phrase_synthese": "37 ans d'expérience, dont 26 dans l'agroalimentaire",
+  "phrase": "37 ans d'expérience, dont 26 dans l'agroalimentaire",
+  "tagline": "",
+  "photo": "https://framerusercontent.com/images/yL4gjKb863UeLeo8hDM9nB77DVk.png",
+  "entreprises": [],
+  "lien": "/directeur-industriel-conserverie"
+ },
+ {
+  "fonction": "Directeur des Ressources Humaines",
+  "phrase_synthese": "31 ans d'expérience, dont 24 dans l'agroalimentaire",
+  "phrase": "31 ans d'expérience, dont 24 dans l'agroalimentaire",
+  "tagline": "",
+  "photo": "https://files.catbox.moe/yt6cbh.png",
+  "entreprises": [
+   "Conserves d’Alsace · 5 ans",
+   "Salamèche · 4 ans",
+   "Normandie Surgelés · 4 ans",
+   "Comptoir Maritime · 4 ans"
+  ],
+  "lien": "/directeur-des-ressources-humaines-conserverie"
+ }
+]

@@ -1,0 +1,24 @@
+{
+ "titre_photo": "Directeur d'usine",
+ "phrase_synthese": "37 ans d'expérience, dont 28 dans l'agroalimentaire",
+ "annees_total": 37,
+ "annees_agro": 28,
+ "entreprises": [
+  "Brioche Pasquier · 6 ans",
+  "Jacquet Brossard · 5 ans",
+  "Harry’s · 4 ans",
+  "La Boulangère · 4 ans",
+  "Panavi · 4 ans",
+  "Missions de transition · depuis 7 ans"
+ ],
+ "postes_occupes": [
+  "Chef d'atelier viennoiserie",
+  "Responsable de production",
+  "Directeur de production",
+  "Directeur d'usine",
+  "Directeur de site multi‑lignes"
+ ],
+ "photo": "https://files.catbox.moe/gmuje3.png",
+ "fonction": "Directeur d usine",
+ "filiere": "Boulangerie & pâtisserie"
+}

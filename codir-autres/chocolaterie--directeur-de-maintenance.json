@@ -1,0 +1,82 @@
+[
+ {
+  "fonction": "Directeur industriel",
+  "phrase_synthese": "29 ans d'expérience, dont 18 dans l'agroalimentaire",
+  "phrase": "29 ans d'expérience, dont 18 dans l'agroalimentaire",
+  "tagline": "Coordination multi-sites moulage, enrobage et dragéification",
+  "photo": "https://files.catbox.moe/ho47be.png",
+  "entreprises": [
+   "Nestlé Confectionery · 5 ans",
+   "Roquette Frères · 4 ans",
+   "Crespo · 4 ans",
+   "Douceur Française · 4 ans"
+  ],
+  "lien": "/directeur-industriel-chocolaterie"
+ },
+ {
+  "fonction": "Directeur d'usine",
+  "phrase_synthese": "36 ans d'expérience, dont 27 dans l'agroalimentaire",
+  "phrase": "36 ans d'expérience, dont 27 dans l'agroalimentaire",
+  "tagline": "Conduite cycles cacao et lignes saisonnières",
+  "photo": "https://files.catbox.moe/qp22qf.png",
+  "entreprises": [
+   "Barry Callebaut · 5 ans",
+   "Valrhona · 5 ans",
+   "Lindt · 4 ans",
+   "Cémoi · 4 ans"
+  ],
+  "lien": "/directeur-d-usine-chocolaterie"
+ },
+ {
+  "fonction": "Directeur qualité",
+  "phrase_synthese": "35 ans d'expérience, dont 24 dans l'agroalimentaire",
+  "phrase": "35 ans d'expérience, dont 24 dans l'agroalimentaire",
+  "tagline": "Matrices allergènes et conformité IFS chocolat MDD",
+  "photo": "https://files.catbox.moe/vvnqbu.png",
+  "entreprises": [
+   "Savencia Fromagerie · 4 ans",
+   "Grain de Sail · 4 ans",
+   "Poulain · 4 ans",
+   "Nid d’Abeille · 4 ans"
+  ],
+  "lien": "/directeur-qualite-chocolaterie"
+ },
+ {
+  "fonction": "Directeur de production",
+  "phrase_synthese": "37 ans d'expérience, dont 29 dans l'agroalimentaire",
+  "phrase": "37 ans d'expérience, dont 29 dans l'agroalimentaire",
+  "tagline": "Cycles tempérage et finitions sensibles",
+  "photo": "https://files.catbox.moe/2ahwbn.png",
+  "entreprises": [
+   "Mars France · 6 ans",
+   "Mondelez · 4 ans",
+   "Lindt · 4 ans",
+   "Bahlsen · 3 ans"
+  ],
+  "lien": "/directeur-de-production-chocolaterie"
+ },
+ {
+  "fonction": "Supply & Achats",
+  "phrase_synthese": "40 ans d'expérience, dont 28 dans l'agroalimentaire",
+  "phrase": "40 ans d'expérience, dont 28 dans l'agroalimentaire",
+  "tagline": "Couverture cacao-sucre et arbitrage matières volatiles",
+  "photo": "https://framerusercontent.com/images/awcn2FMZA6vkIAXTByBByuGEw.png",
+  "entreprises": [
+   "Wrigley · 4 ans",
+   "Sucre Pernigotti · 3 ans"
+  ],
+  "lien": "/supply-achats-chocolaterie"
+ },
+ {
+  "fonction": "Directeur des Ressources Humaines",
+  "phrase_synthese": "36 ans d'expérience, dont 27 dans l'agroalimentaire",
+  "phrase": "36 ans d'expérience, dont 27 dans l'agroalimentaire",
+  "tagline": "Gestion pics saisonniers et montée en compétences process sucré",
+  "photo": "https://files.catbox.moe/ul787t.png",
+  "entreprises": [
+   "Biscuiterie Nantaise · 4 ans",
+   "Chocolaterie de Beussent · 4 ans"
+  ],
+  "lien": "/directeur-des-ressources-humaines-chocolaterie"
+ }
+]

@@ -1,0 +1,20 @@
+{
+ "titre_photo": "Directeur Supply",
+ "phrase_synthese": "40 ans d'expérience, dont 24 dans l'agroalimentaire",
+ "annees_total": 40,
+ "annees_agro": 24,
+ "entreprises": [
+  "Lactalis",
+  "Savencia"
+ ],
+ "postes_occupes": [
+  "Responsable approvisionnements",
+  "Responsable ordonnancement",
+  "Responsable projet S&OP",
+  "Directeur supply chain",
+  "Directeur des opérations"
+ ],
+ "photo": "https://framerusercontent.com/images/DJG5kZv4F9gMnGmK7CppjkiL2Vc.png",
+ "fonction": "Supply & Achats",
+ "filiere": "Fromages"
+}

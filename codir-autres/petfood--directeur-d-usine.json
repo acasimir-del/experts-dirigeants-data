@@ -1,0 +1,86 @@
+[
+ {
+  "fonction": "Directeur de maintenance",
+  "phrase_synthese": "30 ans d'expérience, dont 21 dans l'agroalimentaire",
+  "phrase": "30 ans d'expérience, dont 21 dans l'agroalimentaire",
+  "tagline": "Fiabilisation granulateurs et performance énergétique usines nutrition animale",
+  "photo": "https://files.catbox.moe/uj5x3y.png",
+  "entreprises": [
+   "Le Gouessant · 5 ans",
+   "Océalia · 4 ans",
+   "Unéal · 3 ans",
+   "CAVAC · 4 ans"
+  ],
+  "lien": "/directeur-de-maintenance-petfood"
+ },
+ {
+  "fonction": "Directeur industriel",
+  "phrase_synthese": "39 ans d'expérience, dont 25 dans l'agroalimentaire",
+  "phrase": "39 ans d'expérience, dont 25 dans l'agroalimentaire",
+  "tagline": "",
+  "photo": "https://files.catbox.moe/6hf07k.png",
+  "entreprises": [
+   "Avril Nutrition · 5 ans",
+   "Diana Pet Food · 5 ans",
+   "Adisseo · 4 ans",
+   "DSM Nutritional · 4 ans"
+  ],
+  "lien": "/directeur-industriel-petfood"
+ },
+ {
+  "fonction": "Directeur des Ressources Humaines",
+  "phrase_synthese": "29 ans d'expérience, dont 23 dans l'agroalimentaire",
+  "phrase": "29 ans d'expérience, dont 23 dans l'agroalimentaire",
+  "tagline": "",
+  "photo": "https://files.catbox.moe/5v9hhe.png",
+  "entreprises": [
+   "Coopérative Terrena · 5 ans",
+   "Roquette Animal Nutrition · 4 ans",
+   "Biomin · 4 ans",
+   "Lallemand · 4 ans"
+  ],
+  "lien": "/directeur-des-ressources-humaines-petfood"
+ },
+ {
+  "fonction": "Supply & Achats",
+  "phrase_synthese": "34 ans d'expérience, dont 26 dans l'agroalimentaire",
+  "phrase": "34 ans d'expérience, dont 26 dans l'agroalimentaire",
+  "tagline": "Sourcing protéines et négociation matières premières",
+  "photo": "https://files.catbox.moe/l8l3mp.png",
+  "entreprises": [
+   "Valoriss Nutrition · 5 ans",
+   "Inzo° · 4 ans",
+   "Néopédia Aliments · 4 ans",
+   "Terres du Grand Ouest · 5 ans"
+  ],
+  "lien": "/supply-achats-petfood"
+ },
+ {
+  "fonction": "Directeur qualité",
+  "phrase_synthese": "28 ans d'expérience, dont 19 dans l'agroalimentaire",
+  "phrase": "28 ans d'expérience, dont 19 dans l'agroalimentaire",
+  "tagline": "",
+  "photo": "https://files.catbox.moe/it063l.png",
+  "entreprises": [
+   "Virbac · 5 ans",
+   "Agralys · 4 ans",
+   "Altilis · 4 ans",
+   "FeedAlliance · 4 ans"
+  ],
+  "lien": "/directeur-qualite-petfood"
+ },
+ {
+  "fonction": "Directeur de production",
+  "phrase_synthese": "28 ans d'expérience, dont 21 dans l'agroalimentaire",
+  "phrase": "28 ans d'expérience, dont 21 dans l'agroalimentaire",
+  "tagline": "Pilotage granulateurs et changements recette stricts",
+  "photo": "https://files.catbox.moe/64ihzp.png",
+  "entreprises": [
+   "Le Gouessant · 5 ans",
+   "Wisium · 5 ans",
+   "Hill’s Pet · 4 ans",
+   "Techna · 4 ans"
+  ],
+  "lien": "/directeur-de-production-petfood"
+ }
+]

@@ -1,0 +1,74 @@
+[
+ {
+  "fonction": "Directeur qualité",
+  "phrase_synthese": "33 ans d'expérience, dont 25 dans l'agroalimentaire",
+  "phrase": "33 ans d'expérience, dont 25 dans l'agroalimentaire",
+  "tagline": "Traçabilité multi-ingrédients et maîtrise HACCP plats composés",
+  "photo": "https://files.catbox.moe/ho47be.png",
+  "entreprises": [
+   "Sodebo · 5 ans",
+   "Gozoki · 4 ans",
+   "William Saurin · 3 ans"
+  ],
+  "lien": "/directeur-qualite-plats-cuisines"
+ },
+ {
+  "fonction": "Directeur industriel",
+  "phrase_synthese": "34 ans d'expérience, dont 21 dans l'agroalimentaire",
+  "phrase": "34 ans d'expérience, dont 21 dans l'agroalimentaire",
+  "tagline": "Schéma industriel multi-sites traiteur surgelé et frais",
+  "photo": "https://files.catbox.moe/ndjpx3.png",
+  "entreprises": [
+   "Fleury Michon · 5 ans",
+   "Sodebo · 4 ans",
+   "Tipiak Traiteur Pâtissier · 3 ans",
+   "Traiteur de Paris · 4 ans"
+  ],
+  "lien": "/directeur-industriel-plats-cuisines"
+ },
+ {
+  "fonction": "Directeur d'usine",
+  "phrase_synthese": "28 ans d'expérience, dont 18 dans l'agroalimentaire",
+  "phrase": "28 ans d'expérience, dont 18 dans l'agroalimentaire",
+  "tagline": "Ordonnancement multi-recettes courte série et allergènes",
+  "photo": "https://framerusercontent.com/images/vGTvuTXcXlCmfaSBeYWl79Uj8.png",
+  "entreprises": [
+   "Bonduelle · 5 ans",
+   "Marie Surgelés · 5 ans",
+   "Sodebo · 4 ans",
+   "Cité Marine · 4 ans"
+  ],
+  "lien": "/directeur-d-usine-plats-cuisines"
+ },
+ {
+  "fonction": "Directeur des Ressources Humaines",
+  "phrase_synthese": "29 ans d'expérience, dont 22 dans l'agroalimentaire",
+  "phrase": "29 ans d'expérience, dont 22 dans l'agroalimentaire",
+  "tagline": "",
+  "photo": "https://framerusercontent.com/images/vxSFKhB3J2bjRulQxqaz05P1DA.png",
+  "entreprises": [],
+  "lien": "/directeur-des-ressources-humaines-plats-cuisines"
+ },
+ {
+  "fonction": "Supply & Achats",
+  "phrase_synthese": "27 ans d'expérience, dont 17 dans l'agroalimentaire",
+  "phrase": "27 ans d'expérience, dont 17 dans l'agroalimentaire",
+  "tagline": "Sourcing 200 références et arbitrages allergènes",
+  "photo": "https://framerusercontent.com/images/MYTVWsPyK8klNdvy7wtajGpsCys.png",
+  "entreprises": [],
+  "lien": "/supply-achats-plats-cuisines"
+ },
+ {
+  "fonction": "Directeur de maintenance",
+  "phrase_synthese": "32 ans d'expérience, dont 20 dans l'agroalimentaire",
+  "phrase": "32 ans d'expérience, dont 20 dans l'agroalimentaire",
+  "tagline": "",
+  "photo": "https://files.catbox.moe/2hya6n.png",
+  "entreprises": [
+   "Nissui · 5 ans",
+   "Davigel · 4 ans",
+   "Maison Riviere · 4 ans"
+  ],
+  "lien": "/directeur-de-maintenance-plats-cuisines"
+ }
+]

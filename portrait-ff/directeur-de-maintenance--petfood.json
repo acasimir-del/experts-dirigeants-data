@@ -1,0 +1,24 @@
+{
+ "titre_photo": "Directeur de maintenance",
+ "phrase_synthese": "30 ans d'expérience, dont 21 dans l'agroalimentaire",
+ "annees_total": 30,
+ "annees_agro": 21,
+ "entreprises": [
+  "Le Gouessant · 5 ans",
+  "Océalia · 4 ans",
+  "Unéal · 3 ans",
+  "CAVAC · 4 ans",
+  "SCAPARTOIS · 3 ans",
+  "Missions de transition · depuis 7 ans"
+ ],
+ "postes_occupes": [
+  "Technicien de maintenance",
+  "Responsable maintenance site",
+  "Responsable maintenance multi-sites",
+  "Directeur de maintenance",
+  "Directeur technique industriel"
+ ],
+ "photo": "https://files.catbox.moe/uj5x3y.png",
+ "fonction": "Directeur de maintenance",
+ "filiere": "Petfood"
+}

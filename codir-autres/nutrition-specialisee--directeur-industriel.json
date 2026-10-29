@@ -1,0 +1,99 @@
+[
+ {
+  "fonction": "Directeur Financier",
+  "phrase_synthese": "33 ans d'expérience, dont 22 dans l'agroalimentaire",
+  "phrase": "33 ans d'expérience, dont 22 dans l'agroalimentaire",
+  "tagline": "",
+  "photo": "https://files.catbox.moe/2pmzew.png",
+  "entreprises": [
+   "Danone · 6 ans",
+   "Lactalis Nutrition Sante · 5 ans",
+   "Havea · 4 ans",
+   "Pileje · 4 ans"
+  ],
+  "lien": "/directeur-financier-nutrition-specialisee"
+ },
+ {
+  "fonction": "Supply & Achats",
+  "phrase_synthese": "27 ans d'expérience, dont 18 dans l'agroalimentaire",
+  "phrase": "27 ans d'expérience, dont 18 dans l'agroalimentaire",
+  "tagline": "Sourcing bioactifs et qualification fournisseurs réglementaire",
+  "photo": "https://framerusercontent.com/images/5icjnqjUcY1hJ4MfCRk9ZRIzXEs.png",
+  "entreprises": [
+   "Nutrition & Sante · 4 ans",
+   "Lea Nature · 4 ans",
+   "SYNUTRA · 4 ans"
+  ],
+  "lien": "/supply-achats-nutrition-specialisee"
+ },
+ {
+  "fonction": "Directeur des Ressources Humaines",
+  "phrase_synthese": "34 ans d'expérience, dont 25 dans l'agroalimentaire",
+  "phrase": "34 ans d'expérience, dont 25 dans l'agroalimentaire",
+  "tagline": "",
+  "photo": "https://files.catbox.moe/ndjpx3.png",
+  "entreprises": [
+   "Danone · 5 ans",
+   "Lea Nature · 4 ans",
+   "Pileje · 4 ans",
+   "Lactalis Nutrition Santé · 4 ans"
+  ],
+  "lien": "/directeur-des-ressources-humaines-nutrition-specialisee"
+ },
+ {
+  "fonction": "Directeur d'usine",
+  "phrase_synthese": "37 ans d'expérience, dont 29 dans l'agroalimentaire",
+  "phrase": "37 ans d'expérience, dont 29 dans l'agroalimentaire",
+  "tagline": "Pilotage salles blanches et conformité réglementaire EFSA",
+  "photo": "https://framerusercontent.com/images/qrxP3fhNFbPIc4PyM9VUCkXERk.png",
+  "entreprises": [
+   "Bledina · 6 ans",
+   "Lactalis Nutrition Sante · 5 ans",
+   "Nutricia · 5 ans",
+   "Nutrition & Sante · 4 ans"
+  ],
+  "lien": "/directeur-d-usine-nutrition-specialisee"
+ },
+ {
+  "fonction": "Directeur de maintenance",
+  "phrase_synthese": "35 ans d'expérience, dont 25 dans l'agroalimentaire",
+  "phrase": "35 ans d'expérience, dont 25 dans l'agroalimentaire",
+  "tagline": "Fiabilisation lignes aseptiques et plans de maintenance ultra-propre",
+  "photo": "https://framerusercontent.com/images/ikkI5YSXJhrodMvIRQZ0JLtamfw.png",
+  "entreprises": [
+   "Lactalis Nutrition Sante · 6 ans",
+   "Havea · 4 ans",
+   "Bledina · 5 ans",
+   "Pileje · 4 ans"
+  ],
+  "lien": "/directeur-de-maintenance-nutrition-specialisee"
+ },
+ {
+  "fonction": "Directeur qualité",
+  "phrase_synthese": "29 ans d'expérience, dont 19 dans l'agroalimentaire",
+  "phrase": "29 ans d'expérience, dont 19 dans l'agroalimentaire",
+  "tagline": "",
+  "photo": "https://files.catbox.moe/pze74n.png",
+  "entreprises": [
+   "Lea Nature · 5 ans",
+   "Havea · 5 ans",
+   "Bledina · 4 ans",
+   "Nutricia · 4 ans"
+  ],
+  "lien": "/directeur-qualite-nutrition-specialisee"
+ },
+ {
+  "fonction": "Directeur de production",
+  "phrase_synthese": "28 ans d'expérience, dont 19 dans l'agroalimentaire",
+  "phrase": "28 ans d'expérience, dont 19 dans l'agroalimentaire",
+  "tagline": "Pilotage zones BPF et libération lots cliniques",
+  "photo": "https://files.catbox.moe/n9rv1f.png",
+  "entreprises": [
+   "Havea · 5 ans",
+   "Nutrition & Sante · 5 ans",
+   "Bledina · 4 ans",
+   "Pileje · 4 ans"
+  ],
+  "lien": "/directeur-de-production-nutrition-specialisee"
+ }
+]

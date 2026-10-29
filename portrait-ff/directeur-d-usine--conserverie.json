@@ -1,0 +1,24 @@
+{
+ "titre_photo": "Directeur d'usine",
+ "phrase_synthese": "34 ans d'expérience, dont 27 dans l'agroalimentaire",
+ "annees_total": 34,
+ "annees_agro": 27,
+ "entreprises": [
+  "Bonduelle · 5 ans",
+  "La Belle-Iloise · 5 ans",
+  "McCain · 4 ans",
+  "Agristo · 4 ans",
+  "Cassegrain · 4 ans",
+  "Missions de transition · depuis 8 ans"
+ ],
+ "postes_occupes": [
+  "Chef d'équipe surgélation",
+  "Responsable campagne saisonnière",
+  "Directeur de production",
+  "Directeur d'usine",
+  "Directeur de site multi‑tunnels"
+ ],
+ "photo": "https://files.catbox.moe/gfg3hy.png",
+ "fonction": "Directeur d usine",
+ "filiere": "Conserverie"
+}

@@ -1,0 +1,24 @@
+{
+ "titre_photo": "Directeur de maintenance",
+ "phrase_synthese": "38 ans d'expérience, dont 29 dans l'agroalimentaire",
+ "annees_total": 38,
+ "annees_agro": 29,
+ "entreprises": [
+  "Saint Louis Sucre · 5 ans",
+  "Cristal Union · 4 ans",
+  "Tereos · 4 ans",
+  "Sucres & Denrées · 4 ans",
+  "Sucreries du Marquenterre · 3 ans",
+  "Missions de transition · depuis 7 ans"
+ ],
+ "postes_occupes": [
+  "Technicien de maintenance",
+  "Responsable maintenance campagne",
+  "Responsable travaux neufs",
+  "Directeur de maintenance",
+  "Directeur de maintenance multi-sucreries"
+ ],
+ "photo": "https://files.catbox.moe/fzrvcm.png",
+ "fonction": "Directeur de maintenance",
+ "filiere": "Sucre & édulcorants"
+}

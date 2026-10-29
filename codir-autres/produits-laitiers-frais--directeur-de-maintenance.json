@@ -1,0 +1,30 @@
+[
+ {
+  "fonction": "Directeur qualité",
+  "phrase_synthese": "34 ans d'expérience, dont 23 dans l'agroalimentaire",
+  "phrase": "34 ans d'expérience, dont 23 dans l'agroalimentaire",
+  "tagline": "",
+  "photo": "https://files.catbox.moe/ra3rs5.png",
+  "entreprises": [
+   "Candia · 4 ans",
+   "Régilait · 5 ans",
+   "LSDH · 3 ans",
+   "Laita · 4 ans"
+  ],
+  "lien": "/directeur-qualite-produits-laitiers-frais"
+ },
+ {
+  "fonction": "Directeur d'usine",
+  "phrase_synthese": "35 ans d'expérience, dont 24 dans l'agroalimentaire",
+  "phrase": "35 ans d'expérience, dont 24 dans l'agroalimentaire",
+  "tagline": "",
+  "photo": "https://files.catbox.moe/6nzsgr.png",
+  "entreprises": [
+   "Lactalis · 7 ans",
+   "Savencia · 5 ans",
+   "Sodiaal · 4 ans",
+   "Triballat Noyal · 3 ans"
+  ],
+  "lien": "/directeur-d-usine-produits-laitiers-frais"
+ }
+]

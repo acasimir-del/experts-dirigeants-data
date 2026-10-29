@@ -1,0 +1,83 @@
+[
+ {
+  "fonction": "Directeur d'usine",
+  "phrase_synthese": "33 ans d'expérience, dont 21 dans l'agroalimentaire",
+  "phrase": "33 ans d'expérience, dont 21 dans l'agroalimentaire",
+  "tagline": "Fiabilisation des cycles séchage et fermentation en salaison",
+  "photo": "https://framerusercontent.com/images/y3J1iF6DjKjtWmHvNb4vqRtNpU.png",
+  "entreprises": [
+   "Fleury Michon · 6 ans",
+   "Cooperl · 5 ans",
+   "Herta · 5 ans",
+   "Justin Bridou · 4 ans"
+  ],
+  "lien": "/directeur-d-usine-charcuterie-salaison"
+ },
+ {
+  "fonction": "Directeur des Ressources Humaines",
+  "phrase_synthese": "31 ans d'expérience, dont 23 dans l'agroalimentaire",
+  "phrase": "31 ans d'expérience, dont 23 dans l'agroalimentaire",
+  "tagline": "Restructuration GPEC et école interne métiers charcutiers",
+  "photo": "https://files.catbox.moe/n9rv1f.png",
+  "entreprises": [
+   "SBV · 4 ans",
+   "Terrena · 4 ans",
+   "Pierre Schmidt · 4 ans"
+  ],
+  "lien": "/directeur-des-ressources-humaines-charcuterie-salaison"
+ },
+ {
+  "fonction": "Directeur industriel",
+  "phrase_synthese": "38 ans d'expérience, dont 23 dans l'agroalimentaire",
+  "phrase": "38 ans d'expérience, dont 23 dans l'agroalimentaire",
+  "tagline": "Structuration multi-sites abattage-découpe et schéma directeur salaison",
+  "photo": "https://framerusercontent.com/images/FqdnwvGGc1egoku5vKedMe4Lw.png",
+  "entreprises": [
+   "Salaisons du Velay · 6 ans",
+   "Maison Rivière Salaisons · 5 ans",
+   "Ateliers de la Sèvre · 5 ans",
+   "Comptoir des Salaisons · 4 ans"
+  ],
+  "lien": "/directeur-industriel-charcuterie-salaison"
+ },
+ {
+  "fonction": "Supply & Achats",
+  "phrase_synthese": "35 ans d'expérience, dont 24 dans l'agroalimentaire",
+  "phrase": "35 ans d'expérience, dont 24 dans l'agroalimentaire",
+  "tagline": "Sourcing porc et négociation matières grasses",
+  "photo": "https://framerusercontent.com/images/s4X4K3YKPfKOwwsHuczwXLd0BE.png",
+  "entreprises": [
+   "Socopa · 4 ans",
+   "Elivia · 4 ans"
+  ],
+  "lien": "/supply-achats-charcuterie-salaison"
+ },
+ {
+  "fonction": "Directeur de production",
+  "phrase_synthese": "35 ans d'expérience, dont 28 dans l'agroalimentaire",
+  "phrase": "35 ans d'expérience, dont 28 dans l'agroalimentaire",
+  "tagline": "Cadences chambre froide et tunnels salaison",
+  "photo": "https://framerusercontent.com/images/rZdhn5bu1fVSrx4DvLbHKSD6EM.png",
+  "entreprises": [
+   "Aubret · 5 ans",
+   "Brocelíande · 5 ans",
+   "Madrange · 4 ans",
+   "Bordeau Chesnel · 4 ans"
+  ],
+  "lien": "/directeur-de-production-charcuterie-salaison"
+ },
+ {
+  "fonction": "Directeur de maintenance",
+  "phrase_synthese": "32 ans d'expérience, dont 25 dans l'agroalimentaire",
+  "phrase": "32 ans d'expérience, dont 25 dans l'agroalimentaire",
+  "tagline": "",
+  "photo": "https://framerusercontent.com/images/Y8ThIwAFyVCoky7Konm5DiVCrQ.png",
+  "entreprises": [
+   "Campofrio · 5 ans",
+   "Bigard · 4 ans",
+   "Salaison Pyénéenne · 4 ans",
+   "Jean Caby · 5 ans"
+  ],
+  "lien": "/directeur-de-maintenance-charcuterie-salaison"
+ }
+]

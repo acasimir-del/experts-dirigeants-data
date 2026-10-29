@@ -1,0 +1,100 @@
+[
+ {
+  "fonction": "Directeur Financier",
+  "phrase_synthese": "34 ans d'expérience, dont 22 dans l'agroalimentaire",
+  "phrase": "34 ans d'expérience, dont 22 dans l'agroalimentaire",
+  "tagline": "",
+  "photo": "https://framerusercontent.com/images/gIOktmioSpqv7fu9wQMxCJtlI.png",
+  "entreprises": [
+   "Terrena Ovalis · 6 ans",
+   "Eureden Cocotine · 5 ans",
+   "Vivadour · 5 ans",
+   "Liot · 4 ans"
+  ],
+  "lien": "/directeur-financier-oeufs-ovoproduits"
+ },
+ {
+  "fonction": "Directeur industriel",
+  "phrase_synthese": "33 ans d'expérience, dont 25 dans l'agroalimentaire",
+  "phrase": "33 ans d'expérience, dont 25 dans l'agroalimentaire",
+  "tagline": "",
+  "photo": "https://framerusercontent.com/images/bIzT59qKBMbB028IQDNFxHgAeg.png",
+  "entreprises": [
+   "LDC Oeufs · 6 ans",
+   "Igreca · 5 ans",
+   "Terrena Ovalis · 5 ans",
+   "Ovoteam · 4 ans"
+  ],
+  "lien": "/directeur-industriel-oeufs-ovoproduits"
+ },
+ {
+  "fonction": "Supply & Achats",
+  "phrase_synthese": "30 ans d'expérience, dont 23 dans l'agroalimentaire",
+  "phrase": "30 ans d'expérience, dont 23 dans l'agroalimentaire",
+  "tagline": "Pilotage collecte élevages et conversion plein air",
+  "photo": "https://framerusercontent.com/images/PiQrGZpCrY33hiH5gYtfymB0Ss.png",
+  "entreprises": [
+   "Vivadour · 5 ans",
+   "Terrena Ovalis · 5 ans",
+   "LDC Oeufs · 4 ans",
+   "Cocorette · 4 ans"
+  ],
+  "lien": "/supply-achats-oeufs-ovoproduits"
+ },
+ {
+  "fonction": "Directeur des Ressources Humaines",
+  "phrase_synthese": "33 ans d'expérience, dont 21 dans l'agroalimentaire",
+  "phrase": "33 ans d'expérience, dont 21 dans l'agroalimentaire",
+  "tagline": "",
+  "photo": "https://files.catbox.moe/wzrvzs.png",
+  "entreprises": [
+   "Cocorette · 5 ans",
+   "Terrena Ovalis · 5 ans",
+   "Eureden Cocotine · 4 ans",
+   "LDC Oeufs · 4 ans"
+  ],
+  "lien": "/directeur-des-ressources-humaines-oeufs-ovoproduits"
+ },
+ {
+  "fonction": "Directeur de production",
+  "phrase_synthese": "40 ans d'expérience, dont 28 dans l'agroalimentaire",
+  "phrase": "40 ans d'expérience, dont 28 dans l'agroalimentaire",
+  "tagline": "Pilotage pasteurisateurs continus et libération microbio",
+  "photo": "https://framerusercontent.com/images/6sbzeSodMAFK8vFEGntIdPnG0kQ.png",
+  "entreprises": [
+   "Ovoteam · 5 ans",
+   "Terrena Ovalis · 5 ans",
+   "Cocorette · 4 ans",
+   "Liot · 4 ans"
+  ],
+  "lien": "/directeur-de-production-oeufs-ovoproduits"
+ },
+ {
+  "fonction": "Directeur qualité",
+  "phrase_synthese": "33 ans d'expérience, dont 24 dans l'agroalimentaire",
+  "phrase": "33 ans d'expérience, dont 24 dans l'agroalimentaire",
+  "tagline": "",
+  "photo": "https://files.catbox.moe/qp22qf.png",
+  "entreprises": [
+   "Liot · 6 ans",
+   "Cocorette · 5 ans",
+   "LDC Oeufs · 4 ans",
+   "Terrena Ovalis · 4 ans"
+  ],
+  "lien": "/directeur-qualite-oeufs-ovoproduits"
+ },
+ {
+  "fonction": "Directeur d'usine",
+  "phrase_synthese": "38 ans d'expérience, dont 29 dans l'agroalimentaire",
+  "phrase": "38 ans d'expérience, dont 29 dans l'agroalimentaire",
+  "tagline": "Pilotage casserie et liberation lots pasteurisés",
+  "photo": "https://framerusercontent.com/images/zLicozgoox1uBSILApXZWciZLbg.png",
+  "entreprises": [
+   "Terrena Ovalis · 6 ans",
+   "Cocorette · 5 ans",
+   "LDC Oeufs · 5 ans",
+   "Igreca · 4 ans"
+  ],
+  "lien": "/directeur-d-usine-oeufs-ovoproduits"
+ }
+]

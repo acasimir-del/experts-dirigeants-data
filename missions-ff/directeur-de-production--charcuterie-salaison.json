@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Lean manufacturing et réduction des rebuts sur lignes de lardons et jambons",
+  "duree": "8 mois",
+  "region": "Pays de la Loire",
+  "taille": "727 personnes",
+  "niveau": "Performance",
+  "tension": "Efficience",
+  "contexte": "Site de charcuterie cuite (34 000 t/an lardons et jambon) avec 727 personnes. Rebuts de tranchage à 3,8% et surpoids systématique sur les barquettes (+6g). Aucune démarche 5S ni Kaizen formalisée. Conducteurs de ligne non impliqués dans le suivi des pertes. TRS lignes de conditionnement à 65%.",
+  "resultat": "Rebuts tranchage ramenés à 1,4%. Surpoids maîtrisé à +1,8g. 5S déployé sur les 4 ateliers. 5 chantiers Kaizen pilotés avec les équipes terrain. TRS conditionnement porté à 76%. Économie matière de 320k€/an.",
+  "filiere": "Charcuterie & salaison",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Ordonnancement multi-sites et taux de service en charcuterie sèche",
+  "duree": "9 mois",
+  "region": "Rhône-Alpes",
+  "taille": "1 300 personnes (4 sites)",
+  "niveau": "Cohérence",
+  "tension": "Commerce",
+  "contexte": "Groupe leader en saucisson sec et charcuterie sèche avec 4 usines. Taux de service GMS tombé à 85% sur les références phares. Ordonnancement des OF non coordonné entre les sites. Séquencement des OF non optimisé, nombreux changements de recette évitables. Conducteurs de ligne et chefs d'équipe en silo par site, aucun standard commun.",
+  "resultat": "Taux de service porté à 96%. Ordonnancement centralisé inter-sites déployé. Réduction de 25% des changements de recette par regroupement des OF. Standards de pilotage communs déployés sur les 4 sites. 16 chefs d'équipe alignés sur les rituels groupe.",
+  "filiere": "Charcuterie & salaison",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Flexibilité des lignes et gestion des petites séries en charcuterie cuite",
+  "duree": "7 mois",
+  "region": "Vendée",
+  "taille": "3 500 personnes (8 ateliers Vendée)",
+  "niveau": "Performance",
+  "tension": "Industriel",
+  "contexte": "Site historique de charcuterie cuite et plats élaborés (3 500 salariés Vendée). Multiplication des petites séries MDD et marques propres : 120 références actives. Temps de changement de format à 48 min sur les lignes de tranchage-conditionnement. Perte de rendement matière de 2,5 points sur les séries courtes. SMED non déployé.",
+  "resultat": "SMED déployé sur 8 lignes principales : temps de changement ramené à 22 min. Rendement matière séries courtes amélioré de 2,1 points. TRS global lignes de conditionnement porté de 64% à 75%. Gain de capacité équivalent à 1 ligne supplémentaire.",
+  "filiere": "Charcuterie & salaison",
+  "badgeIsomorphe": false
+ }
+]

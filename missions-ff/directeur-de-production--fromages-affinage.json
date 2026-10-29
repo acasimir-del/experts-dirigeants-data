@@ -1,0 +1,15 @@
+[
+ {
+  "ordre": 2,
+  "titre": "Flexibilité formats et SMED sur lignes de fromage à la coupe",
+  "duree": "7 mois",
+  "region": "Normandie",
+  "taille": "320 personnes • AOP",
+  "niveau": "Cohérence",
+  "tension": "Industriel",
+  "contexte": "Fromagerie AOP de 320 personnes, 6 lignes de tranchage-conditionnement. Gamme passée de 35 à 85 références en 3 ans sous pression MDD. Changements de format à 55 minutes en moyenne, non standardisés. Conducteurs en 2×8 avec extension fréquente en 3×8 pour absorber les volumes. Rendement matière fromage à 94% avec des pertes au tranchage sur les formats fins.",
+  "resultat": "Temps de changement moyen ramené à 28 minutes par chantiers SMED sur 4 lignes. Rendement matière porté à 96,8%. Capacité récupérée équivalente à 1 poste supplémentaire sans investissement. Standards de réglage déployés pour les 12 formats principaux.",
+  "filiere": "Fromages & affinage",
+  "badgeIsomorphe": false
+ }
+]

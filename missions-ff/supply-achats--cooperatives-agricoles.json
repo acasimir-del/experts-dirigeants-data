@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Pilotage de la campagne de collecte et commercialisation après départ du directeur supply",
+  "duree": "6 mois",
+  "region": "Grand Est",
+  "taille": "500 collaborateurs",
+  "niveau": "Existence",
+  "tension": "Commerce",
+  "contexte": "Départ du directeur supply en juin, un mois avant la moisson. Engagements de vente à terme de 150 000 tonnes de blé auprès de 8 clients meuniers. Capacité de stockage saturée à 85 % avant même le début de la collecte. Aucune couverture de risque prix formalisée sur Euronext.",
+  "resultat": "Campagne de collecte de 180 000 tonnes gérée sans rupture. Engagements clients honorés à 100 %. Stratégie de couverture Euronext mise en place avec gain de 620 K€. Saturation stockage résolue par transferts inter-sites.",
+  "filiere": "Coopératives agricoles",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Rationalisation des achats agrofourniture et négociation fournisseurs groupée",
+  "duree": "8 mois",
+  "region": "Bretagne",
+  "taille": "220 collaborateurs",
+  "niveau": "Performance",
+  "tension": "Commerce",
+  "contexte": "Coopérative approvisionnant 4 500 adhérents en semences, engrais et phytosanitaires. Achats dispersés entre 35 fournisseurs sans contrat-cadre. Marges négatives sur certaines familles de produits. Pas de plateforme logistique centralisée.",
+  "resultat": "Panel fournisseurs réduit de 35 à 12 avec contrats-cadres annuels. Marge brute agrofourniture améliorée de 3,2 points. Plateforme logistique opérationnelle réduisant les coûts de livraison de 18 %. Taux de satisfaction adhérents porté de 65 % à 82 %.",
+  "filiere": "Coopératives agricoles",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Mise en place d'un outil de gestion des risques matières premières agricoles",
+  "duree": "5 mois",
+  "region": "Centre-Val de Loire",
+  "taille": "130 collaborateurs",
+  "niveau": "Cohérence",
+  "tension": "Finance",
+  "contexte": "Coopérative exposee à la volatilité des cours céréaliers sans outil de couverture structuré. Perte de 2,8 M€ sur la campagne précédente suite à un retournement de marché. Conseil d'administration exigeant un cadre de gestion du risque prix.",
+  "resultat": "Politique de couverture formalisée et validée par le CA. Outil de suivi des positions déployé. Formation de 8 collaborateurs aux mécanismes de marché à terme. Exposition au risque prix réduite de 70 %.",
+  "filiere": "Coopératives agricoles",
+  "badgeIsomorphe": false
+ }
+]

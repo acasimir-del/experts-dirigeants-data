@@ -1,0 +1,28 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Construction du reporting de performance industrielle et analyse des rendements matière en conserverie légumière",
+  "duree": "8 mois",
+  "region": "Hauts-de-France",
+  "taille": "2 800 personnes",
+  "niveau": "Performance",
+  "tension": "Finance",
+  "contexte": "Un conserveur de légumes exploitant 4 sites fait face à des écarts de rendement matière inexplicables entre ses usines. Les coûts de production ne sont pas suivis par ligne et le PRI n'intègre pas les pertes en amont de la mise en boîte. Un contrôleur de gestion industriel de transition est missionné pour structurer le pilotage économique.",
+  "resultat": "PRI recalculé avec intégration des pertes matière de la réception au conditionnement. Écarts de rendement réduits de 8 % grâce au benchmarking inter-sites. Reporting mensuel de marge brute par référence déployé. Budget de production 2027 construit sur des standards actualisés.",
+  "filiere": "Conserverie",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 4,
+  "titre": "Médiation CSE et prévention des conflits lors de l'introduction du travail de nuit en conserverie",
+  "duree": "6 mois",
+  "region": "Morbihan",
+  "taille": "220 personnes",
+  "niveau": "Existence",
+  "tension": "RH",
+  "contexte": "Une conserverie de produits de la mer doit introduire le travail de nuit en haute saison pour honorer les commandes export. Le CSE refuse le projet, invoquant des conditions de travail dégradées et un manque de contreparties. Deux préavis de grève ont été déposés. Un DRH de site de transition est missionné pour dénouer la crise sociale.",
+  "resultat": "Accord d'entreprise sur le travail de nuit saisonnier signé avec majoration de 30 % et repos compensateur. Préavis retirés. Commission de suivi paritaire mise en place. Absentéisme en période de nuit contenu à 4,5 % contre 12 % estimé.",
+  "filiere": "Conserverie",
+  "badgeIsomorphe": false
+ }
+]

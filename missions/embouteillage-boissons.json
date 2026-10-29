@@ -1,0 +1,44 @@
+[
+ {
+  "ordre": 1,
+  "fonction": "Directeur d'usine",
+  "secteur": "Brasserie · bière & boissons gazeuses",
+  "titre": "Redressement d'une brasserie cédée par un groupe sortant",
+  "duree": "12 mois",
+  "contexte": "Reprise d'un site vétuste cédé par un brasseur international : équipes démobilisées, savoir-faire parti avec les sortants, qualité produit hors standards du groupe repreneur.",
+  "resultat": "Qualité remise aux standards groupe en 12 mois, +10 % de volumes, encadrement reconstitué.",
+  "objectifs": [
+   "Réengager les équipes et restaurer l'encadrement technique",
+   "Remettre la qualité produit aux standards du groupe",
+   "Sécuriser volumes et approvisionnements importés (malt, CO2, capsules)"
+  ]
+ },
+ {
+  "ordre": 2,
+  "fonction": "Directeur de production",
+  "secteur": "Embouteillage · ligne de conditionnement",
+  "titre": "Réception et montée en cadence d'une ligne neuve",
+  "duree": "8 mois",
+  "contexte": "Ligne de conditionnement neuve réceptionnée mais sous-performante : TRS bas, réserves constructeur non levées, équipe locale en montée en compétence sur une remplisseuse récente.",
+  "resultat": "+20 % de TRS en 8 mois, réserves levées, équipe de conduite autonome.",
+  "objectifs": [
+   "Lever les réserves de réception et fiabiliser la ligne",
+   "Structurer la maintenance et le pilotage du TRS",
+   "Transférer la conduite autonome aux équipes locales"
+  ]
+ },
+ {
+  "ordre": 3,
+  "fonction": "Directeur qualité",
+  "secteur": "Brasserie · bières sous licence",
+  "titre": "Redressement qualité sous menace de licence internationale",
+  "duree": "9 mois",
+  "contexte": "Indice qualité dégradé menaçant le maintien des licences internationales et des certifications ; traitement des eaux et CIP à reprendre, audit de revalidation à préparer.",
+  "resultat": "Indice qualité porté de 50 % à 80 %, licences revalidées, certifications maintenues.",
+  "objectifs": [
+   "Remonter l'indice qualité aux exigences du donneur de licence",
+   "Reprendre le traitement des eaux process et les CIP",
+   "Préparer et réussir l'audit de revalidation"
+  ]
+ }
+]

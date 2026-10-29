@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Structuration du PRI et pilotage des écarts de coûts matières sur réseau d'usines d'aliments composés",
+  "duree": "9 mois",
+  "region": "Bretagne",
+  "taille": "1 200 personnes",
+  "niveau": "Cohérence",
+  "tension": "Finance",
+  "contexte": "Un groupe coopératif de nutrition animale exploitant 28 usines constate des écarts de marge significatifs entre sites sur des formulations identiques. Les prix de revient industriels ne reflètent pas les coûts réels de formulation et les variances matières ne sont pas analysées. Un contrôleur de gestion industriel de transition est missionné.",
+  "resultat": "PRI recalculé intégrant la volatilité des cours céréales et tourteaux. Reporting mensuel des écarts de formulation déployé sur 28 sites. Économies de 2,3 M€ identifiées par optimisation des formules et benchmarking inter-usines. Budget de production aligné sur les standards groupe.",
+  "filiere": "Amont animal",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Clôtures comptables et consolidation post-acquisition dans un groupe d'aliments pour élevage",
+  "duree": "7 mois",
+  "region": "Auvergne-Rhône-Alpes",
+  "taille": "520 personnes",
+  "niveau": "Cohérence",
+  "tension": "Gouvernance",
+  "contexte": "Une coopérative de nutrition animale ayant racheté les activités d'un concurrent régional doit intégrer comptablement 4 nouvelles entités. Les méthodes d'amortissement diffèrent, les provisions pour risques environnementaux ne sont pas provisionnées et les clôtures accusent 20 jours de retard.",
+  "resultat": "Clôtures mensuelles ramenées à J+10 sur le périmètre élargi. Méthodes d'amortissement harmonisées sur les silos et équipements de broyage-mélange. Provisions environnementales constituées (1,8 M€). Liasse fiscale consolidée certifiée sans réserve.",
+  "filiere": "Amont animal",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Pilotage de trésorerie et gestion du risque matières premières en nutrition animale",
+  "duree": "8 mois",
+  "region": "Côtes-d'Armor",
+  "taille": "350 personnes",
+  "niveau": "Existence",
+  "tension": "Finance",
+  "contexte": "Une coopérative de nutrition animale doit gérer une volatilité extrême des cours des céréales et tourteaux de soja qui représentent 70 % de ses coûts de production. Le BFR explose en période de hausse des cours, les couvertures matières sont insuffisantes et les relations bancaires se tendent. Un directeur financier de transition est missionné.",
+  "resultat": "Politique de couverture matières formalisée (70 % des achats à 3-6 mois). BFR réduit de 25 jours par renégociation des délais fournisseurs et clients éleveurs. Ligne de crédit de campagne de 8 M€ obtenue. Prévisions de trésorerie à 13 semaines intégrant les positions matières.",
+  "filiere": "Amont animal",
+  "badgeIsomorphe": false
+ }
+]

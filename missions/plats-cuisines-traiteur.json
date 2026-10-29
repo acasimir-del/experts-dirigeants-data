@@ -1,0 +1,92 @@
+[
+ {
+  "ordre": 1,
+  "fonction": "Directeur d'usine",
+  "secteur": "Traiteur frais",
+  "titre": "Interim DU pendant lancement gamme traiteur frais",
+  "duree": "7 mois",
+  "contexte": "Départ du DU en plein lancement d'une gamme traiteur frais pour un distributeur majeur. 45 nouvelles recettes à industrialiser en 4 mois. Site gérant déjà 180 SKU avec un TRS moyen de 62 %. Le client menace de transférer le contrat à un concurrent polonais.",
+  "resultat": "45 recettes industrialisées en 14 semaines. TRS moyen remonté à 74 %. Contrat distributeur sécurisé pour 3 ans (+18 % de volume). Mise en place d'un processus d'industrialisation standardisé réduisant le time-to-market de 40 %.",
+  "objectifs": []
+ },
+ {
+  "ordre": 2,
+  "fonction": "Directeur de maintenance",
+  "secteur": "Plats cuisinés MDD",
+  "titre": "Modernisation lignes conditionnement plats MDD",
+  "duree": "8 mois",
+  "contexte": "Parc machines vieillissant (âge moyen 18 ans), taux de panne à 12 % sur les operculeruses. CAPEX de 5 M€ validé pour moderniser 3 lignes de conditionnement mais le directeur de maintenance parti sans plan de déploiement. 200+ SKU à gérer pendant les travaux sans arrêt de production.",
+  "resultat": "3 lignes modernisées en 7 mois avec zéro arrêt de livraison client. Taux de panne ramené de 12 % à 3,5 %. Cadence augmentée de 25 % sur les barquettes operculées. Plan de maintenance préventive déployé sur l'ensemble du parc.",
+  "objectifs": []
+ },
+ {
+  "ordre": 3,
+  "fonction": "DAF",
+  "secteur": "Plats surgelés",
+  "titre": "Intégration post-rachat site plats surgelés",
+  "duree": "6 mois",
+  "contexte": "Intégration financière d'un site de plats surgelés racheté à un groupe en restructuration. Aucun ERP compatible, comptabilité analytique inexistante, 3 systèmes de paie différents. Le groupe acquéreur exige un reporting IFRS mensuel sous 60 jours.",
+  "resultat": "Reporting IFRS opérationnel en 52 jours. Comptabilité analytique par ligne de produit déployée, révélant 2 gammes à marge négative (-400 K€/an). Migration paie unifiée en 4 mois. Budget N+1 livré avec 3 scénarios de rationalisation.",
+  "objectifs": []
+ },
+ {
+  "ordre": 4,
+  "fonction": "Directeur qualité",
+  "secteur": "Salades composées",
+  "titre": "Sécurisation qualité salades composées pic été",
+  "duree": "5 mois",
+  "contexte": "Alerte Listeria sur une référence salade composée, rappel de lots, audit DDPP défavorable. Le directeur qualité licencié. Pic estival à 3 semaines avec doublement des volumes. Le distributeur conditionne le maintien du référencement à un audit de réhabilitation sous 8 semaines.",
+  "resultat": "Audit de réhabilitation passé en 6 semaines. Zéro non-conformité critique sur les 4 audits clients suivants. Plan de maîtrise sanitaire intégralement refondu. Pic estival géré à 100 % de capacité sans incident.",
+  "objectifs": []
+ },
+ {
+  "ordre": 4,
+  "fonction": "Finance & RH",
+  "secteur": "",
+  "titre": "Gestion de crise sociale et médiation IRP lors du passage en équipes de week-end sur site traiteur",
+  "duree": "9 mois",
+  "contexte": "Site de production de pizzas et quiches surgelées devant passer en équipes de week-end pour répondre à un appel d'offres MDD majeur. Le CSE refuse l'accord, deux sections syndicales menacent d'un préavis de grève et l'inspection du travail a été saisie sur les conditions de travail.",
+  "resultat": "Accord d'aménagement du temps de travail signé à majorité, prime de week-end négociée, saisine inspection classée sans suite, appel d'offres MDD remporté représentant 12 M€ de CA additionnel.",
+  "objectifs": []
+ },
+ {
+  "ordre": 4,
+  "fonction": "Directeur d'usine",
+  "secteur": "",
+  "titre": "Pilotage montée en cadence nouvelle usine",
+  "duree": "9 mois",
+  "contexte": "Investissement de 48 M€ pour doubler la capacité pâtes farcies. Changement de gouvernance simultané. Besoin d'un profil expérimenté pour assurer la montée en cadence sans dégrader la qualité produit.",
+  "resultat": "Capacité portée à 15 000 t/an. Qualification IFS réussie. Taux de rebut maintenu sous 2%.",
+  "objectifs": []
+ },
+ {
+  "ordre": 5,
+  "fonction": "DRH",
+  "secteur": "Traiteur frais",
+  "titre": "Plan de transformation RH site traiteur multi-sites",
+  "duree": "9 mois",
+  "contexte": "Turnover à 28 % sur les opérateurs, 45 intérimaires permanents sur 3 ateliers. Difficulté de recrutement dans un bassin d'emploi tendu. Convention collective obsolète, grille salariale non compétitive. Le DRH site parti, les managers de proximité gèrent seuls l'absentéisme quotidien.",
+  "resultat": "Turnover ramené à 14 % en 7 mois. Nombre d'intérimaires réduit de 45 à 12 via CDIsation et parcours d'intégration. Nouvelle grille salariale négociée avec les partenaires sociaux. Taux d'absentéisme passé de 11 % à 6,5 %.",
+  "objectifs": []
+ },
+ {
+  "ordre": 5,
+  "fonction": "Finance & RH",
+  "secteur": "",
+  "titre": "Structuration RH et réduction du turnover sur site de conserverie artisanale en croissance",
+  "duree": "10 mois",
+  "contexte": "Conserveur de plats cuisinés du Sud-Ouest en forte croissance après un rebranding réussi. Le turnover atteint 22% en production, l'intérim représente 40% de l'effectif en saison et la politique de formation est inexistante. L'attractivité du bassin d'emploi rural est faible.",
+  "resultat": "Turnover ramené à 11%, plan de formation déployé pour 85 salariés, marque employeur lancée avec partenariat école hôtelière locale, CDIsation de 15 intérimaires.",
+  "objectifs": []
+ },
+ {
+  "ordre": 5,
+  "fonction": "Directeur d'usine",
+  "secteur": "",
+  "titre": "Restructuration industrielle post-LBO",
+  "duree": "8 mois",
+  "contexte": "LBO récent, exigence de synergies rapides sur 7 sites. Digitalisation en cours, nouveau centre R&D à intégrer. DU dépassé par la multiplicité des chantiers.",
+  "resultat": "Plan de synergies de 2,1 M€ déployé. Digitalisation de 2 sites pilotes achevée. Reporting groupe opérationnel.",
+  "objectifs": []
+ }
+]

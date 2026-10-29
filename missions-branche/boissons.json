@@ -1,0 +1,62 @@
+[
+ {
+  "ordre": 1,
+  "fonction": "Directeur qualité",
+  "secteur": "",
+  "titre": "Gestion de crise rappel produit après contamination ligne aseptique",
+  "duree": "5 mois",
+  "contexte": "Détection de Pseudomonas sur une ligne de conditionnement aseptique jus de fruits. Rappel de 3 lots déclenché par la DGCCRF. Certification IFS suspendue. Le directeur qualité en poste a démissionné sous la pression. Besoin d'un profil food safety senior capable de piloter la crise, restaurer la confiance des clients MDD et préparer le ré-audit IFS.",
+  "resultat": "Root cause analysis identifiée en 10 jours (joint CIP défaillant). Plan HACCP révisé, 14 CCP requalifiés. Ré-audit IFS Higher Level réussi à 97,2%. Aucun déréférencement client. Plan de surveillance microbiologique renforcé déployé sur 5 lignes.",
+  "objectifs": []
+ },
+ {
+  "ordre": 2,
+  "fonction": "Supply & Achats",
+  "secteur": "",
+  "titre": "Sécurisation sourcing concentrés et couverture prix matières premières",
+  "duree": "6 mois",
+  "contexte": "Embouteilleur eaux et boissons aromatisées (2 000 salariés, 20 sources). Volatilité des cours du sucre et du PET (+35% en 18 mois). Panel fournisseurs trop concentré : 80% du volume sur 2 fournisseurs sucre. Aucune couverture prix en place. Cahier des charges matières premières non formalisé, écarts de qualité récurrents sur arômes.",
+  "resultat": "Stratégie multi-sourcing déployée : panel élargi à 5 fournisseurs sucre avec contrats annuels indexés. Couverture prix mise en place sur 60% des volumes PET (économie 800 K€ vs spot). Cahier des charges matières premières formalisé et audits fournisseurs trimestriels instaurés. Taux de non-conformité matières ramené de 8% à 1,5%.",
+  "objectifs": []
+ },
+ {
+  "ordre": 2,
+  "fonction": "Directeur de production",
+  "secteur": "",
+  "titre": "Amélioration des rendements matière en salle de brassage",
+  "duree": "6 mois",
+  "contexte": "Site brassicole produisant 2,5 Mhl/an avec un rendement matière en recul de 3 points sur 18 mois. Pertes identifiées en drêches humides, en fond de cuve et au soutirage. Conducteurs de ligne peu impliqués dans le suivi des indicateurs process. Pas de rituels Kaizen en place.",
+  "resultat": "Rendement matière regagné de 2,8 points en 5 mois. Standards de conduite de brassage rédigés pour 12 recettes principales. Rituels quotidiens de 15 min instaurés avec les conducteurs. Tableau de bord TRS/rendement affiché en salle de brassage.",
+  "objectifs": []
+ },
+ {
+  "ordre": 3,
+  "fonction": "Finance & RH",
+  "secteur": "",
+  "titre": "Optimisation du BFR et renégociation des conditions bancaires en contexte de forte saisonnalité",
+  "duree": "7 mois",
+  "contexte": "Brasserie familiale dont le BFR explose chaque été avec un DSO supérieur à 75 jours en CHR. La trésorerie est sous tension permanente entre achats de malt en campagne et pics de vente estivaux. Le dirigeant fondateur de 81 ans prépare la transmission.",
+  "resultat": "DSO ramené à 52 jours, mise en place d'un programme d'affacturage couvrant 60% du poste clients CHR, économie annuelle de 180 K€ sur les frais financiers.",
+  "objectifs": []
+ },
+ {
+  "ordre": 3,
+  "fonction": "Directeur de maintenance",
+  "secteur": "",
+  "titre": "Pilotage travaux neufs nouvelle plateforme logistique et transfert de ligne",
+  "duree": "12 mois",
+  "contexte": "Restructuration industrielle de 170M€ avec fermeture d'un site et transfert des volumes sur le site principal. Budget CAPEX de 60M€ pour une plateforme logistique automatisée. Cahiers des charges équipementiers à finaliser, réception provisoire à piloter.",
+  "resultat": "Plateforme logistique réceptionnée dans les délais et le budget. Transfert de ligne achevé sans rupture client. Réception provisoire validée avec 97% de conformité. Budget CAPEX tenu à +2%.",
+  "objectifs": []
+ },
+ {
+  "ordre": 5,
+  "fonction": "Directeur d'usine",
+  "secteur": "",
+  "titre": "Interim DU pendant crise sociale",
+  "duree": "5 mois",
+  "contexte": "Mouvement social suite à annonce de réorganisation. DU mis en retrait par la direction générale. Site familial de 200 salariés, saison estivale à 6 semaines.",
+  "resultat": "Dialogue social restauré en 3 semaines. Saison estivale assurée sans rupture. Accord de méthode signé.",
+  "objectifs": []
+ }
+]

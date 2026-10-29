@@ -1,0 +1,28 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Optimisation TRS et réduction des micro-arrêts sur lignes de conditionnement lait UHT",
+  "duree": "6 mois",
+  "region": "Alsace",
+  "taille": "280 personnes • Coopérative",
+  "niveau": "Performance",
+  "tension": "Efficience",
+  "contexte": "Laiterie coopérative de 280 personnes, 4 lignes de conditionnement lait UHT en 3×8. TRS plafonné à 52% avec des micro-arrêts récurrents sur les remplisseuses aseptiques. Conducteurs sans formation au diagnostic de premier niveau. Aucun suivi structuré des causes d'arrêts. Pression du taux de service à 98% imposé par les enseignes MDD.",
+  "resultat": "TRS porté à 69% sur les 4 lignes UHT. Arbre des causes micro-arrêts déployé avec Pareto hebdomadaire. 16 conducteurs formés au diagnostic niveau 1. Taux de service maintenu à 98,2% malgré une hausse de volume de 12%.",
+  "filiere": "Lait & ingrédients laitiers",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 1,
+  "titre": "Réorganisation ordonnancement collecte et conditionnement lait UHT",
+  "duree": "6 mois",
+  "region": "Pays de la Loire",
+  "taille": "344 personnes",
+  "niveau": "Performance",
+  "tension": "Efficience",
+  "contexte": "Laiterie coopérative de 344 personnes traitant 620 000 litres/jour. Ordonnancement des OF calé sur les arrivages lait sans lissage de charge. Conducteurs en 3×8 subissant des pics/creux de production non anticipés. Taux de service MDD en dessous de 94%.",
+  "resultat": "Taux de service porté à 98,1%. Planification lissée sur J+3 avec intégration des arrivages prévisionnels. Réduction de 25% des heures supplémentaires non planifiées. Standards de conduite déployés sur les 3 lignes UHT.",
+  "filiere": "Lait & ingrédients laitiers",
+  "badgeIsomorphe": false
+ }
+]

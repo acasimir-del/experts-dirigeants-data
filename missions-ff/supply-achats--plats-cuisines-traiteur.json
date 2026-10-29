@@ -1,0 +1,15 @@
+[
+ {
+  "ordre": 3,
+  "titre": "Pilotage des approvisionnements et réduction des ruptures de composants sur 19 sites de production",
+  "duree": "8 mois",
+  "region": "Pays de la Loire",
+  "taille": "~1 400 personnes",
+  "niveau": "Transformation",
+  "tension": "Gouvernance",
+  "contexte": "Groupe de plats cuisinés frais et traiteur en forte croissance externe avec 1 400 salariés répartis sur 19 sites. Systèmes d'approvisionnement hétérogènes hérités des rachats successifs (5 ERP différents, pas de référentiel articles commun). Ruptures de composants d'emballage touchant 12% des OF sur les sites récemment intégrés. Pas de direction supply groupe : chaque site gère ses approvisionnements en autonomie. Investissements de 55 M€ en cours nécessitant une coordination accrue des flux matières.",
+  "resultat": "Direction supply groupe créée avec 1 directeur et 3 coordinateurs approvisionnements. Référentiel articles commun déployé sur les 8 sites prioritaires. Plateforme de consolidation des besoins emballages mise en place avec 3 appels d'offres groupe (économie de 380 K€). Taux de rupture composants ramené à 3% sur les sites intégrés. Processus de revue hebdomadaire des approvisionnements inter-sites instauré.",
+  "filiere": "Plats cuisinés & traiteur",
+  "badgeIsomorphe": false
+ }
+]

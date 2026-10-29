@@ -1,0 +1,62 @@
+[
+ {
+  "ordre": 1,
+  "fonction": "Directeur d'usine",
+  "secteur": "Sauces condimentaires",
+  "titre": "Directeur d'usine — Redressement usine sauces condimentaires après rejet audit distributeur",
+  "duree": "9 mois",
+  "contexte": "Usine sauces condimentaires 160 pers., échec audit Walmart (score D). Perte imminente du contrat export US (18 % du CA). Non-conformités sur HACCP, gestion allergènes et traçabilité. Directeur précédent parti sans transition. Reprise en main immédiate : diagnostic 360° en 2 semaines. Refonte HACCP avec focus allergènes (moutarde, céleri, soja). Investissement 400 K€ en séparation physique lignes allergènes. Retraçabilité digitale lot par lot. Préparation re-audit Walmart à 6 mois.",
+  "resultat": "Re-audit Walmart passé score B+ à 6 mois. Contrat US maintenu et étendu (+2 références). Zéro alerte allergène sur 12 mois. Score IFS remonté de 85 à 96 %.",
+  "objectifs": []
+ },
+ {
+  "ordre": 2,
+  "fonction": "Directeur de production",
+  "secteur": "Moutarde & vinaigre",
+  "titre": "Directeur de production — Modernisation ligne moutarde et optimisation multi-recettes vinaigre",
+  "duree": "10 mois",
+  "contexte": "Moutarderie-vinaigrie historique 110 pers., équipements broyage graines datant de 1985. Rendement extraction moutarde 78 % (benchmark 89 %). 40 références vinaigre sur 2 lignes conditionnement, changements longs (45 min). Remplacement broyeur trilaminaire par technologie colloïdale. Automatisation dosage épices moutarde. Réduction changements vinaigre par séquençage optimisé (clair → coloré). Formation 15 opérateurs nouvelles technologies.",
+  "resultat": "Rendement extraction moutarde porté à 88 %. Temps changement vinaigre réduit à 18 min (–60 %). OEE conditionnement +15 pts. Gain matière première graines 240 K€/an.",
+  "objectifs": []
+ },
+ {
+  "ordre": 3,
+  "fonction": "Directeur qualité",
+  "secteur": "Ketchup & mayonnaise",
+  "titre": "Directeur qualité — Certification FSSC 22000 et clean label site ketchup & mayonnaise",
+  "duree": "12 mois",
+  "contexte": "Usine ketchup/mayo 140 pers., perte de 3 appels d'offres GMS sur critère certification (FSSC 22000 exigée). Formulations contenant 12 additifs E-xxx, tendance clean label imposée par marché. Laboratoire interne sous-dimensionné. Projet certification FSSC 22000 sur 10 mois. Reformulation 18 recettes en clean label (remplacement amidon modifié, colorants, conservateurs). Renforcement labo (1 technicien + spectromètre). Mise en place food fraud vulnerability assessment.",
+  "resultat": "FSSC 22000 obtenue au 1er audit. 18 recettes clean label validées, 0 perte organoleptique. 2 appels d'offres GMS remportés (+1,2 M€ CA). Food fraud plan opérationnel.",
+  "objectifs": []
+ },
+ {
+  "ordre": 4,
+  "fonction": "DAF",
+  "secteur": "Sauces chaudes & froides",
+  "titre": "DAF — Pilotage marge et pricing dynamique sauces chaudes & froides multi-circuits",
+  "duree": "8 mois",
+  "contexte": "ETI sauces chaudes & froides 190 pers., 3 circuits (GMS, RHF, export) avec pricing incohérent. Marge nette 1,2 % toutes activités confondues, certains circuits subventionnant les autres. Aucune comptabilité analytique par circuit. Mise en place comptabilité analytique par circuit et par famille produit. Révélation : RHF à marge négative (–4 %), export à +8 %. Restructuration pricing RHF (+12 % moyen). Arrêt 6 références RHF non rentables. Négociation conditions export améliorées.",
+  "resultat": "Marge nette globale portée à 4,6 %. RHF redevenu rentable (+1,5 %). CA export +15 % avec marge préservée. Tableaux de bord mensuels par circuit opérationnels.",
+  "objectifs": []
+ },
+ {
+  "ordre": 5,
+  "fonction": "Supply & Achats",
+  "secteur": "Moutarde & vinaigre",
+  "titre": "Supply & Achats — Sécurisation approvisionnement graines moutarde et vinaigre d'alcool",
+  "duree": "6 mois",
+  "contexte": "Moutarderie 130 pers., crise approvisionnement graines moutarde brune (sécheresse Canada, –40 % récolte mondiale). Stock résiduel 3 semaines. Vinaigre d'alcool en mono-source. Risque d'arrêt production sous 45 jours. Sourcing d'urgence graines moutarde : Ukraine, Inde, France (Beauce). Qualification accélérée nouvelles origines (tests organoleptiques). Contrats pluriannuels avec 2 fournisseurs français. Diversification vinaigre d'alcool (3 fournisseurs). Constitution stock stratégique 8 semaines.",
+  "resultat": "Zéro arrêt de production. Panel fournisseurs graines passé de 2 à 5 origines. Stock stratégique constitué en 3 mois. Coût achat graines maîtrisé à +8 % vs +35 % marché spot.",
+  "objectifs": []
+ },
+ {
+  "ordre": 6,
+  "fonction": "DRH",
+  "secteur": "Sauces condimentaires",
+  "titre": "DRH — Accompagnement social rachat site sauces par fonds d'investissement",
+  "duree": "10 mois",
+  "contexte": "Usine sauces 175 pers., rachat par fonds PE avec plan de création de valeur agressif. Climat social anxiogène, rumeurs de fermeture. CSE bloquant toute initiative, 2 délégués syndicaux en opposition frontale. Management intermédiaire attentiste. Diagnostic social express (entretiens individuels 40 cadres + opérateurs). Communication transparente du projet industriel. Négociation accord de méthode avec CSE. Plan de rétention managers clés (bonus + projet). Coaching management intermédiaire (8 sessions collectives).",
+  "resultat": "Accord de méthode signé en 6 semaines. Zéro départ non souhaité parmi managers clés. Climat social stabilisé (baromètre interne +18 pts). CSE devenu force de proposition sur 2 projets.",
+  "objectifs": []
+ }
+]

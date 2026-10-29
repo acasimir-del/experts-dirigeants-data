@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 1,
+  "titre": "à archiver - Interim DU pendant recrutement CDI",
+  "duree": "6 mois",
+  "region": "Nord",
+  "taille": "435",
+  "niveau": "Existence",
+  "tension": "Gouvernance",
+  "contexte": "DU parti à la concurrence avec préavis de 15 jours. Site de 4 lignes de production en feu continu, 280 collaborateurs.",
+  "resultat": "Taux de service maintenu à 97,5%. Recrutement CDI accompagné et passation réalisée.",
+  "filiere": "Boulangerie & pâtisserie",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Redressement performance post-audit client",
+  "duree": "8 mois",
+  "region": "Île-de-France",
+  "taille": "200",
+  "niveau": "Performance",
+  "tension": "Légitimité ext.",
+  "contexte": "Audit Monoprix négatif sur traçabilité et taux de conformité. Menace de déréférencement à 3 mois.",
+  "resultat": "Conformité portée à 99,1%. Contrat client renouvelé et étendu.",
+  "filiere": "Boulangerie & pâtisserie",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "à archiver - Pilotage ouverture de ligne supplémentaire",
+  "duree": "7 mois",
+  "region": "Alsace",
+  "taille": "500",
+  "niveau": "Transformation",
+  "tension": "Industriel",
+  "contexte": "Investissement CAPEX validé mais DU en surcharge. Besoin d'un profil expérimenté pour piloter le démarrage sans déstabiliser l'existant.",
+  "resultat": "Ligne opérationnelle en J+90. Cadence nominale atteinte en J+130.",
+  "filiere": "Boulangerie & pâtisserie",
+  "badgeIsomorphe": false
+ }
+]

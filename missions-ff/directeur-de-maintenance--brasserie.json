@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Fiabilisation des lignes de conditionnement et plan GMAO",
+  "duree": "7 mois",
+  "region": "Hauts-de-France",
+  "taille": "~800 personnes groupe",
+  "niveau": "Cohérence",
+  "tension": "Industriel",
+  "contexte": "TRS des lignes bouteilles et canettes à 58%, pannes récurrentes sur les remplisseuses Krones. GMAO obsolète (fichiers Excel), pas de plan de maintenance préventive structuré. Succession du dirigeant en vue, besoin de fiabiliser l'outil avant transmission.",
+  "resultat": "TRS remonté à 74%. GMAO Carl Source déployée sur les 2 sites. Plan de maintenance préventive calé sur 420 équipements critiques. Temps d'arrêt non planifiés réduits de 35%.",
+  "filiere": "Brasserie",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Déploiement TPM sur site en montée en capacité",
+  "duree": "9 mois",
+  "region": "Nord",
+  "taille": "~320 personnes",
+  "niveau": "Transformation",
+  "tension": "RH",
+  "contexte": "Doublement de capacité prévu suite à fermeture d'un autre site du groupe. Transfert de production en cours avec des équipements hétérogènes. Equipes maintenance non formées à la maintenance autonome. Climat social tendu après annonce de restructuration.",
+  "resultat": "3 piliers TPM déployés (maintenance autonome, amélioration ciblée, formation). Taux de micro-arrêts divisé par 2. Opérateurs formés aux routines de premier niveau sur les 4 lignes transférées.",
+  "filiere": "Brasserie",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Pilotage du programme CAPEX modernisation brasserie",
+  "duree": "8 mois",
+  "region": "Alsace",
+  "taille": "~200 personnes",
+  "niveau": "Performance",
+  "tension": "Finance",
+  "contexte": "Brasserie familiale centenaire avec des équipements vieillissants. Budget CAPEX de 12 M€ validé pour rénover la salle de brassage et moderniser le conditionnement. Pas de bureau d'études interne, cahiers des charges à rédiger en coordination avec les fournisseurs Krones et Alfa Laval.",
+  "resultat": "Cahiers des charges rédigés et validés pour 3 lots majeurs. Consultation menée, contrats signés. Démarrage travaux piloté sans arrêt de production. Budget respecté à 97%.",
+  "filiere": "Brasserie",
+  "badgeIsomorphe": false
+ }
+]

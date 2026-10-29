@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Déploiement S&OP et optimisation des stocks matières premières en nutrition animale",
+  "duree": "9 mois",
+  "region": "Bretagne",
+  "taille": "850 personnes • 4 usines",
+  "niveau": "Performance",
+  "tension": "Efficience",
+  "contexte": "Coopérative de nutrition animale de 850 personnes avec 4 usines produisant des aliments composés bio et conventionnels. Investissement récent de 16,6 M€ sur un nouveau site. Pas de S&OP formalisé : chaque usine planifie indépendamment ses approvisionnements en céréales et tourteaux. Stocks matières premières à 25 jours en moyenne avec des écarts de 15 à 40 jours selon les sites. Coût de portage estimé à 800 k€/an. Aucune coordination des achats spot entre sites.",
+  "resultat": "S&OP mensuel déployé avec consolidation des besoins des 4 sites. Stocks matières premières harmonisés à 16 jours en moyenne. Achats spot centralisés avec gain de 5% sur les conditions. Coût de portage réduit de 45%. Intégration du nouveau site dans le processus.",
+  "filiere": "Amont animal",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Structuration achats céréales et couverture de la volatilité sur 28 usines",
+  "duree": "8 mois",
+  "region": "Bretagne",
+  "taille": "1 150 personnes • 28 usines",
+  "niveau": "Cohérence",
+  "tension": "Finance",
+  "contexte": "Leader national de l'alimentation animale, 1 150 personnes et 28 usines suite au rachat des activités nutrition animale d'un groupe céréalier. Intégration de 5 nouvelles usines ayant doublé la complexité du sourcing céréales. Politique d'achat hétérogène entre les sites historiques et les sites acquis. Exposition non couverte à la volatilité des cours céréales et tourteaux de soja représentant 70% du coût matière. Pas de direction achats matières premières unifiée.",
+  "resultat": "Direction achats matières premières créée avec pilotage centralisé des 28 sites. Politique de couverture déployée sur 50% des volumes à horizon 6 mois. Harmonisation des conditions fournisseurs entre sites historiques et acquis. Économie de 2,1 M€/an sur le poste céréales.",
+  "filiere": "Amont animal",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Fiabilisation des approvisionnements et multi-sourcing sur site aliments composés",
+  "duree": "6 mois",
+  "region": "Hauts-de-France",
+  "taille": "430 personnes • 2 usines",
+  "niveau": "Performance",
+  "tension": "Industriel",
+  "contexte": "Coopérative agricole de 430 personnes avec 2 usines d'aliments composés et 142 points de collecte céréales. Approvisionnement en matières premières (blé, orge, tourteaux) dépendant à 80% des apports coopérateurs, avec des variations de volume de +/-30% selon les campagnes. Ruptures d'approvisionnement en tourteaux de soja survenues 3 fois en 12 mois, provoquant des arrêts de production de 2 à 4 jours. Pas de stratégie de multi-sourcing formalisée. MRP paramétré sur des volumes moyens sans prise en compte de la saisonnalité agricole.",
+  "resultat": "Stratégie multi-sourcing déployée avec 3 fournisseurs alternatifs qualifiés pour chaque matière critique. Zéro rupture d'approvisionnement sur la période. MRP recalibré avec profils saisonniers par matière. Stock de sécurité différencié ABC mis en place. Continuité de production assurée à 99,5%.",
+  "filiere": "Amont animal",
+  "badgeIsomorphe": false
+ }
+]

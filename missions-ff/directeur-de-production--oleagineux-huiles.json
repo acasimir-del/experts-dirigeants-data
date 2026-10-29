@@ -1,0 +1,28 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Redressement du TRS et fiabilisation des lignes de raffinage continu",
+  "duree": "6 mois",
+  "region": "Seine-Maritime",
+  "taille": "~650 personnes",
+  "niveau": "Performance",
+  "tension": "Industriel",
+  "contexte": "Site de trituration et raffinage de 650 personnes fonctionnant en continu 7j/7. TRS des colonnes de désodorisation à 71% contre un objectif de 85%. Arrêts non planifiés fréquents sur les échangeurs thermiques et les groupes froids. Conducteurs process en 3x8 sans tableau de bord de suivi en temps réel. Pertes de rendement sur la neutralisation estimées à 1,8 point.",
+  "resultat": "TRS colonnes de désodorisation remonté à 82% en 5 mois. Tableaux de bord temps réel déployés sur 4 postes de conduite. Standards opératoires rédigés pour les 6 étapes critiques du raffinage. 24 conducteurs formés à l'auto-diagnostic des dérives process. Pertes de neutralisation réduites de 1,4 point.",
+  "filiere": "Oléagineux & huiles",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Optimisation du rendement matière sur ligne de raffinage",
+  "duree": "7 mois",
+  "region": "Nord",
+  "taille": "~210 personnes",
+  "niveau": "Performance",
+  "tension": "Industriel",
+  "contexte": "Usine de raffinage et conditionnement huiles végétales. Rendement matière dégradé de 2 points depuis le passage à de nouvelles origines de tournesol. Pertes en désodorisation et au conditionnement non tracées. Conducteurs de ligne sans objectifs chiffrés sur les écarts matière.",
+  "resultat": "Rendement matière amélioré de 1,8 point. Cartographie des pertes réalisée sur les 6 étapes du process. Standards de conduite formalisés pour les 3 types d'huile. Suivi quotidien des écarts par les conducteurs avec affichage visuel en pied de ligne.",
+  "filiere": "Oléagineux & huiles",
+  "badgeIsomorphe": false
+ }
+]

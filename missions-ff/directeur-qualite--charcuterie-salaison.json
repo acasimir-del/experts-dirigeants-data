@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Restructuration qualite post-condamnation cartel et retablissement confiance clients charcuterie",
+  "duree": "10 mois",
+  "region": "Bretagne",
+  "taille": "7 200 personnes",
+  "niveau": "Performance",
+  "tension": "Gouvernance",
+  "contexte": "Cooperative porcine leader (7 200 salaries, 17 sites de salaison) dont la reputation a ete fragilisee par une condamnation dans une affaire de cartel. Restructuration en cours avec fermeture de 2 sites. Les audits clients se multiplient avec des exigences renforcees sur la tracabilite et l'ethique fournisseur. Le systeme qualite doit absorber la reorganisation (transfert de production, fusion d'equipes) tout en repondant aux nouvelles exigences de transparence des distributeurs.",
+  "resultat": "Charte qualite-ethique fournisseur deployee sur les 15 sites maintenus. Programme d'audit tracabilite renforce : 100% des lots tracables de l'elevage au produit fini. Transferts de production entre sites realises sans perte de certification IFS. Taux de conformite audits clients passe de 68% a 91%. Reconquete de 3 references MDD suspendues.",
+  "filiere": "Charcuterie & salaison",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Mise a niveau qualite post-investissement et validation des nouvelles lignes jambon cuit",
+  "duree": "8 mois",
+  "region": "Nouvelle-Aquitaine",
+  "taille": "500 personnes",
+  "niveau": "Transformation",
+  "tension": "Industriel",
+  "contexte": "Site de charcuterie (500 salaries, jambon cuit et produits traiteurs) apres investissement de 25M euros en modernisation (nouvel atelier moulage-cuisson 2 400 m2). Les nouvelles lignes de cuisson en bain-marie remplacent les fours traditionnels mais les parametres CCP (temperatures, durees, refroidissement) ne sont pas encore valides. Pas de qualification equipement ni de validation process food safety. L'ancien systeme qualite ne couvre pas les nouveaux procedes. Audits IFS et client prevu dans 5 mois.",
+  "resultat": "Validation complete des 6 CCP thermiques sur les nouvelles lignes (etudes de penetration chaleur, challenge tests Listeria). Plan HACCP mis a jour et approuve. Qualification des equipements documentee selon protocole IFS. Audit IFS reussi score 96%. Conformite microbiologique a 99,8% sur 6 mois de suivi. Root cause analysis deployee sur les 3 non-conformites residuelles.",
+  "filiere": "Charcuterie & salaison",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Audit croise et harmonisation referentiel qualite multi-sites charcuterie seche post-integration groupe",
+  "duree": "9 mois",
+  "region": "Rhône-Alpes",
+  "taille": "1 300 personnes",
+  "niveau": "Cohérence",
+  "tension": "Efficience",
+  "contexte": "Groupe charcuterie seche (1 300 salaries, 4 usines) sous actionnariat etranger imposant une logique de rentabilite stricte. Sites vieillissants apres plusieurs vagues de fermetures. Chaque usine fonctionne avec son propre systeme qualite, ses propres specifications matieres et ses propres criteres de liberation lot. Les audits IFS donnent des resultats tres heterogenes (de 75% a 92% selon les sites). Le siege exige un referentiel unifie sous 12 mois pour reduire les couts de non-qualite estimes a 1,2M euros/an.",
+  "resultat": "Referentiel qualite groupe unique deploye sur les 4 sites (procedures, specifications, criteres). Campagne d'audits croises internes entre sites (16 audits realises). Score IFS harmonise entre 90% et 95% sur tous les sites. Couts de non-qualite reduits de 38% (gain de 450K euros). Formation de 8 auditeurs internes certifies. Tracabilite unifiee grain de sel a produit fini.",
+  "filiere": "Charcuterie & salaison",
+  "badgeIsomorphe": false
+ }
+]

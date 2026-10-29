@@ -1,0 +1,62 @@
+[
+ {
+  "ordre": 1,
+  "fonction": "Directeur d'usine",
+  "secteur": "Légumes surgelés IQF",
+  "titre": "Interim DU pendant lancement ligne IQF",
+  "duree": "8 mois",
+  "contexte": "Départ du DU en plein démarrage d'une nouvelle ligne IQF haricots verts. CAPEX de 5M€ en cours, saisonnalité de récolte imminente, équipes non formées au nouvel équipement.",
+  "resultat": "Ligne IQF opérationnelle pour la campagne. Rendement matière à 92% dès le 2e mois. Taux de service GMS maintenu à 96%.",
+  "objectifs": []
+ },
+ {
+  "ordre": 2,
+  "fonction": "Directeur de production",
+  "secteur": "Conserve de tomates & sauces",
+  "titre": "Pilotage campagne saisonnière sans directeur de production",
+  "duree": "5 mois",
+  "contexte": "Démission du DP à 6 semaines de la campagne tomate. 120 saisonniers à intégrer, 3 lignes de conditionnement à synchroniser, contrats GMS avec pénalités de retard.",
+  "resultat": "Campagne livrée à 101% du plan volume. Zéro pénalité GMS. Intégration saisonniers en 5 jours vs 12 habituellement.",
+  "objectifs": []
+ },
+ {
+  "ordre": 3,
+  "fonction": "Directeur qualité",
+  "secteur": "Conserverie de légumes",
+  "titre": "Restructuration qualité après retrait-rappel",
+  "duree": "6 mois",
+  "contexte": "DQ licencié suite à un retrait-rappel sur des conserves de maïs. Score BRC doit remonter en 4 mois pour conserver le référencement MDD. Système documentaire obsolète.",
+  "resultat": "BRC Grade A retrouvé. Référencement MDD maintenu chez 3 enseignes. Plan HACCP redessiné, traçabilité digitalisée.",
+  "objectifs": []
+ },
+ {
+  "ordre": 4,
+  "fonction": "Supply & Achats",
+  "secteur": "Salades & crudités 4e gamme",
+  "titre": "Optimisation supply chain 4ème gamme",
+  "duree": "7 mois",
+  "contexte": "Directeur supply parti chez un concurrent. DLC de 7 jours sur les salades, approvisionnement multi-bassins (Espagne, Italie, local). Taux de démarque à 11%, marge érodée.",
+  "resultat": "Taux de démarque ramené à 5,8%. Contrats fournisseurs renégociés. Marge brute améliorée de 2,3 points.",
+  "objectifs": []
+ },
+ {
+  "ordre": 5,
+  "fonction": "DAF",
+  "secteur": "Surgelés de légumes",
+  "titre": "Pilotage financier intégration site acquis",
+  "duree": "9 mois",
+  "contexte": "Acquisition d'un site de surgelés de légumes par le groupe. DAF du site absorbé non remplacé. Double comptabilité, ERP incompatibles, reporting groupe en retard de 3 mois.",
+  "resultat": "Migration ERP achevée en M6. Reporting mensuel aligné sur standards groupe. Coût d'intégration contenu à 92% du budget.",
+  "objectifs": []
+ },
+ {
+  "ordre": 6,
+  "fonction": "DRH",
+  "secteur": "Surgelés & conserves de légumes",
+  "titre": "Accompagnement social fermeture partielle de site",
+  "duree": "10 mois",
+  "contexte": "Arrêt de la ligne de surgelés non rentable. 80 reclassements internes à organiser, PSE à négocier pour 40 postes. DRH en congé parental, direction générale sous pression syndicale.",
+  "resultat": "PSE signé à l'unanimité des organisations syndicales. 72 reclassements effectifs sur 80. Zéro jour de grève.",
+  "objectifs": []
+ }
+]

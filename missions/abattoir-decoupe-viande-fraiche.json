@@ -1,0 +1,62 @@
+[
+ {
+  "ordre": 1,
+  "fonction": "Finance & RH",
+  "secteur": "",
+  "titre": "Construction du reporting de performance industrielle et analyse des rendements matiere en abattoir bovin",
+  "duree": "8 mois",
+  "contexte": "Abattoir multi-especes sans suivi analytique des couts par atelier. Les rendements matiere en decoupe ne sont pas rapproches des standards, le budget production est elabore sans donnees fiables sur les variances.",
+  "resultat": "Reporting usine hebdomadaire deploye avec indicateurs de rendement par espece et par equipe. Standards de couts recales sur donnees reelles. Ecarts de rendement matiere reduits de 4,2% a 1,8%, generant 620 K EUR d'economies annuelles.",
+  "objectifs": []
+ },
+ {
+  "ordre": 1,
+  "fonction": "Supply & Achats",
+  "secteur": "",
+  "titre": "Déploiement S&OP et optimisation des flux vif-froid en abattoir multi-espèces",
+  "duree": "7 mois",
+  "contexte": "Abattoir porcin coopératif (220 salariés, 6 300 porcs/semaine). Absence de S&OP : planification des abattages déconnectée des prévisions de vente et des capacités de découpe aval. Taux de service tombé à 79% sur les commandes GMS. Entrepôts frigorifiques saturés chaque vendredi. Transport frigorifique sous-optimisé avec 30% de camions en charge partielle. DLC viande fraîche (J+7) imposant des flux quasi-tendus.",
+  "resultat": "Processus S&OP hebdomadaire déployé avec intégration éleveurs-commerce-production. Taux de service OTIF remonté à 94%. Saturation entrepôts réduite par lissage des abattages sur la semaine. Taux de remplissage camions porté de 70% à 88%. Pertes DLC réduites de 40% grâce à l'anticipation des flux vif-froid.",
+  "objectifs": []
+ },
+ {
+  "ordre": 1,
+  "fonction": "Directeur qualité",
+  "secteur": "",
+  "titre": "Pilotage conformite reglementaire bien-etre animal et audit DGCCRF en abattoir bovin",
+  "duree": "6 mois",
+  "contexte": "Abattoir gros betail (800+ salaries, 3 sites) confronte a un controle DGCCRF defavorable avec 8 manquements constates dont 3 majeurs sur la protection animale et la tracabilite des carcasses. Menace de suspension temporaire d'agrement sanitaire. Procedures d'etourdissement non conformes au reglement CE 1099/2009. Camera de surveillance bouverie non operationnelle depuis 6 mois.",
+  "resultat": "Agrement sanitaire maintenu apres controle de suivi a 4 mois. 100% des postes d'abattage audites et conformes. Systeme de tracabilite RFID deploye de la bouverie a la salle de decoupe. Referent protection animale forme et operationnel. Taux de conformite bien-etre animal passe de 72% a 98%.",
+  "objectifs": []
+ },
+ {
+  "ordre": 1,
+  "fonction": "Directeur de production",
+  "secteur": "",
+  "titre": "Amélioration du rendement matière et réduction de la freinte en abattoir porcin",
+  "duree": "8 mois",
+  "contexte": "Abattoir porcin coopératif traitant 6 300 porcs/semaine. Rendement matière en découpe à 78,5% vs objectif 82%. Freinte sur les pièces de découpe à 3,2%. Conducteurs de ligne découpe peu impliqués dans le suivi des pertes. Aucun chantier Kaizen mené depuis 2 ans. Invest 3M€ modernisation en cours mais non exploité côté production.",
+  "resultat": "Rendement matière porté à 81,8%. Freinte réduite à 1,5%. 4 chantiers Kaizen pilotés avec les équipes découpe. Suivi rendement matière quotidien affiché en atelier. Conducteurs de ligne formés au suivi des indicateurs de performance.",
+  "objectifs": []
+ },
+ {
+  "ordre": 4,
+  "fonction": "Finance & RH",
+  "secteur": "",
+  "titre": "Gestion de crise sociale et mediation CSE apres accident du travail grave en salle d'abattage",
+  "duree": "5 mois",
+  "contexte": "Accident grave en salle d'abattage declenchant un droit d'alerte CSE et une inspection DREETS. Climat social tres degrade, menace de debrayage, presse locale mobilisee sur les conditions de travail dans la filiere.",
+  "resultat": "Dialogue social retabli avec les IRP en 6 semaines. Plan de prevention valide par le CSE. Aucun debrayage. Accord sur le renforcement de l'equipe securite (+3 ETP). Reprise de la confiance avec la DREETS.",
+  "objectifs": []
+ },
+ {
+  "ordre": 4,
+  "fonction": "Directeur d'usine",
+  "secteur": "",
+  "titre": "Redressement financier post-fermeture de ligne",
+  "duree": "8 mois",
+  "contexte": "Fermeture d'une ligne boeuf sur un site secondaire suite à la pénurie de cheptel. 300 postes supprimés. Transfert de volumes sur le site principal avec réorganisation complète des flux. Budget du site en dérive de 2M€.",
+  "resultat": "Transfert de volumes achevé en J+90. Coûts de transformation réduits de 9%. Budget stabilisé au 6e mois. Aucune rupture client GMS.",
+  "objectifs": []
+ }
+]

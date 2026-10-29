@@ -1,0 +1,62 @@
+[
+ {
+  "ordre": 1,
+  "fonction": "Directeur d'usine",
+  "secteur": "Grossiste alimentaire",
+  "titre": "Directeur d'usine de transition — structuration plateforme multi-température",
+  "duree": "9 mois",
+  "contexte": "Plateforme grossiste alimentaire multi-température (sec, frais, surgelé). Fusion de 2 dépôts sur un site unique. WMS non intégré, taux d'erreur préparation à 3,2 %, productivité picking en baisse de 15 % post-déménagement.",
+  "resultat": "WMS unifié déployé, taux d'erreur ramené à 0,8 %, productivité picking +28 %, coût logistique par colis –14 %, délai moyen de préparation réduit de 4h à 2h30.",
+  "objectifs": []
+ },
+ {
+  "ordre": 2,
+  "fonction": "Directeur de production",
+  "secteur": "Cash & carry",
+  "titre": "Directeur de production de transition — optimisation flux cash & carry régional",
+  "duree": "7 mois",
+  "contexte": "Réseau cash & carry 4 points de vente pro. Ruptures en rayon à 7 %, démarque connue à 4,5 % (surstock fruits et légumes), réapprovisionnement par camion complet inadapté aux petits formats. Marge nette à 1,2 %.",
+  "resultat": "Ruptures réduites à 2,8 %, démarque ramenée à 2,1 % (prévision IA + rotation FEFO), livraison mixte palette/colis mise en place, marge nette remontée à 2,9 %.",
+  "objectifs": []
+ },
+ {
+  "ordre": 3,
+  "fonction": "Supply & Achats",
+  "secteur": "Centrale d'achat",
+  "titre": "Supply & Achats de transition — pilotage centrale d'achat régionale post-fusion",
+  "duree": "8 mois",
+  "contexte": "Centrale d'achat régionale issue de la fusion de 3 coopératives de détaillants. Doublons fournisseurs (420 références en double), pas de politique tarifaire commune, ERP non harmonisé. Adhérents menaçant de quitter le groupement.",
+  "resultat": "Catalogue unifié (–35 % de références), gains achats de 2,8 M€ sur 6 catégories pilotes, ERP commun déployé, taux de rétention adhérents à 97 %.",
+  "objectifs": []
+ },
+ {
+  "ordre": 4,
+  "fonction": "Directeur qualité",
+  "secteur": "E-commerce alimentaire",
+  "titre": "Directeur qualité de transition — mise en conformité chaîne du froid e-commerce alimentaire",
+  "duree": "6 mois",
+  "contexte": "Plateforme e-commerce alimentaire en croissance rapide (+60 % de commandes en 12 mois). Rupture de chaîne du froid constatée sur 8 % des livraisons dernier kilomètre. Alerte DGCCRF, risque de fermeture administrative. Pas de PMS formalisé pour le last-mile.",
+  "resultat": "PMS last-mile déployé, ruptures chaîne du froid ramenées à 0,3 %, alerte DGCCRF levée, certification IFS Logistics obtenue, NPS client passé de 32 à 58.",
+  "objectifs": []
+ },
+ {
+  "ordre": 5,
+  "fonction": "DAF",
+  "secteur": "Grossiste alimentaire",
+  "titre": "DAF de transition — redressement cash-flow plateforme grossiste",
+  "duree": "6 mois",
+  "contexte": "Grossiste alimentaire régional, CA 85 M€. Trésorerie négative depuis 4 mois, DSO à 58 jours (clients RHD mauvais payeurs), stock mort représentant 1,2 M€. Banque menaçant de réduire la ligne de découvert.",
+  "resultat": "DSO ramené à 41 jours (relance automatisée + scoring client), stock mort liquidé (–0,9 M€), trésorerie positive à M+3, ligne bancaire maintenue et étendue.",
+  "objectifs": []
+ },
+ {
+  "ordre": 6,
+  "fonction": "Directeur de maintenance",
+  "secteur": "Cash & carry",
+  "titre": "Directeur de maintenance de transition — automatisation hub logistique pic saisonnier",
+  "duree": "7 mois",
+  "contexte": "Hub logistique alimentaire avec pic saisonnier x2,5 (été/fêtes). Convoyeurs et trieurs vieillissants, taux de panne 15 % en période de pointe. Recours massif à l'intérim (+120 ETP) non maîtrisé. Coût de non-qualité logistique estimé à 1,6 M€/an.",
+  "resultat": "Plan de maintenance préventive saisonnier déployé, pannes en pic réduites de 60 %, besoin intérim ramené à +70 ETP, coût de non-qualité réduit à 0,6 M€/an.",
+  "objectifs": []
+ }
+]

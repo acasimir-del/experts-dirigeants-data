@@ -1,0 +1,150 @@
+[
+ {
+  "ordre": 1,
+  "fonction": "Directeur d'usine",
+  "secteur": "Grands crus & châteaux",
+  "titre": "Management de transition vendange et départ maître de chai",
+  "duree": "9 mois",
+  "contexte": "Château classé (Grand Cru, 250 000 bouteilles/an) confronté au départ brutal du maître de chai à 6 semaines des vendanges. Aucun plan de succession, millésime à enjeu commercial majeur, équipe cave de 8 personnes déstabilisée.",
+  "resultat": "Vendange pilotée sans incident qualitatif (note Parker 94), recrutement maître de chai pérenne finalisé à M+4, processus de vinification documenté pour la première fois (12 fiches procédé).",
+  "objectifs": [],
+  "filiere": "Vins & spiritueux",
+  "filiereSlug": "vins-spiritueux"
+ },
+ {
+  "ordre": 1,
+  "fonction": "Directeur d'usine",
+  "secteur": "Salaison sèche artisanale",
+  "titre": "Interim DU pendant mise aux normes séchoirs",
+  "duree": "8 mois",
+  "contexte": "Départ du DU fondateur en transmission familiale. Séchoirs à moderniser pour absorber +40% de volume MDD. Site artisanal en mutation industrielle.",
+  "resultat": "Séchoirs automatisés opérationnels en M5. Capacité passée de 800 à 1100 t/an. Contrat MDD signé pour 3 ans.",
+  "objectifs": [],
+  "filiere": "Charcuterie & salaison",
+  "filiereSlug": "charcuterie-salaison"
+ },
+ {
+  "ordre": 1,
+  "fonction": "Directeur d'usine",
+  "secteur": "Fromages AOP pâte pressée cuite",
+  "titre": "Reprendre le pilotage d'une fruitière AOP Comté après départ brutal du directeur en pleine montée en affinage",
+  "duree": "7 mois",
+  "contexte": "Départ non anticipé du directeur de site en pleine saison de production estivale. La fruitière coopérative traite 120 000 L/jour de lait cru pour une AOP pâte pressée cuite, avec des caves d'affinage saturées et un audit de conformité AOP programmé à 3 mois.",
+  "resultat": "Taux de conformité AOP maintenu à 99,2 %. Rendement fromager amélioré de 9,8 à 10,3 L/kg. Zéro rupture de livraison affineurs sur la période.",
+  "objectifs": [],
+  "filiere": "Fromages",
+  "filiereSlug": "fromages"
+ },
+ {
+  "ordre": 1,
+  "fonction": "Directeur d'usine",
+  "secteur": "",
+  "titre": "Remplacement DU en pleine période de collecte haute",
+  "duree": "6 mois",
+  "contexte": "Départ du directeur d'usine en juin, pic de collecte laitière. Site de 280 personnes spécialisé en fromages à pâte pressée cuite (AOP). Risque de rupture de conformité sur les cahiers des charges d'affinage si le pilotage qualité n'est pas assuré immédiatement.",
+  "resultat": "Continuité de production assurée sur les 4 mois de collecte haute. Zéro déclassement AOP. Taux de service GMS maintenu à 98,7%.",
+  "objectifs": [],
+  "filiere": "Laiterie & fromagerie",
+  "filiereSlug": "laiterie-fromagerie"
+ },
+ {
+  "ordre": 1,
+  "fonction": "Directeur d'usine",
+  "secteur": "Abattage bovin • Grand Est",
+  "titre": "Interim DU site d'abattage certifié halal export",
+  "duree": "6 mois",
+  "contexte": "Directeur d'abattoir parti sous 8 jours. Site de 320 salariés, 1 200 tonnes/semaine, agrément export Maghreb et Moyen-Orient en jeu.",
+  "resultat": "Agrément export maintenu. Cadences rétablies à 100% en J+15. Passation CDI réalisée.",
+  "objectifs": [
+   "Prendre la direction opérationnelle sous 5 jours",
+   "Maintenir l'agrément halal et les flux export",
+   "Organiser la passation avec le CDI recruté"
+  ],
+  "filiere": "Charcuterie & salaison",
+  "filiereSlug": "charcuterie-salaison"
+ },
+ {
+  "ordre": 1,
+  "fonction": "Supply & Achats",
+  "secteur": "",
+  "titre": "Mise en place du S&OP et pilotage des stocks DLC courtes en charcuterie cuite",
+  "duree": "8 mois",
+  "contexte": "Site historique de charcuterie cuite (420 salariés, spécialiste jambon cuit supérieur). Prévisions de vente non partagées avec la production : écarts moyens de 25% entre prévisions et réalisations. Stocks de produits finis à 22 jours pour des DLC de 45 jours, générant 1,8 M€ de pertes annuelles. Entrepôt frigorifique à 95% de capacité. Taux de service GMS à 87%, pénalités logistiques croissantes.",
+  "resultat": "S&OP mensuel avec PDP hebdomadaire synchronisé GMS-production déployé. Précision prévisionnelle améliorée à +/-10%. Stocks ramenés à 14 jours, pertes DLC réduites de 60% (gain 1,1 M€). Taux de service OTIF porté à 96%. Extension entrepôt évitée grâce à l'optimisation des flux.",
+  "objectifs": [],
+  "filiere": "Charcuterie & salaison",
+  "filiereSlug": "charcuterie-salaison"
+ },
+ {
+  "ordre": 1,
+  "fonction": "Directeur qualité",
+  "secteur": "",
+  "titre": "Restructuration qualite post-condamnation cartel et retablissement confiance clients charcuterie",
+  "duree": "10 mois",
+  "contexte": "Cooperative porcine leader (7 200 salaries, 17 sites de salaison) dont la reputation a ete fragilisee par une condamnation dans une affaire de cartel. Restructuration en cours avec fermeture de 2 sites. Les audits clients se multiplient avec des exigences renforcees sur la tracabilite et l'ethique fournisseur. Le systeme qualite doit absorber la reorganisation (transfert de production, fusion d'equipes) tout en repondant aux nouvelles exigences de transparence des distributeurs.",
+  "resultat": "Charte qualite-ethique fournisseur deployee sur les 15 sites maintenus. Programme d'audit tracabilite renforce : 100% des lots tracables de l'elevage au produit fini. Transferts de production entre sites realises sans perte de certification IFS. Taux de conformite audits clients passe de 68% a 91%. Reconquete de 3 references MDD suspendues.",
+  "objectifs": [],
+  "filiere": "Charcuterie & salaison",
+  "filiereSlug": "charcuterie-salaison"
+ },
+ {
+  "ordre": 1,
+  "fonction": "Directeur de maintenance",
+  "secteur": "",
+  "titre": "Fiabilisation des lignes de conditionnement et plan GMAO",
+  "duree": "7 mois",
+  "contexte": "TRS des lignes bouteilles et canettes à 58%, pannes récurrentes sur les remplisseuses Krones. GMAO obsolète (fichiers Excel), pas de plan de maintenance préventive structuré. Succession du dirigeant en vue, besoin de fiabiliser l'outil avant transmission.",
+  "resultat": "TRS remonté à 74%. GMAO Carl Source déployée sur les 2 sites. Plan de maintenance préventive calé sur 420 équipements critiques. Temps d'arrêt non planifiés réduits de 35%.",
+  "objectifs": [],
+  "filiere": "Brasserie",
+  "filiereSlug": "brasserie"
+ },
+ {
+  "ordre": 1,
+  "fonction": "Directeur d'usine",
+  "secteur": "",
+  "titre": "Interim DU pendant procédure disciplinaire",
+  "duree": "6 mois",
+  "contexte": "Mise à pied conservatoire du DU. Site IGP, 95 salariés. Affinage en cours sur plusieurs centaines de tonnes. Aucun N-1 pour assurer la direction.",
+  "resultat": "Continuité totale de l'affinage. IGP maintenu. Situation sociale stabilisée. Nouveau DU intégré.",
+  "objectifs": [],
+  "filiere": "Charcuterie & salaison",
+  "filiereSlug": "charcuterie-salaison"
+ },
+ {
+  "ordre": 1,
+  "fonction": "Directeur d'usine",
+  "secteur": "",
+  "titre": "Management relais suite départ négocié",
+  "duree": "8 mois",
+  "contexte": "Rupture conventionnelle du DU brasseur. Site de 65 salariés, 12 références dont 3 IGP. Période de forte activité estivale.",
+  "resultat": "Saison estivale assurée sans rupture. IGP maintenues. DU brasseur recruté et intégré.",
+  "objectifs": [],
+  "filiere": "Brasserie",
+  "filiereSlug": "brasserie"
+ },
+ {
+  "ordre": 2,
+  "fonction": "Directeur de production",
+  "secteur": "Champagne & effervescents",
+  "titre": "CAPEX nouvelle ligne d'embouteillage et montée en cadence champagne",
+  "duree": "11 mois",
+  "contexte": "Maison de Champagne (4 M bouteilles/an) investissant 5,5 M EUR dans une ligne d'embouteillage automatisée. Ligne existante à 110 % de capacité nominale, casse verre à 3,5 %, pression sur les délais export Noël.",
+  "resultat": "Nouvelle ligne opérationnelle 8 semaines avant pic Noël, casse verre réduite à 0,8 %, capacité +60 %, délai moyen de livraison export réduit de 12 à 5 jours.",
+  "objectifs": [],
+  "filiere": "Vins & spiritueux",
+  "filiereSlug": "vins-spiritueux"
+ },
+ {
+  "ordre": 2,
+  "fonction": "Directeur de production",
+  "secteur": "Fromages à pâte molle",
+  "titre": "Structurer la production d'une fromagerie artisanale rachetée par un groupe laitier pour passer de 15 à 40 tonnes/semaine",
+  "duree": "9 mois",
+  "contexte": "Intégration post-acquisition d'une fromagerie artisanale de pâte molle dans un périmètre industriel. Le site conserve ses recettes historiques mais doit absorber un doublement de volume tout en formant 30 nouveaux opérateurs aux gestes de moulage et retournement manuels.",
+  "resultat": "Montée en cadence de 15 à 38 T/semaine en 7 mois. Taux de déclassement réduit de 12 % à 4,5 %. Taux de service GMS porté à 97,3 %.",
+  "objectifs": [],
+  "filiere": "Fromages",
+  "filiereSlug": "fromages"
+ }
+]

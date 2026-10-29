@@ -1,0 +1,62 @@
+[
+ {
+  "ordre": 1,
+  "fonction": "Directeur d'usine",
+  "secteur": "Fromages AOP pâte pressée cuite",
+  "titre": "Reprendre le pilotage d'une fruitière AOP Comté après départ brutal du directeur en pleine montée en affinage",
+  "duree": "7 mois",
+  "contexte": "Départ non anticipé du directeur de site en pleine saison de production estivale. La fruitière coopérative traite 120 000 L/jour de lait cru pour une AOP pâte pressée cuite, avec des caves d'affinage saturées et un audit de conformité AOP programmé à 3 mois.",
+  "resultat": "Taux de conformité AOP maintenu à 99,2 %. Rendement fromager amélioré de 9,8 à 10,3 L/kg. Zéro rupture de livraison affineurs sur la période.",
+  "objectifs": []
+ },
+ {
+  "ordre": 2,
+  "fonction": "Directeur de production",
+  "secteur": "Fromages à pâte molle",
+  "titre": "Structurer la production d'une fromagerie artisanale rachetée par un groupe laitier pour passer de 15 à 40 tonnes/semaine",
+  "duree": "9 mois",
+  "contexte": "Intégration post-acquisition d'une fromagerie artisanale de pâte molle dans un périmètre industriel. Le site conserve ses recettes historiques mais doit absorber un doublement de volume tout en formant 30 nouveaux opérateurs aux gestes de moulage et retournement manuels.",
+  "resultat": "Montée en cadence de 15 à 38 T/semaine en 7 mois. Taux de déclassement réduit de 12 % à 4,5 %. Taux de service GMS porté à 97,3 %.",
+  "objectifs": []
+ },
+ {
+  "ordre": 3,
+  "fonction": "DAF",
+  "secteur": "Roquefort & pâte persillée",
+  "titre": "Piloter un CAPEX de 8 M€ pour moderniser les caves d'affinage sans interrompre la production AOP",
+  "duree": "11 mois",
+  "contexte": "Programme d'investissement majeur pour la rénovation de 4 caves d'affinage vieillissantes sur un site de pâte persillée. Le DAF précédent parti en retraite, le pilotage financier du CAPEX est orphelin alors que les engagements fournisseurs courent et que la trésorerie saisonnière impose un phasage serré.",
+  "resultat": "CAPEX livré à 7,6 M€ (5 % sous budget). Marge EBITDA site améliorée de 2,1 points post-travaux. Capacité d'affinage augmentée de 25 % sans arrêt de production.",
+  "objectifs": []
+ },
+ {
+  "ordre": 4,
+  "fonction": "Supply & Achats",
+  "secteur": "Fromage râpé & portions MDD",
+  "titre": "Réorganiser le schéma d'approvisionnement lait et la supply aval d'un site de fromage râpé et portions MDD",
+  "duree": "8 mois",
+  "contexte": "Site industriel de découpe, râpage et conditionnement portion-pack pour 3 enseignes GMS nationales. La volatilité du prix du lait et les pénalités logistiques récurrentes imposent une refonte du S&OP et la renégociation des contrats collecte avec les OP laitières régionales.",
+  "resultat": "Taux de service GMS remonté de 91 % à 98,4 %. Coût matière première lait réduit de 3,2 % par optimisation du mix collecte. Pénalités logistiques divisées par 4.",
+  "objectifs": []
+ },
+ {
+  "ordre": 5,
+  "fonction": "Directeur qualité",
+  "secteur": "Fromages à pâte molle",
+  "titre": "Refondre le système qualité d'un site de pâte molle pour décrocher l'IFS v8 et sécuriser les référencements GMS",
+  "duree": "6 mois",
+  "contexte": "Audit IFS v8 programmé à 5 mois sur un site de fromage à pâte molle croûte lavée. Le précédent audit avait relevé 14 non-conformités majeures sur la maîtrise des flores d'affinage et la traçabilité amont. La perte du référencement d'une enseigne nationale est en jeu.",
+  "resultat": "Certification IFS v8 obtenue niveau Higher (score 97,1 %). Non-conformités majeures ramenées de 14 à 0. Référencement GMS consolidé, +2 nouvelles références listées.",
+  "objectifs": []
+ },
+ {
+  "ordre": 6,
+  "fonction": "DRH",
+  "secteur": "Fromages AOP pâte pressée cuite",
+  "titre": "Stabiliser les équipes de production d'une fromagerie d'alpage confrontée à un turnover saisonnier de 45 %",
+  "duree": "5 mois",
+  "contexte": "Fromagerie AOP en zone de montagne avec une production concentrée sur 7 mois. Le turnover saisonnier paralyse la transmission des savoir-faire de fabrication et d'affinage. Le bassin d'emploi est tendu et les conditions de travail (amplitude, isolement) freinent le recrutement.",
+  "resultat": "Turnover saisonnier réduit de 45 % à 18 %. Taux de postes pourvus avant saison porté à 94 %. Absentéisme en production diminué de 30 %, rendement fromager stabilisé à 10,1 L/kg sur toute la campagne.",
+  "objectifs": []
+ }
+]

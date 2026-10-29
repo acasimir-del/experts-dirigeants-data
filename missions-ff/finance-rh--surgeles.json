@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 2,
+  "titre": "Reprise des clôtures comptables et fiabilisation des provisions dans un groupe de surgelés en croissance externe",
+  "duree": "7 mois",
+  "region": "Vosges",
+  "taille": "650 personnes",
+  "niveau": "Cohérence",
+  "tension": "Gouvernance",
+  "contexte": "Un groupe de surgelés ayant réalisé 3 acquisitions en 2 ans peine à consolider ses comptes. Les clôtures mensuelles sont en retard de 3 semaines, les provisions pour dépréciation de stocks surgelés ne sont pas harmonisées et la liasse fiscale du dernier exercice a fait l'objet d'observations des commissaires aux comptes.",
+  "resultat": "Clôtures mensuelles ramenées à J+8 sur les 5 entités. Méthode unique de provision pour stocks surgelés à DLUO courte déployée. Immobilisations des chaînes de froid reclassées et amortissements harmonisés. Observations CAC levées sur l'exercice suivant.",
+  "filiere": "Surgelés",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Sécurisation du financement CAPEX et pilotage de trésorerie pour extension d'une unité IQF",
+  "duree": "10 mois",
+  "region": "Bretagne",
+  "taille": "380 personnes",
+  "niveau": "Transformation",
+  "tension": "Finance",
+  "contexte": "Une coopérative légumière investit 15 M€ dans une nouvelle ligne IQF pour répondre à la demande croissante de légumes surgelés bio. Le BFR est structurellement élevé du fait de la saisonnalité des campagnes légumières et le financement bancaire ne couvre que 60 % du projet. Un directeur financier de transition est missionné.",
+  "resultat": "Montage financier bouclé avec crédit-bail équipement (8 M€) et subvention régionale (1,5 M€). BFR réduit de 22 jours par mise en place d'affacturage sur les créances GMS. Prévisions cash à 26 semaines intégrant la saisonnalité campagne. Covenant bancaire respecté sur toute la période de construction.",
+  "filiere": "Surgelés",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 5,
+  "titre": "Structuration GPEC et plan de polyvalence pour site surgelés en montée en cadence",
+  "duree": "9 mois",
+  "region": "Deux-Sèvres",
+  "taille": "310 personnes",
+  "niveau": "Performance",
+  "tension": "Industriel",
+  "contexte": "Un site de production de plats cuisinés surgelés en montée en cadence après l'installation d'une nouvelle ligne de barquettes fait face à une pénurie de conducteurs de ligne qualifiés. Le recours à l'intérim atteint 35 % et les arrêts machine liés au manque de compétences se multiplient. Un DRH de transition est missionné.",
+  "resultat": "Référentiel de compétences déployé sur les 28 postes clés. 15 conducteurs de ligne formés et certifiés en 6 mois. Intérim réduit à 18 %. Plan de polyvalence avec 60 % des opérateurs formés à 2 postes. Marque employeur lancée avec partenariat CFA agroalimentaire.",
+  "filiere": "Surgelés",
+  "badgeIsomorphe": false
+ }
+]

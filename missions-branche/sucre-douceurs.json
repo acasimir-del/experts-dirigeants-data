@@ -1,0 +1,62 @@
+[
+ {
+  "ordre": 1,
+  "fonction": "Directeur qualité",
+  "secteur": "",
+  "titre": "Redressement qualité post-audit critique client MDD chocolat",
+  "duree": "7 mois",
+  "contexte": "Audit client GMS sur un site de moulage chocolat MDD soldé par un score IFS de 78% (seuil de déréférencement à 75%). Non-conformités majeures sur la gestion des allergènes (traces de noisettes non déclarées) et la maîtrise des corps étrangers. Investissement de 10M€ en cours sur le site. Le client menace de retirer 5 références MDD représentant 30% du CA site.",
+  "resultat": "Plan d'action 47 mesures correctives déployé en 8 semaines. Détection métaux et rayons X recalibrée sur 100% des lignes. Matrice allergènes refondue avec validation DGCCRF. Re-audit IFS à 94,8%. Zéro réclamation allergènes sur 6 mois. Référencements MDD maintenus.",
+  "objectifs": []
+ },
+ {
+  "ordre": 2,
+  "fonction": "Finance & RH",
+  "secteur": "",
+  "titre": "Structuration des clotures comptables et preparation a l'audit de certification dans un groupe confiseur multi-sites",
+  "duree": "9 mois",
+  "contexte": "Groupe confiseur ayant integre 3 sites apres acquisition sans harmoniser les pratiques comptables. Clotures a J+22, divergences sur les provisions stocks saisonniers, immobilisations non reconciliees entre sites.",
+  "resultat": "Harmonisation du plan comptable groupe. Clotures mensuelles a J+10. Provisions stocks de campagne fiabilisees. Audit annuel passe sans reserve ni ajustement significatif.",
+  "objectifs": []
+ },
+ {
+  "ordre": 2,
+  "fonction": "Supply & Achats",
+  "secteur": "",
+  "titre": "Négociation panel fournisseurs cacao et couverture volatilité cours",
+  "duree": "6 mois",
+  "contexte": "Confiseur-chocolatier (4 sites, 1 100 salariés). Flambée des cours du cacao (+90% en 12 mois) menaçant la marge brute. Panel fournisseurs réduit à 3 origines (Côte d'Ivoire 70%). Aucun mécanisme de couverture prix. Contrats spot sur 60% des achats beurre de cacao. Cahier des charges matières premières imprécis, provoquant des écarts de viscosité sur les couvertures.",
+  "resultat": "Panel élargi à 6 origines avec diversification Équateur et Tanzanie. Contrats annuels à prix fixe sur 75% des volumes cacao. Couverture prix sur 12 mois via instruments de hedging (cost avoidance estimé 2,1 M€). Cahier des charges matières premières refondu avec tolérances analytiques. Taux de non-conformité fournisseurs ramené de 11% à 3%.",
+  "objectifs": []
+ },
+ {
+  "ordre": 2,
+  "fonction": "Directeur de production",
+  "secteur": "",
+  "titre": "Déploiement 5S et SMED sur lignes de moulage et enrobage confiserie",
+  "duree": "6 mois",
+  "contexte": "Site de confiserie premium (moulage, enrobage, napolitains) avec 250 personnes. Multi-formats imposés par les clients MDD et luxe : 45 références actives. Temps de changement de série à 55 min en moyenne. Aucune démarche 5S, postes de travail encombrés. TRS moulage à 62%. Surpoids systématique sur les barres (+4g/unité).",
+  "resultat": "Temps de changement ramené à 28 min (SMED déployé sur 6 lignes). 5S déployé sur 100% des ateliers avec audits hebdomadaires. TRS moulage porté à 73%. Surpoids réduit à +1,2g/unité, économie matière de 180k€/an.",
+  "objectifs": []
+ },
+ {
+  "ordre": 2,
+  "fonction": "Directeur de maintenance",
+  "secteur": "",
+  "titre": "Structuration TPM et maintenance autonome en confiserie premium",
+  "duree": "10 mois",
+  "contexte": "Usine premium de chocolat d'assortiments avec exigences qualité élevées. OEE à 65% sur les lignes de moulage. Aucun pilier TPM déployé. Opérateurs découragés par les micro-arrêts répétitifs. Standards de nettoyage et d'inspection absents.",
+  "resultat": "OEE porté à 76%. 4 piliers TPM déployés. 200 opérateurs formés au niveau 1 maintenance. Standards de nettoyage-inspection créés pour 100% des postes. Micro-arrêts réduits de 55%.",
+  "objectifs": []
+ },
+ {
+  "ordre": 3,
+  "fonction": "Directeur d'usine",
+  "secteur": "",
+  "titre": "Pilotage démarrage nouvelle unité de production",
+  "duree": "8 mois",
+  "contexte": "Investissement CAPEX de 4M€ pour une unité de dragéification. DU existant en surcharge, besoin d'un chef de projet industriel senior.",
+  "resultat": "Unité opérationnelle en J+120. Qualification IFS obtenue au premier audit.",
+  "objectifs": []
+ }
+]

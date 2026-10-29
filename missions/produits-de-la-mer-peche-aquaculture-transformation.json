@@ -1,0 +1,62 @@
+[
+ {
+  "ordre": 1,
+  "fonction": "Directeur d'usine",
+  "secteur": "Conserverie de poisson",
+  "titre": "Pilotage de campagne saisonnière et gestion DLC conserverie de poisson",
+  "duree": "8 mois",
+  "contexte": "Conserverie de sardines et maquereaux (18 000 t/an) confrontée à des pics de campagne imprévisibles. Rendement matière à 52 % en haute saison, 35 % de saisonniers non formés, 4 % de casse boîte en stérilisation.",
+  "resultat": "Rendement matière porté à 61 %, casse stérilisation réduite à 1,2 %, programme d'intégration saisonniers déployé (formation J-15), productivité ligne +18 % sur la campagne été.",
+  "objectifs": []
+ },
+ {
+  "ordre": 2,
+  "fonction": "Directeur qualité",
+  "secteur": "Saumon fumé & truite",
+  "titre": "Certification MSC/ASC et restructuration filière amont saumon fumé",
+  "duree": "9 mois",
+  "contexte": "Atelier de saumon fumé (8 000 t/an) dont le client principal exige MSC Chain of Custody. Supply chain post-Brexit perturbée (délais doublés depuis Écosse), traçabilité lot amont incomplète, 3 alertes Listeria en 18 mois.",
+  "resultat": "Certification MSC CoC obtenue en 7 mois, zéro alerte Listeria sur la période, 2 fournisseurs Norvège qualifiés réduisant la dépendance UK de 70 % à 35 %, contrat client renouvelé (+12 % volume).",
+  "objectifs": []
+ },
+ {
+  "ordre": 3,
+  "fonction": "Directeur de production",
+  "secteur": "Surimi & produits élaborés",
+  "titre": "CAPEX ligne de fumage et montée en cadence surimi",
+  "duree": "10 mois",
+  "contexte": "Usine de surimi et produits élaborés (12 000 t/an) investissant 6 M EUR dans une ligne de fumage automatisée. Capacité actuelle saturée, 200 références actives, changeovers représentant 22 % du temps machine.",
+  "resultat": "Ligne de fumage opérationnelle à 95 % de capacité nominale à M+3, temps de changeover réduit de 22 % à 14 % (SMED), capacité totale site +30 %, TRS nouvelle ligne à 87 %.",
+  "objectifs": []
+ },
+ {
+  "ordre": 4,
+  "fonction": "Supply & Achats",
+  "secteur": "Coquillages & crustacés",
+  "titre": "Sécurisation approvisionnement coquillages et gestion de crise sanitaire",
+  "duree": "6 mois",
+  "contexte": "Entreprise de purification et expédition de coquillages (huîtres, moules) frappée par une interdiction de pêche norovirus de 8 semaines. Perte sèche de 1,2 M EUR, mono-sourcing bassin de Marennes-Oléron, clients GMS en rupture.",
+  "resultat": "Diversification sourcing (3 bassins qualifiés vs 1), plan de continuité d'activité formalisé, perte limitée à 400 K EUR vs 1,2 M projeté, taux de service GMS remonté à 94 % en 10 semaines.",
+  "objectifs": []
+ },
+ {
+  "ordre": 5,
+  "fonction": "Directeur de maintenance",
+  "secteur": "Conserverie de poisson",
+  "titre": "Plan de maintenance préventive et fiabilisation ligne de stérilisation",
+  "duree": "7 mois",
+  "contexte": "Conserverie premium (thon, anchois) subissant 11 arrêts non planifiés sur autoclaves en 12 mois. Maintenance 100 % curative, pièces détachées en rupture chronique, coût de non-qualité estimé à 800 K EUR/an.",
+  "resultat": "Plan de maintenance préventive déployé sur 100 % du parc autoclaves, arrêts non planifiés réduits à 2/an, stock pièces critiques reconstitué, coût de non-qualité ramené à 180 K EUR/an.",
+  "objectifs": []
+ },
+ {
+  "ordre": 6,
+  "fonction": "DAF",
+  "secteur": "Saumon fumé & truite",
+  "titre": "Restructuration financière et recentrage gamme post-Covid",
+  "duree": "8 mois",
+  "contexte": "PME de saumon fumé et truite fumée (5 500 t/an) en situation de cessation de paiement imminente. Effondrement du canal RHD post-Covid, surstocks de 2,8 M EUR, 45 références dont 60 % non rentables.",
+  "resultat": "Procédure de sauvegarde obtenue, gamme rationalisée de 45 à 18 références, canal GMS développé (+55 % en 6 mois), trésorerie stabilisée, sortie de sauvegarde anticipée à M+8.",
+  "objectifs": []
+ }
+]

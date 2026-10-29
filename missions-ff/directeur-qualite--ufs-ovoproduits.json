@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Gestion crise Salmonella et plan de reconquete clients",
+  "duree": "6 mois",
+  "region": "Bretagne",
+  "taille": "160 collaborateurs",
+  "niveau": "Existence",
+  "tension": "Légitimité ext.",
+  "contexte": "Detection Salmonella Enteritidis sur un lot d'ovoproduits liquides. Retrait-rappel de 45 tonnes. Perte de confiance de 3 clients IAA majeurs. Directeur qualite licencie apres la crise.",
+  "resultat": "Root cause identifiee en 72 heures (contamination croisee NEP). Plan HACCP reconstruit. 3 clients reconquis en 4 mois. Zero alerte sanitaire sur les 12 mois suivants.",
+  "filiere": "Œufs & ovoproduits",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Preparation audit FSSC 22000 site conditionnement",
+  "duree": "4 mois",
+  "region": "Hauts-de-France",
+  "taille": "110 collaborateurs",
+  "niveau": "Cohérence",
+  "tension": "Légitimité ext.",
+  "contexte": "Site de conditionnement oeufs coquille avec audit FSSC 22000 programme dans 4 mois. Systeme documentaire obsolete, 12 non-conformites majeures identifiees au pre-audit. Direction qualite vacante.",
+  "resultat": "Audit FSSC 22000 reussi avec note A. 12 non-conformites soldees. Systeme documentaire migre sur outil digital. Formation tracabilite dispensee a 85 operateurs.",
+  "filiere": "Œufs & ovoproduits",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Deploiement cahier des charges bien-etre animal Label Rouge",
+  "duree": "7 mois",
+  "region": "Occitanie",
+  "taille": "45 collaborateurs",
+  "niveau": "Transformation",
+  "tension": "Commerce",
+  "contexte": "Passage au Label Rouge sur 8 elevages partenaires. Nouveau cahier des charges a deployer (densite, parcours exterieur, alimentation). Audits fournisseurs a structurer depuis zero.",
+  "resultat": "8 elevages certifies Label Rouge. Programme d'audits fournisseurs operationnel avec 24 audits/an. Premium de prix de 22 % obtenu en GMS. Taux de conformite elevages a 96 %.",
+  "filiere": "Œufs & ovoproduits",
+  "badgeIsomorphe": false
+ }
+]

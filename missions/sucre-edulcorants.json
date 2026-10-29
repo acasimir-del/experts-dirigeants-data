@@ -1,0 +1,62 @@
+[
+ {
+  "ordre": 1,
+  "fonction": "Directeur d'usine",
+  "secteur": "Sucrerie de betterave",
+  "titre": "Directeur d'usine — Pilotage campagne sucrière 90 jours et stabilisation post-fusion coopérative",
+  "duree": "12 mois",
+  "contexte": "Sucrerie betteravière 320 pers., fusion 2 coopératives ayant généré doublons managériaux et processus contradictoires. Campagne 90 jours non-stop compromise : planning non consolidé, 2 GMAO incompatibles, moral équipes au plus bas. Unification chaîne de commandement campagne sous autorité unique. Fusion GMAO sur plateforme commune en 6 semaines. Rituel quotidien 6 h avec chefs de quart. Cellule de crise technique 24/7. Réassurance coopérateurs via communication terrain.",
+  "resultat": "Campagne menée à terme sans arrêt non planifié. Rendement extraction sucre 15,2 % (objectif 15 %). Zéro accident grave sur 90 jours. Fusion managériale consolidée, 1 seul organigramme opérationnel.",
+  "objectifs": []
+ },
+ {
+  "ordre": 2,
+  "fonction": "Directeur de production",
+  "secteur": "Raffinage sucre",
+  "titre": "Directeur de production — Optimisation cristallisation et réduction consommation énergie raffinage",
+  "duree": "16 mois",
+  "contexte": "Raffinerie sucre 180 pers., process continu, consommation vapeur 30 % au-dessus benchmark européen. Cristalliseurs vieillissants, granulométrie irrégulière générant 5 % de sucre déclassé. CAPEX cristallisation budgété mais non lancé depuis 2 ans. Lancement CAPEX cristalliseurs (4,2 M€) avec pilotage serré. Optimisation circuit vapeur (récupération condensats, calorifugeage). Installation régulation automatique cuisson. Formation 20 opérateurs conduite process optimisée.",
+  "resultat": "Consommation vapeur –22 %. Sucre déclassé ramené de 5 % à 1,2 %. Granulométrie conforme 98,5 % (vs 91 %). ROI cristalliseurs atteint en 26 mois. Économie énergie 1,1 M€/an.",
+  "objectifs": []
+ },
+ {
+  "ordre": 3,
+  "fonction": "Directeur qualité",
+  "secteur": "Édulcorants & polyols",
+  "titre": "Directeur qualité — Qualification process édulcorants & polyols pour pharma et food grade",
+  "duree": "18 mois",
+  "contexte": "Usine édulcorants/polyols 95 pers., opportunité marché pharma (sorbitol injectable) exigeant qualification BPF. Site certifié FSSC 22000 food grade uniquement. Écart majeur sur salle blanche, traçabilité et validation nettoyage. Construction salle blanche ISO 7 dédiée conditionnement pharma. Qualification équipements (QI/QO/QP) sur ligne sorbitol. Validation nettoyage résidus croisés. Formation 15 opérateurs aux BPF. Double certification FSSC 22000 + BPF.",
+  "resultat": "Certification BPF obtenue en 14 mois. Premier lot pharma livré et approuvé. CA pharma = 2,4 M€ première année (marge ×2,5 vs food). Audit ANSM sans observation majeure.",
+  "objectifs": []
+ },
+ {
+  "ordre": 4,
+  "fonction": "DAF",
+  "secteur": "Sucrerie de betterave",
+  "titre": "DAF — Restructuration financière sucrerie coopérative post-fin des quotas européens",
+  "duree": "22 mois",
+  "contexte": "Sucrerie coopérative 280 pers., fin des quotas sucriers européens ayant provoqué chute du prix sucre de 420 à 310 €/t. Résultat d'exploitation –3,8 M€. Endettement critique, coopérateurs inquiets sur pérennité. Plan de performance 360° : réduction coûts fixes –15 %, renégociation dette avec pool bancaire (allongement 3 ans). Diversification revenus : méthanisation pulpes (1,2 M€ revenus additionnels), vente d'énergie vapeur à industriel voisin. Reporting coopérateurs trimestriel transparent.",
+  "resultat": "Retour à l'équilibre en 20 mois. Revenus diversifiés = 18 % du CA (vs 0 %). Dette restructurée, ratio dette/EBITDA de 8,1 à 4,2. Assemblée coopérateurs : vote de confiance unanime.",
+  "objectifs": []
+ },
+ {
+  "ordre": 5,
+  "fonction": "Directeur de maintenance",
+  "secteur": "Sucres spéciaux & caramels",
+  "titre": "Directeur de maintenance — Plan de fiabilisation CAPEX chaudières et turbines sucrerie en campagne",
+  "duree": "11 mois",
+  "contexte": "Site sucres spéciaux & caramels 145 pers., 3 arrêts chaudière non planifiés pendant campagne (coût 800 K€ chacun). Turbine vapeur en fin de vie, vibrations hors tolérance. Maintenance préventive inexistante sur utilités, 100 % curatif. Révision majeure turbine vapeur (rééquilibrage rotor, remplacement paliers). Plan préventif chaudières avec analyse vibratoire et thermographie mensuelle. Installation capteurs IoT sur 12 points critiques. Création poste ingénieur fiabilité dédié utilités.",
+  "resultat": "Zéro arrêt non planifié sur campagne suivante. Disponibilité utilités portée à 99,4 % (vs 94 %). Économie évitée 2,4 M€/an. Durée de vie turbine prolongée de 8 ans estimés.",
+  "objectifs": []
+ },
+ {
+  "ordre": 6,
+  "fonction": "Supply & Achats",
+  "secteur": "Sucrerie de betterave",
+  "titre": "Supply & Achats — Optimisation logistique betterave et approvisionnement campagne sucrière",
+  "duree": "8 mois",
+  "contexte": "Sucrerie 260 pers., campagne 90 jours nécessitant 8 000 t betteraves/jour. Logistique d'arrachage et transport gérée par 120 planteurs avec coordination empirique. Files d'attente camions 4 h en moyenne, surcoûts transport 600 K€/campagne. Déploiement plateforme digitale de prise de rendez-vous camions (créneaux 30 min). Optimisation tournées avec géolocalisation parcelles. Formation 120 planteurs à l'outil digital. Recrutement 2 coordinateurs logistique campagne. Stockage tampon betteraves étendu de 24 h à 48 h.",
+  "resultat": "Attente moyenne camions réduite à 35 min (–85 %). Surcoûts transport ramenés à 180 K€ (–70 %). 95 % des planteurs utilisent la plateforme dès campagne 2. Régularité approvisionnement usine : écart journalier <±5 %.",
+  "objectifs": []
+ }
+]

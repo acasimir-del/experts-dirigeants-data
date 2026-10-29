@@ -1,0 +1,62 @@
+[
+ {
+  "ordre": 1,
+  "fonction": "Directeur de production",
+  "secteur": "",
+  "titre": "Structuration de l'ordonnancement campagne trituration",
+  "duree": "6 mois",
+  "contexte": "Site de trituration colza-tournesol en campagne continue (7j/7) avec des équipes postées en 3x8. Ordonnancement piloté au jour le jour par le responsable production, sans anticipation des changements de graine ni coordination avec la supply chain. Rendement d'extraction en retrait de 1,2 point vs objectif groupe.",
+  "resultat": "Planning de trituration structuré sur 3 semaines glissantes avec arbitrages graine intégrés. Rendement d'extraction remonté au niveau objectif groupe. Temps de transition colza/tournesol réduit de 30%. Rituels production/supply instaurés quotidiennement.",
+  "objectifs": []
+ },
+ {
+  "ordre": 1,
+  "fonction": "Directeur qualité",
+  "secteur": "",
+  "titre": "Harmonisation IFS/BRC post-acquisition site trituration",
+  "duree": "6 mois",
+  "contexte": "Site de trituration de 60 salariés racheté dans le cadre d'une fusion mondiale. Certification IFS du cédant expirée, BRC jamais tentée. Nouveau groupe exige double certification sous 8 mois. Aucun responsable qualité sur site.",
+  "resultat": "Double certification IFS Higher Level et BRC Grade A obtenue. Système qualité intégré au référentiel groupe. 8 procédures food safety harmonisées.",
+  "objectifs": []
+ },
+ {
+  "ordre": 2,
+  "fonction": "Directeur de maintenance",
+  "secteur": "",
+  "titre": "Lancement démarche TPM post-restructuration groupe",
+  "duree": "7 mois",
+  "contexte": "Site de trituration stratégique en pleine réorganisation post-fusion groupe. Passage d'un modèle géographique à un modèle par activité. Équipes démobilisées, procédures de maintenance non harmonisées avec les standards groupe. Besoin d'embarquer les opérateurs dans une démarche structurée.",
+  "resultat": "Maintenance autonome déployée sur la ligne de trituration principale. Standards visuels de nettoyage-inspection installés. 85% des opérateurs formés niveau 1. Taux de pannes mineures réduit de 30%.",
+  "objectifs": []
+ },
+ {
+  "ordre": 2,
+  "fonction": "Directeur d'usine",
+  "secteur": "",
+  "titre": "Structuration qualité post-incident traçabilité",
+  "duree": "5 mois",
+  "contexte": "Non-conformité traçabilité détectée par un client grande surface. Menace de déréférencement. DU en place mais dépassé.",
+  "resultat": "Plan traçabilité déployé. Re-audit client réussi. Référencement maintenu.",
+  "objectifs": []
+ },
+ {
+  "ordre": 3,
+  "fonction": "Finance & RH",
+  "secteur": "",
+  "titre": "Sécurisation du financement CAPEX et restructuration de la dette pour modernisation site raffinage",
+  "duree": "6 mois",
+  "contexte": "Site de raffinage huile engagé dans un programme de modernisation de 45 M€. La trésorerie est absorbée par la volatilité des cours des graines et les covenants bancaires sont proches du seuil de déclenchement. Le DPO fournisseurs dépasse 90 jours.",
+  "resultat": "Ligne de crédit revolving de 20 M€ négociée, DPO ramené à 65 jours, covenants restructurés avec marge de confort de 15%, plan de financement CAPEX validé sur 4 ans.",
+  "objectifs": []
+ },
+ {
+  "ordre": 3,
+  "fonction": "Supply & Achats",
+  "secteur": "",
+  "titre": "Mise en place du multi-sourcing emballages et sécurisation des approvisionnements conditionnement",
+  "duree": "5 mois",
+  "contexte": "Centre technique et plateformes pilotes de trituration-raffinage de 80 personnes, en pleine modernisation (programme de 60 M€). Approvisionnements en emballages industriels (fûts, conteneurs, big-bags) et réactifs chimiques de laboratoire gérés sans référentiel fournisseurs structuré. 40% des achats hors production réalisés en gré à gré sans mise en concurrence. Ruptures de consommables laboratoire retardant les essais pilotes de 2 à 3 semaines. Pas de processus de qualification fournisseurs formalisé.",
+  "resultat": "Référentiel fournisseurs structuré avec 45 fournisseurs qualifiés sur les 8 familles d'achats critiques. Processus de consultation systématique mis en place pour tout achat supérieur à 5 K€. Délai moyen de disponibilité des consommables labo ramené à 5 jours (vs 18 jours). Économies de 120 K€/an sur les achats hors production par mise en concurrence. Contrats cadres signés avec 3 fournisseurs stratégiques.",
+  "objectifs": []
+ }
+]

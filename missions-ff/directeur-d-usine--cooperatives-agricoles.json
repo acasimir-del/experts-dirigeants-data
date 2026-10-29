@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Pilotage de site multi-activités après fusion de deux coopératives",
+  "duree": "9 mois",
+  "region": "Centre-Val de Loire",
+  "taille": "280 collaborateurs",
+  "niveau": "Cohérence",
+  "tension": "Gouvernance",
+  "contexte": "Fusion de deux coopératives céréalières créant un site unique regroupant malterie, silo de collecte et usine d'aliment. Deux cultures d'entreprise incompatibles, équipements hétérogènes et gouvernance d'élus à reconstruire. Directeur d'usine parti avant la fin de l'intégration.",
+  "resultat": "Plan d'intégration des équipes finalisé en 4 mois. TRS du site porté de 72 % à 84 %. Coûts de structure réduits de 1,2 M€/an. Gouvernance unifiée avec un seul comité de pilotage.",
+  "filiere": "Coopératives agricoles",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Reprise de direction d'usine d'aliment en pleine campagne de moisson",
+  "duree": "6 mois",
+  "region": "Bretagne",
+  "taille": "120 collaborateurs",
+  "niveau": "Existence",
+  "tension": "Industriel",
+  "contexte": "Départ inopiné du directeur d'usine en juillet, en pleine campagne de collecte. Usine de fabrication d'aliment composé pour volaille avec réception de 800 tonnes/jour de céréales. Tensions avec les adhérents sur les délais de réception aux silos.",
+  "resultat": "Campagne de collecte gérée sans rupture d'approvisionnement. Délai de réception camions ramené de 3h à 45 min. Taux de réclamation adhérents réduit de 60 %. Coût de revient aliment stabilisé à -2 %.",
+  "filiere": "Coopératives agricoles",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Modernisation d'un réseau de 25 silos de stockage céréalier",
+  "duree": "12 mois",
+  "region": "Île-de-France",
+  "taille": "450 collaborateurs",
+  "niveau": "Transformation",
+  "tension": "Industriel",
+  "contexte": "Réseau de 25 silos hérités de trois fusions successives. Équipements de séchage et de ventilation obsolètes, non-conformités ATEX identifiées par la DREAL. Budget de 8 M€ voté par le conseil d'administration pour un plan de modernisation sur 3 ans.",
+  "resultat": "12 silos remis aux normes ATEX. Capacité de séchage augmentée de 35 %. Consommation énergétique réduite de 22 %. Plan d'investissement triennal validé par le CA avec co-financement régional de 1,5 M€.",
+  "filiere": "Coopératives agricoles",
+  "badgeIsomorphe": false
+ }
+]

@@ -1,0 +1,15 @@
+[
+ {
+  "ordre": 2,
+  "titre": "Montée en cadence ligne pâtisserie surgelée après transfert de production",
+  "duree": "6 mois",
+  "region": "Rhône-Alpes",
+  "taille": "435 personnes",
+  "niveau": "Performance",
+  "tension": "Industriel",
+  "contexte": "Transfert de 2 lignes de pâtisserie surgelée depuis un site cédé. Cadence plafonnée à 55% de la nominale à J+90. Conducteurs en 3×8 issus d'autres ateliers, non formés aux spécificités de la surgélation. TRS à 42% avec des micro-arrêts récurrents sur les doseuses et les tunnels de surgélation. Objectif groupe de livrer les premiers OF MDD sous 4 mois.",
+  "resultat": "Cadence nominale atteinte à J+150. TRS porté de 42% à 68%. 12 conducteurs qualifiés sur les 2 lignes transférées. Standards de démarrage et de nettoyage en place déployés. Premiers OF MDD livrés à J+105 conformes au cahier des charges client.",
+  "filiere": "Boulangerie & pâtisserie",
+  "badgeIsomorphe": false
+ }
+]

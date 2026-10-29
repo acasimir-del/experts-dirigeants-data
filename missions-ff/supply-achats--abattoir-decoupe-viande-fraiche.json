@@ -1,0 +1,28 @@
+[
+ {
+  "ordre": 2,
+  "titre": "Restructuration panel fournisseurs bétail et sécurisation des approvisionnements vif",
+  "duree": "6 mois",
+  "region": "Bretagne",
+  "taille": "800 personnes",
+  "niveau": "Existence",
+  "tension": "Finance",
+  "contexte": "Abattoir gros bétail (800+ salariés, 3 sites). Érosion du cheptel bovin français (-8% en 3 ans) mettant sous tension l'approvisionnement vif. Panel éleveurs vieillissant, 25% des fournisseurs historiques partis à la retraite sans reprise. Volatilité des cotations viande (+18% en 6 mois). Aucune contractualisation annuelle avec les éleveurs. Concurrence accrue avec les abattoirs allemands sur le sourcing frontalier.",
+  "resultat": "Panel fournisseurs restructuré avec 40 nouveaux éleveurs contractualisés sur 12 mois. Contrats annuels avec indexation transparente couvrant 65% des volumes. Cellule sourcing créée avec veille cotations hebdomadaire. Cost avoidance estimé 1,5 M€/an vs achats spot. Taux de couverture approvisionnement porté à 85% sur 8 semaines glissantes.",
+  "filiere": "Abattoir / découpe & viande fraîche",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Fiabilisation MRP et gestion des pénuries emballages en découpe-conditionnement",
+  "duree": "5 mois",
+  "region": "Bretagne",
+  "taille": "2 500 personnes",
+  "niveau": "Cohérence",
+  "tension": "Industriel",
+  "contexte": "Groupe intégré abattage-découpe-élaborés (14 sites, 2 500 salariés). Pénuries répétées de barquettes operculées et de films rétractables paralysant les lignes de conditionnement (45 arrêts non planifiés en 6 mois). MRP non paramétré sur les consommables d'emballage. Lead times fournisseurs passés de 4 à 12 semaines post-crise sans mise à jour. Aucun stock de sécurité formalisé sur les références critiques.",
+  "resultat": "MRP étendu aux 120 références emballages avec stocks de sécurité différenciés. Arrêts de ligne pour rupture emballage ramenés de 45 à 4 sur le semestre. Dual-sourcing déployé sur les 15 références critiques. Lead times actualisés trimestriellement avec alertes automatiques. Gain de productivité estimé à 320 heures de production récupérées.",
+  "filiere": "Abattoir / découpe & viande fraîche",
+  "badgeIsomorphe": false
+ }
+]

@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Pilotage financier conversion cage-plein air multi-sites",
+  "duree": "9 mois",
+  "region": "Pays de la Loire",
+  "taille": "340 collaborateurs",
+  "niveau": "Transformation",
+  "tension": "Finance",
+  "contexte": "Programme d'investissement de 28 M EUR sur 3 sites pour sortir des cages amenagees. Montage financier complexe (subventions FranceAgriMer, prets verts). DAF parti en cours de projet.",
+  "resultat": "Dossiers de subventions obtenus pour 4,2 M EUR. Plan de financement boucle avec 3 banques. Suivi budgetaire mis en place, ecart contenu a +3 %. Reporting mensuel operationnel.",
+  "filiere": "Œufs & ovoproduits",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Restructuration sociale site conditionnement en difficulte",
+  "duree": "6 mois",
+  "region": "Hauts-de-France",
+  "taille": "130 collaborateurs",
+  "niveau": "Existence",
+  "tension": "RH",
+  "contexte": "Site de conditionnement deficitaire depuis 2 ans. PSE envisage pour 25 postes. Climat social degrade, absenteisme a 14 %. DRH en arret longue duree.",
+  "resultat": "Plan de sauvegarde negocie avec les partenaires sociaux en 10 semaines. 18 reclassements internes trouves. Absenteisme ramene a 7 %. Accord GPEC signe pour les postes maintenus.",
+  "filiere": "Œufs & ovoproduits",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Mise en place controle de gestion industriel casserie",
+  "duree": "5 mois",
+  "region": "Normandie",
+  "taille": "85 collaborateurs",
+  "niveau": "Performance",
+  "tension": "Finance",
+  "contexte": "Site casserie sans controle de gestion structure. Couts de revient approximatifs, pas de suivi des rendements matiere par lot. Marges reelles inconnues par famille de produit.",
+  "resultat": "Comptabilite analytique deployee avec 8 centres de cout. Rendements matiere suivis par lot (objectif 94 %, realise 93,5 %). Ecart de marge identifie de 320 000 EUR/an sur ovoproduits seches.",
+  "filiere": "Œufs & ovoproduits",
+  "badgeIsomorphe": false
+ }
+]

@@ -1,0 +1,62 @@
+[
+ {
+  "ordre": 3,
+  "fonction": "Directeur qualité",
+  "secteur": "Salaison sèche",
+  "titre": "Reprise qualité après perte certification IFS",
+  "duree": "7 mois",
+  "contexte": "Score IFS passé sous le seuil Higher lors du dernier audit. DQ parti. Deux clients GMS conditionnent le maintien de leurs contrats au rétablissement sous 6 mois.",
+  "resultat": "Score IFS Higher retrouvé en 5 mois. Zéro perte de contrat GMS. Système documentaire refondu, formation des chefs d'atelier déployée.",
+  "objectifs": []
+ },
+ {
+  "ordre": 4,
+  "fonction": "Supply & Achats",
+  "secteur": "Charcuterie cuite & sèche",
+  "titre": "Restructuration supply chain post-consolidation",
+  "duree": "8 mois",
+  "contexte": "Fusion de 3 sites de salaison. Directeur supply muté sur un autre périmètre. Stocks de matière première incohérents entre sites, surcoûts logistiques de 15%.",
+  "resultat": "Schéma logistique unifié. Coûts de transport réduits de 18%. Plateforme d'approvisionnement mutualisée, taux de rupture ramené sous 2%.",
+  "objectifs": []
+ },
+ {
+  "ordre": 4,
+  "fonction": "Finance & RH",
+  "secteur": "",
+  "titre": "Negociation d'un accord d'entreprise et apaisement du dialogue social sur site charcutier en tension",
+  "duree": "6 mois",
+  "contexte": "Site charcutier avec climat social degrade apres echec des NAO. Le CSE multiplie les procedures, les IRP contestent l'organisation des equipes en zone froide, un preavis de greve est depose en pleine campagne de Noel.",
+  "resultat": "Accord d'entreprise signe sur l'amenagement du temps de travail en zone froide. NAO conclues avec +2,8% et primes froid revalorisees. Preavis de greve leve. Climat social stabilise, taux de satisfaction salaries remonte de 38% a 62%.",
+  "objectifs": []
+ },
+ {
+  "ordre": 4,
+  "fonction": "Directeur d'usine",
+  "secteur": "",
+  "titre": "Optimisation multi-sites et harmonisation des process",
+  "duree": "10 mois",
+  "contexte": "Coopérative exploitant 5 sites de salaison éclatés géographiquement (Bretagne, Normandie, Auvergne). Rendements matière hétérogènes entre sites (écart de 8 pts). Aucun référentiel commun qualité/production. DG cherche un profil industriel senior pour harmoniser et piloter un plan d'efficience.",
+  "resultat": "Référentiel production unifié déployé sur 5 sites. Écart de rendement réduit à 2 pts. Économies de 1,2M€ sur les consommables. Certification IFS harmonisée.",
+  "objectifs": []
+ },
+ {
+  "ordre": 5,
+  "fonction": "Finance & RH",
+  "secteur": "",
+  "titre": "GPEC et fidelisation des operateurs dans une charcuterie confrontee a la penurie de competences",
+  "duree": "9 mois",
+  "contexte": "Charcutier industriel en zone semi-rurale avec turnover de 30% et difficultes a recruter des operateurs qualifies (tranchage, cuisson, conditionnement). Interim a 38%, absence de plan formation, aucune demarche marque employeur.",
+  "resultat": "GPEC deployee avec cartographie des 8 metiers critiques. 18 interimaires CDIses. Turnover ramene a 16%. Ecole interne de charcuterie lancee avec 2 promotions de 10 apprenants. Taux d'interim reduit a 20%.",
+  "objectifs": []
+ },
+ {
+  "ordre": 6,
+  "fonction": "Directeur d'usine",
+  "secteur": "",
+  "titre": "Pilotage fermeture de site et reclassement du personnel",
+  "duree": "8 mois",
+  "contexte": "Fermeture programmée d'un site de charcuterie cuite de 180 salariés en banlieue parisienne. Transfert de production vers le site breton du groupe. Aucun DU en place après le départ anticipé du titulaire. Syndicats mobilisés, risque de blocage.",
+  "resultat": "Fermeture achevée dans les délais. 85% du personnel reclassé ou accompagné. Transfert de production sans rupture d'approvisionnement client. Zéro jour de blocage.",
+  "objectifs": []
+ }
+]

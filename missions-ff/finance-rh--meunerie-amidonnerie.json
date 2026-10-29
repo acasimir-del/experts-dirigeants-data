@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Déploiement du contrôle de gestion industriel et pilotage des coûts de transformation multi-moulins",
+  "duree": "8 mois",
+  "region": "Centre-Val de Loire",
+  "taille": "450 personnes",
+  "niveau": "Cohérence",
+  "tension": "Finance",
+  "contexte": "Réseau de 8 moulins régionaux traitant 500 000 tonnes de blé par an sans contrôle de gestion centralisé. Chaque moulin a ses propres méthodes de calcul de rendement et les budgets de production ne sont pas consolidés. L'intégration au groupe coopératif impose une convergence des standards.",
+  "resultat": "Référentiel de coûts unifié sur 8 sites, identification de 2,4 M€ d'écarts de performance inter-moulins, reporting mensuel consolidé opérationnel, budget prévisionnel campagne déployé.",
+  "filiere": "Meunerie & amidonnerie",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Structuration des clôtures mensuelles et mise en conformité IFRS pour groupe meunier en croissance externe",
+  "duree": "7 mois",
+  "region": "Île-de-France",
+  "taille": "380 personnes",
+  "niveau": "Transformation",
+  "tension": "Gouvernance",
+  "contexte": "Groupe meunier historique ayant réalisé 3 acquisitions en 18 mois. Les normes comptables diffèrent entre les entités, les amortissements des moulins acquis ne sont pas harmonisés et la consolidation IFRS exigée par la maison mère n'est pas maîtrisée en interne.",
+  "resultat": "Processus de clôture unifié à J+10, référentiel d'amortissement harmonisé, premiers comptes IFRS certifiés, économie de 340 K€/an sur honoraires d'audit externes.",
+  "filiere": "Meunerie & amidonnerie",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Pilotage de trésorerie et gestion du risque matière première en période de volatilité blé",
+  "duree": "6 mois",
+  "region": "Picardie",
+  "taille": "150 personnes",
+  "niveau": "Existence",
+  "tension": "Finance",
+  "contexte": "Minoterie régionale dont les achats de blé représentent 70% du chiffre d'affaires. Les prévisions de cash sont inexistantes, le crédit fournisseur est au maximum et la couverture matière première sur Euronext est mal gérée, générant des pertes de 600 K€ sur la dernière campagne.",
+  "resultat": "Modèle de prévision cash à 13 semaines déployé, politique de couverture formalisée limitant le risque à 20% du volume, ligne de financement campagne restructurée à conditions améliorées.",
+  "filiere": "Meunerie & amidonnerie",
+  "badgeIsomorphe": false
+ }
+]

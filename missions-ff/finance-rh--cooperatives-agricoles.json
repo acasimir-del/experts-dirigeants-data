@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Harmonisation des conventions collectives et conduite des NAO post-fusion",
+  "duree": "9 mois",
+  "region": "Nouvelle-Aquitaine",
+  "taille": "650 collaborateurs",
+  "niveau": "Cohérence",
+  "tension": "RH",
+  "contexte": "Fusion de deux coopératives créant un groupe de 650 salariés avec 3 conventions collectives différentes. Deux CSE distincts à unifier. Grilles salariales incompatibles générant des tensions entre anciens collectifs. NAO à conduire dans un calendrier contraint.",
+  "resultat": "CSE unique constitué dans les délais réglementaires. Grille salariale harmonisée signée par 3 OS sur 4. NAO conclues avec accord triennal. Économies récurrentes de 800 K€/an sur les fonctions support. Absentéisme réduit de 28 %.",
+  "filiere": "Coopératives agricoles",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Mise en place du contrôle de gestion par branche d'activité coopérative",
+  "duree": "7 mois",
+  "region": "Île-de-France",
+  "taille": "380 collaborateurs",
+  "niveau": "Performance",
+  "tension": "Finance",
+  "contexte": "Coopérative multi-métiers (collecte, nutrition animale, distribution rurale) sans contrôle de gestion par branche. Résultat global masquant des pertes sur la branche distribution. Conseil d'administration demandant une visibilité par activité pour arbitrer les investissements.",
+  "resultat": "Comptabilité analytique par branche déployée en 4 mois. Identification d'une perte de 1,4 M€ sur la branche distribution. Plan de redressement validé par le CA. Reporting mensuel par branche présenté au bureau du conseil.",
+  "filiere": "Coopératives agricoles",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "GPEC et plan de fidélisation des compétences techniques en zone rurale",
+  "duree": "10 mois",
+  "region": "Occitanie",
+  "taille": "160 collaborateurs",
+  "niveau": "Transformation",
+  "tension": "RH",
+  "contexte": "Coopérative en zone rurale avec un turnover de 25 % sur les postes de techniciens de maintenance et conducteurs d'installations. Difficultés de recrutement liées à l'isolement géographique. Aucune cartographie des compétences ni parcours de progression formalisé.",
+  "resultat": "Cartographie des 28 métiers et référentiel de compétences déployés. Turnover réduit à 12 %. Partenariats signés avec 2 lycées agricoles et 1 CFA. Plan de polyvalence avec 45 % des opérateurs formés à 2 postes minimum.",
+  "filiere": "Coopératives agricoles",
+  "badgeIsomorphe": false
+ }
+]

@@ -1,0 +1,62 @@
+[
+ {
+  "ordre": 1,
+  "fonction": "Directeur d'usine",
+  "secteur": "PET & soufflage",
+  "titre": "Directeur d'usine de transition — conversion ligne extrusion vers rPET alimentaire",
+  "duree": "10 mois",
+  "contexte": "Site d'extrusion-soufflage PET alimentaire. Obligation réglementaire 25 % rPET à horizon 12 mois. Ligne pilote rPET à 60 % de rendement cible, contamination résiduelle hors spec food-contact. CAPEX 4,2 M€ validé mais déploiement bloqué.",
+  "resultat": "Ligne rPET qualifiée food-contact EFSA en 8 mois, rendement porté à 94 %, taux incorporation rPET à 30 % (au-delà de l'obligation), 2 contrats MDD renouvelés grâce à la certification.",
+  "objectifs": []
+ },
+ {
+  "ordre": 2,
+  "fonction": "Directeur de production",
+  "secteur": "Emballage plastique alimentaire",
+  "titre": "Directeur de production de transition — lancement ligne mono-matériau barquettes",
+  "duree": "8 mois",
+  "contexte": "ETI emballage plastique alimentaire. Clients GMS exigent barquettes mono-matériau PP recyclable. Nouvelle ligne thermoformage livrée mais montée en cadence à 45 % de l'objectif. Pertes matière à 12 %, changements de format trop longs (>90 min).",
+  "resultat": "Cadence portée à 92 % de l'objectif, pertes matière réduites à 4,5 %, changements de format ramenés à 35 min (SMED), 3 nouveaux clients signés pour la gamme mono-matériau.",
+  "objectifs": []
+ },
+ {
+  "ordre": 3,
+  "fonction": "Directeur qualité",
+  "secteur": "Opercules & films",
+  "titre": "Directeur qualité de transition — certification food-contact après incident migration",
+  "duree": "6 mois",
+  "contexte": "PME films et opercules alimentaires. Alerte migration substances (NIAS) détectée par un client laitier. Suspension de 2 agréments food-contact, rappel de lots, perte de confiance du top 3 clients. Plan de remédiation exigé sous 60 jours.",
+  "resultat": "2 agréments food-contact restaurés en 45 jours, plan NIAS systématique déployé, zéro alerte sur 5 mois post-mission, audits BRC Packaging renouvelés grade AA.",
+  "objectifs": []
+ },
+ {
+  "ordre": 4,
+  "fonction": "Supply & Achats",
+  "secteur": "Carton ondulé alimentaire",
+  "titre": "Supply & Achats de transition — restructuration achats résines et carton",
+  "duree": "7 mois",
+  "contexte": "Site carton ondulé alimentaire. Prix papier kraftliner en hausse de 30 % non répercutée, marge opérationnelle passée de 11 % à 4 %. Aucune clause d'indexation dans les contrats clients, achats fragmentés sur 15 fournisseurs sans effet volume.",
+  "resultat": "Panel consolidé à 6 fournisseurs stratégiques, clauses d'indexation intégrées dans 80 % des contrats clients, marge opérationnelle remontée à 9 %, économies achats de 1,4 M€/an.",
+  "objectifs": []
+ },
+ {
+  "ordre": 5,
+  "fonction": "Directeur de maintenance",
+  "secteur": "PET & soufflage",
+  "titre": "Directeur de maintenance de transition — fiabilisation parc machines extrusion",
+  "duree": "8 mois",
+  "contexte": "Site soufflage PET, parc de 8 souffleuses dont 3 de plus de 15 ans. TRS à 62 %, pannes non planifiées représentant 18 % du temps machine. Pas de GMAO, maintenance curative uniquement. CAPEX modernisation refusé 2 fois par manque de business case.",
+  "resultat": "GMAO déployée, plan préventif sur 100 % du parc, TRS porté à 79 %, pannes réduites de 55 %, business case validé pour remplacement de 2 souffleuses (ROI 22 mois).",
+  "objectifs": []
+ },
+ {
+  "ordre": 6,
+  "fonction": "DRH",
+  "secteur": "Emballage plastique alimentaire",
+  "titre": "DRH de transition — accompagnement social restructuration site emballage",
+  "duree": "9 mois",
+  "contexte": "ETI emballage en restructuration : fermeture d'une ligne polystyrène (interdiction réglementaire), reconversion de 45 opérateurs vers lignes PP et carton. Dialogue social tendu, 2 préavis de grève, pas de plan de formation.",
+  "resultat": "PSE évité, 38 opérateurs reconvertis sur nouvelles lignes (plan de formation 1 200 h), accord GPEC signé, dialogue social restauré, zéro jour de grève.",
+  "objectifs": []
+ }
+]

@@ -1,0 +1,28 @@
+[
+ {
+  "ordre": 2,
+  "titre": "Mise en place maintenance autonome et standards TPM en laiterie",
+  "duree": "6 mois",
+  "region": "Pays de la Loire",
+  "taille": "344 personnes",
+  "niveau": "Cohérence",
+  "tension": "Efficience",
+  "contexte": "Laiterie historique de 344 personnes avec culture opérateur très cloisonnée. Les conducteurs de ligne n'effectuent aucune opération de maintenance de niveau 1. Encrassement récurrent des échangeurs thermiques et des CIP provoquant des pertes matière. Direction engagée dans une démarche Lean mais maintenance laissée de côté.",
+  "resultat": "5S déployé sur 100% des zones techniques. 28 opérateurs formés à la maintenance autonome niveau 1-2. Réduction de 30% des interventions correctives. Standards de nettoyage-inspection créés et affichés sur chaque équipement.",
+  "filiere": "Lait & ingrédients laitiers",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Étude d'implantation et pilotage travaux neufs pour tour de séchage lait infantile",
+  "duree": "14 mois",
+  "region": "Vendée",
+  "taille": "217 personnes",
+  "niveau": "Transformation",
+  "tension": "Finance",
+  "contexte": "Investissement structurant de 30M€ pour une tour de séchage lait infantile. Cahier des charges technique à rédiger en collaboration avec le bureau d'études du groupe. Contraintes bâtimentaires et utilités (vapeur, froid, air comprimé) à intégrer sur un site existant de 217 personnes. Budget CAPEX à piloter sur 18 mois.",
+  "resultat": "Cahier des charges technique livré en J+60. Installation réceptionnée conforme au planning. Qualification équipement obtenue au 1er audit. 70 postes créés et intégrés. Budget respecté à -1,5%.",
+  "filiere": "Lait & ingrédients laitiers",
+  "badgeIsomorphe": false
+ }
+]

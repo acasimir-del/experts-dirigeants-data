@@ -1,0 +1,28 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Lissage de charge et ordonnancement en conserverie de légumes face à la saisonnalité des approvisionnements",
+  "duree": "8 mois",
+  "region": "Bretagne",
+  "taille": "860 personnes • 3 sites",
+  "niveau": "Performance",
+  "tension": "Industriel",
+  "contexte": "Conserverie-surgelés de 860 personnes sur 3 sites, 170 000 t de légumes/an. Campagne de récolte concentrée sur 14 semaines avec des pics à 3×8 + week-end. Ordonnancement des OF en mode pompier, arbitrages quotidiens entre lignes de conserve et lignes de surgelés. Taux de service dégradé à 87% en saison haute. Équipes saisonnières de 200 personnes intégrées sans standards.",
+  "resultat": "Ordonnancement anticipé S+3 déployé avec arbitrage conserve/surgelé formalisé. Taux de service porté à 95,5% en campagne. Parcours d'intégration saisonniers en 4 jours avec qualification poste. Réduction des pertes matière de 8% en phase de montée en cadence campagne.",
+  "filiere": "Conserverie",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 1,
+  "titre": "Pilotage de la saisonnalité et lissage de charge en conserverie de légumes",
+  "duree": "8 mois",
+  "region": "Hauts-de-France",
+  "taille": "100 permanents + 150 saisonniers",
+  "niveau": "Performance",
+  "tension": "Industriel",
+  "contexte": "Conserverie de 250 personnes en pic (100 permanents + 150 saisonniers), 6 lignes, 68 000 t/an de légumes. Campagne de juillet à octobre concentrant 60% du volume annuel. Ordonnancement des OF en mode réactif, conducteurs débordés. Taux de service dégradé à 89% en période de pointe.",
+  "resultat": "Taux de service maintenu à 96,8% pendant la campagne. Planification anticipée J+5 déployée. Intégration saisonniers structurée avec parcours en 5 jours. Réduction de 30% des rebuts de démarrage de campagne.",
+  "filiere": "Conserverie",
+  "badgeIsomorphe": false
+ }
+]

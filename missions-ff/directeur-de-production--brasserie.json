@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Montée en cadence conditionnement après transfert de volume inter-sites",
+  "duree": "7 mois",
+  "region": "Nord",
+  "taille": "~320 personnes",
+  "niveau": "Performance",
+  "tension": "Industriel",
+  "contexte": "Site brassicole de 320 personnes reprenant 1,5 Mhl/an suite à la fermeture d'une brasserie voisine. Lignes de conditionnement canettes et fûts PET à monter en cadence de 40%. Équipes postées en 3x8 non dimensionnées pour le nouveau volume. Conducteurs de ligne formés sur bouteilles verre uniquement. TRS canettes à 62% contre un objectif groupe à 78%.",
+  "resultat": "TRS canettes remonté à 76% en 5 mois. SMED déployé sur 2 lignes canettes et 1 ligne fûts, temps de changement de format réduit de 35%. 18 conducteurs polyvalents formés bouteilles-canettes. Organisation 3x8 stabilisée avec passage en 4x8 sur les lignes critiques pendant la montée en charge.",
+  "filiere": "Brasserie",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Lean management et réduction des pertes en salle de brassage grand volume",
+  "duree": "6 mois",
+  "region": "Provence-Alpes-Côte d'Azur",
+  "taille": "~180 personnes",
+  "niveau": "Performance",
+  "tension": "Efficience",
+  "contexte": "Brasserie de 180 personnes produisant 1,2 Mhl/an sur 4 lignes de conditionnement. Rendement matière dégradé de 2,5 points en un an. Pertes identifiées au soutirage, au transfert inter-cuves et en fond de tank. Aucun standard de conduite écrit pour les conducteurs de brassage. Rituels de production inexistants, Kaizen jamais déployé sur le site.",
+  "resultat": "Rendement matière regagné de 2,1 points. Standards de conduite formalisés pour 8 recettes principales. Rituels Kaizen quotidiens de 15 min instaurés avec les conducteurs de chaque poste. Pertes au soutirage réduites de 40% par recalibrage des procédures et formation des opérateurs.",
+  "filiere": "Brasserie",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Structuration des équipes postées et gestion de la saisonnalité estivale",
+  "duree": "5 mois",
+  "region": "Alsace",
+  "taille": "~200 personnes",
+  "niveau": "Cohérence",
+  "tension": "RH",
+  "contexte": "Brasserie familiale de 200 personnes avec un pic saisonnier mai-août représentant 55% du volume annuel. Équipes en 3x8 classique toute l'année, sans flexibilité pour absorber le pic. Recours massif à l'intérim (jusqu'à 60 personnes) mal encadré. Turn-over intérimaires à 45%. OF planifiés à la semaine sans lissage de charge.",
+  "resultat": "Organisation flexible déployée : passage en 4x8 sur mai-août avec pool de 25 intérimaires formés et fidélisés. Turn-over intérim ramené à 18%. Lissage des OF sur 6 semaines glissantes avec arbitrage hebdomadaire production/commerce. Taux de service maintenu à 96% pendant le pic contre 88% l'année précédente.",
+  "filiere": "Brasserie",
+  "badgeIsomorphe": false
+ }
+]

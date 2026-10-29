@@ -1,0 +1,28 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Deploiement du controle de gestion industriel et analyse des couts de transformation en chocolaterie",
+  "duree": "7 mois",
+  "region": "Rhône-Alpes",
+  "taille": "145 personnes",
+  "niveau": "Cohérence",
+  "tension": "Finance",
+  "contexte": "Chocolaterie artisanale en croissance rapide sans systeme de comptabilite analytique. Les PRI sont calcules sur des standards obsoletes, les ecarts de performance en temperage et moulage ne sont pas mesures.",
+  "resultat": "Mise en place d'un PRI actualise par gamme avec decomposition des couts matieres, energie et MOD. Reporting mensuel des variances par atelier. Identification de 380 K EUR de surcouts evitables sur le temperage.",
+  "filiere": "Chocolaterie & confiserie",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Optimisation du BFR et pilotage tresorerie dans une chocolaterie soumise a la volatilite cacao",
+  "duree": "8 mois",
+  "region": "Drôme",
+  "taille": "180 personnes",
+  "niveau": "Existence",
+  "tension": "Finance",
+  "contexte": "Chocolatier premium dont le BFR explose a cause de la flambee des cours du cacao (+80% en 18 mois). DPO insuffisant, pas de couverture matiere, relations bancaires deteriorees apres breach de covenant.",
+  "resultat": "DPO allonge de 32 a 55 jours via renegociation fournisseurs. Mise en place de couvertures cacao a 6 mois. Refinancement obtenu avec nouveau covenant adapte. Tresorerie stabilisee malgre volatilite cours.",
+  "filiere": "Chocolaterie & confiserie",
+  "badgeIsomorphe": false
+ }
+]

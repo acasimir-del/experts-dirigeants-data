@@ -1,0 +1,84 @@
+[
+ {
+  "ordre": 1,
+  "fonction": "Directeur de production",
+  "secteur": "",
+  "titre": "Optimisation de l'ordonnancement multi-espèces et réduction des temps de changement de formule",
+  "duree": "7 mois",
+  "contexte": "Usine d'aliments composés de 180 personnes, 120 000 t/an, 14 espèces cibles (ruminants, volailles, porcs). 280 formules actives avec un ordonnancement des OF géré manuellement. Temps de changement de formule à 45 minutes en moyenne avec flush systématique. Contaminations croisées récurrentes entre lignes médicamenteuses et standard. Cadence plafonnée par le séquencement non optimisé.",
+  "resultat": "Ordonnancement optimisé avec matrice de compatibilité espèces réduisant les flush de 40%. Temps de changement moyen ramené à 22 minutes. Cadence globale augmentée de 15% sans investissement capacitaire. Zéro non-conformité contamination croisée sur 6 mois.",
+  "objectifs": []
+ },
+ {
+  "ordre": 1,
+  "fonction": "Directeur qualité",
+  "secteur": "",
+  "titre": "Structuration qualité post-rachat et déploiement référentiel Oqualim sur réseau d'usines",
+  "duree": "12 mois",
+  "contexte": "Groupe de nutrition animale ayant racheté 5 usines d'aliments composés. Sites acquis sous référentiels hétérogènes (GMP+, RCNA, aucun). Nécessité d'harmoniser sous le référentiel Oqualim, de reprendre le plan HACCP alimentation animale et de sécuriser la gestion des contaminations croisées (médicamenteux, mycotoxines).",
+  "resultat": "5 usines certifiées Oqualim en 10 mois. Plan HACCP aliment bétail harmonisé couvrant 28 sites. Réduction de 78% des non-conformités contamination croisée médicamenteux.",
+  "objectifs": []
+ },
+ {
+  "ordre": 2,
+  "fonction": "Supply & Achats",
+  "secteur": "Coopérative agricole polyvalente — projet TMS multi-flux",
+  "titre": "Pilotage projet TMS multi-flux — collecte céréales, animaux vifs et navettes inter-usines",
+  "duree": "14 mois",
+  "contexte": "Coopérative agricole polyvalente exploitant trois typologies de transport non intégrées : collecte céréales saisonnière (silos, bord-champ adhérents), ramassage animaux vifs (bétaillères vers abattoirs intégrés) et navettes inter-usines (aliment composé, lait, viandes). Pilotage des tournées sur tableurs, pas de visibilité temps réel, traçabilité bien-être animal manuelle, optimisation de chargement à dire d'expert. Direction générale a arbitré le déploiement d'un TMS unifié couvrant les trois flux. Pas de chef de projet SI métier disponible en interne, équipes exploitation déjà saturées par la production.",
+  "resultat": "TMS déployé sur les trois flux dans les délais et le budget cadrés. Optimisation tournées : -14% kilomètres parcourus à volume constant, +9 points de taux de remplissage. OTIF service adhérent passé de 88% à 96% sur la collecte céréales. Conformité bien-être animal automatisée, registre transport vif dématérialisé sans saisie manuelle. Équipes exploitation autonomes en run, gouvernance projet transférée au directeur transport.",
+  "objectifs": [
+   "Cadrer le besoin fonctionnel multi-flux et arbitrer l'éditeur TMS (RFP, soutenance, négociation). Piloter le déploiement projet bout-en-bout sur 12 à 18 mois : paramétrage, intégration SI coop existant (ERP, balance silos, traçabilité abattoir), formation des exploitants et chauffeurs, conduite du changement. Sécuriser la conformité réglementaire embarquée (CMR, registre transport vif, durées). Démontrer le ROI via gains tournées et OTIF service adhérent."
+  ]
+ },
+ {
+  "ordre": 2,
+  "fonction": "Directeur de maintenance",
+  "secteur": "",
+  "titre": "Démarche TPM et formation opérateurs sur site de prémélanges additifs",
+  "duree": "6 mois",
+  "contexte": "Usine de 273 personnes produisant 37 000t/an de prémélanges pour nutrition animale. Piliers TPM inexistants malgré la complexité des équipements (doseurs micro-ingrédients, mélangeurs haute précision). Opérateurs constatent les dérives sans intervenir. MTTR trop élevé faute de diagnostic rapide.",
+  "resultat": "3 piliers TPM déployés (maintenance autonome, amélioration continue, formation). 20 opérateurs formés au diagnostic premier niveau. MTTR réduit de 30%. Standards d'auto-inspection mis en place sur 100% des doseurs critiques.",
+  "objectifs": []
+ },
+ {
+  "ordre": 3,
+  "fonction": "Directeur de production",
+  "secteur": "",
+  "titre": "Montée en cadence nouvelle ligne après investissement 16 M€",
+  "duree": "8 mois",
+  "contexte": "Coopérative de 850 personnes, investissement de 16,6 M€ dans une nouvelle unité de nutrition animale. Ligne installée mais cadence plafonnée à 60% de la capacité nominale à J+120. Équipes en 3×8 nouvellement recrutées, conducteurs issus d’autres secteurs. TRS à 48%.",
+  "resultat": "Cadence nominale atteinte à J+210. TRS porté à 72%. 18 conducteurs formés et qualifiés en 3×8 sur la nouvelle ligne. Standards de démarrage et de changement de formule déployés. Première production à pleine cadence livrée dans les délais coopérative.",
+  "objectifs": []
+ },
+ {
+  "ordre": 3,
+  "fonction": "Directeur d'usine",
+  "secteur": "",
+  "titre": "Démarrage d'une nouvelle unité de production",
+  "duree": "10 mois",
+  "contexte": "Nouveau site de production petfood premium. Recrutement, formation, certification FSSC 22000 à réaliser.",
+  "resultat": "FSSC 22000 obtenu en J+150. Première livraison client à J+165.",
+  "objectifs": []
+ },
+ {
+  "ordre": 4,
+  "fonction": "Directeur d'usine",
+  "secteur": "Coopérative nutrition animale",
+  "titre": "Pilotage extension capacité nutrition animale — service à l'éleveur adhérent",
+  "duree": "7 mois",
+  "contexte": "Coopérative de nutrition animale de 850 salariés servant 4 500 adhérents éleveurs. Investissement de 16,6 M€ pour une nouvelle unité d'aliments bio destinée à l'approvisionnement des sociétaires. DU en surcharge entre exploitation courante et projet. Risque de retard sur les délais contractuels et sur la sécurisation de l'aliment livré aux éleveurs adhérents.",
+  "resultat": "Unité livrée dans les délais. Première production à J+140. Coût final conforme au budget à +2%. Continuité d'approvisionnement aliment maintenue pour les éleveurs adhérents pendant tout le chantier.",
+  "objectifs": []
+ },
+ {
+  "ordre": 6,
+  "fonction": "Finance & RH",
+  "secteur": "Coopérative meunière fusionnée",
+  "titre": "Conduite du PDV et réorganisation post-fusion de deux coopératives meunières — Amont végétal",
+  "duree": "11 mois",
+  "contexte": "Fusion de deux coopératives céréalières créant un groupe de 5 500 collaborateurs sur 60 usines, porté par 8 000 céréaliers adhérents. Le plan de départs volontaires concerne 180 postes en fonctions support et les conventions collectives des deux entités doivent être harmonisées sous 15 mois. Gouvernance à reconstruire entre les deux conseils d'administration d'élus, sans rupture du contrat coopératif envers les sociétaires.",
+  "resultat": "PDV finalisé avec 92% de volontaires, harmonisation des grilles de classification réalisée, économies récurrentes de 4,2 M€/an sur les fonctions support, engagement salarié maintenu à 72%. Continuité du service rendu aux adhérents préservée tout au long de la fusion.",
+  "objectifs": []
+ }
+]

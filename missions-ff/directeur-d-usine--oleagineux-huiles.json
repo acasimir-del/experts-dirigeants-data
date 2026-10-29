@@ -1,0 +1,28 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Interim DU pendant arrêt maladie",
+  "duree": "6 mois",
+  "region": "Champagne-Ardenne",
+  "taille": "500+ salariés (groupe), site campagne 45 permanents + saisonniers",
+  "niveau": "Performance",
+  "tension": "Efficience",
+  "contexte": "DU en arrêt maladie suite à burn-out. Site de trituration colza, 45 salariés permanents + saisonniers campagne. Campagne à 4 semaines.",
+  "resultat": "Campagne assurée sans incident. Rendements conformément aux objectifs.",
+  "filiere": "Oléagineux & huiles",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Restructuration post-fusion de deux sites",
+  "duree": "10 mois",
+  "region": "Nord",
+  "taille": "500+ salariés multi-sites",
+  "niveau": "Transformation",
+  "tension": "Efficience",
+  "contexte": "Deux sites de production fusionnés après rachat. Cultures, process et systèmes différents. Actionnaire exigeant des synergies rapides.",
+  "resultat": "Unification des process en J+120. Économies de 900K€ identifiées et mises en œuvre.",
+  "filiere": "Oléagineux & huiles",
+  "badgeIsomorphe": false
+ }
+]

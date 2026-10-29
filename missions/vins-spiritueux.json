@@ -1,0 +1,62 @@
+[
+ {
+  "ordre": 1,
+  "fonction": "Directeur d'usine",
+  "secteur": "Grands crus & châteaux",
+  "titre": "Management de transition vendange et départ maître de chai",
+  "duree": "9 mois",
+  "contexte": "Château classé (Grand Cru, 250 000 bouteilles/an) confronté au départ brutal du maître de chai à 6 semaines des vendanges. Aucun plan de succession, millésime à enjeu commercial majeur, équipe cave de 8 personnes déstabilisée.",
+  "resultat": "Vendange pilotée sans incident qualitatif (note Parker 94), recrutement maître de chai pérenne finalisé à M+4, processus de vinification documenté pour la première fois (12 fiches procédé).",
+  "objectifs": []
+ },
+ {
+  "ordre": 2,
+  "fonction": "Directeur de production",
+  "secteur": "Champagne & effervescents",
+  "titre": "CAPEX nouvelle ligne d'embouteillage et montée en cadence champagne",
+  "duree": "11 mois",
+  "contexte": "Maison de Champagne (4 M bouteilles/an) investissant 5,5 M EUR dans une ligne d'embouteillage automatisée. Ligne existante à 110 % de capacité nominale, casse verre à 3,5 %, pression sur les délais export Noël.",
+  "resultat": "Nouvelle ligne opérationnelle 8 semaines avant pic Noël, casse verre réduite à 0,8 %, capacité +60 %, délai moyen de livraison export réduit de 12 à 5 jours.",
+  "objectifs": []
+ },
+ {
+  "ordre": 3,
+  "fonction": "Directeur qualité",
+  "secteur": "Cognac & eaux-de-vie",
+  "titre": "Conformité interprofessionnelle et audit BNIC distillerie cognac",
+  "duree": "7 mois",
+  "contexte": "Distillerie de cognac (15 000 hl AP/an) sous pression du BNIC après non-conformités d'étiquetage export et traçabilité lots vieillissement incomplète. Risque de suspension du droit d'usage de l'appellation, 40 % du CA à l'export (Chine, US).",
+  "resultat": "100 % des non-conformités BNIC soldées en 4 mois, traçabilité chai digitalisée (2 500 fûts), audit interprofessionnel passé sans réserve, export Chine sécurisé (+18 % volume).",
+  "objectifs": []
+ },
+ {
+  "ordre": 4,
+  "fonction": "Supply & Achats",
+  "secteur": "Négoce viticole",
+  "titre": "Pilotage crise export et diversification marchés négoce viticole",
+  "duree": "8 mois",
+  "contexte": "Maison de négoce (8 M bouteilles/an) perdant 25 % de son CA export suite aux surtaxes US et au ralentissement chinois. Sur-stock de 2 M bouteilles, trésorerie tendue, 80 vignerons partenaires en attente de paiement.",
+  "resultat": "3 nouveaux marchés ouverts (Corée, Canada, Scandinavie) compensant 70 % du CA perdu, stock réduit de 40 % en 6 mois, délai de paiement vignerons ramené de 120 à 60 jours.",
+  "objectifs": []
+ },
+ {
+  "ordre": 5,
+  "fonction": "Directeur de maintenance",
+  "secteur": "Cognac & eaux-de-vie",
+  "titre": "Fiabilisation chai de vieillissement et programme maintenance fûts",
+  "duree": "6 mois",
+  "contexte": "Maison de cognac gérant 35 000 fûts en chai de vieillissement. Part des anges supérieure de 1,2 point à la norme régionale (fûts dégradés), système de régulation hygrométrique défaillant, 3 incidents d'oxydation en 12 mois.",
+  "resultat": "Part des anges ramenée dans la norme (-1,1 point), régulation hygrométrique rénovée (18 chais), programme de réforme fûts structuré (800 fûts/an), zéro incident d'oxydation sur 6 mois.",
+  "objectifs": []
+ },
+ {
+  "ordre": 6,
+  "fonction": "DAF",
+  "secteur": "Champagne & effervescents",
+  "titre": "Redressement financier et restructuration dette maison de champagne",
+  "duree": "10 mois",
+  "contexte": "Maison de Champagne familiale (2,5 M bouteilles) avec dette de 22 M EUR (stock vieillissement + CAPEX cave). Ratio dette/EBITDA à 7,2x, covenants en breach, banque principale menaçant d'appeler ses garanties.",
+  "resultat": "Refinancement structuré obtenu (pool 3 banques, maturité 7 ans), ratio dette/EBITDA ramené à 4,8x, cession d'actifs non stratégiques (vignoble secondaire) pour 3,5 M EUR, trésorerie sécurisée à 18 mois.",
+  "objectifs": []
+ }
+]

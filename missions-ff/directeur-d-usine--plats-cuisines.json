@@ -1,0 +1,28 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Interim DU pendant recrutement CDI — Plats cuisinés",
+  "duree": "7 mois",
+  "region": "Normandie",
+  "taille": "240 sal. · 5 lignes · 3×8",
+  "niveau": "Cohérence",
+  "tension": "RH",
+  "contexte": "DU parti à la retraite sans passation. Site de 240 salariés en 3x8, 5 lignes de conditionnement, référencements GMS à défendre.",
+  "resultat": "Taux de service maintenu à 96,8%. Recrutement CDI accompagné et passation réalisée.",
+  "filiere": "Plats cuisinés",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Redressement suite audit IFS échoué",
+  "duree": "6 mois",
+  "region": "Picardie",
+  "taille": "288 sal. · 2 usines",
+  "niveau": "Existence",
+  "tension": "Légitimité ext.",
+  "contexte": "Audit IFS 7 échoué Higher Level. Perte d'un client exportation imminente. DU en place mais incapable de piloter le plan correctif.",
+  "resultat": "Re-audit réussi Higher Level en 10 semaines. Client export maintenu.",
+  "filiere": "Plats cuisinés",
+  "badgeIsomorphe": false
+ }
+]

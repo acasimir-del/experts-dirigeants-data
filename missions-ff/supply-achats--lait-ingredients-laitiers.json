@@ -1,0 +1,15 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Structuration supply chain laitière et amélioration OTIF collecte-livraison",
+  "duree": "7 mois",
+  "region": "Pays de la Loire",
+  "taille": "340 personnes • 1 site",
+  "niveau": "Cohérence",
+  "tension": "Commerce",
+  "contexte": "Laiterie historique de 340 personnes collectant 220 millions de litres par an auprès de 400 éleveurs dans un rayon de 100 km. Organisation supply chain inexistante en tant que fonction : la collecte, la planification et l'expédition sont gérées par 3 services distincts sans coordination. OTIF livraison GMS à 89% avec pénalités logistiques croissantes. Pas de S&OP, planning de production calé sur les arrivages lait du jour.",
+  "resultat": "Fonction supply chain créée avec un responsable dédié. Processus S&OP hebdomadaire intégrant prévisions collecte et demande GMS. OTIF remonté à 96,8%. Pénalités logistiques réduites de 75%. Planning de production anticipé à J+5.",
+  "filiere": "Lait & ingrédients laitiers",
+  "badgeIsomorphe": false
+ }
+]

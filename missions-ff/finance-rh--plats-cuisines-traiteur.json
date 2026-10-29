@@ -1,0 +1,28 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Construction du PRI et analyse des écarts de coût par recette sur site de plats cuisinés surgelés",
+  "duree": "7 mois",
+  "region": "Finistère",
+  "taille": "340 personnes",
+  "niveau": "Performance",
+  "tension": "Finance",
+  "contexte": "Site de plats cuisinés surgelés produisant 200 références MDD et marque propre. Le contrôle de gestion ne dispose d'aucun PRI structuré et les coûts de revient sont calculés en moyenne pondérée sans distinction par ligne. Les écarts de grammage non détectés pèsent 4% sur la marge brute.",
+  "resultat": "PRI déployé sur 6 lignes avec 18 indicateurs clés, écarts de grammage réduits de 4% à 1,2%, reporting hebdomadaire par recette opérationnel, gain de marge brute de 850 K€/an.",
+  "filiere": "Plats cuisinés & traiteur",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Optimisation du BFR et pilotage cash en contexte de croissance externe accélérée",
+  "duree": "6 mois",
+  "region": "Cantal",
+  "taille": "650 personnes",
+  "niveau": "Transformation",
+  "tension": "Commerce",
+  "contexte": "ETI de plats cuisinés en croissance externe rapide avec 55 M€ d'investissements en cours sur 5 sites. Le BFR dérape sous l'effet des stocks MDD à rotation lente, le DSO GMS dépasse 60 jours et les lignes de crédit arrivent à saturation alors que deux acquisitions sont en négociation.",
+  "resultat": "BFR réduit de 8 jours de CA, programme d'affacturage de 15 M€ déployé, DSO GMS ramené à 48 jours, capacité de financement libérée pour les acquisitions.",
+  "filiere": "Plats cuisinés & traiteur",
+  "badgeIsomorphe": false
+ }
+]

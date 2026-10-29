@@ -1,0 +1,28 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Déploiement S&OP et pilotage du taux de service en embouteillage multi-formats",
+  "duree": "8 mois",
+  "region": "Bourgogne",
+  "taille": "320 personnes",
+  "niveau": "Cohérence",
+  "tension": "Commerce",
+  "contexte": "Site d'embouteillage jus de fruits (320 salariés, 6 lignes haute cadence). Absence de processus S&OP structuré : prévisions commerciales non intégrées au plan de charge usine. Taux de service OTIF tombé à 84% sur les MDD. Stocks de produits finis à 28 jours, dont 15% de destruction pour dépassement DLC. Entrepôt saturé, pas de visibilité au-delà de 2 semaines.",
+  "resultat": "S&OP mensuel déployé avec boucle hebdomadaire PDP. Taux de service OTIF remonté à 96%. Stock moyen ramené à 18 jours avec réduction de 70% des destructions DLC. Couverture prévisionnelle portée à 12 semaines glissantes. Gain estimé 1,2 M€/an en cost avoidance sur les pertes matières.",
+  "filiere": "Eaux & boissons sans alcool",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Fiabilisation MRP et réduction des ruptures sur lignes de conditionnement boissons",
+  "duree": "7 mois",
+  "region": "Nord-Pas-de-Calais",
+  "taille": "470 personnes",
+  "niveau": "Existence",
+  "tension": "Industriel",
+  "contexte": "Plateforme de production boissons gazeuses (470 salariés, 9 lignes). MRP non fiabilisé : paramètres de stock de sécurité et lead times fournisseurs non mis à jour depuis 3 ans. 12% de ruptures d'emballages (préformes PET, bouchons, étiquettes) provoquant des arrêts de ligne non planifiés. Supply risk management inexistant malgré la dépendance à un fournisseur unique sur les préformes.",
+  "resultat": "MRP recalibré avec revue trimestrielle des paramètres (lead times, stocks de sécurité, lots économiques). Taux de rupture emballages ramené de 12% à 2%. Mise en place d'un supply risk management avec scoring fournisseurs et plan de dual-sourcing sur les composants critiques. Gain de 180 heures de production récupérées sur 6 mois.",
+  "filiere": "Eaux & boissons sans alcool",
+  "badgeIsomorphe": false
+ }
+]

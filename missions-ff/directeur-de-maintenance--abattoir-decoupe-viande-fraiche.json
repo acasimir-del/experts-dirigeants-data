@@ -1,0 +1,28 @@
+[
+ {
+  "ordre": 2,
+  "titre": "Déploiement TPM et formation opérateurs en abattoir automatisé",
+  "duree": "9 mois",
+  "region": "Bretagne",
+  "taille": "800 personnes",
+  "niveau": "Performance",
+  "tension": "RH",
+  "contexte": "Abattoir bovin-ovin modernisé (bouverie automatisée) mais OEE dégradé à 58%. Opérateurs non formés à la maintenance de premier niveau sur les nouveaux équipements. Temps de nettoyage excessifs. Aucune démarche 5S ni SMED en place malgré l'investissement récent.",
+  "resultat": "OEE porté à 72%. 120 opérateurs formés maintenance niveau 1. 5S déployé sur 100% des ateliers découpe. Temps de nettoyage réduit de 25%. Standards de maintenance autonome créés et appliqués.",
+  "filiere": "Abattoir / découpe & viande fraîche",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Pilotage investissement froid autonome et rénovation ateliers de découpe",
+  "duree": "11 mois",
+  "region": "Normandie",
+  "taille": "350 personnes",
+  "niveau": "Transformation",
+  "tension": "Légitimité ext.",
+  "contexte": "Programme CAPEX de 8M€ pour installation d'un système de froid autonome et rénovation de 3 ateliers de découpe. Cahiers des charges à rédiger pour les équipementiers frigoristes. Études d'implantation complexes (contraintes sanitaires DDPP). Production à maintenir pendant les travaux.",
+  "resultat": "Système froid autonome opérationnel en J+200. 3 ateliers rénovés sans interruption de production. Consommation énergétique réduite de 22%. Réception provisoire validée par la DDPP. Budget respecté à +1,5%.",
+  "filiere": "Abattoir / découpe & viande fraîche",
+  "badgeIsomorphe": false
+ }
+]

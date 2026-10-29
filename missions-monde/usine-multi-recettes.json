@@ -1,0 +1,150 @@
+[
+ {
+  "ordre": 1,
+  "fonction": "Directeur d'usine",
+  "secteur": "Glaces bâtonnets & cônes",
+  "titre": "Directeur d'usine — Pilotage crise sanitaire et redémarrage site glaces bâtonnets",
+  "duree": "7 mois",
+  "contexte": "Site glaces bâtonnets & cônes 250 pers., rappel produit massif (contamination oxyde d'éthylène sur stabilisant). Arrêt de production 6 semaines. Pression médiatique et DGCCRF. 4 références retirées du marché. Cellule de crise 24/7 avec DGCCRF et distributeurs. Audit exhaustif 100 % des intrants (280 matières premières). Substitution stabilisant incriminé, revalidation formulations. Plan de communication client transparent. Redémarrage séquentiel ligne par ligne.",
+  "resultat": "Redémarrage complet en 8 semaines. Zéro nouveau rappel. 95 % des références re-référencées sous 4 mois. Confiance distributeurs restaurée, contrat saison estivale honoré.",
+  "objectifs": [],
+  "filiere": "Glaces & desserts glacés",
+  "filiereSlug": "glaces-desserts-glaces"
+ },
+ {
+  "ordre": 1,
+  "fonction": "Directeur d'usine",
+  "secteur": "Sauces condimentaires",
+  "titre": "Directeur d'usine — Redressement usine sauces condimentaires après rejet audit distributeur",
+  "duree": "9 mois",
+  "contexte": "Usine sauces condimentaires 160 pers., échec audit Walmart (score D). Perte imminente du contrat export US (18 % du CA). Non-conformités sur HACCP, gestion allergènes et traçabilité. Directeur précédent parti sans transition. Reprise en main immédiate : diagnostic 360° en 2 semaines. Refonte HACCP avec focus allergènes (moutarde, céleri, soja). Investissement 400 K€ en séparation physique lignes allergènes. Retraçabilité digitale lot par lot. Préparation re-audit Walmart à 6 mois.",
+  "resultat": "Re-audit Walmart passé score B+ à 6 mois. Contrat US maintenu et étendu (+2 références). Zéro alerte allergène sur 12 mois. Score IFS remonté de 85 à 96 %.",
+  "objectifs": [],
+  "filiere": "Condiments / sauces & vinaigres",
+  "filiereSlug": "condiments-sauces-vinaigres"
+ },
+ {
+  "ordre": 1,
+  "fonction": "Directeur qualité",
+  "secteur": "Gélules & comprimés",
+  "titre": "Transition GMP pharma sur site gélules & comprimés",
+  "duree": "9 mois",
+  "contexte": "Site historique en complément alimentaire souhaitant passer sous référentiel GMP pharma pour accéder aux marchés hospitaliers et export. Deux audits ANSM échoués. Documentation qualité héritée de 15 ans de croissance organique, jamais harmonisée.",
+  "resultat": "Certification GMP obtenue au 3e audit, 8 mois après prise de poste. 100 % des dossiers de lot reformatés. Formation de 12 référents qualité internes. Premier contrat hospitalier signé dans les 30 jours post-certification.",
+  "objectifs": [],
+  "filiere": "Compléments alimentaires & nutraceutique",
+  "filiereSlug": "complements-alimentaires-nutraceutique"
+ },
+ {
+  "ordre": 1,
+  "fonction": "Directeur d'usine",
+  "secteur": "Traiteur frais",
+  "titre": "Interim DU pendant lancement gamme traiteur frais",
+  "duree": "7 mois",
+  "contexte": "Départ du DU en plein lancement d'une gamme traiteur frais pour un distributeur majeur. 45 nouvelles recettes à industrialiser en 4 mois. Site gérant déjà 180 SKU avec un TRS moyen de 62 %. Le client menace de transférer le contrat à un concurrent polonais.",
+  "resultat": "45 recettes industrialisées en 14 semaines. TRS moyen remonté à 74 %. Contrat distributeur sécurisé pour 3 ans (+18 % de volume). Mise en place d'un processus d'industrialisation standardisé réduisant le time-to-market de 40 %.",
+  "objectifs": [],
+  "filiere": "Plats cuisinés & traiteur",
+  "filiereSlug": "plats-cuisines-traiteur"
+ },
+ {
+  "ordre": 1,
+  "fonction": "Directeur d'usine",
+  "secteur": "Chocolaterie de couverture",
+  "titre": "Restructuration de la production lors du départ du directeur d'usine en pleine campagne de Pâques",
+  "duree": "8 mois",
+  "contexte": "Départ soudain du directeur d'usine à trois semaines du pic de Pâques. Site spécialisé en chocolat de couverture avec 4 lignes de tempérage et une cadence saisonnière x3 sur février-mars — aucun plan de succession en place.",
+  "resultat": "Campagne de Pâques livrée à 98% OTIF (+7 pts vs N-1). OEE remonté de 62% à 74% sur les lignes de moulage. Taux de rebut tempérage ramené de 4,2% à 1,8%.",
+  "objectifs": [],
+  "filiere": "Chocolaterie & confiserie",
+  "filiereSlug": "chocolaterie-confiserie"
+ },
+ {
+  "ordre": 1,
+  "fonction": "Directeur d'usine",
+  "secteur": "Conserve de légumes",
+  "titre": "Reprise du pilotage industriel d'une conserverie de légumes après départ du directeur d'usine",
+  "duree": "8 mois",
+  "contexte": "Départ non anticipé du directeur d'usine en pleine montée en cadence saisonnière. Le site tourne en 3×8 sur 4 lignes d'appertisé légumes et perd en rendement matière depuis 3 mois.",
+  "resultat": "TRS remonté de 62 % à 78 %, taux de service client restauré à 97,5 %, réduction des pertes matière de 4,2 points.",
+  "objectifs": [],
+  "filiere": "Conserverie & surgelés",
+  "filiereSlug": "conserverie-surgeles"
+ },
+ {
+  "ordre": 1,
+  "fonction": "Directeur d'usine",
+  "secteur": "Boulangerie industrielle • Nord",
+  "titre": "Interim DU pendant recrutement CDI — BVP",
+  "duree": "6 mois",
+  "contexte": "DU parti à la concurrence avec préavis de 15 jours. Site de 4 lignes de production en feu continu, 280 collaborateurs.",
+  "resultat": "Taux de service maintenu à 97,5%. Recrutement CDI accompagné et passation réalisée.",
+  "objectifs": [
+   "Prendre la direction opérationnelle du site sous 5 jours",
+   "Maintenir le taux de service au-dessus de 96%",
+   "Accompagner le recrutement CDI et organiser la passation"
+  ],
+  "filiere": "Boulangerie viennoiserie & pâtisserie (BVP)",
+  "filiereSlug": "boulangerie-viennoiserie-patisserie-bvp"
+ },
+ {
+  "ordre": 1,
+  "fonction": "Supply & Achats",
+  "secteur": "",
+  "titre": "Sécurisation approvisionnements post-rupture fournisseur — BVP (Métier)",
+  "duree": "4 mois",
+  "contexte": "Fournisseur beurre principal en redressement judiciaire. Rupture imminente sur 40% des volumes. Pas de sourcing alternatif qualifié.",
+  "resultat": "Trois fournisseurs alternatifs qualifiés en 3 semaines. Zéro rupture de production. Panel fournisseurs restructuré.",
+  "objectifs": [],
+  "filiere": "Boulangerie viennoiserie & pâtisserie (BVP)",
+  "filiereSlug": "boulangerie-viennoiserie-patisserie-bvp"
+ },
+ {
+  "ordre": 1,
+  "fonction": "Finance & RH",
+  "secteur": "",
+  "titre": "Interim DAF site en période de clôture — BVP (Métier)",
+  "duree": "5 mois",
+  "contexte": "DAF parti en octobre, clôture annuelle à piloter. Pas de contrôle de gestion industriel en place, reporting groupe attendu en J+10.",
+  "resultat": "Clôture livrée en J+8. CDG industriel déployé par ligne. Recrutement CDI accompagné.",
+  "objectifs": [],
+  "filiere": "Boulangerie viennoiserie & pâtisserie (BVP)",
+  "filiereSlug": "boulangerie-viennoiserie-patisserie-bvp"
+ },
+ {
+  "ordre": 1,
+  "fonction": "Directeur qualité",
+  "secteur": "",
+  "titre": "Préparation audit IFS en urgence — BVP (Métier)",
+  "duree": "4 mois",
+  "contexte": "Directeur qualité parti 10 semaines avant l'audit IFS Higher Level. Documentation lacunaire, plan HACCP non à jour.",
+  "resultat": "Audit IFS Higher Level réussi à 96,2%. Plan HACCP refondu. Documentation qualité restructurée.",
+  "objectifs": [],
+  "filiere": "Boulangerie viennoiserie & pâtisserie (BVP)",
+  "filiereSlug": "boulangerie-viennoiserie-patisserie-bvp"
+ },
+ {
+  "ordre": 1,
+  "fonction": "Directeur de production",
+  "secteur": "",
+  "titre": "Stabilisation production post-départ directeur — BVP (Métier)",
+  "duree": "5 mois",
+  "contexte": "Directeur de production parti sans préavis sur un site de 6 lignes en 3x8. Rendements matière en baisse de 4 points en deux semaines.",
+  "resultat": "Rendements rétablis à 93%. Ordonnancement restructuré. Passation CDI réalisée.",
+  "objectifs": [],
+  "filiere": "Boulangerie viennoiserie & pâtisserie (BVP)",
+  "filiereSlug": "boulangerie-viennoiserie-patisserie-bvp"
+ },
+ {
+  "ordre": 1,
+  "fonction": "Directeur de maintenance",
+  "secteur": "",
+  "titre": "Structuration maintenance préventive site BVP (Métier)",
+  "duree": "6 mois",
+  "contexte": "Site de viennoiserie en 3x8 sans plan de maintenance préventive. Taux de panne à 8%, pertes de production hebdomadaires.",
+  "resultat": "Taux de panne ramené à 3,5%. Plan préventif niveaux 1-3 déployé. GMAO opérationnelle.",
+  "objectifs": [],
+  "filiere": "Boulangerie viennoiserie & pâtisserie (BVP)",
+  "filiereSlug": "boulangerie-viennoiserie-patisserie-bvp"
+ }
+]

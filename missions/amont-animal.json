@@ -1,0 +1,92 @@
+[
+ {
+  "ordre": 1,
+  "fonction": "Directeur d'usine",
+  "secteur": "Nutrition animale",
+  "titre": "Directeur d'usine de transition — redémarrage usine aliment du bétail post-grippe aviaire",
+  "duree": "8 mois",
+  "contexte": "Usine d'aliment du bétail spécialisée volaille, à l'arrêt partiel depuis 5 mois (grippe aviaire H5N1). Perte de 40 % du tonnage, trésorerie critique, 30 éleveurs intégrés en attente de repeuplement. Nécessité de redémarrer les lignes palmipèdes tout en maintenant la biosécurité.",
+  "resultat": "3 lignes redémarrées en 10 semaines, tonnage restauré à 85 % en 6 mois, protocole biosécurité renforcé (SAS, circuits séparés), zéro foyer secondaire, trésorerie stabilisée.",
+  "objectifs": []
+ },
+ {
+  "ordre": 2,
+  "fonction": "Directeur de production",
+  "secteur": "Nutrition animale",
+  "titre": "Directeur de production de transition — automatisation usine de nutrition animale",
+  "duree": "9 mois",
+  "contexte": "Feed mill produisant 280 000 t/an, process semi-automatisé. Erreurs de formulation (2 rappels en 18 mois), consommation énergétique élevée (broyage + granulation), coût de revient 8 % au-dessus du benchmark. Projet d'automatisation de la salle de commande retardé de 2 ans.",
+  "resultat": "Salle de commande automatisée (SCADA + pesée auto), zéro erreur formulation sur 10 mois, consommation énergétique –12 %, coût de revient ramené au benchmark sectoriel.",
+  "objectifs": []
+ },
+ {
+  "ordre": 2,
+  "fonction": "Directeur de production",
+  "secteur": "",
+  "titre": "Amélioration rendement matière et réduction pertes sur lignes de prémélanges",
+  "duree": "5 mois",
+  "contexte": "Usine de 273 personnes produisant 37 000 t/an de prémélanges additifs. Rendement matière à 96,2% avec des pertes sur le dosage micro-ingrédients et les transferts pneumatiques. Chaque point de rendement représente 120 k€ de matière première. Pas de démarche Kaizen formalisée.",
+  "resultat": "Rendement matière porté à 98,1%. Chantiers Kaizen déployés sur dosage et transfert. Économie matière de 230 k€ annualisée. Conducteurs formés au suivi des écarts de pesée et à la maîtrise des pertes aérauliques.",
+  "objectifs": []
+ },
+ {
+  "ordre": 3,
+  "fonction": "Directeur qualité",
+  "secteur": "Élevage intégré",
+  "titre": "Directeur qualité de transition — conformité environnementale élevage intégré",
+  "duree": "7 mois",
+  "contexte": "Intégrateur volaille, 120 éleveurs sous contrat. Mise en demeure DREAL pour dépassement seuils nitrates sur 8 sites, plan d'épandage non conforme. Risque de suspension ICPE et de rupture contrats GMS (cahier des charges RSE).",
+  "resultat": "8 plans d'épandage mis en conformité, méthaniseur co-financé avec 3 éleveurs pilotes, mise en demeure levée, label RSE GMS maintenu, 2 nouveaux référencements obtenus.",
+  "objectifs": []
+ },
+ {
+  "ordre": 3,
+  "fonction": "Supply & Achats",
+  "secteur": "Coopérative laitière",
+  "titre": "Structuration supply chain laitière et OTIF collecte-livraison — contexte coopératif",
+  "duree": "7 mois",
+  "contexte": "Laiterie coopérative historique de 340 personnes collectant 220 millions de litres par an auprès de 400 éleveurs adhérents dans un rayon de 100 km. Organisation supply chain inexistante en tant que fonction : la collecte chez les sociétaires, la planification et l'expédition GMS sont gérées par 3 services distincts sans coordination. OTIF livraison GMS à 89% avec pénalités logistiques croissantes. Engagement contractuel envers les producteurs adhérents à honorer à la goutte près. Pas de S&OP, planning de production calé sur les arrivages lait du jour.",
+  "resultat": "Fonction supply chain créée avec un responsable dédié. Processus S&OP hebdomadaire intégrant prévisions collecte adhérents et demande GMS. OTIF remonté à 96,8%. Pénalités logistiques réduites de 75%. Planning de production anticipé à J+5. Contrat de service envers les sociétaires producteurs sécurisé.",
+  "objectifs": []
+ },
+ {
+  "ordre": 3,
+  "fonction": "Directeur de production",
+  "secteur": "",
+  "titre": "Amélioration du rendement matière et déploiement du suivi TRS en usine d'aliments composés",
+  "duree": "6 mois",
+  "contexte": "Usine d'aliments composés de 400 personnes, 200 000 t/an. Rendement matière à 96,2% mais pertes concentrées sur le broyage et le mélange (poussières, résidus de trémie). Aucun suivi TRS formalisé, conducteurs en 3×8 sans indicateurs visuels. Objectif coopérative de réduire le coût de production de 2 €/t pour rester compétitif face aux fabricants privés.",
+  "resultat": "Rendement matière porté à 98,1%. TRS déployé sur 100% des lignes avec affichage temps réel. Conducteurs formés au relevé et à l'analyse des pertes. Économie de 1,8 €/t sur le coût de production, objectif coopérative atteint à 90%. Chantier aspiration poussières lancé pour le solde.",
+  "objectifs": []
+ },
+ {
+  "ordre": 4,
+  "fonction": "Supply & Achats",
+  "secteur": "Accouvage & sélection",
+  "titre": "Supply & Achats de transition — sécurisation approvisionnement accouvage génétique",
+  "duree": "6 mois",
+  "contexte": "Couvoir de sélection génétique avicole, 25 M œufs/an. Dépendance à un fournisseur unique de reproducteurs (Pays-Bas), délai de livraison passé de 6 à 14 semaines post-IAHP. Stock génétique critique, planning de mise en place éleveurs décalé de 8 semaines.",
+  "resultat": "Second fournisseur qualifié (Allemagne), stock reproducteurs sécurisé à 12 semaines, planning éleveurs rattrapé en 4 mois, contrat dual-source signé avec clause de force majeure.",
+  "objectifs": []
+ },
+ {
+  "ordre": 4,
+  "fonction": "Finance & RH",
+  "secteur": "",
+  "titre": "Gestion de crise sociale et médiation lors de l'intégration de sites post-rachat en nutrition animale",
+  "duree": "6 mois",
+  "contexte": "L'intégration de 5 usines de nutrition animale rachetées à un concurrent génère un conflit social majeur. Les salariés des sites acquis craignent des fermetures, le CSE du site principal refuse la modification des horaires d'intégration et une grève de 3 jours a paralysé la production. Un DRH de transition est missionné pour conduire la médiation.",
+  "resultat": "Protocole de fin de conflit signé en 3 semaines. Accord de méthode sur l'intégration négocié avec les 4 organisations syndicales. Garantie d'emploi de 24 mois formalisée. Commission paritaire de suivi mensuelle mise en place avec zéro jour de grève sur les 12 mois suivants.",
+  "objectifs": []
+ },
+ {
+  "ordre": 4,
+  "fonction": "Directeur d'usine",
+  "secteur": "",
+  "titre": "Interim DU suite intégration post-rachat",
+  "duree": "8 mois",
+  "contexte": "Intégration de 5 usines rachetées à un concurrent. DU historique parti avec l'ancienne direction. 28 sites à harmoniser, certifications Oqualim à maintenir. Aucun successeur disponible.",
+  "resultat": "Certifications Oqualim maintenues sur les 5 sites. Harmonisation des procédés lancée. Nouveau DU permanent recruté et intégré.",
+  "objectifs": []
+ }
+]

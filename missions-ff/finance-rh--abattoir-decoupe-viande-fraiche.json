@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 2,
+  "titre": "Reprise des clotures comptables et fiabilisation des provisions dans un groupe d'abattage en restructuration",
+  "duree": "10 mois",
+  "region": "Pays de la Loire",
+  "taille": "1 200 personnes",
+  "niveau": "Transformation",
+  "tension": "Légitimité ext.",
+  "contexte": "Groupe d'abattage avec 5 sites dont les clotures mensuelles sont hetero genes. Provisions pour risques environnementaux sous-evaluees, cut-off defaillant sur les achats de betail vif, amortissements des lignes de decoupe non a jour.",
+  "resultat": "Clotures harmonisees a J+12 sur les 5 sites. Provisions environnementales reajustees (+1,8 M EUR). Audit annuel sans reserve. Liasse fiscale consolidee livree dans les delais pour la premiere fois en 3 ans.",
+  "filiere": "Abattoir / découpe & viande fraîche",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Pilotage du cash et securisation du financement d'un abattoir cooperatif en tension de tresorerie",
+  "duree": "7 mois",
+  "region": "Normandie",
+  "taille": "260 personnes",
+  "niveau": "Existence",
+  "tension": "Finance",
+  "contexte": "Abattoir cooperatif avec BFR structurellement eleve lie aux delais de paiement eleveurs. DSO GMS a 58 jours, tresorerie negative 3 mois sur 12, financement du CAPEX pour nouvelle ligne de decoupe impossible en l'etat.",
+  "resultat": "Previsions cash rolling 13 semaines deployees. DSO reduit a 45 jours par renegociation conditions GMS. Mise en place d'un reverse factoring eleveurs. Financement CAPEX obtenu a 3,2 M EUR sur 7 ans.",
+  "filiere": "Abattoir / découpe & viande fraîche",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 5,
+  "titre": "Structuration RH et plan d'attractivite pour un site d'abattage en deficit chronique de main-d'oeuvre",
+  "duree": "9 mois",
+  "region": "Mayenne",
+  "taille": "450 personnes",
+  "niveau": "Performance",
+  "tension": "Efficience",
+  "contexte": "Abattoir porcin en zone rurale avec 40% d'interim et des difficultes majeures de recrutement. Turnover a 35% sur les postes de desosseurs. Absence de parcours formation, marque employeur inexistante, polyvalence non structuree.",
+  "resultat": "Parcours d'integration de 3 semaines deploye. 22 interimaires CDIses. Turnover ramene a 18%. Partenariat avec 2 CFA viande mis en place. Taux d'interim reduit a 22%. Programme polyvalence lance sur 4 postes cles.",
+  "filiere": "Abattoir / découpe & viande fraîche",
+  "badgeIsomorphe": false
+ }
+]

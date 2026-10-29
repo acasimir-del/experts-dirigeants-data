@@ -1,0 +1,32 @@
+[
+ {
+  "ordre": 1,
+  "fonction": "Directeur de maintenance",
+  "secteur": "",
+  "titre": "Plan de maintenance préventive et fiabilisation chaîne d'abattage",
+  "duree": "8 mois",
+  "contexte": "Site d'abattage et découpe bovine confronté à des arrêts récurrents de la chaîne d'abattage (MTBF de 4h). Ratio préventif/correctif de 20/80. Équipements de froid en fin de vie. Aucun suivi vibratoire ni thermographique. Fermeture d'une ligne sur un autre site augmentant la pression sur les volumes.",
+  "resultat": "MTBF porté à 12h. Ratio préventif/correctif amélioré à 55/45. Programme de remplacement froid lancé (phase 1 achevée). Capteurs vibratoires déployés sur 100% des compresseurs. Zéro rupture chaîne du froid.",
+  "objectifs": []
+ },
+ {
+  "ordre": 1,
+  "fonction": "Directeur d'usine",
+  "secteur": "",
+  "titre": "Interim DU pendant restructuration post-rachat",
+  "duree": "9 mois",
+  "contexte": "Départ du DU historique suite à cession. Site de 320 personnes, agrément sanitaire à renouveler dans 60 jours.",
+  "resultat": "Agrément renouvelé. TRS +9 pts. Passation au DU permanent à J+220.",
+  "objectifs": []
+ },
+ {
+  "ordre": 3,
+  "fonction": "Directeur d'usine",
+  "secteur": "",
+  "titre": "Management relais pendant congé maternité DU",
+  "duree": "7 mois",
+  "contexte": "Site de 180 personnes. Campagne estivale avec pic de charge. N-1 non opérationnel pour assurer l'intérim.",
+  "resultat": "Campagne tenue sans incident social ni qualité. DU titulaire réintégrée en douceur.",
+  "objectifs": []
+ }
+]

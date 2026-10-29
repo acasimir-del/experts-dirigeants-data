@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Deploiement du plan HACCP sur un nouveau site de produits traiteur de la mer",
+  "duree": "7 mois",
+  "region": "Bretagne",
+  "taille": "130 collaborateurs",
+  "niveau": "Transformation",
+  "tension": "Légitimité ext.",
+  "contexte": "Ouverture d'un nouveau site de preparation de produits traiteur a base de crustaces et coquillages. Plan HACCP a construire integralement. Agrement sanitaire europeen a obtenir avant le premier lot commercial.",
+  "resultat": "Agrement CE obtenu en 5 mois. Plan HACCP valide avec 14 CCP identifies. Certification IFS Food obtenue au premier audit avec score de 96 %. Zero alerte sanitaire sur les 6 premiers mois d'exploitation.",
+  "filiere": "Produits de la mer (pêche / aquaculture / transformation)",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Gestion de crise histamine et rappel produit en conserverie",
+  "duree": "4 mois",
+  "region": "Occitanie",
+  "taille": "110 collaborateurs",
+  "niveau": "Existence",
+  "tension": "Légitimité ext.",
+  "contexte": "Alerte RASFF sur un lot de conserves de thon avec taux d'histamine a 180 ppm (seuil reglementaire : 200 ppm). Rappel preventif de 45 000 boites. Enquete DGCCRF en cours. Reputation marque en jeu.",
+  "resultat": "Cause racine identifiee en 10 jours : rupture chaine du froid a la reception. Nouveau protocole de controle temperature deploye. Frequence analyses histamine doublee. Dossier DGCCRF cloture sans sanction. Perte de CA limitee a 120 K EUR.",
+  "filiere": "Produits de la mer (pêche / aquaculture / transformation)",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Obtention de la certification MSC chaine de controle pour un site de surgelation",
+  "duree": "6 mois",
+  "region": "Hauts-de-France",
+  "taille": "240 collaborateurs",
+  "niveau": "Cohérence",
+  "tension": "Commerce",
+  "contexte": "Site de surgelation de poisson blanc et crustaces. Client principal (enseigne GMS) exige la certification MSC chaine de controle sous 6 mois pour maintenir le referencement. Aucune experience interne de cette norme.",
+  "resultat": "Certification MSC obtenue en 5 mois. Tracabilite lot-par-lot deployee sur 100 % des references. Referencement client maintenu. 2 nouveaux clients gagnes grace a la certification. CA additionnel de 1,2 M EUR/an.",
+  "filiere": "Produits de la mer (pêche / aquaculture / transformation)",
+  "badgeIsomorphe": false
+ }
+]

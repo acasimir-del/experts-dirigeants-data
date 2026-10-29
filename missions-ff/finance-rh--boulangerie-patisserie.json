@@ -1,0 +1,28 @@
+[
+ {
+  "ordre": 3,
+  "titre": "Optimisation du BFR et pilotage de trésorerie en contexte de forte saisonnalité",
+  "duree": "8 mois",
+  "region": "Alsace",
+  "taille": "900 personnes",
+  "niveau": "Performance",
+  "tension": "Finance",
+  "contexte": "Une boulangerie industrielle régionale en forte croissance fait face à des tensions de trésorerie récurrentes liées à la saisonnalité des ventes (fêtes, rentrée). Le DSO dépasse 65 jours et le financement des investissements de capacité repose uniquement sur l'autofinancement. Un directeur financier de transition est missionné pour restructurer la gestion du cash.",
+  "resultat": "BFR réduit de 18 jours par renégociation des conditions fournisseurs et mise en place d'affacturage. DSO ramené à 45 jours. Ligne de crédit CAPEX de 4 M€ négociée avec le pool bancaire. Prévisions de trésorerie à 13 semaines glissantes opérationnelles.",
+  "filiere": "Boulangerie & pâtisserie",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 6,
+  "titre": "Pilotage PSE et reclassement lors de la fermeture d'une ligne de cakes",
+  "duree": "12 mois",
+  "region": "Centre-Val de Loire",
+  "taille": "350 personnes",
+  "niveau": "Existence",
+  "tension": "Légitimité ext.",
+  "contexte": "Un groupe de BVP décide de fermer une ligne de production de cakes sur un site historique, entraînant la suppression de 85 postes. Le PSE doit être conduit dans un bassin d'emploi tendu où l'entreprise est un employeur majeur. Un DRH de transition est missionné pour piloter la restructuration et l'accompagnement social.",
+  "resultat": "PSE homologué par la DREETS sans contentieux. 72 salariés reclassés dont 45 en interne sur d'autres sites du groupe. Cellule de reclassement externe avec taux de retour à l'emploi de 84 % à 12 mois. Transfert de 13 salariés vers un autre site du groupe.",
+  "filiere": "Boulangerie & pâtisserie",
+  "badgeIsomorphe": false
+ }
+]

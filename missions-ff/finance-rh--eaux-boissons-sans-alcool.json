@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Mise en place du controle de gestion industriel et suivi des ecarts de performance sur 3 lignes d'embouteillage",
+  "duree": "8 mois",
+  "region": "Hauts-de-France",
+  "taille": "210 personnes",
+  "niveau": "Cohérence",
+  "tension": "Finance",
+  "contexte": "Site d'embouteillage multi-formats sans comptabilite analytique fiable. Les ecarts entre couts standards et couts reels ne sont pas suivis, rendant impossible le pilotage de la marge brute par ligne de conditionnement.",
+  "resultat": "Deploiement d'un reporting usine mensuel avec analyse des variances par ligne. Marge brute par reference identifiee, budget production recale : ecart PRI reduit de 12% a 3% en 6 mois.",
+  "filiere": "Eaux & boissons sans alcool",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Restructuration du BFR et mise en place du credit management sur site d'embouteillage a facon",
+  "duree": "7 mois",
+  "region": "Nouvelle-Aquitaine",
+  "taille": "95 personnes",
+  "niveau": "Existence",
+  "tension": "Finance",
+  "contexte": "Embouteilleur sous-traitant avec DSO a 72 jours et tresorerie tendue. Absence de credit management structure, pas de previsions cash, financement CAPEX bloque par les banques faute de covenant respectes.",
+  "resultat": "DSO ramene a 48 jours. Ligne d'affacturage negociee a 2,5 M EUR. Covenant bancaire respecte 3 trimestres consecutifs, deblocage financement nouvelle ligne PET.",
+  "filiere": "Eaux & boissons sans alcool",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 4,
+  "titre": "Conduite du dialogue social et negociation NAO dans un contexte de modernisation de ligne boissons",
+  "duree": "6 mois",
+  "region": "Ile-de-France",
+  "taille": "280 personnes",
+  "niveau": "Performance",
+  "tension": "RH",
+  "contexte": "Projet de modernisation d'une ligne d'embouteillage generant des inquietudes sociales. Le CSE conteste le plan d'investissement, les NAO sont bloquees, et un risque de greve menace la campagne estivale.",
+  "resultat": "Accord NAO signe avec revalorisation de 3,2% et prime de polyvalence. Prevention du conflit social, maintien de la production pendant la campagne ete. Accord d'entreprise sur l'organisation du travail en 3x8.",
+  "filiere": "Eaux & boissons sans alcool",
+  "badgeIsomorphe": false
+ }
+]

@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Requalification salles blanches apres incident traitement d'air",
+  "duree": "5 mois",
+  "region": "Hauts-de-France",
+  "taille": "260 collaborateurs",
+  "niveau": "Existence",
+  "tension": "Industriel",
+  "contexte": "Panne majeure sur le systeme de traitement d'air d'un site de lait infantile. Mise en quarantaine de 3 ateliers sur 5. Production reduite de 60 %. Directeur de maintenance licencie suite a des defaillances repetees sur la maintenance preventive.",
+  "resultat": "Ateliers requalifies en 8 semaines. Plan de maintenance preventive restructure avec 340 points de controle. Taux de disponibilite utilites porte de 91 % a 99,2 %.",
+  "filiere": "Nutrition spécialisée",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Pilotage installation tour de sechage site nutrition clinique",
+  "duree": "10 mois",
+  "region": "Pays de la Loire",
+  "taille": "180 collaborateurs",
+  "niveau": "Transformation",
+  "tension": "Industriel",
+  "contexte": "Investissement de 25 M EUR pour une tour de sechage sur un site de nutrition clinique. Pilotage des travaux neufs, qualification des equipements et integration dans le plan de maintenance existant. Directeur de maintenance en arret longue duree.",
+  "resultat": "Tour mise en service avec 3 semaines d'avance. Qualification IQ/OQ/PQ validee du premier coup. Budget travaux neufs respecte a 98 %.",
+  "filiere": "Nutrition spécialisée",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Deploiement GMAO et plan de maintenance preventive site nutraceutique",
+  "duree": "7 mois",
+  "region": "Occitanie",
+  "taille": "95 collaborateurs",
+  "niveau": "Cohérence",
+  "tension": "Efficience",
+  "contexte": "Site de complements alimentaires sans GMAO structuree. Maintenance curative a 70 %. Taux de pannes sur les encapsuleuses et les melangeuses impactant la liberation des lots. Besoin de structurer la maintenance avant un audit BRC.",
+  "resultat": "GMAO deployee avec 1 200 gammes de maintenance. Ratio curatif/preventif inverse a 35/65. Taux de pannes non planifiees reduit de 45 %.",
+  "filiere": "Nutrition spécialisée",
+  "badgeIsomorphe": false
+ }
+]

@@ -1,0 +1,28 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Mise en conformite FSSC 22000 et restructuration du systeme qualite embouteillage",
+  "duree": "8 mois",
+  "region": "Ile-de-France",
+  "taille": "2 000 personnes",
+  "niveau": "Existence",
+  "tension": "Légitimité ext.",
+  "contexte": "Site d'embouteillage eau minerale (2 000 salaries, 30+ marques) en echec sur l'audit de renouvellement FSSC 22000. 14 non-conformites majeures identifiees dont 5 sur la maitrise des CCP (traitement ozone, rinceuse, soutireuse). Systeme documentaire obsolete, pas de revue de direction depuis 18 mois. Menace de perte de certification sous 6 mois.",
+  "resultat": "Certification FSSC 22000 v6 obtenue au premier passage. Arbre des CCP redessine (de 12 a 8 CCP pertinents). 100% des procedures critiques revisees et digitalisees. Formation HACCP de 180 operateurs. Taux de non-conformites internes reduit de 62% en 5 mois.",
+  "filiere": "Eaux & boissons sans alcool",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Digitalisation traçabilité et déploiement MES sur site multi-lignes",
+  "duree": "8 mois",
+  "region": "Loiret",
+  "taille": "~450 personnes",
+  "niveau": "Transformation",
+  "tension": "Efficience",
+  "contexte": "Site de production multi-marques avec 4 lignes PET et 1 ligne verre. Traçabilité encore partiellement papier. Exigences FSSC 22000 v6 imposant une traçabilité digitale complète. Fermeture d'un autre site du groupe en cours avec transfert de volumes. Le directeur qualité doit structurer le passage au MES tout en absorbant les nouveaux flux de production.",
+  "resultat": "MES déployé sur 4 lignes en 6 mois. Traçabilité lot-to-lot digitale opérationnelle. Temps de réponse rappel produit passé de 48h à 4h. Audit FSSC 22000 v6 réussi sans non-conformité majeure. Allergènes maîtrisés sur les nouvelles références transférées.",
+  "filiere": "Eaux & boissons sans alcool",
+  "badgeIsomorphe": false
+ }
+]

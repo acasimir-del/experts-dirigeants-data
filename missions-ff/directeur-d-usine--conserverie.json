@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Interim DU pendant campagne de transformé végétal",
+  "duree": "5 mois",
+  "region": "Bretagne",
+  "taille": "240 personnes (60 permanents + 180 saisonniers)",
+  "niveau": "Cohérence",
+  "tension": "RH",
+  "contexte": "DU démissionnaire 6 semaines avant la campagne petits pois. Site de 180 saisonniers + 60 permanents. Aucun successeur interne.",
+  "resultat": "Campagne assurée sans incident. Rendement matère +4%. DU permanent recruté pour la suivante.",
+  "filiere": "Conserverie",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Redressement performance post-audit IFS",
+  "duree": "7 mois",
+  "region": "Nord",
+  "taille": "400+ personnes",
+  "niveau": "Performance",
+  "tension": "Industriel",
+  "contexte": "Audit IFS Food 7 avortoné en niveau de base. Menace de perte d'un référencement enseigne. DU dépassé par la situation.",
+  "resultat": "Re-audit réussi Higher Level. Enseigne maintenue. TRS +8 pts.",
+  "filiere": "Conserverie",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Management relais suite mise à pied DU",
+  "duree": "6 mois",
+  "region": "Bretagne",
+  "taille": "120 personnes",
+  "niveau": "Existence",
+  "tension": "Gouvernance",
+  "contexte": "Mise à pied conservatoire du DU pour faute grave. Procédure prud'homale en cours. Site de 120 personnes, campagne thon à 3 semaines.",
+  "resultat": "Campagne tenue. Procédure accompagnée. Nouveau DU en poste à J+160.",
+  "filiere": "Conserverie",
+  "badgeIsomorphe": false
+ }
+]

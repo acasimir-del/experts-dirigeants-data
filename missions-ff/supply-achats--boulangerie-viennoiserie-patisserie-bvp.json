@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Sécurisation approvisionnements post-rupture fournisseur — BVP (Métier)",
+  "duree": "4 mois",
+  "region": "Bretagne",
+  "taille": "350 personnes",
+  "niveau": "Existence",
+  "tension": "Commerce",
+  "contexte": "Fournisseur beurre principal en redressement judiciaire. Rupture imminente sur 40% des volumes. Pas de sourcing alternatif qualifié.",
+  "resultat": "Trois fournisseurs alternatifs qualifiés en 3 semaines. Zéro rupture de production. Panel fournisseurs restructuré.",
+  "filiere": "Boulangerie viennoiserie & pâtisserie (BVP)",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Sécurisation sourcing farines et gestion de la volatilité céréalière",
+  "duree": "6 mois",
+  "region": "Rhône-Alpes",
+  "taille": "400 personnes • 1 usine + 41 magasins",
+  "niveau": "Cohérence",
+  "tension": "Finance",
+  "contexte": "Boulangerie industrielle de 400 personnes avec 41 points de vente en propre et un site de production centralisé. Approvisionnement en farines concentré sur 2 meuniers représentant 85% du volume. Pas de couverture prix structurée face à la volatilité du blé. Surcoûts matière de +12% sur 18 mois absorbés sans répercussion tarifaire. Panel fournisseurs non évalué depuis 3 ans.",
+  "resultat": "Panel fournisseurs élargi à 5 meuniers qualifiés avec répartition 40/30/15/10/5. Contrats cadres semestriels avec clauses d'indexation blé Euronext. Couverture prix mise en place sur 60% des volumes. Surcoût matière limité à +3% sur la période malgré hausse marché de +8%.",
+  "filiere": "Boulangerie viennoiserie & pâtisserie (BVP)",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Fiabilisation MRP et réduction des ruptures sur 7 usines boulangerie",
+  "duree": "9 mois",
+  "region": "Centre-Val de Loire",
+  "taille": "1 400 personnes • 7 usines",
+  "niveau": "Performance",
+  "tension": "Efficience",
+  "contexte": "Groupe de 1 400 personnes opérant 7 usines et 2 plateformes logistiques. MRP paramétré à la création de l'ERP sans mise à jour depuis 4 ans : délais figés, tailles de lot obsolètes, stocks de sécurité uniformes. Taux de rupture composants à 6% générant des arrêts de ligne hebdomadaires. Pas de pilotage des flux inter-sites, chaque usine gérant ses approvisionnements en silo.",
+  "resultat": "Paramètres MRP recalibrés sur les 350 références critiques (délais, lots, stocks de sécurité différenciés ABC). Taux de rupture composants ramené à 1,8%. Mise en place d'un pilotage centralisé des flux inter-sites avec mutualisation des stocks emballages. Gain de 320 k€/an sur le BFR.",
+  "filiere": "Boulangerie viennoiserie & pâtisserie (BVP)",
+  "badgeIsomorphe": false
+ }
+]

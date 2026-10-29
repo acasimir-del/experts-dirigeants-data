@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 2,
+  "titre": "Amélioration des rendements matière et déploiement Kaizen sur lignes IQF légumes",
+  "duree": "6 mois",
+  "region": "Bretagne",
+  "taille": "250 personnes",
+  "niveau": "Performance",
+  "tension": "Efficience",
+  "contexte": "Site de surgelés de 250 personnes, 4 lignes IQF. Rendement matière légumes à 72% avec des pertes concentrées sur le calibrage et la surgélation (casse produit). Kaizen jamais déployé, conducteurs en 3×8 sans indicateurs de suivi des pertes. Budget matière première en dérive de 500 k€/an. Direction groupe exigeant un plan de productivité à 3%.",
+  "resultat": "Rendement matière porté à 79%. Chantiers Kaizen animés sur les 4 lignes avec suivi visuel quotidien. Conducteurs formés au relevé de pertes et au Pareto des causes. Économie matière de 420 k€ annualisée. Plan de productivité validé à 3,2%.",
+  "filiere": "Surgelés",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Déploiement SMED et lean sur lignes de surgelés multi-formats",
+  "duree": "6 mois",
+  "region": "Hauts-de-France",
+  "taille": "200 personnes",
+  "niveau": "Cohérence",
+  "tension": "Efficience",
+  "contexte": "Site de surgelés de 200 personnes, 5 lignes de conditionnement poissons panés et légumes. Changements de format à 55 minutes en moyenne. TRS plafonné à 52% par les temps de changement. Diversification en cours avec 15 nouvelles références, aggravant la fréquence des changements.",
+  "resultat": "Temps de changement réduit à 22 minutes (SMED). TRS porté à 68%. Standards visuels de réglage déployés sur les 5 lignes. Capacité libérée pour absorber les 15 nouvelles références sans investissement supplémentaire.",
+  "filiere": "Surgelés",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Montée en cadence et qualification des équipes après installation nouvelle ligne de surgélation",
+  "duree": "7 mois",
+  "region": "Hauts-de-France",
+  "taille": "320 personnes",
+  "niveau": "Performance",
+  "tension": "Industriel",
+  "contexte": "Site de plats cuisinés surgelés de 320 personnes. Nouvelle ligne de surgélation installée pour 8 M€, cadence bloquée à 50% de la nominale à J+100. Conducteurs en 3×8 recrutés en urgence, pas de standards de conduite ni de procédures de démarrage. TRS à 38%. Retard de livraison sur les OF clients distributeurs avec risque de déréférencement.",
+  "resultat": "Cadence nominale atteinte à J+180. TRS porté à 65%. 15 conducteurs qualifiés en 3×8 avec grille de compétences. Standards de démarrage, de conduite et de nettoyage en place opérationnels. Taux de service rétabli à 97% sans déréférencement.",
+  "filiere": "Surgelés",
+  "badgeIsomorphe": false
+ }
+]

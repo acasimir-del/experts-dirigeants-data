@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Fiabilisation des moulins et réduction des arrêts non planifiés",
+  "duree": "6 mois",
+  "region": "Île-de-France",
+  "taille": "~300 personnes",
+  "niveau": "Performance",
+  "tension": "Efficience",
+  "contexte": "Moulin principal de 900 t/jour avec des arrêts répétitifs sur les broyeurs cylindriques et les plansichters. GMAO en place mais sous-exploitée, pas de suivi MTBF. Objectif de production non atteint 4 mois consécutifs. Maintenance préventive limitée aux interventions réglementaires.",
+  "resultat": "Taux de disponibilité des broyeurs porté de 82% à 93%. 380 gammes préventives créées dans la GMAO. Suivi MTBF systématisé sur les 45 équipements critiques. Objectif production rattrapé au mois 4.",
+  "filiere": "Meunerie & amidonnerie",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Démarche TPM sur site amidonnier en transformation",
+  "duree": "8 mois",
+  "region": "Hauts-de-France",
+  "taille": "~2 700 personnes",
+  "niveau": "Transformation",
+  "tension": "Industriel",
+  "contexte": "Site amidonnier de 2 700 salariés en transformation stratégique vers les protéines végétales. Nouvelles lignes de process en démarrage, équipes maintenance historiques habituées aux procédés amidon mais pas aux fermenteurs et séchoirs protéines. Taux de pannes élevé sur les nouvelles installations.",
+  "resultat": "Maintenance autonome déployée sur 6 lignes nouvelles. 120 opérateurs formés aux routines de nettoyage-inspection-lubrification. Pilier amélioration au cas par cas structuré avec 25 chantiers réalisés. MTBF des fermenteurs amélioré de 55%.",
+  "filiere": "Meunerie & amidonnerie",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Cahier des charges et suivi travaux nouvelle capacité mouture",
+  "duree": "9 mois",
+  "region": "Centre-Val de Loire",
+  "taille": "~80 personnes",
+  "niveau": "Existence",
+  "tension": "Commerce",
+  "contexte": "Extension de capacité d'un moulin régional : budget CAPEX de 8 M€ pour une nouvelle section de mouture et un silo de stockage vrac. Bureau d'études interne inexistant, historique de dépassements budgétaires sur les projets précédents. Besoin de structurer le pilotage travaux neufs.",
+  "resultat": "Cahiers des charges techniques rédigés pour 4 lots (génie civil, mouture, stockage, utilités). Budget final à 102% de l'enveloppe. Nouvelle capacité qualifiée et opérationnelle en 7 mois. Procédure travaux neufs formalisée pour les futurs projets.",
+  "filiere": "Meunerie & amidonnerie",
+  "badgeIsomorphe": false
+ }
+]

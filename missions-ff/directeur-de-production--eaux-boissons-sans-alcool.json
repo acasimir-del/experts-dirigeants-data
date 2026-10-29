@@ -1,0 +1,28 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Reprise en main de l'ordonnancement sur lignes multi-formats",
+  "duree": "7 mois",
+  "region": "Alsace",
+  "taille": "137 personnes",
+  "niveau": "Performance",
+  "tension": "Commerce",
+  "contexte": "Site d'embouteillage eaux et boissons sans alcool de 137 personnes. Ordonnancement géré sous Excel par un seul planificateur. Séquencement des OF non optimisé, taux de service GMS tombé à 88%. Changements de format fréquents (15 références) avec SMED non formalisé. Conducteurs de ligne non impliqués dans la planification.",
+  "resultat": "Taux de service remonté à 96,5%. Séquencement des OF optimisé avec regroupement par format, réduction de 30% des changements de série. SMED formalisé sur 4 lignes principales. Temps de changement réduit de 40 à 22 min. Outil de planification partagé déployé avec les chefs d'équipe.",
+  "filiere": "Eaux & boissons sans alcool",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Réduction des pertes matière et des rebuts sur lignes de conditionnement jus",
+  "duree": "8 mois",
+  "region": "Normandie",
+  "taille": "280 personnes (réseau 9 sites)",
+  "niveau": "Cohérence",
+  "tension": "Efficience",
+  "contexte": "Site multi-sites de conditionnement jus de fruits et cidres avec rendement matière dégradé à 91%. Freinte excessive sur les lignes PET (+3 points vs standard groupe). Rebuts d'étiquetage à 2,8%. Aucun suivi TRS formalisé par les conducteurs de ligne. Kaizen non déployé.",
+  "resultat": "Rendement matière porté à 96,2%. Freinte PET ramenée au standard groupe. Rebuts étiquetage réduits à 0,9%. TRS suivi quotidiennement par les 11 conducteurs de ligne. 3 chantiers Kaizen menés à bien avec les équipes terrain.",
+  "filiere": "Eaux & boissons sans alcool",
+  "badgeIsomorphe": false
+ }
+]

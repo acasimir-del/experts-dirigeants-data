@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Pilotage site de transformation maree en periode de pic saisonnier",
+  "duree": "6 mois",
+  "region": "Bretagne",
+  "taille": "310 collaborateurs",
+  "niveau": "Performance",
+  "tension": "Industriel",
+  "contexte": "Site de transformation de saumon fume et produits traiteur de la mer. Depart du directeur d'usine a deux mois du pic de Noel, qui concentre 40 % du CA annuel. Effectif saisonnier a integrer : 120 interimaires supplementaires.",
+  "resultat": "Pic Noel assure sans rupture client. CA periode +8 % vs N-1. Taux de service maintenu a 98,5 %. Taux de rebut contenu a 1,8 %.",
+  "filiere": "Produits de la mer (pêche / aquaculture / transformation)",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Restructuration site de conserverie apres fermeture de zone de peche",
+  "duree": "9 mois",
+  "region": "Nouvelle-Aquitaine",
+  "taille": "145 collaborateurs",
+  "niveau": "Existence",
+  "tension": "Industriel",
+  "contexte": "Conserverie de sardines et maquereaux impactee par la reduction de 25 % des quotas de peche europeens. Necessite de reorienter les lignes vers de nouvelles especes et de reorganiser les approvisionnements avec des mareyeurs alternatifs.",
+  "resultat": "3 nouvelles especes qualifiees en ligne. Rendement matiere ameliore de 4 points. Plan de sauvegarde de 18 emplois evite grace a la diversification. CA stabilise a -3 % vs N-1 au lieu des -20 % projetes.",
+  "filiere": "Produits de la mer (pêche / aquaculture / transformation)",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Montee en cadence nouvelle ligne de panes surgeles de poisson",
+  "duree": "7 mois",
+  "region": "Pays de la Loire",
+  "taille": "85 collaborateurs",
+  "niveau": "Transformation",
+  "tension": "Industriel",
+  "contexte": "Investissement de 6 M EUR sur une ligne de panes et beignets de poisson surgeles. Nouveau batiment livre avec 3 mois de retard. Equipe de production a recruter et former integralement sur les equipements de panure et surgelation.",
+  "resultat": "Ligne qualifiee IFS en 4 mois. Cadence nominale de 8 t/jour atteinte. 45 operateurs recrutes et formes. Premier client GMS livre dans les delais contractuels.",
+  "filiere": "Produits de la mer (pêche / aquaculture / transformation)",
+  "badgeIsomorphe": false
+ }
+]

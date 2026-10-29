@@ -1,0 +1,92 @@
+[
+ {
+  "ordre": 1,
+  "fonction": "Directeur de maintenance",
+  "secteur": "",
+  "titre": "Fiabilisation lignes de conserve et déploiement maintenance prédictive",
+  "duree": "8 mois",
+  "contexte": "Site de conserverie légumes en pleine transformation industrielle. Arrêts non planifiés en hausse de 35% sur les sertisseuses et les autoclaves. Maintenance réactive uniquement, pas de suivi vibratoire ni de thermographie. Plan de transformation groupe exigeant 2,5% d'économies annuelles sur les coûts de production.",
+  "resultat": "Maintenance prédictive déployée sur 85% du parc critique (capteurs vibrations, thermographie IR). Arrêts non planifiés réduits de 45%. Coûts de maintenance réduits de 18%. Plan de renouvellement équipements sur 3 ans validé par le groupe.",
+  "objectifs": []
+ },
+ {
+  "ordre": 2,
+  "fonction": "Directeur qualité",
+  "secteur": "Conserve de poisson",
+  "titre": "Structuration de la direction qualité post-acquisition d'un site de conserves de poisson",
+  "duree": "6 mois",
+  "contexte": "Intégration post-acquisition d'une conserverie de poisson par un groupe coopératif. Le système qualité du site racheté est hétérogène et le référentiel IFS doit être harmonisé avant l'audit de renouvellement.",
+  "resultat": "Audit IFS renouvelé au niveau Higher, 100 % des procédures harmonisées sur le référentiel groupe, taux de réclamations clients réduit de 35 %.",
+  "objectifs": []
+ },
+ {
+  "ordre": 2,
+  "fonction": "Directeur qualité",
+  "secteur": "",
+  "titre": "Déploiement IFS sur site de surgelés en préparation d'un audit client export",
+  "duree": "8 mois",
+  "contexte": "Usine de surgelés de 420 personnes préparant un audit IFS Food exigé par un nouveau client distributeur allemand. Site certifié uniquement ISO 9001, sans référentiel food safety spécifique. Absence de plan HACCP formalisé sur les lignes de surgelés légumes, CCP température non instrumentés.",
+  "resultat": "Certification IFS Food obtenue avec score de 96% (Higher Level). Instrumentation complète des 14 CCP température en chaîne du froid. Contrat export signé représentant 8M EUR de CA additionnel sur 2 ans.",
+  "objectifs": []
+ },
+ {
+  "ordre": 3,
+  "fonction": "Directeur de production",
+  "secteur": "Surgelés plats cuisinés",
+  "titre": "Pilotage d'un CAPEX de 12 M€ sur une plateforme surgelés plats cuisinés",
+  "duree": "10 mois",
+  "contexte": "Installation d'une nouvelle ligne de surgélation IQF et réaménagement des flux logistiques internes. Le directeur de production en poste a démissionné au lancement du projet.",
+  "resultat": "Ligne mise en service avec 3 semaines d'avance, capacité journalière portée de 45 à 72 tonnes, marge brute améliorée de 2,1 points sur le périmètre plats cuisinés.",
+  "objectifs": []
+ },
+ {
+  "ordre": 3,
+  "fonction": "Supply & Achats",
+  "secteur": "",
+  "titre": "Pilotage MRP multi-formats et réduction des ruptures conserverie-surgelé",
+  "duree": "7 mois",
+  "contexte": "PME familiale de 170 personnes exploitant 2 usines (légumes secs/céréales et surgelés IQF) plus un site conserverie. Production en forte croissance (objectif x3 en 4 ans, de 7 000 à 22 000 tonnes). MRP non adapté à la montée en charge : paramètres figés sur les volumes historiques. Ruptures composants (emballages, épices) à 5% provoquant des arrêts de ligne. Gestion des approvisionnements en silo par site sans mutualisation.",
+  "resultat": "Paramètres MRP recalibrés sur les nouvelles capacités avec stocks de sécurité dynamiques. Taux de rupture composants ramené à 1,5%. Cellule approvisionnement centralisée créée pour les 3 sites avec mutualisation des achats emballages. Gain de 180 k€/an sur les conditions d'achat.",
+  "objectifs": []
+ },
+ {
+  "ordre": 3,
+  "fonction": "Directeur de production",
+  "secteur": "",
+  "titre": "Flexibilité formats et réduction des pertes en conserverie artisanale",
+  "duree": "7 mois",
+  "contexte": "Conserverie artisanale de 350 permanents (650 en saison), 2 ateliers, 2 200 t de poisson transformé/an. Gamme de 90 références avec micro-séries de 200 boîtes. Rendement matière poisson à 62% avec des pertes de découpe et de parage non standardisées. Conducteurs polyvalents mais sans référentiels de réglage.",
+  "resultat": "Rendement matière porté à 69%. Référentiels de réglage déployés sur les 7 formats de boîtes. Temps de changement réduit de 20% grâce à la standardisation des séquences. Gain de 180 k€/an sur la matière première poisson.",
+  "objectifs": []
+ },
+ {
+  "ordre": 5,
+  "fonction": "DRH",
+  "secteur": "Surgelés légumes nature",
+  "titre": "Sécurisation RH et dialogue social lors de la fusion de deux sites surgelés",
+  "duree": "9 mois",
+  "contexte": "Regroupement de deux sites surgelés légumes sur un pôle unique. Le climat social est tendu et le CSE conteste le calendrier de transfert des contrats de travail.",
+  "resultat": "Zéro jour de grève, 94 % des transferts réalisés dans le calendrier prévu, absentéisme ramené de 11 % à 7,5 % sur le site d'accueil.",
+  "objectifs": []
+ },
+ {
+  "ordre": 6,
+  "fonction": "Finance & RH",
+  "secteur": "",
+  "titre": "Pilotage du PSE et transfert de personnel lors de la rationalisation d'un réseau de conserveries",
+  "duree": "15 mois",
+  "contexte": "Un groupe agroalimentaire décide de fermer une conserverie historique et de transférer les volumes sur un site plus moderne à 80 km. 145 postes sont supprimés, 60 transferts sont proposés. L'entreprise est le premier employeur du bassin et la pression médiatique est forte. Un DRH de transition est missionné pour piloter le volet social.",
+  "resultat": "PSE homologué sans contentieux. 52 salariés ont accepté le transfert géographique (aide mobilité intégrée). Cellule de reclassement externe avec 78 % de retour à l'emploi à 12 mois. Accompagnement des élus locaux et communication maîtrisée ayant limité l'impact réputationnel.",
+  "objectifs": []
+ },
+ {
+  "ordre": 6,
+  "fonction": "Directeur d'usine",
+  "secteur": "",
+  "titre": "Redressement qualité post-audit client MDD",
+  "duree": "6 mois",
+  "contexte": "Audit qualité client GMS négatif sur un site de 900 salariés en légumes surgelés. Menace de perte de 3 référencements MDD. DU en place débordé par la campagne en cours.",
+  "resultat": "Re-audit réussi en 8 semaines. 3 référencements MDD maintenus. Plan HACCP renforcé déployé.",
+  "objectifs": []
+ }
+]

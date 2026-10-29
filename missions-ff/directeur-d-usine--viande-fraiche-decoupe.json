@@ -1,0 +1,28 @@
+[
+ {
+  "ordre": 2,
+  "titre": "Pilotage de crise suite à incident DDPP",
+  "duree": "5 mois",
+  "region": "Vendée",
+  "taille": "15 000 salariés multi-sites",
+  "niveau": "Existence",
+  "tension": "Légitimité ext.",
+  "contexte": "Suspension partielle d'activité après contrôle sanitaire. Direction générale en attente d'un profil senior immédiatement disponible.",
+  "resultat": "Reprise totale en 7 semaines. Zéro perte client GMS.",
+  "filiere": "Viande fraîche & découpe",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 5,
+  "titre": "Structuration managériale post-investissement robotisation",
+  "duree": "10 mois",
+  "region": "Pays de la Loire",
+  "taille": "6 000 personnes multi-sites",
+  "niveau": "Cohérence",
+  "tension": "Gouvernance",
+  "contexte": "Coopérative volaillère ayant investi 43M€ dans un nouvel abattoir robotisé. Nouveau DG en place depuis 3 mois, encadrement intermédiaire non aligné. Besoin d'un DU de transition pour structurer la gouvernance opérationnelle des 13 sites et accompagner la montée en compétences.",
+  "resultat": "Organisation cible déployée sur 8 sites. Comité de pilotage industriel opérationnel. TRS du nouvel abattoir porté à 82% en 6 mois.",
+  "filiere": "Viande fraîche & découpe",
+  "badgeIsomorphe": false
+ }
+]

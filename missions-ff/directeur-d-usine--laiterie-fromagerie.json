@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Remplacement DU en pleine période de collecte haute",
+  "duree": "6 mois",
+  "region": "Franche-Comté",
+  "taille": "280 collaborateurs",
+  "niveau": "Existence",
+  "tension": "Industriel",
+  "contexte": "Départ du directeur d'usine en juin, pic de collecte laitière. Site de 280 personnes spécialisé en fromages à pâte pressée cuite (AOP). Risque de rupture de conformité sur les cahiers des charges d'affinage si le pilotage qualité n'est pas assuré immédiatement.",
+  "resultat": "Continuité de production assurée sur les 4 mois de collecte haute. Zéro déclassement AOP. Taux de service GMS maintenu à 98,7%.",
+  "filiere": "Laiterie & fromagerie",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Redressement qualité après alertes sanitaires répétées",
+  "duree": "8 mois",
+  "region": "Normandie",
+  "taille": "350 collaborateurs",
+  "niveau": "Existence",
+  "tension": "Légitimité ext.",
+  "contexte": "Deux rappels produits en 3 mois sur un site ultra-frais (yaourts, desserts lactés). DDPP menaçant de suspension d'agrément. Le DU en poste, dépassé par la crise, a été écarté. 350 personnes, 3 lignes de conditionnement aseptique.",
+  "resultat": "Plan HACCP entièrement refondu. Agrément sanitaire maintenu. Retour à zéro non-conformité critique en 4 mois. Formation de 120 opérateurs aux bonnes pratiques d'hygiène.",
+  "filiere": "Laiterie & fromagerie",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Intégration post-acquisition et fusion de deux sites laitiers",
+  "duree": "9 mois",
+  "region": "Bretagne",
+  "taille": "420 collaborateurs (site fusionné)",
+  "niveau": "Transformation",
+  "tension": "Gouvernance",
+  "contexte": "Rachat d'une PME fromagère par un groupe coopératif. Deux sites distants de 40 km à fusionner : transfert des lignes beurre-crème vers le site principal, fermeture du site secondaire. Climat social tendu, 45 reclassements à piloter.",
+  "resultat": "Transfert industriel achevé en 7 mois sans perte de référence client. 38 reclassements effectifs sur 45. Capacité beurre-crème consolidée à +30% sur le site unique.",
+  "filiere": "Laiterie & fromagerie",
+  "badgeIsomorphe": false
+ }
+]

@@ -1,0 +1,92 @@
+[
+ {
+  "ordre": 1,
+  "fonction": "Directeur d'usine",
+  "secteur": "Craft beer scale-up",
+  "titre": "Directeur d'usine de transition — intégration post-acquisition craft brewery",
+  "duree": "9 mois",
+  "contexte": "Rachat d'une brasserie craft (85 personnes) par un groupe industriel. Fondateur-brasseur parti après le closing. Deux cultures antagonistes — artisanat vs. process industriel. Capacité actuelle 50 000 hl/an, objectif groupe 120 000 hl en 18 mois. Aucun ERP, planification sur tableur.",
+  "resultat": "ERP déployé en 12 semaines sans rupture de production. Capacité portée à 90 000 hl à M9 grâce au doublement de la salle de brassage. Charte qualité craft préservée — zéro déréférencement enseigne. Turnover limité à 8 % malgré la transition. Feuille de route 120 000 hl livrée au COMEX.",
+  "objectifs": []
+ },
+ {
+  "ordre": 1,
+  "fonction": "Finance & RH",
+  "secteur": "",
+  "titre": "Mise en place du PRI et pilotage des écarts de performance en brasserie multi-références",
+  "duree": "8 mois",
+  "contexte": "Brasserie historique produisant 8 millions d'hectolitres par an sur 3 lignes. Le reporting industriel repose sur des tableurs non consolidés et les écarts de rendement matière ne sont pas analysés. La direction générale exige un PRI fiable pour arbitrer les investissements capacitaires.",
+  "resultat": "PRI opérationnel avec 12 indicateurs clés, réduction des écarts de coûts matière de 3,2 points, reporting mensuel automatisé livré à J+5 contre J+18 auparavant.",
+  "objectifs": []
+ },
+ {
+  "ordre": 1,
+  "fonction": "Supply & Achats",
+  "secteur": "",
+  "titre": "Déploiement S&OP et pilotage des stocks de produits finis en brasserie multi-lignes",
+  "duree": "8 mois",
+  "contexte": "Brasserie de 1 300 personnes avec 3 sites de production et une plateforme logistique centralisée. Pas de processus S&OP structuré : prévisions commerciales révisées chaque semaine sans arbitrage formalisé entre marketing, production et supply. Stocks de produits finis en augmentation de 35% sur 18 mois avec simultanément des ruptures GMS récurrentes sur les références saisonnières. OTIF à 89%, objectif groupe à 96%. Surstock de 4 M€ sur les références à faible rotation.",
+  "resultat": "Processus S&OP mensuel déployé avec réunion d'arbitrage DG. Prévisions fiabilisées à 85% de justesse à 8 semaines (vs 62% avant). Stock moyen réduit de 22% tout en remontant l'OTIF à 95,5%. Couverture de stock rationalisée par famille : 3 semaines sur les blockbusters, 5 semaines sur les saisonnières. Destruction de bières périmées divisée par 3.",
+  "objectifs": []
+ },
+ {
+  "ordre": 1,
+  "fonction": "Directeur de production",
+  "secteur": "",
+  "titre": "Reprise en main de l'ordonnancement brassage-conditionnement",
+  "duree": "7 mois",
+  "contexte": "Brasserie de 600 personnes avec 3 salles de brassage et 11 lignes de conditionnement. Ordonnancement géré sur tableur par un chef d'atelier expérimenté parti en retraite. OF lancés au fil de l'eau sans vision consolidée, entraînant des ruptures de cuves et du temps mort sur les lignes PET. Taux de service GMS tombé à 91%.",
+  "resultat": "Séquencement brassage-conditionnement formalisé sur 4 semaines glissantes. Taux de service remonté à 97,5%. Temps de changement de format réduit de 25% par chantier SMED sur 3 lignes pilotes. Outil de planification déployé et 2 coordinateurs formés.",
+  "objectifs": []
+ },
+ {
+  "ordre": 1,
+  "fonction": "Directeur qualité",
+  "secteur": "",
+  "titre": "Structuration FSSC 22000 sur site brassicole familial",
+  "duree": "7 mois",
+  "contexte": "Brasserie familiale de 200 salariés sans certification food safety internationale. Clients export exigent FSSC 22000. Aucun système HACCP formalisé, CCP non documentés. DG mobilise un directeur qualité de transition pour structurer la démarche.",
+  "resultat": "FSSC 22000 obtenue au premier audit. 14 CCP documentés et validés. Système de traçabilité lot-par-lot opérationnel sur toute la chaîne brassicole.",
+  "objectifs": []
+ },
+ {
+  "ordre": 2,
+  "fonction": "Directeur de production",
+  "secteur": "Conditionnement canettes",
+  "titre": "Directeur de production — CAPEX nouvelle ligne canettes haute cadence",
+  "duree": "8 mois",
+  "contexte": "Site de 310 personnes, 2,5 millions d'hl/an. Investissement de 15 M EUR dans une ligne canettes 60 000 unités/heure pour capter la croissance du format canette (+18 %/an). Directeur de production muté sur un autre site du groupe. Mise en service prévue avant le pic estival.",
+  "resultat": "Ligne canettes réceptionnée et qualifiée 3 semaines avant le pic. Montée en cadence à 95 % du nominal en 6 semaines. Taux de casse ramené à 0,3 %. Pic estival absorbé — +22 % de volume conditionné vs. N-1. Formation de 45 opérateurs certifiés sur la nouvelle ligne.",
+  "objectifs": []
+ },
+ {
+  "ordre": 2,
+  "fonction": "Finance & RH",
+  "secteur": "",
+  "titre": "Pilotage des clotures mensuelles et mise en conformite IFRS dans un groupe brassicole post-acquisition",
+  "duree": "9 mois",
+  "contexte": "Brasserie familiale integree a un groupe international apres rachat. Les clotures mensuelles prennent 25 jours, les normes IFRS ne sont pas appliquees, et la liasse fiscale presente des anomalies recurrentes sur les immobilisations.",
+  "resultat": "Clotures ramenees a J+8. Passage reussi en IFRS avec retraitement des immobilisations et amortissements. Audit commissaires aux comptes sans reserve pour la premiere fois.",
+  "objectifs": []
+ },
+ {
+  "ordre": 2,
+  "fonction": "Directeur d'usine",
+  "secteur": "",
+  "titre": "Optimisation performance ligne de conditionnement",
+  "duree": "6 mois",
+  "contexte": "TRS des lignes bouées à 61%. Plan de performance demandé par l'actionnaire majoritaire. DU en place mais besoin d'un renfort senior.",
+  "resultat": "TRS porté à 78% en 5 mois. Plan de maintenance préventive déployé.",
+  "objectifs": []
+ },
+ {
+  "ordre": 3,
+  "fonction": "Directeur qualité",
+  "secteur": "Brasserie industrielle",
+  "titre": "Directeur qualité — harmonisation process multi-sites brasserie",
+  "duree": "7 mois",
+  "contexte": "Groupe brassicole, 3 sites en France (420 personnes sur le site pilote). Écarts de goût récurrents entre sites sur les mêmes références. 12 % de réclamations consommateurs liées à l'inconsistance organoleptique. Directeur qualité groupe licencié après un audit enseigne défavorable.",
+  "resultat": "Référentiel sensoriel unifié déployé sur les 3 sites en 10 semaines. Panel de dégustation interne formé (18 dégustateurs certifiés). Réclamations organoleptiques réduites de 74 %. Score audit enseigne remonté de C à A. Process de brassage standardisé — écart de densité inter-sites < 0,5 %.",
+  "objectifs": []
+ }
+]

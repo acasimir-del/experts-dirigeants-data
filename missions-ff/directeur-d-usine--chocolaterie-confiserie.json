@@ -1,0 +1,28 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Interim DU pendant pic de production Noël",
+  "duree": "6 mois",
+  "region": "Alsace",
+  "taille": "180 personnes",
+  "niveau": "Existence",
+  "tension": "Industriel",
+  "contexte": "DU hospitalisé en urgence à 10 semaines du pic Noël. Site de 180 salariés, 40% du CA annuel sur les 3 derniers mois.",
+  "resultat": "Pic Noël tenu sans rupture. Taux de service 98,2%. DU titulaire réintégré en janvier.",
+  "filiere": "Chocolaterie & confiserie",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Redressement performance post-fusion",
+  "duree": "9 mois",
+  "region": "Normandie",
+  "taille": "300 personnes",
+  "niveau": "Performance",
+  "tension": "Gouvernance",
+  "contexte": "Deux sites fusionnés, cultures différentes, indicateurs dégradés. Actionnaire attendant un retour à la performance sous 12 mois.",
+  "resultat": "TRS +14 pts. Absentéisme -22%. Site rentable dès le 8e mois de mission.",
+  "filiere": "Chocolaterie & confiserie",
+  "badgeIsomorphe": false
+ }
+]

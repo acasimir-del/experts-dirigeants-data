@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Fiabilisation des tunnels de surgelation avant pic saisonnier",
+  "duree": "6 mois",
+  "region": "Bretagne",
+  "taille": "280 collaborateurs",
+  "niveau": "Performance",
+  "tension": "Industriel",
+  "contexte": "Site de surgelation de produits de la mer avec 4 tunnels a -35 degres. Taux de pannes de 12 % sur les compresseurs ammoniac. Pas de GMAO, maintenance curative uniquement. Pic Noel dans 4 mois.",
+  "resultat": "Taux de pannes compresseurs ramene a 3 %. GMAO deployee sur 85 equipements critiques. Plan de maintenance preventive en place. Zero arret non planifie pendant le pic Noel.",
+  "filiere": "Produits de la mer (pêche / aquaculture / transformation)",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Remplacement d'un groupe froid ammoniac en site occupe",
+  "duree": "8 mois",
+  "region": "Nouvelle-Aquitaine",
+  "taille": "160 collaborateurs",
+  "niveau": "Transformation",
+  "tension": "Industriel",
+  "contexte": "Centrale frigorifique ammoniac de 25 ans a remplacer sur un site de fumaison de saumon. Production a maintenir pendant les travaux. Budget de 2,8 M EUR. Contraintes ICPE renforcees sur le stockage d'ammoniac.",
+  "resultat": "Nouvelle centrale commissionnee en 6 mois. Zero jour d'arret production. Consommation energetique reduite de 22 %. Mise en conformite ICPE validee par la DREAL. Budget respecte a +3 %.",
+  "filiere": "Produits de la mer (pêche / aquaculture / transformation)",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Mise en conformite equipements apres audit IFS non-conforme",
+  "duree": "5 mois",
+  "region": "Pays de la Loire",
+  "taille": "95 collaborateurs",
+  "niveau": "Existence",
+  "tension": "Légitimité ext.",
+  "contexte": "Conserverie de poisson ayant recu 3 non-conformites majeures IFS sur l'etat des equipements : corrosion des convoyeurs inox, joints de portes chambres froides defaillants, absence de qualification metrologique des sondes temperature.",
+  "resultat": "3 non-conformites majeures levees en 4 mois. 28 equipements remis en conformite. Score IFS Higher Level obtenu lors du contre-audit. Budget travaux de 380 K EUR maitrise.",
+  "filiere": "Produits de la mer (pêche / aquaculture / transformation)",
+  "badgeIsomorphe": false
+ }
+]

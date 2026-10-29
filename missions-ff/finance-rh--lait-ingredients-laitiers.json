@@ -1,0 +1,28 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Mise en place du contrôle de gestion industriel et analyse des rendements lait",
+  "duree": "8 mois",
+  "region": "Nouvelle-Aquitaine",
+  "taille": "420 personnes",
+  "niveau": "Performance",
+  "tension": "Finance",
+  "contexte": "Une coopérative laitière régionale disposant de 3 sites de transformation constate un écart croissant entre la marge théorique et la marge réelle sur ses gammes beurre et poudre de lait. Le suivi des rendements matière est artisanal et les standards de coûts n'ont pas été actualisés depuis 4 ans. Un contrôleur de gestion industriel de transition est missionné.",
+  "resultat": "Standards de coûts recalculés sur l'ensemble des gammes. Reporting hebdomadaire des écarts de rendement matière déployé. Analyse de variances ayant permis d'identifier 1,2 M€ de pertes évitables. Comptabilité analytique restructurée par atelier (beurrerie, tour de séchage, conditionnement).",
+  "filiere": "Lait & ingrédients laitiers",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Fiabilisation des clôtures et consolidation comptable multi-sites laitiers",
+  "duree": "7 mois",
+  "region": "Alsace",
+  "taille": "280 personnes",
+  "niveau": "Cohérence",
+  "tension": "Gouvernance",
+  "contexte": "Une laiterie coopérative alsacienne intégrée à un groupement régional doit produire des comptes consolidés pour la première fois suite à une fusion. Les pratiques comptables diffèrent entre les entités, les provisions pour dépréciation de stocks ne sont pas harmonisées et les commissaires aux comptes ont émis des réserves sur le dernier exercice.",
+  "resultat": "Clôtures mensuelles réalisées à J+7 sur l'ensemble du périmètre. Réserves levées par les commissaires aux comptes. Politique de provisions stocks harmonisée. Liasse fiscale consolidée livrée dans les délais légaux. Amortissements des équipements de fromagerie recalculés selon la durée d'usage réelle.",
+  "filiere": "Lait & ingrédients laitiers",
+  "badgeIsomorphe": false
+ }
+]

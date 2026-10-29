@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Interim DU pendant congé maternité",
+  "duree": "8 mois",
+  "region": "Auvergne",
+  "taille": "1 200 personnes",
+  "niveau": "Performance",
+  "tension": "RH",
+  "contexte": "DU en congé maternité. Site de 5 lignes, 150 salariés, contrats GMS à maintenir impérativement.",
+  "resultat": "Taux de service 99,1%. Aucune rupture GMS. DU réintégrée sans déperdition d'activité.",
+  "filiere": "Eaux & boissons sans alcool",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Restructuration suite à perte d'un client majeur",
+  "duree": "7 mois",
+  "region": "Bretagne",
+  "taille": "250 personnes",
+  "niveau": "Performance",
+  "tension": "Commerce",
+  "contexte": "Perte d'un contrat représentant 30% du CA. Actionnaire demandant un plan de restructuration et une réduction des coûts fixes sous 6 mois.",
+  "resultat": "Plan d'économies de 1,2M€ mis en place. Deux nouveaux clients signés. Site pérennisé.",
+  "filiere": "Eaux & boissons sans alcool",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Démarrage d'un nouveau site de production",
+  "duree": "10 mois",
+  "region": "Nord",
+  "taille": "600 personnes",
+  "niveau": "Performance",
+  "tension": "Efficience",
+  "contexte": "Nouveau site greenfield de 3 lignes. Recrutement, formation, qualification IFS à réaliser from scratch.",
+  "resultat": "Site qualifié IFS Food 7 en J+180. Pleine cadence atteinte en J+250.",
+  "filiere": "Eaux & boissons sans alcool",
+  "badgeIsomorphe": false
+ }
+]

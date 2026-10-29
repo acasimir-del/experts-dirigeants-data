@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Interim DU pendant procédure disciplinaire",
+  "duree": "6 mois",
+  "region": "Savoie",
+  "taille": "95 personnes",
+  "niveau": "Existence",
+  "tension": "Gouvernance",
+  "contexte": "Mise à pied conservatoire du DU. Site IGP, 95 salariés. Affinage en cours sur plusieurs centaines de tonnes. Aucun N-1 pour assurer la direction.",
+  "resultat": "Continuité totale de l'affinage. IGP maintenu. Situation sociale stabilisée. Nouveau DU intégré.",
+  "filiere": "Charcuterie & salaison",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Redressement coûts post-hausse matières",
+  "duree": "8 mois",
+  "region": "Bretagne",
+  "taille": "2 500 personnes",
+  "niveau": "Performance",
+  "tension": "Finance",
+  "contexte": "Explosion du coût du porc. Marges négatives depuis 3 trimestres. Actionnaire demandant un plan de performance industrielle urgent.",
+  "resultat": "Réduction de 11% des coûts de transformation. Marge opérationnelle restaurée.",
+  "filiere": "Charcuterie & salaison",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Pilotage ouverture ligne nouveaux produits",
+  "duree": "9 mois",
+  "region": "Île-de-France",
+  "taille": "1 600 personnes",
+  "niveau": "Transformation",
+  "tension": "Industriel",
+  "contexte": "Lancement d'une gamme charcuterie premium pour la restauration. DU en surcharge, besoin d'un profil expérimenté pour le projet industriel.",
+  "resultat": "Ligne opérationnelle en J+100. Première livraison client à J+115.",
+  "filiere": "Charcuterie & salaison",
+  "badgeIsomorphe": false
+ }
+]

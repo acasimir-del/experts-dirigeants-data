@@ -1,0 +1,28 @@
+[
+ {
+  "ordre": 2,
+  "titre": "Fiabilisation CCP et traçabilité sur lignes de raffinage huile",
+  "duree": "8 mois",
+  "region": "Nord",
+  "taille": "800 salariés, 5 sites",
+  "niveau": "Performance",
+  "tension": "Industriel",
+  "contexte": "Site multi-lignes de raffinage et conditionnement (800 salariés, 5 sites). Dérive des CCP désodorisation détectée en auto-contrôle. Traçabilité des huiles brutes insuffisante pour répondre aux exigences filières tracées. Programme de décarbonation en parallèle complexifie les arbitrages.",
+  "resultat": "100% des CCP raffinage recalibrés et digitalisés. Traçabilité filière tracée opérationnelle de la graine à la bouteille. Score IFS maintenu à Higher Level.",
+  "filiere": "Oléagineux & huiles",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Déploiement culture food safety sur site en transformation industrielle",
+  "duree": "9 mois",
+  "region": "Occitanie",
+  "taille": "650 salariés",
+  "niveau": "Transformation",
+  "tension": "RH",
+  "contexte": "Site portuaire de trituration en modernisation lourde (60 M€ sur 3 ans). 650 salariés, diversification vers les bioénergies. Culture sécurité alimentaire faible chez les équipes terrain. Turnover élevé, nouveaux procédés non encore maîtrisés en HACCP.",
+  "resultat": "Programme food safety culture déployé auprès de 400 opérateurs. Révision HACCP intégrant les nouveaux procédés. Taux de non-conformités internes divisé par 3 en 6 mois.",
+  "filiere": "Oléagineux & huiles",
+  "badgeIsomorphe": false
+ }
+]

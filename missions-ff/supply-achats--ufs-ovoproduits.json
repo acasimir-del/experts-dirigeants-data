@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Securisation approvisionnements oeufs apres crise aviaire",
+  "duree": "6 mois",
+  "region": "Nouvelle-Aquitaine",
+  "taille": "190 collaborateurs",
+  "niveau": "Existence",
+  "tension": "Commerce",
+  "contexte": "Perte de 35 % des volumes de collecte suite a un episode IAHP. 8 eleveurs partenaires touches. Ruptures clients GMS repetees. Directeur supply parti pendant la crise.",
+  "resultat": "Nouveaux contrats signes avec 6 eleveurs complementaires. Taux de service retabli a 97 %. Stock tampon organise sur 72 heures. Plan de crise IAHP formalise et teste.",
+  "filiere": "Œufs & ovoproduits",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Migration planification vers ERP site mixte coquille-casserie",
+  "duree": "7 mois",
+  "region": "Pays de la Loire",
+  "taille": "280 collaborateurs",
+  "niveau": "Cohérence",
+  "tension": "Efficience",
+  "contexte": "Site mixte conditionnement coquille et casserie gerant 600 000 oeufs/jour. Planification manuelle avec arbitrages quotidiens coquille vs casserie. Responsable supply en mutation interne.",
+  "resultat": "Module planification ERP deploye et operationnel. Arbitrage coquille-casserie automatise selon marges. Ruptures clients reduites de 82 %. Gain de 2 ETP sur la planification.",
+  "filiere": "Œufs & ovoproduits",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Renegociation contrats collecte et conversion bio",
+  "duree": "5 mois",
+  "region": "Bretagne",
+  "taille": "150 collaborateurs",
+  "niveau": "Transformation",
+  "tension": "Finance",
+  "contexte": "Objectif de 40 % de volumes bio a horizon 18 mois. Contrats de collecte a renegocier avec 15 eleveurs partenaires. Surcout bio de 45 % a absorber partiellement. Direction achats vacante.",
+  "resultat": "12 eleveurs engages dans la conversion bio. Part bio portee de 18 % a 35 %. Surcout negocie a 38 % (vs 45 % initial). Contrats triennaux securises.",
+  "filiere": "Œufs & ovoproduits",
+  "badgeIsomorphe": false
+ }
+]

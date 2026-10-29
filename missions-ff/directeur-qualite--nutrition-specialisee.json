@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Mise en conformite EFSA et restructuration systeme qualite post-alerte RASFF",
+  "duree": "8 mois",
+  "region": "Bretagne",
+  "taille": "200 collaborateurs",
+  "niveau": "Existence",
+  "tension": "Légitimité ext.",
+  "contexte": "Alerte RASFF sur un lot de cereales infantiles pour depassement de seuil en metaux lourds. Rappel de 45 000 unites. Suspension temporaire de l'agrement par la DGCCRF. Directeur qualite demissionnaire dans la foulee de l'alerte.",
+  "resultat": "Agrement DGCCRF retabli en 3 mois. Plan de controle analytique renforce avec 28 points supplementaires. Zero alerte RASFF sur les 12 mois suivants.",
+  "filiere": "Nutrition spécialisée",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Depot dossier Novel Food et pilotage validation analytique",
+  "duree": "9 mois",
+  "region": "Nouvelle-Aquitaine",
+  "taille": "110 collaborateurs",
+  "niveau": "Performance",
+  "tension": "Commerce",
+  "contexte": "Lancement d'un nouvel ingredient bioactif necessitant un dossier Novel Food aupres de l'EFSA. Cycle de validation analytique de 18 mois deja engage. Responsable affaires reglementaires parti chez un concurrent. Risque de perte de 2 ans de R&D si le depot est retarde.",
+  "resultat": "Dossier Novel Food depose dans les delais. Validation analytique complete sur 14 parametres. Avis favorable EFSA obtenu 8 mois apres le depot.",
+  "filiere": "Nutrition spécialisée",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Pilotage audit FDA et preparation agrement export US nutrition clinique",
+  "duree": "6 mois",
+  "region": "Ile-de-France",
+  "taille": "160 collaborateurs",
+  "niveau": "Transformation",
+  "tension": "Légitimité ext.",
+  "contexte": "Site de nutrition clinique visant l'agrement FDA pour exporter vers les Etats-Unis. Preparation de l'audit sur 6 mois. Ecarts identifies entre les referentiels europeens et les exigences FDA 21 CFR Part 111. Directeur qualite en mobilite interne.",
+  "resultat": "Audit FDA reussi avec 2 observations mineures. Agrement export US obtenu. Premier lot exporte sous 8 semaines apres l'audit.",
+  "filiere": "Nutrition spécialisée",
+  "badgeIsomorphe": false
+ }
+]

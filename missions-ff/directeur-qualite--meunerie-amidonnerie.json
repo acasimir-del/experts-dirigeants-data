@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Révision plan HACCP allergènes farine multi-moulins",
+  "duree": "6 mois",
+  "region": "Centre-Val de Loire",
+  "taille": "500 salariés, 8 moulins",
+  "niveau": "Performance",
+  "tension": "Légitimité ext.",
+  "contexte": "Meunier multirégional (8 moulins, 500 salariés). Plans HACCP hétérogènes d'un moulin à l'autre. Allergènes gluten non maîtrisés sur les lignes farines spéciales (sarrasin, maïs). Client industriel boulanger menace de déréférencement.",
+  "resultat": "Plan HACCP harmonisé sur les 8 moulins. Protocole allergènes dédié farines sans gluten déployé. Ré-audit client réussi, contrat renouvelé 3 ans.",
+  "filiere": "Meunerie & amidonnerie",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Pilotage retrait-rappel contamination croisée en amidonnerie",
+  "duree": "4 mois",
+  "region": "Hauts-de-France",
+  "taille": "330 salariés",
+  "niveau": "Existence",
+  "tension": "Finance",
+  "contexte": "Site amidonnier de 330 salariés. Contamination croisée détectée entre ligne amidon alimentaire et ligne amidon technique. Rappel lots clients pharma et alimentaire en cours. DDPP mobilise. DG cherche un manager de crise food safety expérimenté.",
+  "resultat": "Rappel géré en 72h. Ségrégation physique des flux mise en place. Ré-audit DDPP validé. Plan de prévention contaminations croisées déployé.",
+  "filiere": "Meunerie & amidonnerie",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Construction référentiel BRC multi-sites amidon et dérivés",
+  "duree": "10 mois",
+  "region": "Nord-Pas-de-Calais",
+  "taille": "2 700 salariés, 4 usines",
+  "niveau": "Transformation",
+  "tension": "Efficience",
+  "contexte": "Leader européen de l'amidon (2 700 salariés sur site principal, 4 usines). Volonté de passer l'ensemble des sites en BRC Food Grade AA. Référentiels qualité hétérogènes, culture R&D dominante au détriment des process food safety. Démarche de transformation du système qualité groupe.",
+  "resultat": "4 sites certifiés BRC Grade AA en 8 mois. Référentiel qualité groupe unifié. 45 auditeurs internes formés. Traçabilité allergènes harmonisée entre amidon alimentaire, pharma et technique.",
+  "filiere": "Meunerie & amidonnerie",
+  "badgeIsomorphe": false
+ }
+]

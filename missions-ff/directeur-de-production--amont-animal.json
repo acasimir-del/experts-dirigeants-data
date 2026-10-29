@@ -1,0 +1,28 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Ordonnancement multi-espèces et gestion des OF en usine d’aliments",
+  "duree": "6 mois",
+  "region": "Bretagne",
+  "taille": "1 150 personnes • 28 usines",
+  "niveau": "Performance",
+  "tension": "Efficience",
+  "contexte": "28 usines certifiées Oqualim, 1 150 personnes. Site principal gérant 45 formules pour 5 espèces (volaille, porc, bovin, ovin, lapin). Séquencement des OF non optimisé : nettoyages inter-espèces représentant 18% du temps productif. Conducteurs gérant les transitions sans standard.",
+  "resultat": "Temps de nettoyage inter-espèces réduit de 40% par regroupement des OF. Séquencement optimisé libérant 1 jour de production/semaine. Standards de transition déployés auprès de 15 conducteurs. Taux de service porté à 97,6%.",
+  "filiere": "Amont animal",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Structuration des équipes 3×8 et management de proximité post-extension capacitaire",
+  "duree": "8 mois",
+  "region": "Hauts-de-France",
+  "taille": "1 430 personnes • 2 sites",
+  "niveau": "Cohérence",
+  "tension": "RH",
+  "contexte": "Coopérative de 1 430 personnes ayant doublé sa capacité de production d'aliments pour bétail. Passage de 2×8 à 3×8 sur 2 sites avec recrutement de 45 conducteurs issus d'autres industries. Chefs d'équipe promus sans formation managériale. TRS en baisse de 12 points depuis le passage en 3×8. Turnover des équipes de nuit à 25%.",
+  "resultat": "Programme de formation managériale déployé pour 12 chefs d'équipe. Rituels de passation inter-postes standardisés. TRS stabilisé au niveau pré-extension. Turnover nuit réduit à 11%. Grille de polyvalence couvrant 85% des postes critiques.",
+  "filiere": "Amont animal",
+  "badgeIsomorphe": false
+ }
+]

@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Securisation des approvisionnements maree apres perte du fournisseur principal",
+  "duree": "5 mois",
+  "region": "Bretagne",
+  "taille": "195 collaborateurs",
+  "niveau": "Existence",
+  "tension": "Commerce",
+  "contexte": "Site de filetage et conditionnement de poisson frais. Fournisseur principal (35 % des volumes) en redressement judiciaire. Risque de rupture d'approvisionnement sous 3 semaines. 8 especes a resourcer en urgence sur les criees et marches internationaux.",
+  "resultat": "Zero jour de rupture d'approvisionnement. 5 nouveaux fournisseurs qualifies en 6 semaines. Cout matiere stabilise a +2 % vs budget initial. Panel fournisseurs diversifie de 4 a 12 origines.",
+  "filiere": "Produits de la mer (pêche / aquaculture / transformation)",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Mise en place d'une cellule achats import saumon et crevettes",
+  "duree": "7 mois",
+  "region": "Nouvelle-Aquitaine",
+  "taille": "340 collaborateurs",
+  "niveau": "Cohérence",
+  "tension": "Finance",
+  "contexte": "Groupe de transformation de saumon fume et crevettes cuites. Achats import geres de maniere dispersee entre 3 sites. Pas de consolidation des volumes, pas de couverture de change. Volatilite des cours du saumon norvegien de 25 % sur l'annee precedente.",
+  "resultat": "Cellule achats centralisee creee avec 2 acheteurs. Economies de 680 K EUR/an par consolidation volumes. Couverture de change NOK/EUR mise en place sur 60 % des volumes. Volatilite cout matiere reduite de 25 % a 8 %.",
+  "filiere": "Produits de la mer (pêche / aquaculture / transformation)",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Reorganisation de la logistique aval froid pour livraison J+1 GMS",
+  "duree": "6 mois",
+  "region": "Hauts-de-France",
+  "taille": "150 collaborateurs",
+  "niveau": "Performance",
+  "tension": "Efficience",
+  "contexte": "Site de transformation de produits de la mer frais. Taux de service GMS a 91 % contre un objectif de 97 %. Litiges transport temperature a 4 % des livraisons. Plateforme logistique sous-dimensionnee avec des quais insuffisants pour les departs camions de nuit.",
+  "resultat": "Taux de service porte a 97,5 %. Litiges temperature ramenes a 0,8 %. Reorganisation des quais avec 2 postes supplementaires. Cout logistique reduit de 12 % par optimisation des tournees.",
+  "filiere": "Produits de la mer (pêche / aquaculture / transformation)",
+  "badgeIsomorphe": false
+ }
+]

@@ -1,0 +1,62 @@
+[
+ {
+  "ordre": 1,
+  "fonction": "Directeur d'usine",
+  "secteur": "Nutrition entérale",
+  "titre": "Directeur d'usine de transition — montée en cadence ligne aseptique nutrition entérale",
+  "duree": "9 mois",
+  "contexte": "Site de nutrition entérale, environnement GMP-like. Nouvelle ligne de remplissage aseptique (CAPEX 5,8 M€) livrée mais cadence à 55 % de la cible. Taux de rejet stérilité à 4,2 %, qualifications IQ/OQ/PQ incomplètes. Appel d'offres hospitalier majeur conditionné à la montée en cadence.",
+  "resultat": "Cadence portée à 93 % de la cible, taux de rejet stérilité ramené à 0,6 %, qualifications PQ achevées, appel d'offres hospitalier remporté (12 M€/an sur 3 ans).",
+  "objectifs": []
+ },
+ {
+  "ordre": 2,
+  "fonction": "Directeur de production",
+  "secteur": "Compléments nutritionnels oraux",
+  "titre": "Directeur de production de transition — optimisation production CNO multi-formats",
+  "duree": "8 mois",
+  "contexte": "Site de production de CNO (compléments nutritionnels oraux), 15 références en 4 formats (bouteille, brick, crème, poudre). Changements de format représentant 30 % du temps machine, pertes matière à 7 %, coût de revient 12 % au-dessus du budget.",
+  "resultat": "SMED déployé sur 3 lignes (changements –45 %), pertes matière réduites à 3,2 %, coût de revient ramené à +2 % du budget, capacité libérée permettant 2 nouvelles références.",
+  "objectifs": []
+ },
+ {
+  "ordre": 3,
+  "fonction": "Directeur qualité",
+  "secteur": "Aliments à fins médicales spéciales",
+  "titre": "Directeur qualité de transition — remise en conformité EFSA et dossiers claims santé",
+  "duree": "10 mois",
+  "contexte": "ETI aliments à fins médicales spéciales (AFMS). 3 dossiers claims santé rejetés par l'EFSA (données cliniques insuffisantes), 2 produits commercialisés avec allégations non conformes. Risque DGCCRF et perte de référencement hospitalier.",
+  "resultat": "2 produits remis en conformité (reformulation + re-étiquetage), 1 dossier EFSA re-soumis avec données cliniques renforcées (accepté), référencement hospitalier maintenu sur 100 % des CH cibles.",
+  "objectifs": []
+ },
+ {
+  "ordre": 4,
+  "fonction": "Supply & Achats",
+  "secteur": "Nutrition parentérale",
+  "titre": "Supply & Achats de transition — sécurisation matières premières nutrition parentérale",
+  "duree": "7 mois",
+  "contexte": "Site de production nutrition parentérale (poches multi-chambres). Rupture d'approvisionnement en émulsions lipidiques (fournisseur unique, pénurie mondiale), 3 références en rupture, hôpitaux en tension. ANSM exigeant un plan de continuité sous 30 jours.",
+  "resultat": "Second fournisseur qualifié en 8 semaines (procédure accélérée ANSM), ruptures résorbées, stock de sécurité porté à 8 semaines, plan de continuité validé par l'ANSM.",
+  "objectifs": []
+ },
+ {
+  "ordre": 5,
+  "fonction": "DAF",
+  "secteur": "Nutrition entérale",
+  "titre": "DAF de transition — modèle économique et pricing appels d'offres hospitaliers",
+  "duree": "6 mois",
+  "contexte": "ETI nutrition entérale, 70 % du CA sur appels d'offres hospitaliers. Pricing non structuré (réponses au cas par cas), marge variable de –5 % à +18 % selon les lots. Pas de cost model par référence, impossibilité de défendre les prix en commission.",
+  "resultat": "Cost model par SKU déployé, grille de pricing avec seuils go/no-go, marge moyenne AO stabilisée à 11 % (vs 7 % avant), taux de succès AO passé de 35 % à 48 %.",
+  "objectifs": []
+ },
+ {
+  "ordre": 6,
+  "fonction": "DRH",
+  "secteur": "Compléments nutritionnels oraux",
+  "titre": "DRH de transition — recrutement et fidélisation profils GMP en zone tendue",
+  "duree": "7 mois",
+  "contexte": "Site CNO en environnement salle blanche. 18 postes vacants (opérateurs salle blanche, techniciens maintenance, responsable AQ), turnover à 25 %. Bassin d'emploi en concurrence directe avec pharma. Pas de marque employeur, grille salariale non compétitive.",
+  "resultat": "14 postes pourvus, turnover ramené à 14 %, grille salariale réalignée (+6 % ciblé), marque employeur lancée (partenariat 3 écoles IAA/pharma), taux d'acceptation offres passé de 45 % à 78 %.",
+  "objectifs": []
+ }
+]

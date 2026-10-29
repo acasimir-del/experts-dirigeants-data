@@ -1,0 +1,148 @@
+[
+ {
+  "ordre": 1,
+  "fonction": "Directeur d'usine",
+  "secteur": "Surgelés légumes IQF",
+  "titre": "Directeur d'usine — Restructuration logistique grand froid sur plateforme IQF légumes",
+  "duree": "14 mois",
+  "contexte": "Site IQF légumes 280 pers., EBITDA négatif 3 exercices consécutifs. Chaîne froid –25 °C vétuste, coûts énergie +40 %. Campagne haricots verts compromise par pannes répétées tunnel de surgélation. Audit complet ligne IQF et logistique aval. Renégociation contrat frigoriste, plan CAPEX 2,1 M€ tunnel neuf. Réorganisation équipes campagne saisonnière (3×8 → 2×12 sur 14 semaines). Mise en place suivi TRS temps réel.",
+  "resultat": "EBITDA redevenu positif à +4,2 % en 12 mois. Rendement matière +6 pts sur campagne petits pois. Coût énergie froid réduit de 28 %. Zéro rupture chaîne logistique MDD sur la saison.",
+  "objectifs": [],
+  "filiere": "Surgelés",
+  "filiereSlug": "surgeles"
+ },
+ {
+  "ordre": 1,
+  "fonction": "Directeur d'usine",
+  "secteur": "Grossiste alimentaire",
+  "titre": "Directeur d'usine de transition — structuration plateforme multi-température",
+  "duree": "9 mois",
+  "contexte": "Plateforme grossiste alimentaire multi-température (sec, frais, surgelé). Fusion de 2 dépôts sur un site unique. WMS non intégré, taux d'erreur préparation à 3,2 %, productivité picking en baisse de 15 % post-déménagement.",
+  "resultat": "WMS unifié déployé, taux d'erreur ramené à 0,8 %, productivité picking +28 %, coût logistique par colis –14 %, délai moyen de préparation réduit de 4h à 2h30.",
+  "objectifs": [],
+  "filiere": "Distribution alimentaire",
+  "filiereSlug": "distribution-alimentaire"
+ },
+ {
+  "ordre": 1,
+  "fonction": "Directeur d'usine",
+  "secteur": "Coopérative polyvalente",
+  "titre": "Pilotage crise de gouvernance coopérative polyvalente post-AG",
+  "duree": "12 mois",
+  "contexte": "Coopérative polyvalente (céréales, oléagineux, approvisionnement) de 2 800 adhérents. Crise de gouvernance après vote de défiance du conseil d'administration envers la direction. Départ simultané du DG et du DAF, silos et usine d'aliment du bétail à piloter en continu.",
+  "resultat": "Continuité opérationnelle assurée sans rupture de collecte, restauration de la confiance CA/direction en 4 mois, recrutement DG pérenne accompagné, résultat net maintenu à +0,8 M EUR.",
+  "objectifs": [],
+  "filiere": "Coopératives agricoles",
+  "filiereSlug": "cooperatives-agricoles"
+ },
+ {
+  "ordre": 1,
+  "fonction": "Directeur d'usine",
+  "secteur": "Logistique multi-température",
+  "titre": "Reprendre la direction logistique après un départ brutal et stabiliser les flux multi-température",
+  "duree": "7 mois",
+  "contexte": "Départ soudain du directeur de plateforme logistique multi-température (froid positif/négatif). Désorganisation des équipes de quai, dérive des taux de service et tensions avec les distributeurs GMS sur les créneaux de livraison.",
+  "resultat": "Taux de service remonté de 88 % à 96,5 %. Taux de casse réduit de 1,8 % à 0,6 %. Délai moyen de chargement ramené de 47 à 32 minutes.",
+  "objectifs": [],
+  "filiere": "Logistique & transport agroalimentaire",
+  "filiereSlug": "logistique-transport-agroalimentaire"
+ },
+ {
+  "ordre": 1,
+  "fonction": "Directeur de maintenance",
+  "secteur": "Groupe coopératif agricole et agro-alimentaire — collecte et transformation de céréales (malt, meunerie, nutrition animale)",
+  "titre": "Mission relais Directeur Technique – pôle Agriculture & Filières",
+  "duree": "9 mois",
+  "contexte": "Groupe coopératif agricole et agro-alimentaire de premier plan (4,5 M t de grains, ~12 700 agriculteurs adhérents, leader mondial sur l'un de ses marchés). Plan de transformation groupe / PSE en cours. La Direction des Technologies et des Procédés Industriels (DTPI) est isolée et en rupture avec la stratégie du groupe.",
+  "resultat": "Clarification du périmètre d'actions de la DTPI ; réorientation des stratégies de maintenance et d'investissements courants ; construction d'un plan directeur CAPEX ; reconnexion avec la Direction Industrielle & Supply Chain, la DAF, la DRH et la DSI ; management et remobilisation de 50 personnes ; énergies — gestion de la crise d'approvisionnement GPL de la campagne maïs 2021 et sécurisation des volumes et tarifs électricité/gaz à 3 ans.",
+  "objectifs": [
+   "Replacer la DTPI dans ses missions et accompagner un changement de modèle managérial. Périmètre : ~250 silos de collecte/stockage/expédition (dont 77 sites sécheurs, 49 calibreurs, 4 ensacheurs, 39 embranchés fer, 2 fluviaux), 5 usines de semences, 4 sites stockeurs/distributeurs d'engrais liquides et solides."
+  ],
+  "filiere": "Coopératives agricoles",
+  "filiereSlug": "cooperatives-agricoles"
+ },
+ {
+  "ordre": 2,
+  "fonction": "Directeur de production",
+  "secteur": "Cash & carry",
+  "titre": "Directeur de production de transition — optimisation flux cash & carry régional",
+  "duree": "7 mois",
+  "contexte": "Réseau cash & carry 4 points de vente pro. Ruptures en rayon à 7 %, démarque connue à 4,5 % (surstock fruits et légumes), réapprovisionnement par camion complet inadapté aux petits formats. Marge nette à 1,2 %.",
+  "resultat": "Ruptures réduites à 2,8 %, démarque ramenée à 2,1 % (prévision IA + rotation FEFO), livraison mixte palette/colis mise en place, marge nette remontée à 2,9 %.",
+  "objectifs": [],
+  "filiere": "Distribution alimentaire",
+  "filiereSlug": "distribution-alimentaire"
+ },
+ {
+  "ordre": 2,
+  "fonction": "Directeur de production",
+  "secteur": "Union de coopératives",
+  "titre": "Fusion de deux coopératives et rationalisation industrielle",
+  "duree": "14 mois",
+  "contexte": "Fusion de deux coopératives céréalières en union (4 500 adhérents, 12 sites). Doublons industriels (2 usines d'aliment, 3 silos redondants), systèmes d'information incompatibles, résistance culturelle forte entre les deux ex-entités.",
+  "resultat": "Schéma industriel cible validé (fermeture 1 usine, reconversion 1 silo en hub logistique), 3,2 M EUR de synergies identifiées dont 1,8 M réalisées à 12 mois, ERP unifié déployé sur 8 sites.",
+  "objectifs": [],
+  "filiere": "Coopératives agricoles",
+  "filiereSlug": "cooperatives-agricoles"
+ },
+ {
+  "ordre": 2,
+  "fonction": "Directeur de production",
+  "secteur": "Entreposage frigorifique",
+  "titre": "Piloter la montée en charge d'un entrepôt frigorifique et déployer le nouveau WMS",
+  "duree": "9 mois",
+  "contexte": "Ramp-up d'un nouvel entrepôt frigorifique de 25 000 m² avec migration WMS simultanée. Nécessité de basculer 1 200 références surgelées et frais sans rupture de chaîne du froid ni perte de traçabilité.",
+  "resultat": "Migration WMS achevée sans rupture de service. OTIF passé de 82 % à 97 %. Coût de préparation par palette réduit de 14 % en 6 mois.",
+  "objectifs": [],
+  "filiere": "Logistique & transport agroalimentaire",
+  "filiereSlug": "logistique-transport-agroalimentaire"
+ },
+ {
+  "ordre": 3,
+  "fonction": "Supply & Achats",
+  "secteur": "Centrale d'achat",
+  "titre": "Supply & Achats de transition — pilotage centrale d'achat régionale post-fusion",
+  "duree": "8 mois",
+  "contexte": "Centrale d'achat régionale issue de la fusion de 3 coopératives de détaillants. Doublons fournisseurs (420 références en double), pas de politique tarifaire commune, ERP non harmonisé. Adhérents menaçant de quitter le groupement.",
+  "resultat": "Catalogue unifié (–35 % de références), gains achats de 2,8 M€ sur 6 catégories pilotes, ERP commun déployé, taux de rétention adhérents à 97 %.",
+  "objectifs": [],
+  "filiere": "Distribution alimentaire",
+  "filiereSlug": "distribution-alimentaire"
+ },
+ {
+  "ordre": 3,
+  "fonction": "Supply & Achats",
+  "secteur": "Coopérative céréalière",
+  "titre": "Supply & Achats de transition — couverture prix et trading grains post-fusion coopérative",
+  "duree": "7 mois",
+  "contexte": "Coopérative céréalière post-fusion (2 entités, 8 000 adhérents). Politique de couverture prix inexistante, pertes de 2,4 M€ sur la campagne précédente (ventes spot mal timées). Pas d'outil de gestion des positions, reporting au board opaque.",
+  "resultat": "Politique de couverture formalisée (70 % hedgé en pré-campagne), outil de suivi positions déployé, pertes trading éliminées, marge collecte sécurisée à +1,8 €/t vs N-1.",
+  "objectifs": [],
+  "filiere": "Amont végétal",
+  "filiereSlug": "amont-vegetal"
+ },
+ {
+  "ordre": 3,
+  "fonction": "Directeur de production",
+  "secteur": "Surgelés plats cuisinés",
+  "titre": "Pilotage d'un CAPEX de 12 M€ sur une plateforme surgelés plats cuisinés",
+  "duree": "10 mois",
+  "contexte": "Installation d'une nouvelle ligne de surgélation IQF et réaménagement des flux logistiques internes. Le directeur de production en poste a démissionné au lancement du projet.",
+  "resultat": "Ligne mise en service avec 3 semaines d'avance, capacité journalière portée de 45 à 72 tonnes, marge brute améliorée de 2,1 points sur le périmètre plats cuisinés.",
+  "objectifs": [],
+  "filiere": "Surgelés",
+  "filiereSlug": "surgeles"
+ },
+ {
+  "ordre": 4,
+  "fonction": "Supply & Achats",
+  "secteur": "Glaces industrielles",
+  "titre": "Supply & Achats — Sécurisation approvisionnement et optimisation cold chain glaces industrielles",
+  "duree": "11 mois",
+  "contexte": "Plateforme glaces MDD 310 pers., 4 entrepôts –25 °C sous-exploités. Coûts logistiques surgelés 18 % du CA, benchmark secteur à 12 %. Ruptures fréquentes en matières grasses laitières pendant pic estival. Mutualisation 4 entrepôts en 2 hubs régionaux. Contrats cadre matières grasses avec 3 fournisseurs (couverture avril-sept). Déploiement WMS surgelé avec FIFO strict. Optimisation tournées –25 °C avec pooling inter-sites.",
+  "resultat": "Coûts logistiques ramenés à 13,1 % du CA (–27 % relatif). Zéro rupture matière grasse sur saison estivale. Taux de remplissage camions +14 pts. Économie annuelle 1,8 M€.",
+  "objectifs": [],
+  "filiere": "Surgelés",
+  "filiereSlug": "surgeles"
+ }
+]

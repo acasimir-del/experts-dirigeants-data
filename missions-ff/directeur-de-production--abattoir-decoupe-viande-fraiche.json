@@ -1,0 +1,28 @@
+[
+ {
+  "ordre": 2,
+  "titre": "Pilotage de la montée en cadence post-fermeture de site d'abattage",
+  "duree": "9 mois",
+  "region": "Maine-et-Loire",
+  "taille": "3 000 personnes (8 sites)",
+  "niveau": "Cohérence",
+  "tension": "Industriel",
+  "contexte": "Suite à la fermeture d'une ligne boeuf sur un autre site, transfert de volumes sur cet abattoir bovin (450 bouchers). Montée en cadence de +20% à absorber. Conducteurs de ligne insuffisants, formation des nouveaux opérateurs à structurer. Qualification des postes de découpe manuelle critique. TRS à 68% sur les lignes de découpe.",
+  "resultat": "Montée en cadence absorbée en 7 mois. 60 nouveaux opérateurs formés et qualifiés via programme tutorat. TRS découpe porté à 79%. Matrice de compétences déployée sur l'ensemble des postes de découpe.",
+  "filiere": "Abattoir / découpe & viande fraîche",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Organisation de la polyvalence et gestion des équipes postées en découpe bovine",
+  "duree": "7 mois",
+  "region": "Pays de la Loire",
+  "taille": "1 500 personnes",
+  "niveau": "Cohérence",
+  "tension": "RH",
+  "contexte": "Site multi-espèces (bovin, ovin) avec 1 500 salariés en 3x8. Polyvalence critique : 70% des postes découpe tenus par un seul opérateur qualifié. Turnover intérimaires à 35% sur les postes de chaîne. Chefs d'équipe non formés au management de proximité. Absentéisme à 9,5% avec pics à 14% le week-end.",
+  "resultat": "Matrice de polyvalence déployée sur 100% des ateliers. 85% des postes couverts par 2 opérateurs minimum. Turnover intérimaires réduit à 20%. 18 chefs d'équipe formés au management opérationnel. Absentéisme ramené à 6,8%.",
+  "filiere": "Abattoir / découpe & viande fraîche",
+  "badgeIsomorphe": false
+ }
+]

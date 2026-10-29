@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Interim DU pendant recrutement CDI — BVP",
+  "duree": "6 mois",
+  "region": "",
+  "taille": "",
+  "niveau": "",
+  "tension": "",
+  "contexte": "DU parti à la concurrence avec préavis de 15 jours. Site de 4 lignes de production en feu continu, 280 collaborateurs.",
+  "resultat": "Taux de service maintenu à 97,5%. Recrutement CDI accompagné et passation réalisée.",
+  "filiere": "Boulangerie viennoiserie & pâtisserie (BVP)",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 4,
+  "titre": "Redressement rentabilité post-hausse matières premières",
+  "duree": "7 mois",
+  "region": "Drôme",
+  "taille": "630 salariés",
+  "niveau": "Cohérence",
+  "tension": "Finance",
+  "contexte": "Envolée du coût des farines et du beurre. Site de 630 salariés en 3x8, 7 lignes viennoiserie. Marges négatives depuis 2 trimestres. Direction groupe exigeant un plan de performance immédiat.",
+  "resultat": "Réduction de 9% des coûts de transformation. Marge opérationnelle restaurée en 5 mois. Plan de substitution matières validé.",
+  "filiere": "Boulangerie viennoiserie & pâtisserie (BVP)",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 6,
+  "titre": "Interim DU pendant conflit social",
+  "duree": "8 mois",
+  "region": "Vendée",
+  "taille": "2 300 salariés multi-sites",
+  "niveau": "Existence",
+  "tension": "RH",
+  "contexte": "Grève de 3 semaines sur le site principal. DU en arrêt. Nouveau site en construction nécessitant 300 recrutements. Direction générale en recherche d'un profil capable de rétablir le dialogue social.",
+  "resultat": "Reprise du dialogue social en 10 jours. Accord d'entreprise signé. 180 recrutements réalisés en 6 mois.",
+  "filiere": "Boulangerie viennoiserie & pâtisserie (BVP)",
+  "badgeIsomorphe": false
+ }
+]

@@ -1,0 +1,62 @@
+[
+ {
+  "ordre": 1,
+  "fonction": "Directeur d'usine",
+  "secteur": "Abattoir volaille",
+  "titre": "Relais DU pendant automatisation ligne de saignée",
+  "duree": "8 mois",
+  "contexte": "Départ du DU en plein déploiement robot de saignée. CAPEX 3M€, cadences à maintenir pour les contrats GMS, effectifs de chaîne en tension chronique.",
+  "resultat": "Robot en production en M5. Cadence portée de 180 à 210 carcasses/heure. Taux de service GMS à 98%.",
+  "objectifs": []
+ },
+ {
+  "ordre": 2,
+  "fonction": "Directeur de production",
+  "secteur": "Abattoir canard & palmipèdes",
+  "titre": "Stabilisation production post-crise sanitaire aviaire",
+  "duree": "6 mois",
+  "contexte": "DP parti après 18 mois de grippe aviaire. Approvisionnement à 60% de la capacité, équipes réduites, planning de reprise à bâtir avec les intégrateurs.",
+  "resultat": "Approvisionnement remonté à 85% en M4. Réorganisation équipes validée. Plan de reprise contractualisé avec 12 éleveurs.",
+  "objectifs": []
+ },
+ {
+  "ordre": 3,
+  "fonction": "Directeur qualité",
+  "secteur": "Abattoir bovin",
+  "titre": "Déploiement vidéosurveillance bien-être animal",
+  "duree": "5 mois",
+  "contexte": "DQ en arrêt maladie. Obligation réglementaire de vidéosurveillance en zone d'abattage dans 4 mois. Formation des opérateurs et définition du protocole de visionnage à construire.",
+  "resultat": "Système installé et audité conforme dans les délais. Protocole de visionnage validé par la DDPP. Zéro non-conformité lors du premier contrôle.",
+  "objectifs": []
+ },
+ {
+  "ordre": 4,
+  "fonction": "Supply & Achats",
+  "secteur": "Découpe & conditionnement viande",
+  "titre": "Rationalisation achats emballage multi-sites",
+  "duree": "7 mois",
+  "contexte": "Directeur achats groupe licencié. 4 sites d'abattage-découpe avec chacun ses fournisseurs emballage. Surcoûts estimés à 800K€/an par manque de mutualisation.",
+  "resultat": "Panel fournisseurs réduit de 23 à 8. Économies annuelles de 650K€. Contrats-cadres 3 ans signés.",
+  "objectifs": []
+ },
+ {
+  "ordre": 5,
+  "fonction": "DAF",
+  "secteur": "Abattoir-découpe porcin",
+  "titre": "Mise en place contrôle de gestion industriel",
+  "duree": "9 mois",
+  "contexte": "DAF parti en retraite. Site rentable mais sans aucun outil de pilotage industriel : pas de coût de revient par référence, pas de suivi marge par client.",
+  "resultat": "CDR par référence déployé sur 120 SKU. Marge client visible en temps réel. Identification de 3 contrats GMS à marge négative, renégociés.",
+  "objectifs": []
+ },
+ {
+  "ordre": 6,
+  "fonction": "DRH",
+  "secteur": "Découpe bovine industrielle",
+  "titre": "Négociation accord de méthode plan social",
+  "duree": "11 mois",
+  "contexte": "Fermeture d'un atelier de découpe. 120 postes supprimés. DRH révoqué, climat social inflammable, présence syndicale forte et médiatisation locale.",
+  "resultat": "Accord de méthode signé en M3. PSE homologué sans recours. 85 reclassements internes, 35 départs accompagnés. Zéro blocage de site.",
+  "objectifs": []
+ }
+]

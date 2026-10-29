@@ -1,0 +1,62 @@
+[
+ {
+  "ordre": 1,
+  "fonction": "Directeur d'usine",
+  "secteur": "Glaces bâtonnets & cônes",
+  "titre": "Directeur d'usine — Pilotage crise sanitaire et redémarrage site glaces bâtonnets",
+  "duree": "7 mois",
+  "contexte": "Site glaces bâtonnets & cônes 250 pers., rappel produit massif (contamination oxyde d'éthylène sur stabilisant). Arrêt de production 6 semaines. Pression médiatique et DGCCRF. 4 références retirées du marché. Cellule de crise 24/7 avec DGCCRF et distributeurs. Audit exhaustif 100 % des intrants (280 matières premières). Substitution stabilisant incriminé, revalidation formulations. Plan de communication client transparent. Redémarrage séquentiel ligne par ligne.",
+  "resultat": "Redémarrage complet en 8 semaines. Zéro nouveau rappel. 95 % des références re-référencées sous 4 mois. Confiance distributeurs restaurée, contrat saison estivale honoré.",
+  "objectifs": []
+ },
+ {
+  "ordre": 2,
+  "fonction": "Directeur de production",
+  "secteur": "Crèmes glacées premium",
+  "titre": "Directeur de production — Montée en gamme crèmes glacées premium et maîtrise multi-recettes",
+  "duree": "11 mois",
+  "contexte": "Usine crèmes glacées 180 pers., stratégie de montée en gamme (MDD → marque premium). 85 recettes à gérer sur 4 lignes, changements de parfum toutes les 2 h. Pertes matière 12 % sur changements, non compétitif en premium. Réduction portefeuille à 60 recettes rentables. Optimisation séquençage (clair → foncé, neutre → aromatisé). Installation CIP rapide entre changements. Création cellule R&D-production pour industrialisation nouvelles recettes.",
+  "resultat": "Pertes matière changement ramenées à 4,5 %. Temps de changement –40 %. 12 recettes premium lancées avec succès. CA premium passé de 8 % à 24 % du mix en 12 mois.",
+  "objectifs": []
+ },
+ {
+  "ordre": 3,
+  "fonction": "Directeur qualité",
+  "secteur": "Sorbets & glaces artisanales",
+  "titre": "Directeur qualité — Structuration qualité site sorbets artisanaux en croissance rapide",
+  "duree": "13 mois",
+  "contexte": "PME sorbets artisanaux 75 pers., croissance +25 %/an. Passage de 2 à 5 M€ de CA en 3 ans sans structuration qualité. Aucun référentiel IFS, contrôles empiriques. GMS exige certification pour référencement national. Construction système qualité from scratch (HACCP, PMS, traçabilité). Recrutement responsable qualité + 2 techniciens. Préparation certification IFS Food. Mise en conformité étiquetage (allergènes, clean label) sur 45 références.",
+  "resultat": "Certification IFS obtenue grade Higher au 1er audit. Référencement national obtenu chez 2 enseignes. Zéro non-conformité étiquetage. Croissance sécurisée : CA 7 M€ année suivante.",
+  "objectifs": []
+ },
+ {
+  "ordre": 4,
+  "fonction": "DAF",
+  "secteur": "Desserts glacés MDD",
+  "titre": "DAF — Restructuration coûts et pricing desserts glacés MDD en contexte de guerre des prix",
+  "duree": "10 mois",
+  "contexte": "Usine desserts glacés MDD 200 pers., 3e année consécutive de marge négative sur contrats MDD. Pression prix distributeurs insoutenable (–3 %/an). Énergie froid = 22 % des coûts de production. Aucun outil de costing par référence. Déploiement ABC costing sur 35 références MDD. Identification 8 références structurellement déficitaires. Renégociation ou abandon de 5 contrats. Investissement variateur vitesse sur compresseurs (ROI 14 mois). Mutualisation achats emballage avec site voisin groupe.",
+  "resultat": "Marge opérationnelle redevenue positive (+2,8 %). Coût énergie froid –18 %. 3 contrats MDD renégociés avec indexation énergie. Économie emballage 180 K€/an.",
+  "objectifs": []
+ },
+ {
+  "ordre": 5,
+  "fonction": "Directeur de maintenance",
+  "secteur": "Glaces bâtonnets & cônes",
+  "titre": "Directeur de maintenance — Fiabilisation chaîne froid et transition fluides frigorigènes site cônes",
+  "duree": "20 mois",
+  "contexte": "Site cônes & bâtonnets 230 pers., fluides frigorigènes R404A en phase-down réglementaire (F-Gas). 4 groupes froid à remplacer sous 24 mois. Budget estimé 3,5 M€, direction hésite entre NH3 et CO2 transcritique. Étude technico-économique NH3 vs CO2 vs cascade NH3/CO2. Choix CO2 transcritique (sécurité + coût exploitation). Pilotage chantier remplacement en 2 phases sans arrêt production. Formation 12 techniciens froid CO2. Mise à jour dossier ICPE.",
+  "resultat": "4 groupes remplacés en 20 mois sans perte de production. Consommation énergie froid –24 % (COP supérieur CO2). Conformité F-Gas anticipée de 18 mois. Budget respecté à 3,4 M€.",
+  "objectifs": []
+ },
+ {
+  "ordre": 6,
+  "fonction": "DRH",
+  "secteur": "Sorbets & glaces artisanales",
+  "titre": "DRH — Structuration RH et recrutement massif site sorbets en hypercroissance",
+  "duree": "12 mois",
+  "contexte": "PME sorbets 75 → 140 pers. en 18 mois. Aucune fonction RH structurée, paie externalisée, pas de grille salariale. Recrutements urgents non pourvus (8 postes production, 2 maintenance). Risques prud'homaux identifiés. Création fonction RH complète (recrutement, paie, formation, relations sociales). Mise en place grille de classification et politique salariale. Campagne recrutement locale (job dating, partenariat intérim spécialisé agroalimentaire). Régularisation contrats et mise en conformité code du travail.",
+  "resultat": "10 postes pourvus en 4 mois. Grille salariale déployée, 0 litige prud'homal. Turnover stabilisé à 12 %. Fonction RH autonome avec 1 RRH + 1 assistant.",
+  "objectifs": []
+ }
+]

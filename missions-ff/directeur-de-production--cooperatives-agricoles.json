@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Lancement d'une ligne de granulation aliment en coopérative",
+  "duree": "8 mois",
+  "region": "Nouvelle-Aquitaine",
+  "taille": "180 collaborateurs",
+  "niveau": "Transformation",
+  "tension": "Industriel",
+  "contexte": "Investissement de 12 M€ dans une nouvelle ligne de granulation pour aliment volaille et porcin. Transfert d'activité depuis un ancien site en parallèle du démarrage. Équipes de production non formées aux nouveaux équipements. Saisonnalite des volumes à intégrer au plan de montée en cadence.",
+  "resultat": "Ligne qualifiée en 3 mois. Capacité nominale de 200 t/jour atteinte. Taux de rebut maintenu sous 1,5 %. Formation de 45 opérateurs certifiés. Transfert de l'ancien site achevé sans perte de client.",
+  "filiere": "Coopératives agricoles",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Optimisation des campagnes de séchage céréalier multi-sites",
+  "duree": "5 mois",
+  "region": "Grand Est",
+  "taille": "350 collaborateurs",
+  "niveau": "Performance",
+  "tension": "Efficience",
+  "contexte": "Coopérative céréalière avec 18 sites de séchage. Consommation énergétique de séchage en hausse de 40 % sur 3 ans. Pas de pilotage centralisé des paramètres de ventilation. Pertes de qualité sur les lots stockés liées à des sur-séchages récurrents.",
+  "resultat": "Protocole de séchage standardisé sur les 18 sites. Consommation énergétique réduite de 28 %. Pertes qualité sur lots stockés divisées par 3. Économie de 420 K€ sur la campagne.",
+  "filiere": "Coopératives agricoles",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Restructuration de la production après campagne céréalière déficitaire",
+  "duree": "7 mois",
+  "region": "Hauts-de-France",
+  "taille": "90 collaborateurs",
+  "niveau": "Existence",
+  "tension": "Finance",
+  "contexte": "Collecte de blé inférieure de 35 % aux prévisions après un épisode climatique. Usine de trituration sous-chargée, coûts fixes non couverts. Nécessité d'adapter le plan de production et de réduire les charges sans licencier en zone rurale où la coopérative est le premier employeur.",
+  "resultat": "Plan de production ajusté avec activité partielle ciblée. Coûts fixes réduits de 18 % par mutualisation inter-sites. Zéro licenciement. Reprise d'activité pleine capacité dès la campagne suivante.",
+  "filiere": "Coopératives agricoles",
+  "badgeIsomorphe": false
+ }
+]

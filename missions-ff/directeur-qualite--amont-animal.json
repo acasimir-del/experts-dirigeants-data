@@ -1,0 +1,28 @@
+[
+ {
+  "ordre": 2,
+  "titre": "Mise en place système qualité GMP+ et food safety sur site de prémélanges",
+  "duree": "7 mois",
+  "region": "Bretagne",
+  "taille": "85 personnes",
+  "niveau": "Existence",
+  "tension": "Finance",
+  "contexte": "PME de prémélanges minéraux et vitaminés de 85 salariés ayant grandi sans direction qualité dédiée. Certification GMP+ exigée par les clients éleveurs pour maintenir les contrats d'approvisionnement. Plan HACCP alimentaire animal absent, traçabilité matières premières (additifs, minéraux) partielle.",
+  "resultat": "Certification GMP+ B1 obtenue au premier audit. Plan HACCP structuré avec 8 CCP validés. Traçabilité matières premières complète avec temps de rappel simulé ramené à 2h.",
+  "filiere": "Amont animal",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Pilotage conformité réglementaire et root cause analysis sur aliments médicamenteux",
+  "duree": "6 mois",
+  "region": "Côtes-d'Armor",
+  "taille": "600 personnes",
+  "niveau": "Performance",
+  "tension": "Industriel",
+  "contexte": "Coopérative de nutrition animale produisant 813 000 tonnes/an avec fabrication d'aliments médicamenteux. Audit réglementaire ayant révélé des défaillances sur la gestion des contaminations croisées entre lignes médicamenteuses et aliment standard. Root cause analysis non systématique, traçabilité des flush insuffisante.",
+  "resultat": "Protocoles flush validés sur 100% des lignes médicamenteuses. Système de root cause analysis déployé avec traitement de 100% des écarts sous 72h. Conformité réglementaire totale confirmée par audit de suivi.",
+  "filiere": "Amont animal",
+  "badgeIsomorphe": false
+ }
+]

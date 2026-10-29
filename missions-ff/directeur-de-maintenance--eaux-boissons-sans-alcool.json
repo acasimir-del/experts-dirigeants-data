@@ -1,0 +1,28 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Fiabilisation des lignes d'embouteillage haute cadence",
+  "duree": "8 mois",
+  "region": "Nord",
+  "taille": "520 personnes",
+  "niveau": "Performance",
+  "tension": "Industriel",
+  "contexte": "Site d'embouteillage haute cadence de 9 lignes avec TRS dégradé à 58% sur les lignes PET. Pannes récurrentes sur les soutireuses et les étiqueteuses. Ratio préventif/correctif de 25/75. GMAO sous-exploitée, aucun capteur vibratoire en place.",
+  "resultat": "TRS porté à 74% en 6 mois. Ratio préventif/correctif inversé à 60/40. 120 capteurs vibratoires installés sur équipements critiques. MTBF doublé sur les soutireuses.",
+  "filiere": "Eaux & boissons sans alcool",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Déploiement TPM sur lignes de conditionnement jus et verre",
+  "duree": "9 mois",
+  "region": "Bourgogne",
+  "taille": "~240 personnes",
+  "niveau": "Cohérence",
+  "tension": "Efficience",
+  "contexte": "Site de conditionnement jus de fruits et boissons verre avec 5 lignes hétérogènes. OEE moyen à 62%. Aucune maintenance autonome en place. Opérateurs non formés au niveau 1. Temps de changement de format excessifs (45 min vs standard 20 min).",
+  "resultat": "OEE porté à 73%. 85 opérateurs formés maintenance niveau 1. SMED déployé : changement de format ramené à 18 min. 5S déployé sur 100% des lignes. Micro-arrêts réduits de 40%.",
+  "filiere": "Eaux & boissons sans alcool",
+  "badgeIsomorphe": false
+ }
+]

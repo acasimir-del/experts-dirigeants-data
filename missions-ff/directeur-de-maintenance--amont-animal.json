@@ -1,0 +1,28 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Remise à niveau maintenance préventive sur réseau multi-usines aliment du bétail",
+  "duree": "9 mois",
+  "region": "Bretagne",
+  "taille": "1 150 personnes",
+  "niveau": "Existence",
+  "tension": "Industriel",
+  "contexte": "Réseau de 28 usines d'aliments pour animaux post-intégration d'un concurrent. Hétérogénéité totale des pratiques de maintenance entre les sites historiques et les sites acquis. GMAO non harmonisée. Pannes sur broyeurs, mélangeurs et presses à granulés générant des pertes de 800K€/an.",
+  "resultat": "Référentiel maintenance unique déployé sur les 28 sites. GMAO harmonisée. Pertes liées aux pannes réduites de 55%. Création d'une équipe maintenance volante de 6 techniciens pour les sites les plus critiques.",
+  "filiere": "Amont animal",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Pilotage CAPEX nouvelle unité de concentration protéique et travaux neufs",
+  "duree": "11 mois",
+  "region": "Bretagne",
+  "taille": "850 personnes",
+  "niveau": "Transformation",
+  "tension": "Commerce",
+  "contexte": "Investissement de 16,6M€ pour une nouvelle unité de concentration protéique destinée à la nutrition animale et humaine. Étude d'implantation sur un site existant avec contraintes de flux matières premières. Coordination bureau d'études, fournisseurs équipements et organismes de contrôle. Coopérative de 850 personnes sans expérience CAPEX de cette envergure.",
+  "resultat": "Unité livrée et qualifiée dans les délais. Cahier des charges utilités (vapeur, électricité, eau) dimensionné et validé. Budget CAPEX tenu à -3%. Formation des équipes exploitation et maintenance réalisée avant démarrage.",
+  "filiere": "Amont animal",
+  "badgeIsomorphe": false
+ }
+]

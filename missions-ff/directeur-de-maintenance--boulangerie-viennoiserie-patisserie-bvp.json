@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Structuration maintenance préventive site BVP (Métier)",
+  "duree": "6 mois",
+  "region": "Hauts-de-France",
+  "taille": "280 personnes",
+  "niveau": "Performance",
+  "tension": "Industriel",
+  "contexte": "Site de viennoiserie en 3x8 sans plan de maintenance préventive. Taux de panne à 8%, pertes de production hebdomadaires.",
+  "resultat": "Taux de panne ramené à 3,5%. Plan préventif niveaux 1-3 déployé. GMAO opérationnelle.",
+  "filiere": "Boulangerie viennoiserie & pâtisserie (BVP)",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Pilotage CAPEX remplacement four tunnel",
+  "duree": "9 mois",
+  "region": "Centre-Val de Loire",
+  "taille": "350 personnes",
+  "niveau": "Transformation",
+  "tension": "Industriel",
+  "contexte": "Four tunnel de 40 mètres en fin de vie sur site de pain de mie. Budget 4M€ validé, pas de pilote technique interne.",
+  "resultat": "Four installé et qualifié en 7 mois. Rendement énergétique amélioré de 15%. Zéro jour de production perdu.",
+  "filiere": "Boulangerie viennoiserie & pâtisserie (BVP)",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Interim direction maintenance post-acquisition",
+  "duree": "8 mois",
+  "region": "Grand Est",
+  "taille": "200 personnes",
+  "niveau": "Cohérence",
+  "tension": "Gouvernance",
+  "contexte": "Acquisition d'un site de pâtisserie avec parc machines hétérogène. Pas de documentation technique, pas de GMAO.",
+  "resultat": "Inventaire complet réalisé. GMAO déployée. Standards groupe harmonisés. Recrutement CDI accompagné.",
+  "filiere": "Boulangerie viennoiserie & pâtisserie (BVP)",
+  "badgeIsomorphe": false
+ }
+]

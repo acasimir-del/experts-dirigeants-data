@@ -1,0 +1,62 @@
+[
+ {
+  "ordre": 1,
+  "fonction": "Directeur d'usine",
+  "secteur": "Lait infantile poudre",
+  "titre": "Lancement ligne poudre infantile post-acquisition",
+  "duree": "9 mois",
+  "contexte": "Départ du DU en plein CAPEX spray-dryer 40 M€. Nouvel acquéreur exige la mise en service sous 6 mois pour honorer un contrat export Asie. Ultra-clean room à qualifier, équipes à former sur les protocoles CNCA.",
+  "resultat": "Ligne qualifiée en 5 mois, certification CNCA obtenue au premier audit. Rendement poudre à 96 % dès le 3e mois de production. Turnover opérateurs réduit de 22 % à 9 % grâce au plan de montée en compétences.",
+  "objectifs": []
+ },
+ {
+  "ordre": 2,
+  "fonction": "Directeur qualité",
+  "secteur": "Lait infantile poudre",
+  "titre": "Restructuration qualité pour enregistrement CNCA Chine",
+  "duree": "7 mois",
+  "contexte": "Rejet du dossier CNCA lors du premier dépôt. Système qualité jugé non conforme aux exigences chinoises. Risque de perte du premier client export représentant 35 % du CA prévisionnel. Urgence de refonte documentaire et de mise à niveau des process de traçabilité.",
+  "resultat": "Dossier redéposé et validé en 4 mois. Zéro non-conformité majeure à l'audit CNCA. Mise en place d'un système de traçabilité lot-par-lot couvrant 100 % de la chaîne, du lait cru à l'expédition.",
+  "objectifs": []
+ },
+ {
+  "ordre": 3,
+  "fonction": "DAF",
+  "secteur": "Petits pots bébé",
+  "titre": "Pilotage financier post-rachat site petits pots",
+  "duree": "6 mois",
+  "contexte": "Intégration financière post-acquisition d'un site de petits pots. Reporting inexistant au format groupe, coûts de revient non fiabilisés, 3 ERP à fusionner. Le groupe acquéreur exige un P&L site consolidé sous 90 jours.",
+  "resultat": "P&L consolidé livré en 75 jours. Identification de 1,2 M€ de coûts cachés sur les copacking. Migration ERP planifiée et premier lot pilote basculé. Marge brute recalculée avec écart de +3 points vs estimation due diligence.",
+  "objectifs": []
+ },
+ {
+  "ordre": 4,
+  "fonction": "Supply & Achats",
+  "secteur": "Céréales infantiles",
+  "titre": "Refonte supply chain céréales infantiles multi-site",
+  "duree": "8 mois",
+  "contexte": "Taux de service client tombé à 82 % sur les céréales infantiles. Ruptures récurrentes sur 3 matières premières critiques (riz, avoine, vitamines). Planning de production en mode pompier, sans S&OP structuré. Le site alimente 4 marchés européens via un seul entrepôt.",
+  "resultat": "Taux de service remonté à 97 % en 5 mois. Mise en place d'un S&OP mensuel avec les 4 filiales. Stocks de sécurité recalibrés, réduction du BFR de 800 K€. Dual sourcing sécurisé sur les 3 matières critiques.",
+  "objectifs": []
+ },
+ {
+  "ordre": 5,
+  "fonction": "DRH",
+  "secteur": "Lait infantile poudre",
+  "titre": "Plan social et maintien production lait infantile",
+  "duree": "10 mois",
+  "contexte": "PSE annoncé sur le site historique : suppression de 80 postes suite à la perte d'un contrat MDD représentant 40 % du volume. Climat social explosif, préavis de grève déposé. Obligation de maintenir la production des références infantiles sous contrainte réglementaire stricte.",
+  "resultat": "PSE négocié en 4 mois avec 92 % de reclassements. Zéro jour de grève. Production infantile maintenue à 100 % pendant toute la période. Accord GPEC signé pour les 60 postes transformés vers la nouvelle ligne premium.",
+  "objectifs": []
+ },
+ {
+  "ordre": 6,
+  "fonction": "Directeur de production",
+  "secteur": "Petits pots bébé",
+  "titre": "Montée en cadence petits pots bio après lancement raté",
+  "duree": "6 mois",
+  "contexte": "Lancement gamme bio raté : TRS à 45 % sur la nouvelle ligne de remplissage, 18 % de pertes matières. Le distributeur menace de déréférencer sous 3 mois. Le DU parti, le directeur de production assure l'interim sans visibilité sur les causes racines.",
+  "resultat": "TRS remonté à 78 % en 8 semaines via SMED et standardisation des changements de recette. Pertes matières ramenées à 4 %. Déréférencement évité, volume contractuel honoré à 100 % dès le mois 4.",
+  "objectifs": []
+ }
+]

@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Ordonnancement multi-moulins et lissage de charge campagne blé",
+  "duree": "6 mois",
+  "region": "Centre-Val de Loire",
+  "taille": "~500 personnes",
+  "niveau": "Cohérence",
+  "tension": "Efficience",
+  "contexte": "Meunier exploitant 8 moulins régionaux avec un broyage de 500 000t blé/an. Ordonnancement piloté moulin par moulin sans vision consolidée groupe. Campagnes de blé juillet-octobre générant des tensions de capacité non anticipées. OF gérés en local par chaque chef meunier, entraînant des déséquilibres de charge entre moulins. Rendement de mouture hétérogène (écart de 3 points entre le meilleur et le moins bon moulin).",
+  "resultat": "Planning de charge consolidé inter-moulins déployé sur 4 semaines glissantes. Arbitrages campagne centralisés avec répartition optimisée des lots de blé. Rendement de mouture harmonisé : écart inter-moulins réduit à 1 point. 8 chefs meuniers formés à l'outil de planification commun.",
+  "filiere": "Meunerie & amidonnerie",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Amélioration du rendement de mouture et démarche Kaizen en minoterie",
+  "duree": "5 mois",
+  "region": "Île-de-France",
+  "taille": "~120 personnes",
+  "niveau": "Performance",
+  "tension": "Industriel",
+  "contexte": "Moulin de 900t/jour avec un rendement matière de 76% contre un objectif de 79%. Pertes identifiées au broyage (réglage cylindres), au plansichter (extraction sons) et au stockage (reprise d'humidité). Conducteurs de moulin expérimentés mais sans culture d'amélioration continue. Aucun rituel de suivi de la performance quotidienne en place.",
+  "resultat": "Rendement de mouture remonté à 78,5% en 4 mois. Rituels Kaizen quotidiens instaurés sur les 3 postes de broyage. Standards de réglage cylindres formalisés et affichés. Perte au stockage réduite de 0,8 point par mise aux normes des silos. Tableau de bord rendement matière déployé avec suivi poste par poste.",
+  "filiere": "Meunerie & amidonnerie",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Organisation des équipes postées et montée en cadence post-acquisition moulin",
+  "duree": "6 mois",
+  "region": "Hauts-de-France",
+  "taille": "~80 personnes",
+  "niveau": "Cohérence",
+  "tension": "RH",
+  "contexte": "Moulin racheté dans le cadre d'une consolidation régionale avec un objectif de doublement de la capacité de broyage. Passage de 1x8 à 3x8 nécessaire mais équipes en place habituées au fonctionnement journée. 12 conducteurs de moulin à recruter et former. Équipement vieillissant nécessitant une montée en cadence progressive. OF planifiés au jour le jour sans anticipation des commandes industriels.",
+  "resultat": "Organisation 3x8 opérationnelle en 4 mois. 12 conducteurs recrutés, formés et autonomes sur les postes de broyage et de plansichter. Capacité de broyage doublée à 550t/jour. Ordonnancement structuré sur 2 semaines glissantes avec priorisation des commandes industriels.",
+  "filiere": "Meunerie & amidonnerie",
+  "badgeIsomorphe": false
+ }
+]

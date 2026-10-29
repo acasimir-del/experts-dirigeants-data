@@ -1,0 +1,28 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Structuration de la supply chain multi-sites et optimisation des flux inter-usines",
+  "duree": "9 mois",
+  "region": "Normandie",
+  "taille": "~650 personnes",
+  "niveau": "Cohérence",
+  "tension": "Efficience",
+  "contexte": "Triturateur-raffineur leader français avec 650 salariés répartis sur 4 sites industriels. Flux logistiques entre les sites de trituration (huile brute, tourteaux) et les sites de raffinage/conditionnement non optimisés. Coûts de transport inter-sites en hausse de 25% en 2 ans. Pas de tour de contrôle supply centralisée : chaque directeur de site pilote ses propres flux entrants et sortants. Stocks de produits intermédiaires (huile brute en cuves portuaires) mal dimensionnés, générant tantôt du surstockage tantôt des arrêts de raffinage.",
+  "resultat": "Tour de contrôle supply déployée au siège avec visibilité temps réel sur les stocks des 4 sites. Optimisation des flux inter-sites par massification des transports : coûts logistiques réduits de 18%. Planning de livraisons inter-sites formalisé sur 4 semaines glissantes. Réduction de 30% des volumes de stockage intermédiaire grâce au séquençage trituration-raffinage.",
+  "filiere": "Oléagineux & huiles",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Pilotage des achats de graines oléagineuses et couverture de la volatilité des cours",
+  "duree": "6 mois",
+  "region": "Nord",
+  "taille": "~210 personnes",
+  "niveau": "Performance",
+  "tension": "Finance",
+  "contexte": "Site de conditionnement huile de 210 personnes produisant 180 millions de litres/an. Achats de graines et huiles brutes réalisés par la direction commerciale sans stratégie de couverture formalisée. Forte exposition à la volatilité des cours du tournesol et du colza (écarts de +/-30% sur 12 mois). Marges laminées sur les contrats MDD à prix fixe avec la GMS. Pas d'outil de suivi des positions achats ni de comité risques matières premières.",
+  "resultat": "Comité risques matières premières mensuel instauré avec DG, direction commerciale et achats. Politique de couverture formalisée : 60% des besoins couverts à 6 mois glissants via contrats forward. Tableau de bord prix-marges-positions déployé. Marge brute stabilisée à +/-2 points vs +/-8 points l'année précédente. Économie estimée à 800 K€ sur l'exercice grâce à l'anticipation des pics de cours.",
+  "filiere": "Oléagineux & huiles",
+  "badgeIsomorphe": false
+ }
+]

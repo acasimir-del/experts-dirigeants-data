@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Déploiement d'un système qualité multi-sites pour certification OQUALIM",
+  "duree": "8 mois",
+  "region": "Pays de la Loire",
+  "taille": "400 collaborateurs",
+  "niveau": "Cohérence",
+  "tension": "Légitimité ext.",
+  "contexte": "Coopérative avec 4 usines d'aliment du bétail et 22 silos de collecte. Certification OQUALIM à renouveler dans 10 mois, avec des écarts majeurs identifiés au dernier audit. Aucun responsable qualité en poste depuis 3 mois. Risque de perte des agréments GMP+.",
+  "resultat": "Certification OQUALIM renouvelée sans réserve majeure. 4 usines et 22 silos audités. 95 % des écarts clôturés. Formation de 60 collaborateurs aux bonnes pratiques d'hygiène. Agrément GMP+ maintenu.",
+  "filiere": "Coopératives agricoles",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Gestion de crise mycotoxines sur une campagne de collecte",
+  "duree": "4 mois",
+  "region": "Picardie",
+  "taille": "150 collaborateurs",
+  "niveau": "Existence",
+  "tension": "Industriel",
+  "contexte": "Campagne de blé avec des taux de DON (déoxynivalénol) dépassant les seuils réglementaires sur 40 % des lots collectés. Risque de blocage de 30 000 tonnes non conformes. Clients meuniers menaçant de résilier les contrats. Pression du conseil d'administration pour ne pas déclasser les lots des adhérents.",
+  "resultat": "Plan de tri et mélange déployé permettant la valorisation de 85 % des lots non conformes. Zéro lot expédié hors norme. Contrats meuniers préservés. Protocole de surveillance renforcé pour les campagnes suivantes.",
+  "filiere": "Coopératives agricoles",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Structuration de la traçabilité parcellaire pour filières sous contrat",
+  "duree": "6 mois",
+  "region": "Auvergne-Rhône-Alpes",
+  "taille": "250 collaborateurs",
+  "niveau": "Performance",
+  "tension": "Légitimité ext.",
+  "contexte": "Coopérative engagée dans 5 filières qualité (CRC, Label Rouge, Agriculture raisonnée) sans système de traçabilité parcellaire unifié. Audits clients révélant des failles de ségrégation entre lots conventionnels et sous contrat. Risque de perte des cahiers des charges.",
+  "resultat": "Système de traçabilité parcellaire déployé sur 15 silos. Taux de conformité audit porté de 68 % à 96 %. Zéro mélange entre lots filières et conventionnels. 5 cahiers des charges renouvelés.",
+  "filiere": "Coopératives agricoles",
+  "badgeIsomorphe": false
+ }
+]

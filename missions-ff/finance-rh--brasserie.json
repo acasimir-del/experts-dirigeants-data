@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 2,
+  "titre": "Reprise des clôtures comptables et préparation de la liasse fiscale post-changement d'ERP",
+  "duree": "6 mois",
+  "region": "Nord",
+  "taille": "320 personnes",
+  "niveau": "Cohérence",
+  "tension": "Finance",
+  "contexte": "Brasserie intégrée à un groupe international ayant migré vers SAP S/4HANA. Les clôtures mensuelles accusent 12 jours de retard, les provisions sur stocks de houblon ne sont plus fiables et les commissaires aux comptes ont émis des réserves sur l'exercice précédent.",
+  "resultat": "Clôtures mensuelles ramenées à J+7, réserves des CAC levées, liasse fiscale livrée dans les délais légaux, écart d'inventaire ramené sous 0,8%.",
+  "filiere": "Brasserie",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 4,
+  "titre": "Conduite du dialogue social et négociation d'un accord de compétitivité site",
+  "duree": "9 mois",
+  "region": "PACA",
+  "taille": "160 personnes",
+  "niveau": "Cohérence",
+  "tension": "RH",
+  "contexte": "Brasserie régionale confrontée à un projet de passage en 3x8 continu pour absorber la croissance des volumes craft. Le CSE s'oppose au changement d'organisation, les NAO sont bloquées depuis deux ans et le climat social est dégradé après un mouvement de grève.",
+  "resultat": "Accord de compétitivité signé à l'unanimité des OS, passage en 3x8 effectif, NAO conclues avec revalorisation de 3,5%, taux de conflictualité ramené à zéro sur 6 mois.",
+  "filiere": "Brasserie",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 5,
+  "titre": "Plan GPEC et attractivité site pour métiers en tension brassicole",
+  "duree": "10 mois",
+  "region": "Bas-Rhin",
+  "taille": "145 personnes",
+  "niveau": "Transformation",
+  "tension": "RH",
+  "contexte": "Brasserie indépendante en difficulté de recrutement sur les postes de conducteurs de ligne et de maîtres brasseurs. Le turnover atteint 18% et les intérimaires représentent 30% de l'effectif de production. La marque employeur est inexistante malgré un savoir-faire centenaire.",
+  "resultat": "Turnover réduit à 9%, part intérimaire ramenée à 15%, 12 CDI signés sur postes critiques, lancement d'une école interne de brassage en partenariat avec le CFA local.",
+  "filiere": "Brasserie",
+  "badgeIsomorphe": false
+ }
+]

@@ -1,0 +1,62 @@
+[
+ {
+  "ordre": 1,
+  "fonction": "Directeur d'usine",
+  "secteur": "Viennoiserie industrielle surgelée",
+  "titre": "Directeur d'usine — Redressement industriel viennoiserie surgelée après perte client stratégique",
+  "duree": "12 mois",
+  "contexte": "Site viennoiserie surgelée 340 pers., perte du client n°1 (28 % du CA). Lignes croissants/pains au chocolat tournant à 55 % de capacité. Trésorerie tendue, plan de sauvegarde envisagé par le groupe. Prospection commerciale accélérée RHF et export. Réduction de 42 à 28 références pour concentrer les lignes. Renégociation prix farines avec meuniers. Plan de productivité : passage de 3 à 2 équipes avec polyvalence élargie.",
+  "resultat": "CA reconstitué à 92 % en 10 mois grâce à 4 nouveaux clients RHF. Taux de charge lignes remonté à 81 %. Coût de revient croissant –11 %. Plan de sauvegarde évité.",
+  "objectifs": []
+ },
+ {
+  "ordre": 2,
+  "fonction": "Directeur de production",
+  "secteur": "Pain de mie & brioche",
+  "titre": "Directeur de production — Lancement nouvelle ligne pain de mie sans croûte haute cadence",
+  "duree": "9 mois",
+  "contexte": "Usine pain de mie 260 pers., investissement 8 M€ sur ligne sans croûte automatisée. Démarrage raté : cadence réelle 40 % de la nominale, taux de déchets 18 %. Retard de 4 mois sur livraisons client. Diagnostic OEE ligne complète (pétrissage → tranchage → emballage). Recalibration four tunnel et refroidissement. Formation 30 conducteurs de ligne. Mise en place management visuel et rituels TOP5 par poste.",
+  "resultat": "Cadence nominale atteinte en 4 mois. Taux de déchets ramené à 4,5 %. OEE passé de 38 % à 74 %. Retard client résorbé, pénalités arrêtées.",
+  "objectifs": []
+ },
+ {
+  "ordre": 3,
+  "fonction": "Directeur qualité",
+  "secteur": "Pâtisserie surgelée",
+  "titre": "Directeur qualité — Harmonisation qualité multi-sites pâtisserie surgelée post-acquisition",
+  "duree": "15 mois",
+  "contexte": "Groupe ayant acquis 3 sites pâtisserie surgelée (690 pers. total). Référentiels qualité incompatibles, 3 ERP différents, audits IFS échelonnés. Réclamations clients +25 % post-fusion sur défauts aspect. Création référentiel qualité groupe unifié. Déploiement plan de contrôle standardisé (aspect, poids, texture) sur 3 sites. Migration traçabilité vers plateforme commune. Audits croisés inter-sites mensuels.",
+  "resultat": "Réclamations clients –62 % en 8 mois. 3 sites certifiés IFS Higher en simultané. Temps de traitement réclamation divisé par 3. Économie 400 K€/an sur coûts de non-qualité.",
+  "objectifs": []
+ },
+ {
+  "ordre": 4,
+  "fonction": "DAF",
+  "secteur": "Boulangerie traditionnelle",
+  "titre": "DAF — Pilotage financier et pricing boulangerie traditionnelle en contexte inflation farine",
+  "duree": "8 mois",
+  "contexte": "Boulangerie industrielle traditionnelle 180 pers., marge brute effondrée de 32 % à 19 % en 18 mois suite à inflation farine (+45 %) et énergie (+60 %). Pricing figé sur contrats annuels GMS. Trésorerie à 15 jours de survie. Modèle de coût de revient par référence avec indexation matières. Renégociation tarifaire GMS avec clause de révision trimestrielle. Affacturage pour soulager BFR. Suppression de 8 références marginales non rentables.",
+  "resultat": "Marge brute remontée à 26 % en 6 mois. Clause d'indexation acceptée par 3 enseignes sur 4. BFR réduit de 12 jours. Trésorerie sécurisée à 45 jours.",
+  "objectifs": []
+ },
+ {
+  "ordre": 5,
+  "fonction": "Supply & Achats",
+  "secteur": "Viennoiserie industrielle surgelée",
+  "titre": "Supply & Achats — Réorganisation supply chain viennoiserie surgelée multi-dépôts",
+  "duree": "11 mois",
+  "contexte": "Site viennoiserie 290 pers., 6 dépôts régionaux surgelés gérés en silo. DLC courte imposant rotations rapides. Taux de service 91 %, pertes DLC 3,2 % du CA. Aucune visibilité stock consolidée. Centralisation pilotage stock sur TMS/WMS unifié. Fermeture 2 dépôts redondants, transfert vers plateforme mutualisée. Algorithme prévisionnel par référence/dépôt. Mise en place S&OP mensuel usine-commerce.",
+  "resultat": "Taux de service porté à 97,8 %. Pertes DLC réduites à 0,9 % du CA. Coûts logistiques –22 %. Stock moyen réduit de 4,5 jours.",
+  "objectifs": []
+ },
+ {
+  "ordre": 6,
+  "fonction": "DRH",
+  "secteur": "Pain de mie & brioche",
+  "titre": "DRH — Transformation sociale et GPEC site brioche après automatisation pétrissage",
+  "duree": "16 mois",
+  "contexte": "Site brioche 210 pers., automatisation pétrissage/façonnage supprimant 35 postes. Climat social tendu, préavis de grève déposé. Moyenne d'âge élevée (48 ans), faible mobilité géographique. PSE évité par accord GPEC avec reclassement interne sur postes conduite/maintenance. Plan de formation 12 000 h (conduite automates, GMAO). Cellule mobilité interne avec bilan de compétences individuels. Négociation accord senior (temps partiel progressif).",
+  "resultat": "35 postes reclassés dont 28 en interne. Zéro jour de grève. 92 % des salariés formés opérationnels sous 6 mois. Accord GPEC signé à 3 OS sur 4.",
+  "objectifs": []
+ }
+]

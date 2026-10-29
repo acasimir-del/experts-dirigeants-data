@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Mise en place de la comptabilite analytique et du suivi des marges par produit en charcuterie industrielle",
+  "duree": "7 mois",
+  "region": "Vendée",
+  "taille": "320 personnes",
+  "niveau": "Cohérence",
+  "tension": "Finance",
+  "contexte": "Charcutier industriel avec 200 references actives mais aucune visibilite sur la marge brute par ligne de produit. Les standards de couts datent de 3 ans, les pertes matiere en cuisson et tranchage ne sont pas valorisees.",
+  "resultat": "Comptabilite analytique deployee avec 12 centres de couts. Marge brute calculee par famille de produits. Identification de 15 references a marge negative. Budget production recale avec ecart PRI inferieur a 2%.",
+  "filiere": "Charcuterie & salaison",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Reprise en main des clotures et consolidation comptable post-acquisition dans un groupe charcutier",
+  "duree": "10 mois",
+  "region": "Limousin",
+  "taille": "580 personnes",
+  "niveau": "Transformation",
+  "tension": "Gouvernance",
+  "contexte": "Groupe charcutier ayant rachete 2 sites sans integrer les processus comptables. Clotures a J+18, consolidation impossible, provisions sur stocks de salaisons en cave non fiabilisees, amortissements des equipements de sechage non reconcilies.",
+  "resultat": "Process de cloture unifie sur 3 sites a J+10. Consolidation mensuelle operationnelle. Provisions stocks caves fiabilisees avec methode de valorisation par age de sechage. Commissaires aux comptes satisfaits, zero ajustement.",
+  "filiere": "Charcuterie & salaison",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Securisation de la tresorerie et renegociation bancaire dans une salaison familiale en difficulte",
+  "duree": "6 mois",
+  "region": "Auvergne",
+  "taille": "95 personnes",
+  "niveau": "Existence",
+  "tension": "Finance",
+  "contexte": "Salaison familiale dont la tresorerie est asphyxiee par un BFR lie aux 4 mois de sechage des saucissons. DSO eleve, DPO court, aucune prevision cash, relations bancaires rompues apres non-respect de 2 covenants consecutifs.",
+  "resultat": "Plan de tresorerie rolling 13 semaines installe. Renegociation bancaire aboutie avec nouveau pool et covenant revises. Mise en place d'un affacturage a 1,8 M EUR. BFR reduit de 18% par optimisation des cycles de sechage.",
+  "filiere": "Charcuterie & salaison",
+  "badgeIsomorphe": false
+ }
+]

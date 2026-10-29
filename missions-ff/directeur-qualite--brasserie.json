@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 2,
+  "titre": "Plan maîtrise allergènes et sulfites en brasserie grand volume",
+  "duree": "5 mois",
+  "region": "Nord-Pas-de-Calais",
+  "taille": "350 salariés",
+  "niveau": "Performance",
+  "tension": "Industriel",
+  "contexte": "Alerte DGCCRF sur étiquetage allergènes (gluten, sulfites) d'une brasserie de 350 salariés produisant 2 Mhl/an. Trois non-conformités étiquetage relevées lors d'un contrôle. Risque de suspension de mise sur le marché. DQ absent depuis 4 mois.",
+  "resultat": "Plan de maîtrise allergènes déployé sur 6 lignes. Étiquetage conforme réglementation INCO. Zéro non-conformité au contrôle DGCCRF suivant.",
+  "filiere": "Brasserie",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Deploiement culture qualite et formation HACCP sur site brassicole grand volume",
+  "duree": "9 mois",
+  "region": "Alsace",
+  "taille": "800 personnes",
+  "niveau": "Cohérence",
+  "tension": "RH",
+  "contexte": "Grande brasserie (800 salaries, 70 ha) en phase de transformation post-integration groupe international. Ecart culturel entre les pratiques qualite locales et les standards corporate (IFS Food v8, BRC). Taux de reclamations consommateurs en hausse de 35% sur 12 mois (corps etrangers, gout atypique). Equipe qualite sous-dimensionnee (6 personnes pour 3 ateliers). Pas de programme de formation HACCP structure pour les equipes de production.",
+  "resultat": "Academie qualite interne creee : 420 operateurs formes aux fondamentaux HACCP et CCP en 7 mois. Equipe qualite renforcee de 6 a 12 personnes. Referentiel IFS Food v8 deploye, score audit passe de 78% a 94%. Reclamations consommateurs reduites de 48%. Root cause analysis systematisee sur chaque deviation.",
+  "filiere": "Brasserie",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Gestion de crise rappel produit contaminé en brasserie MDD",
+  "duree": "4 mois",
+  "region": "Hauts-de-France",
+  "taille": "800 salariés",
+  "niveau": "Existence",
+  "tension": "Gouvernance",
+  "contexte": "Rappel produit national sur une bière MDD suite à détection de corps étranger (verre). 800 salariés, 1er brasseur MDD de France. Clients GMS suspendent les commandes. Direction en attente d'un manager de crise food safety pour piloter la cellule de crise et restaurer la confiance.",
+  "resultat": "Cellule de crise pilotée en 48h. Traçabilité lot incriminé reconstituée. Plan HACCP renforcé sur les CCP filtration/conditionnement. Reprise commandes GMS en 6 semaines.",
+  "filiere": "Brasserie",
+  "badgeIsomorphe": false
+ }
+]

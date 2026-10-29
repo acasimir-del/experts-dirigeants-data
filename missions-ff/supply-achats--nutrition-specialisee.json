@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Securisation approvisionnements principes actifs apres defaillance fournisseur",
+  "duree": "6 mois",
+  "region": "Occitanie",
+  "taille": "130 collaborateurs",
+  "niveau": "Existence",
+  "tension": "Commerce",
+  "contexte": "Defaillance du fournisseur unique d'un extrait vegetal certifie bio utilise dans 15 references. Stock de securite a 3 semaines. Requalification d'un nouveau fournisseur necessitant validation analytique complete. Directeur supply en conge sabbatique.",
+  "resultat": "Nouveau fournisseur qualifie en 10 semaines. Zero rupture de production. Cout matiere reduit de 7 % grace a la mise en concurrence.",
+  "filiere": "Nutrition spécialisée",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Deploiement S&OP sur site lait infantile multi-destinations",
+  "duree": "8 mois",
+  "region": "Grand Est",
+  "taille": "240 collaborateurs",
+  "niveau": "Cohérence",
+  "tension": "Finance",
+  "contexte": "Site de lait infantile exportant vers 12 pays avec des specifications differentes par marche. Stocks de produits finis en exces de 35 jours. Previsions de vente fiables a 55 % seulement. Perte matiere sur les fins de DLC estimee a 800 K EUR/an.",
+  "resultat": "Processus S&OP mensuel instaure. Fiabilite previsions portee a 78 %. Stocks reduits de 35 a 22 jours. Perte DLC ramenee a 320 K EUR/an.",
+  "filiere": "Nutrition spécialisée",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Reorganisation supply chain site nutrition enterale post-fusion",
+  "duree": "7 mois",
+  "region": "Normandie",
+  "taille": "170 collaborateurs",
+  "niveau": "Cohérence",
+  "tension": "Gouvernance",
+  "contexte": "Fusion de deux sites de nutrition enterale avec rationalisation des approvisionnements. 40 % de references fournisseurs en doublon. Systemes d'information non integres. Obligation de continuite d'approvisionnement hospitalier sans rupture.",
+  "resultat": "Panel fournisseurs rationalise de 120 a 75 references. Economies achats de 1,2 M EUR/an. Zero rupture d'approvisionnement hospitalier pendant la transition.",
+  "filiere": "Nutrition spécialisée",
+  "badgeIsomorphe": false
+ }
+]

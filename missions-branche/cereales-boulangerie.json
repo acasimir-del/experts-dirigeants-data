@@ -1,0 +1,62 @@
+[
+ {
+  "ordre": 2,
+  "fonction": "Directeur de production",
+  "secteur": "Biscuiterie sèche",
+  "titre": "Montée en cadence nouvelle ligne biscuits secs",
+  "duree": "6 mois",
+  "contexte": "Investissement CAPEX de 12 M€ sur une nouvelle ligne de biscuits secs. Ramp-up bloqué à 55% de la cadence nominale, écarts de rendement matière et pertes au conditionnement.",
+  "resultat": "Cadence nominale atteinte en M4, rendement matière porté de 91% à 96,8%. Gain de 1,2 point de marge brute sur la ligne.",
+  "objectifs": []
+ },
+ {
+  "ordre": 2,
+  "fonction": "Directeur qualité",
+  "secteur": "",
+  "titre": "Transformation du système qualité multi-sites pour intégration groupe",
+  "duree": "10 mois",
+  "contexte": "Réseau de boulangeries industrielles en cours de rachat par un groupe international. Chaque site fonctionnait avec son propre référentiel qualité. Nécessité d'harmoniser les pratiques HACCP, de déployer un système IFS commun et de former 400 opérateurs aux nouvelles procédures.",
+  "resultat": "Système qualité unifié déployé sur 4 sites. Score IFS passé de 85% à 97%. Programme de formation qualité certifiant lancé pour 400 collaborateurs avec taux de réussite de 94%.",
+  "objectifs": []
+ },
+ {
+  "ordre": 4,
+  "fonction": "Supply & Achats",
+  "secteur": "Pâtisserie industrielle MDD",
+  "titre": "Restructuration supply chain multi-recettes pâtisserie",
+  "duree": "7 mois",
+  "contexte": "Site pâtisserie industrielle MDD avec 200+ références actives. Taux de service tombé à 88% suite à une explosion du portefeuille recettes sans adaptation de la planification ni des approvisionnements.",
+  "resultat": "Taux de service remonté à 96,2%. Réduction de 18% du stock dormant. Deux contrats GMS annuels renouvelés représentant 14 M€ de CA.",
+  "objectifs": []
+ },
+ {
+  "ordre": 4,
+  "fonction": "Finance & RH",
+  "secteur": "",
+  "titre": "Médiation sociale et prévention des conflits lors du passage en 3×8 continu",
+  "duree": "7 mois",
+  "contexte": "Un site de production de pâtes surgelées doit passer d'un fonctionnement en 2×8 à un 3×8 continu pour absorber la croissance des volumes MDD. Le CSE s'oppose au projet, les NAO sont bloquées et le climat social se dégrade rapidement. Un DRH de site de transition est missionné pour conduire le dialogue social.",
+  "resultat": "Accord d'entreprise signé à l'unanimité des organisations syndicales sur le passage en 3×8. NAO conclues avec revalorisation salariale de 3,2 %. Protocole de prévention des conflits formalisé. Taux de satisfaction sociale remonté de 42 % à 68 %.",
+  "objectifs": []
+ },
+ {
+  "ordre": 5,
+  "fonction": "Finance & RH",
+  "secteur": "",
+  "titre": "Plan de recrutement et structuration GPEC pour site en forte croissance",
+  "duree": "10 mois",
+  "contexte": "Un réseau de boulangeries industrielles en expansion rapide peine à recruter les conducteurs de ligne et techniciens de maintenance nécessaires au rythme de croissance. Le turnover dépasse 25 % sur les postes de production et l'intérim représente 30 % de l'effectif. Un DRH de transition est missionné pour structurer l'attractivité du site et la gestion des compétences.",
+  "resultat": "GPEC déployée avec cartographie des 48 métiers clés. Turnover ramené à 14 %. Marque employeur lancée avec partenariats écoles (3 CFA). Taux d'intérim réduit à 12 % grâce à un plan de polyvalence et de montée en compétences internes.",
+  "objectifs": []
+ },
+ {
+  "ordre": 6,
+  "fonction": "Directeur de maintenance",
+  "secteur": "Meunerie industrielle & mixes boulangerie",
+  "titre": "Déploiement plan maintenance préventive multi-lignes",
+  "duree": "9 mois",
+  "contexte": "Moulin industriel alimentant des lignes de mixes boulangerie. Taux de panne critique à 12%, maintenance 100% curative et budget pièces en dérive de 25% vs. N-1.",
+  "resultat": "Taux de panne ramené à 4,5%. GMAO déployée avec 85% de couverture préventive. Budget maintenance réduit de 15% à périmètre constant.",
+  "objectifs": []
+ }
+]

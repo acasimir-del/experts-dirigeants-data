@@ -1,0 +1,92 @@
+[
+ {
+  "ordre": 1,
+  "fonction": "DAF",
+  "secteur": "Trituration colza & tournesol",
+  "titre": "Redressement financier d'une unité de trituration colza",
+  "duree": "9 mois",
+  "contexte": "Usine de trituration colza/tournesol (2 000 t/j) en perte nette 3 exercices consécutifs. BFR dérapé de 8 M EUR, covenants bancaires en breach, hedging matière inexistant sur le tournesol.",
+  "resultat": "Restructuration dette obtenue (moratoire 18 mois), BFR réduit de 35 % par optimisation stocks, retour à l'EBITDA positif au 7e mois (+1,2 M EUR).",
+  "objectifs": []
+ },
+ {
+  "ordre": 2,
+  "fonction": "Directeur d'usine",
+  "secteur": "Trituration colza & tournesol",
+  "titre": "Sécurisation extraction hexane et conformité Seveso",
+  "duree": "11 mois",
+  "contexte": "Crushing plant Seveso seuil haut après incident hexane ayant déclenché un arrêté préfectoral de mise en demeure. Obsolescence du système de détection gaz, culture sécurité insuffisante, DREAL imposant un calendrier de remédiation à 9 mois.",
+  "resultat": "Mise en demeure levée en 8 mois, investissement 2,3 M EUR détecteurs et évents, taux de fréquence accidents réduit de 18 à 4, audit DREAL soldé sans observation majeure.",
+  "objectifs": []
+ },
+ {
+  "ordre": 2,
+  "fonction": "Directeur de production",
+  "secteur": "",
+  "titre": "Montée en cadence des lignes d'embouteillage huile après investissement 31 M€",
+  "duree": "7 mois",
+  "contexte": "Nouvelle unité de conditionnement d'huile inaugurée sur un site-filière partagé trituration/embouteillage. 3 lignes (soufflage, mise en bouteille, étiquetage-palettisation) avec des cadences nominales de 12 000 bouteilles/h non atteintes. Conducteurs de ligne recrutés en majorité, peu expérimentés sur les équipements Sidel. Coordination entre l'atelier de raffinage amont et l'embouteillage aval non structurée.",
+  "resultat": "Cadence nominale atteinte sur 2 lignes sur 3 en 6 mois. Programme de montée en compétences déployé pour 16 conducteurs. SMED formalisé pour les changements de format (5 formats huile). Flux tiré entre raffinage et embouteillage mis en place avec ordonnancement synchronisé sur 2 semaines glissantes.",
+  "objectifs": []
+ },
+ {
+  "ordre": 3,
+  "fonction": "Directeur qualité",
+  "secteur": "Raffinage huiles végétales",
+  "titre": "Déploiement certification RSPO et filière déforestation-free",
+  "duree": "8 mois",
+  "contexte": "Raffinerie d'huiles végétales (palme, colza, tournesol) perdant 3 clients B2B exigeant RSPO Mass Balance. Traçabilité amont inexistante, 6 fournisseurs non audités, pression ONG sur le donneur d'ordre principal.",
+  "resultat": "Certification RSPO MB obtenue en 7 mois, 100 % fournisseurs audités et qualifiés, 2 contrats récupérés + 1 nouveau client (CA additionnel 3,4 M EUR/an).",
+  "objectifs": []
+ },
+ {
+  "ordre": 3,
+  "fonction": "Directeur de production",
+  "secteur": "",
+  "titre": "Flexibilité des formats et réduction des temps de changement en conditionnement huile",
+  "duree": "5 mois",
+  "contexte": "Site de conditionnement huile produisant 180 millions de litres/an sur 3 lignes avec 75 références (MDD + marques propres). Temps de changement de format entre 45 et 90 minutes selon les lignes, contre un benchmark usine de 25 minutes. Multiplication des petites séries MDD générant 18% de temps improductif. Pas de démarche SMED structurée, réglages faits au jugé par les conducteurs.",
+  "resultat": "Chantiers SMED menés sur les 3 lignes de conditionnement. Temps de changement moyen ramené à 30 minutes. Standards de réglage documentés pour les 12 formats principaux. Gains de 6 points de TRS sur les lignes concernées. Ordonnancement revu pour regrouper les petites séries et réduire le nombre de changements quotidiens.",
+  "objectifs": []
+ },
+ {
+  "ordre": 3,
+  "fonction": "Directeur de production",
+  "secteur": "",
+  "titre": "Flexibilisation des formats d'embouteillage huile multi-marques",
+  "duree": "6 mois",
+  "contexte": "Site de conditionnement huiles d'olive avec 75 références sur 3 lignes. Multiplication des formats MDD et bio entraînant 12 changements de format par jour. Temps de SMED non standardisé, variant de 25 à 55 min selon les équipes. TRS moyen à 52% sur les lignes verre.",
+  "resultat": "Chantiers SMED menés sur les 3 lignes, temps de changement ramené à 20 min en moyenne. TRS remonté à 67%. Matrice de compétences déployée pour les conducteurs. Séquencement des OF optimisé pour regrouper les formats similaires.",
+  "objectifs": []
+ },
+ {
+  "ordre": 4,
+  "fonction": "Directeur de production",
+  "secteur": "Raffinage huiles végétales",
+  "titre": "Optimisation OEE et réduction pertes sur ligne de raffinage continu",
+  "duree": "7 mois",
+  "contexte": "Raffinerie continue (600 t/j) avec OEE à 68 % et pertes process de 4,2 %. Changeovers fréquents entre huiles sans protocole standardisé, contaminations croisées générant 120 t/mois de déclassement.",
+  "resultat": "OEE porté à 82 %, pertes process réduites à 2,1 %, protocole changeover standardisé (temps divisé par 2), déclassement ramené à 30 t/mois, gain net 1,6 M EUR/an.",
+  "objectifs": []
+ },
+ {
+  "ordre": 4,
+  "fonction": "Finance & RH",
+  "secteur": "",
+  "titre": "Prévention des conflits et négociation NAO dans un contexte de diversification énergétique",
+  "duree": "8 mois",
+  "contexte": "Usine de trituration en cours de diversification vers les biocarburants. Le CSE craint des suppressions de postes, les NAO sont bloquées sur la prime de pénibilité et deux délégués syndicaux ont déposé un droit d'alerte économique. Le dialogue social est rompu depuis 4 mois.",
+  "resultat": "NAO signées avec accord sur primes de polyvalence, droit d'alerte levé, accord QVCT négocié incluant télétravail administratif et aménagement horaires postés.",
+  "objectifs": []
+ },
+ {
+  "ordre": 4,
+  "fonction": "Directeur d'usine",
+  "secteur": "",
+  "titre": "Pilotage modernisation site trituration",
+  "duree": "11 mois",
+  "contexte": "Programme d'investissement de 60 M€ sur 3 ans pour moderniser l'extraction et diversifier vers les bioénergies. DU en surcharge, besoin d'un chef de projet industriel senior pour piloter la transition sans dégrader la production courante.",
+  "resultat": "Phase 1 livrée dans les délais. Production maintenue à 95% pendant travaux. Nouvelle ligne bioénergies qualifiée.",
+  "objectifs": []
+ }
+]

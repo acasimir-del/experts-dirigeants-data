@@ -1,0 +1,15 @@
+[
+ {
+  "ordre": 2,
+  "titre": "Construction démarche TPM en conserverie artisanale et formation équipes saisonnières",
+  "duree": "6 mois",
+  "region": "Bretagne",
+  "taille": "350 à 650 personnes",
+  "niveau": "Cohérence",
+  "tension": "RH",
+  "contexte": "Conserverie semi-artisanale de 350 à 650 personnes selon saison. Forte rotation d'équipes saisonnières non formées aux gestes de maintenance de premier niveau. Encrassement et casse récurrents sur les équipements de sertissage et d'étiquetage. Pas de standards TPM malgré la certification IFS.",
+  "resultat": "Piliers maintenance autonome et formation déployés. 45 saisonniers formés aux gestes de base (nettoyage, inspection, lubrification). Taux de casse équipements réduit de 25%. Module d'intégration maintenance intégré au parcours saisonnier.",
+  "filiere": "Conserverie",
+  "badgeIsomorphe": false
+ }
+]

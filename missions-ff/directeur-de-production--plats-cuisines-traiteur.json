@@ -1,0 +1,28 @@
+[
+ {
+  "ordre": 2,
+  "titre": "Montée en cadence et formation des conducteurs sur nouvelle ligne de barquettes surgelées",
+  "duree": "7 mois",
+  "region": "Finistère",
+  "taille": "~250 personnes",
+  "niveau": "Performance",
+  "tension": "Industriel",
+  "contexte": "Site de plats cuisinés surgelés investissant dans une nouvelle ligne de barquettes individuelles. Cadence nominale de 120 barquettes/min non atteinte, plafonnant à 75/min après 3 mois. Conducteurs de ligne issus des anciennes lignes manuelles, peu formés aux thermoformeuses automatiques. TRS de la ligne à 55%. Pertes matière de 8% contre un objectif de 4%.",
+  "resultat": "TRS remonté à 72% en 6 mois, cadence stabilisée à 105 barquettes/min. 8 conducteurs formés et certifiés sur la thermoformeuse et la doseuse. Pertes matière ramenées à 4,5%. Standards de conduite et de changement de format rédigés pour les 15 recettes principales.",
+  "filiere": "Plats cuisinés & traiteur",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Flexibilité de production et gestion de la saisonnalité fêtes en traiteur surgelé haut de gamme",
+  "duree": "5 mois",
+  "region": "Bretagne",
+  "taille": "~460 personnes",
+  "niveau": "Cohérence",
+  "tension": "RH",
+  "contexte": "Site traiteur surgelé haut de gamme de 460 personnes avec un pic saisonnier octobre-décembre représentant 60% du CA annuel. Production de petits fours, canapés et desserts nécessitant une forte main-d'oeuvre. Recours à 120 intérimaires mal intégrés, taux de rebut doublé pendant le pic. Pas de lissage de production en amont, OF déclenchés sur prévisions commerciales instables.",
+  "resultat": "Lissage de production déployé avec démarrage anticipé de 6 semaines sur les références stockables. Pool de 80 intérimaires fidélisés avec parcours d'intégration de 3 jours. Taux de rebut pendant le pic ramené au niveau de la période normale. Taux de service maintenu à 97% contre 91% l'année précédente.",
+  "filiere": "Plats cuisinés & traiteur",
+  "badgeIsomorphe": false
+ }
+]

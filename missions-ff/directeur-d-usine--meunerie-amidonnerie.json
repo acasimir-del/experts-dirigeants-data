@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Pilotage de crise suite à non-conformité client",
+  "duree": "5 mois",
+  "region": "Auvergne-Rhône-Alpes",
+  "taille": "150-500 sal.",
+  "niveau": "Existence",
+  "tension": "Légitimité ext.",
+  "contexte": "Retrait produit et suspension partielle après audit client négatif sur traçabilité des lots. Direction générale en attente d'un manager de crise.",
+  "resultat": "Reprise totale en 9 semaines. Aucune perte client boulangerie artisanale.",
+  "filiere": "Meunerie & amidonnerie",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Interim DU pendant recrutement CDI — Meunerie",
+  "duree": "7 mois",
+  "region": "Grand-Est",
+  "taille": "95 collaborateurs",
+  "niveau": "Performance",
+  "tension": "Gouvernance",
+  "contexte": "Départ du DU à la retraite anticipée. Outil industriel de 3 moulins, 95 collaborateurs, campagne de récolte à 8 semaines.",
+  "resultat": "Campagne assurée sans incident. Passation réalisée avec le nouveau DU permanent.",
+  "filiere": "Meunerie & amidonnerie",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Restructuration opérationnelle post-acquisition",
+  "duree": "11 mois",
+  "region": "Picardie",
+  "taille": "~450 salariés",
+  "niveau": "Transformation",
+  "tension": "Industriel",
+  "contexte": "Intégration d'un site acquis avec des process hétérogènes et deux conventions collectives différentes.",
+  "resultat": "Harmonisation des process. Accord d'entreprise signé. Site aligné sur les standards groupe.",
+  "filiere": "Meunerie & amidonnerie",
+  "badgeIsomorphe": false
+ }
+]

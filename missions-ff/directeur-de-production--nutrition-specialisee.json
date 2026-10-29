@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Montee en cadence ligne probiotiques lyophilises",
+  "duree": "7 mois",
+  "region": "Nouvelle-Aquitaine",
+  "taille": "120 collaborateurs",
+  "niveau": "Performance",
+  "tension": "Industriel",
+  "contexte": "Investissement de 8 M EUR dans une ligne de lyophilisation pour probiotiques. Montee en cadence prevue sur 6 mois avec objectif de 500 000 gelules/jour. Rendement matiere critique a 92 % minimum pour equilibre financier.",
+  "resultat": "Cadence nominale atteinte au mois 5. Rendement matiere stabilise a 94 %. TRS ligne a 78 % contre 65 % initial.",
+  "filiere": "Nutrition spécialisée",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Reorganisation ateliers site nutrition infantile multi-formats",
+  "duree": "9 mois",
+  "region": "Bretagne",
+  "taille": "320 collaborateurs",
+  "niveau": "Performance",
+  "tension": "Efficience",
+  "contexte": "Site de nutrition infantile avec 80 references actives sur 4 lignes. Temps de changement de format trop longs (4h30 en moyenne). Perte de 18 % de capacite productive sur les nettoyages inter-lots. Directeur de production parti sans preavis.",
+  "resultat": "Temps de changement reduit a 2h45 (-39 %). Capacite productive recuperee de 12 %. OEE porte de 62 % a 74 %.",
+  "filiere": "Nutrition spécialisée",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Qualification nouvelle ligne conditionnement aseptique nutrition enterale",
+  "duree": "6 mois",
+  "region": "Ile-de-France",
+  "taille": "85 collaborateurs",
+  "niveau": "Transformation",
+  "tension": "Industriel",
+  "contexte": "Installation d'une ligne de conditionnement aseptique pour nutrition enterale. Investissement de 12 M EUR. Qualification FAT/SAT et validation microbiologique avant mise en production. Delai contractuel de 5 mois impose par le client hospitalier.",
+  "resultat": "Ligne qualifiee et validee en 4,5 mois. Premier lot commercial livre dans les delais. Taux de sterilite valide a 99,97 %.",
+  "filiere": "Nutrition spécialisée",
+  "badgeIsomorphe": false
+ }
+]

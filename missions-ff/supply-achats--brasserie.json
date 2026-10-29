@@ -1,0 +1,28 @@
+[
+ {
+  "ordre": 2,
+  "titre": "Sécurisation du sourcing malt et houblon face à la volatilité des récoltes",
+  "duree": "6 mois",
+  "region": "Hauts-de-France",
+  "taille": "~800 personnes",
+  "niveau": "Performance",
+  "tension": "Commerce",
+  "contexte": "Brasserie indépendante de 800 personnes, 1er brasseur MDD France avec 5,7 Mhl/an. Approvisionnement en malt dépendant à 80% d'un seul malteur français. Deux campagnes d'orge consécutives en baisse de rendement ayant généré des tensions de prix (+18%) et des retards de livraison. Panel houblon limité à 3 fournisseurs européens sans contrat pluriannuel. Pas de cellule achats matières premières structurée, négociations gérées en direct par le DG.",
+  "resultat": "Panel malt élargi à 3 malteurs dont 1 belge, avec contrats cadres de 2 ans couvrant 70% des besoins. Cellule achats matières créée (2 acheteurs) avec tableau de bord prix-volumes-qualité. Couverture houblon sécurisée sur 18 mois glissants via contrats forward. Économie de 350 K€ sur la première campagne grâce à la mise en concurrence structurée.",
+  "filiere": "Brasserie",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Refonte du MRP et réduction des ruptures de conditionnement en haute saison",
+  "duree": "7 mois",
+  "region": "Alsace",
+  "taille": "~600 personnes",
+  "niveau": "Performance",
+  "tension": "Efficience",
+  "contexte": "Plus grande brasserie de France avec 600 personnes sur site et 11 lignes de conditionnement. MRP paramétré à la création de l'ERP il y a 8 ans, jamais recalibré. Délais de réapprovisionnement en emballages (bouteilles verre, canettes, étiquettes) non mis à jour, générant des ruptures de composants sur 15% des OF pendant le pic estival. Multi-sourcing inexistant sur les bouteilles verre, dépendance totale à un verrier. Stocks de sécurité dimensionnés au jugé par les approvisionneurs.",
+  "resultat": "Paramètres MRP recalibrés sur les 120 composants critiques : stocks de sécurité recalculés par méthode statistique, délais fournisseurs actualisés. Second verrier qualifié et intégré au panel avec répartition 60/40. Taux de rupture composants ramené à 2% en haute saison (vs 15%). Processus de revue mensuelle des paramètres MRP instauré avec les approvisionneurs.",
+  "filiere": "Brasserie",
+  "badgeIsomorphe": false
+ }
+]

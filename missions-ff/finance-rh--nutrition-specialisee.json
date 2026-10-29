@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Construction business plan et pilotage investissement salle blanche",
+  "duree": "9 mois",
+  "region": "Hauts-de-France",
+  "taille": "300 collaborateurs",
+  "niveau": "Transformation",
+  "tension": "Finance",
+  "contexte": "Projet d'investissement de 22 M EUR pour une nouvelle salle blanche ISO 7 sur un site de lait infantile. DAF parti en retraite anticipee. Business plan a finaliser pour presentation au comite d'investissement groupe. Suivi budgetaire des travaux neufs a structurer.",
+  "resultat": "Business plan valide par le groupe en 6 semaines. Investissement approuve. Suivi budgetaire mensuel instaure avec ecart reel/previsionnel maintenu sous 3 %.",
+  "filiere": "Nutrition spécialisée",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Gestion sociale et plan de formation BPF apres restructuration site nutraceutique",
+  "duree": "6 mois",
+  "region": "Auvergne-Rhone-Alpes",
+  "taille": "75 collaborateurs",
+  "niveau": "Performance",
+  "tension": "RH",
+  "contexte": "Restructuration d'un site de complements alimentaires avec suppression de 15 postes et creation de 8 postes qualifies (techniciens salle blanche, chimistes). DRH site vacant. Climat social tendu apres l'annonce du plan. Formation BPF obligatoire pour 60 % des operateurs.",
+  "resultat": "PSE finalise sans conflit social. 8 postes qualifies pourvus en 4 mois. 95 % des operateurs formes aux BPF. Absenteisme reduit de 14 % a 6 %.",
+  "filiere": "Nutrition spécialisée",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Pilotage tresorerie et couverture risque matiere premiere site nutrition clinique",
+  "duree": "7 mois",
+  "region": "Ile-de-France",
+  "taille": "140 collaborateurs",
+  "niveau": "Existence",
+  "tension": "Finance",
+  "contexte": "Site de nutrition clinique avec une tresorerie tendue suite a un retard de paiement d'un distributeur hospitalier majeur (2,5 M EUR a 90 jours). Volatilite des cours des proteines de lait et des vitamines impactant les marges. DAF en mobilite groupe non remplace.",
+  "resultat": "Tresorerie stabilisee en 8 semaines. Politique de couverture matiere instauree reduisant l'exposition de 40 %. Delai de paiement distributeur renegocie a 45 jours.",
+  "filiere": "Nutrition spécialisée",
+  "badgeIsomorphe": false
+ }
+]

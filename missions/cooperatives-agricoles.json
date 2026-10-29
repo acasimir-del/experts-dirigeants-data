@@ -1,0 +1,74 @@
+[
+ {
+  "ordre": 1,
+  "fonction": "Directeur d'usine",
+  "secteur": "Coopérative polyvalente",
+  "titre": "Pilotage crise de gouvernance coopérative polyvalente post-AG",
+  "duree": "12 mois",
+  "contexte": "Coopérative polyvalente (céréales, oléagineux, approvisionnement) de 2 800 adhérents. Crise de gouvernance après vote de défiance du conseil d'administration envers la direction. Départ simultané du DG et du DAF, silos et usine d'aliment du bétail à piloter en continu.",
+  "resultat": "Continuité opérationnelle assurée sans rupture de collecte, restauration de la confiance CA/direction en 4 mois, recrutement DG pérenne accompagné, résultat net maintenu à +0,8 M EUR.",
+  "objectifs": []
+ },
+ {
+  "ordre": 1,
+  "fonction": "Directeur de maintenance",
+  "secteur": "Groupe coopératif agricole et agro-alimentaire — collecte et transformation de céréales (malt, meunerie, nutrition animale)",
+  "titre": "Mission relais Directeur Technique – pôle Agriculture & Filières",
+  "duree": "9 mois",
+  "contexte": "Groupe coopératif agricole et agro-alimentaire de premier plan (4,5 M t de grains, ~12 700 agriculteurs adhérents, leader mondial sur l'un de ses marchés). Plan de transformation groupe / PSE en cours. La Direction des Technologies et des Procédés Industriels (DTPI) est isolée et en rupture avec la stratégie du groupe.",
+  "resultat": "Clarification du périmètre d'actions de la DTPI ; réorientation des stratégies de maintenance et d'investissements courants ; construction d'un plan directeur CAPEX ; reconnexion avec la Direction Industrielle & Supply Chain, la DAF, la DRH et la DSI ; management et remobilisation de 50 personnes ; énergies — gestion de la crise d'approvisionnement GPL de la campagne maïs 2021 et sécurisation des volumes et tarifs électricité/gaz à 3 ans.",
+  "objectifs": [
+   "Replacer la DTPI dans ses missions et accompagner un changement de modèle managérial. Périmètre : ~250 silos de collecte/stockage/expédition (dont 77 sites sécheurs, 49 calibreurs, 4 ensacheurs, 39 embranchés fer, 2 fluviaux), 5 usines de semences, 4 sites stockeurs/distributeurs d'engrais liquides et solides."
+  ]
+ },
+ {
+  "ordre": 2,
+  "fonction": "Directeur de production",
+  "secteur": "Union de coopératives",
+  "titre": "Fusion de deux coopératives et rationalisation industrielle",
+  "duree": "14 mois",
+  "contexte": "Fusion de deux coopératives céréalières en union (4 500 adhérents, 12 sites). Doublons industriels (2 usines d'aliment, 3 silos redondants), systèmes d'information incompatibles, résistance culturelle forte entre les deux ex-entités.",
+  "resultat": "Schéma industriel cible validé (fermeture 1 usine, reconversion 1 silo en hub logistique), 3,2 M EUR de synergies identifiées dont 1,8 M réalisées à 12 mois, ERP unifié déployé sur 8 sites.",
+  "objectifs": []
+ },
+ {
+  "ordre": 3,
+  "fonction": "DAF",
+  "secteur": "Coopérative laitière",
+  "titre": "Redressement financier et renégociation bancaire coopérative laitière",
+  "duree": "10 mois",
+  "contexte": "Coopérative laitière (180 M litres/an) en situation de trésorerie critique après chute du prix du lait. Covenants bancaires en breach, investissement séchoir poudre à financer, prix adhérent sous pression.",
+  "resultat": "Waiver bancaire obtenu en 6 semaines, plan de financement séchoir bouclé (8,5 M EUR), cash-flow opérationnel restauré à +2,1 M EUR, prix lait adhérent maintenu au-dessus de la médiane régionale.",
+  "objectifs": []
+ },
+ {
+  "ordre": 4,
+  "fonction": "Supply & Achats",
+  "secteur": "Coopérative polyvalente",
+  "titre": "Refonte supply chain et logistique multi-sites coopérative",
+  "duree": "8 mois",
+  "contexte": "Coopérative polyvalente exploitant 9 silos et 2 usines avec une logistique non mutualisée. Coûts de transport représentant 12 % du CA, 30 % de trajets à vide, aucun outil de planification transport.",
+  "resultat": "Plateforme de mutualisation transport déployée, trajets à vide réduits à 11 %, coût logistique ramené à 8,5 % du CA, économie nette de 1,4 M EUR/an.",
+  "objectifs": []
+ },
+ {
+  "ordre": 5,
+  "fonction": "Directeur qualité",
+  "secteur": "Coopérative viticole",
+  "titre": "Certification HVE collective et démarche RSE coopérative viticole",
+  "duree": "7 mois",
+  "contexte": "Coopérative viticole (850 adhérents, 45 000 hl) sous pression GMS pour certification HVE. Seulement 12 % des adhérents certifiés, outil de traçabilité parcellaire absent, risque de déréférencement enseigne nationale.",
+  "resultat": "60 % des adhérents certifiés HVE en 6 mois (objectif 50 %), traçabilité parcellaire digitalisée, contrat GMS renouvelé 3 ans (+8 % volume), prime HVE adhérent +15 EUR/hl.",
+  "objectifs": []
+ },
+ {
+  "ordre": 6,
+  "fonction": "DRH",
+  "secteur": "Union de coopératives",
+  "titre": "Plan de restructuration RH et GPEC multi-branches",
+  "duree": "9 mois",
+  "contexte": "Union de 3 coopératives (510 pers., 4 conventions collectives) sans politique RH unifiée. Pyramide des âges critique (38 % de départs retraite à 5 ans), absentéisme à 9,2 %, aucun accord de GPEC groupe.",
+  "resultat": "Convention collective unique négociée, accord GPEC signé couvrant 100 % des postes critiques, absentéisme réduit à 5,8 %, 24 parcours de tutorat senior-junior lancés.",
+  "objectifs": []
+ }
+]

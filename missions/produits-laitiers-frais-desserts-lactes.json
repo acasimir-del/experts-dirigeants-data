@@ -1,0 +1,62 @@
+[
+ {
+  "ordre": 1,
+  "fonction": "Directeur d'usine",
+  "secteur": "Yaourts & desserts lactés",
+  "titre": "Directeur d'usine de transition — pic estival yaourts ultra-frais",
+  "duree": "7 mois",
+  "contexte": "Départ brutal du DU en mai, à 6 semaines du pic estival. Site de 280 personnes produisant 120 000 t/an de yaourts MDD ultra-frais (DLC 21 jours). Trois lignes de conditionnement vieillissantes, taux de panne à 14 %. Pénalités GMS en hausse de 35 % sur le semestre précédent pour retards de livraison.",
+  "resultat": "Taux de service remonté de 88 % à 97,2 % en 10 semaines. Pic estival absorbé sans rupture. Pénalités GMS réduites de 60 %. Plan de maintenance préventive déployé, taux de panne ramené à 6 %. Shortlist DU pérenne livrée au groupe en M6.",
+  "objectifs": []
+ },
+ {
+  "ordre": 2,
+  "fonction": "Directeur de production",
+  "secteur": "Ultra-frais MDD",
+  "titre": "Directeur de production — montée en cadence MDD ultra-frais",
+  "duree": "9 mois",
+  "contexte": "Gain d'un contrat MDD majeur imposant +40 % de volume en 4 mois. Site de 210 personnes, 2 lignes de conditionnement aseptique saturées. Rendement matière à 91 %, pertes sur changements de recettes fréquents. Équipes en 3×8 fatiguées, turnover intérimaires à 25 %.",
+  "resultat": "Troisième ligne installée et qualifiée en 14 semaines. Rendement matière porté à 95,5 %. Volume contractuel atteint à M4 sans dérive qualité. Turnover intérimaires réduit à 12 % grâce à un programme d'intégration structuré. Marge brute améliorée de 2,1 points.",
+  "objectifs": []
+ },
+ {
+  "ordre": 3,
+  "fonction": "Directeur qualité",
+  "secteur": "Desserts premium",
+  "titre": "Directeur qualité — crise sanitaire desserts lactés premium",
+  "duree": "6 mois",
+  "contexte": "Rappel produit sur une gamme de crèmes dessert premium après détection de Listeria. Blocage de 3 lots en distribution. Audit DDPP en cours, certification IFS menacée. Directeur qualité parti dans la foulée. Site de 150 personnes, 45 références en DLC courte.",
+  "resultat": "Plan de maîtrise sanitaire reconstruit en 3 semaines. Certification IFS renouvelée avec score Higher Level. Zéro rappel sur les 5 mois suivants. Confiance enseigne restaurée — référencement maintenu. Nouveau directeur qualité recruté et intégré.",
+  "objectifs": []
+ },
+ {
+  "ordre": 4,
+  "fonction": "Directeur de maintenance",
+  "secteur": "Crème & beurre",
+  "titre": "Directeur de maintenance — modernisation lignes conditionnement crème",
+  "duree": "10 mois",
+  "contexte": "Site historique de 320 personnes, 4 lignes de conditionnement crème/beurre dont 2 de plus de 20 ans. TRS moyen à 62 %, micro-arrêts chroniques. CAPEX de 8 M EUR validé pour remplacer 2 lignes sans arrêter la production. Directeur de maintenance en arrêt longue durée.",
+  "resultat": "Deux lignes neuves installées et qualifiées en production continue — zéro jour d'arrêt total. TRS global porté de 62 % à 81 %. Réduction des micro-arrêts de 55 %. Équipe maintenance restructurée en 3 pôles (préventif, curatif, projets). CAPEX livré avec 4 % d'économie sur budget.",
+  "objectifs": []
+ },
+ {
+  "ordre": 5,
+  "fonction": "DAF",
+  "secteur": "Yaourts & desserts lactés",
+  "titre": "DAF de transition — restructuration financière site ultra-frais",
+  "duree": "8 mois",
+  "contexte": "Site de 190 personnes, filiale d'un groupe coopératif. EBITDA négatif depuis 2 exercices sur la BU ultra-frais. Coûts matière non répercutés sur les tarifs MDD, pricing revu une fois par an. Aucun contrôle de gestion industriel en place. DAF muté sur un autre périmètre du groupe.",
+  "resultat": "Comptabilité analytique par ligne de produit déployée en 6 semaines. Identification de 3 références structurellement déficitaires — arrêt négocié avec les enseignes. Renégociation tarifaire trimestrielle obtenue sur 80 % du portefeuille MDD. EBITDA redevenu positif à M7 (+1,8 %). Budget prévisionnel N+1 livré au groupe.",
+  "objectifs": []
+ },
+ {
+  "ordre": 6,
+  "fonction": "Supply & Achats",
+  "secteur": "Ultra-frais MDD",
+  "titre": "Supply chain manager — sécurisation approvisionnements saisonniers",
+  "duree": "6 mois",
+  "contexte": "Responsable supply parti sans préavis. Site de 240 personnes, 85 % du CA en MDD ultra-frais. Saisonnalité forte (x1,6 en été). Stocks tampons quasi inexistants du fait des DLC courtes. Taux de service en chute à 82 %. 3 alertes enseignes en 2 mois.",
+  "resultat": "Taux de service remonté à 96 % en 8 semaines. Modèle de prévision saisonnière co-construit avec le commercial. Stock tournant optimisé sans dérive de casse (< 2 %). Contrats transport renégociés — coût logistique réduit de 8 %. Successeur pérenne recruté et formé sur 6 semaines.",
+  "objectifs": []
+ }
+]

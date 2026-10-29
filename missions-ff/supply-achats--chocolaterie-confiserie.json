@@ -1,0 +1,28 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Structuration S&OP et gestion des flux tendus campagne Pâques-Noël",
+  "duree": "9 mois",
+  "region": "Nord",
+  "taille": "3 200 personnes",
+  "niveau": "Cohérence",
+  "tension": "Commerce",
+  "contexte": "Chocolatier industriel multi-sites (7 usines, 3 200 salariés). Saisonnalité extrême : 55% du CA concentré sur Pâques et Noël. Processus S&OP inexistant entre le commerce et les sites de production. Entrepôts sous-dimensionnés avec recours à 4 prestataires logistiques externes en pic. Stock de sécurité non différencié par famille produit. DLC courtes sur les fourrés (90 jours) générant 2,8 M€ de pertes annuelles.",
+  "resultat": "S&OP mensuel déployé avec maille hebdomadaire en pré-campagne. Politique de stock de sécurité différenciée par DLC et rotation. Pertes DLC réduites de 65% (gain 1,8 M€). Rationalisation logistique : passage de 4 à 2 prestataires externes avec contrats pluriannuels. Taux de service OTIF porté à 97% en campagne vs 88% l'année précédente.",
+  "filiere": "Chocolaterie & confiserie",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Pilotage MRP et sécurisation approvisionnement multi-origines chocolat de couverture",
+  "duree": "8 mois",
+  "region": "Rhône-Alpes",
+  "taille": "800 personnes",
+  "niveau": "Transformation",
+  "tension": "Industriel",
+  "contexte": "Chocolaterie premium B2B (800 salariés, production 24h/7j). Approvisionnement en fèves et beurre de cacao perturbé par la crise logistique maritime (+40% lead times). MRP paramétré sur des délais obsolètes, générant 15% de ruptures sur les lignes de moulage. Stock de sécurité insuffisant sur les emballages spécifiques (coffrets professionnels). Aucun outil de supply risk management malgré la dépendance à des origines uniques sur 3 crus.",
+  "resultat": "MRP reconfiguré avec lead times dynamiques et alertes automatiques. Taux de rupture ramené de 15% à 3%. Multi-sourcing déployé sur les 3 crus critiques avec fournisseurs de back-up qualifiés. Stock de sécurité emballages porté à 6 semaines sur les références stratégiques. Plan de continuité supply formalisé avec scénarios de pénurie testés trimestriellement.",
+  "filiere": "Chocolaterie & confiserie",
+  "badgeIsomorphe": false
+ }
+]

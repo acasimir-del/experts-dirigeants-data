@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Mise en place du S&OP et pilotage des stocks DLC courtes en charcuterie cuite",
+  "duree": "8 mois",
+  "region": "Limousin",
+  "taille": "420 personnes",
+  "niveau": "Performance",
+  "tension": "Finance",
+  "contexte": "Site historique de charcuterie cuite (420 salariés, spécialiste jambon cuit supérieur). Prévisions de vente non partagées avec la production : écarts moyens de 25% entre prévisions et réalisations. Stocks de produits finis à 22 jours pour des DLC de 45 jours, générant 1,8 M€ de pertes annuelles. Entrepôt frigorifique à 95% de capacité. Taux de service GMS à 87%, pénalités logistiques croissantes.",
+  "resultat": "S&OP mensuel avec PDP hebdomadaire synchronisé GMS-production déployé. Précision prévisionnelle améliorée à +/-10%. Stocks ramenés à 14 jours, pertes DLC réduites de 60% (gain 1,1 M€). Taux de service OTIF porté à 96%. Extension entrepôt évitée grâce à l'optimisation des flux.",
+  "filiere": "Charcuterie & salaison",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Renégociation des contrats matières premières viande et réduction de la dépendance fournisseur",
+  "duree": "6 mois",
+  "region": "Vendée",
+  "taille": "3 800 personnes",
+  "niveau": "Transformation",
+  "tension": "Légitimité ext.",
+  "contexte": "Charcutier-traiteur multi-sites (3 usines, 3 800 salariés). 75% des achats de maigre de porc concentrés sur un seul fournisseur abatteur. Volatilité des cotations porc MPB (+22% en 6 mois) sans mécanisme de couverture. Cahier des charges matières premières daté de 2018, non conforme aux nouvelles exigences clients (sans antibiotiques, bien-être animal). Panel boyaux naturels réduit à 2 fournisseurs européens avec des lead times de 16 semaines.",
+  "resultat": "Panel maigre de porc élargi à 4 fournisseurs avec contrats semestriels indexés MPB. Couverture prix instaurée sur 50% des volumes (cost avoidance 900 K€). Cahier des charges matières premières refondu intégrant critères RSE et bien-être animal. Multi-sourcing boyaux déployé (3 fournisseurs EU + 1 back-up Amérique du Sud). Lead time moyen ramené à 10 semaines.",
+  "filiere": "Charcuterie & salaison",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Sécurisation de la supply chain et gestion du risque pénurie en salaison sèche",
+  "duree": "7 mois",
+  "region": "Rhône-Alpes",
+  "taille": "1 300 personnes",
+  "niveau": "Cohérence",
+  "tension": "Gouvernance",
+  "contexte": "Leader français du saucisson sec (4 usines, 1 300 salariés). Cycles de séchage de 4 à 12 semaines créant un décalage structurel entre approvisionnement et demande. MRP inadapté aux contraintes de maturation : ruptures récurrentes sur les références à séchage long. Pénurie de boyaux naturels et d'épices d'origine (poivre de Sarawak, piment d'Espelette AOP). Supply risk management inexistant malgré 65% des achats hors UE.",
+  "resultat": "MRP reconfiguré avec prise en compte des cycles de maturation et stocks tampon inter-étapes. Taux de rupture produits finis ramené de 9% à 2%. Supply risk management déployé avec cartographie des 30 matières critiques et plans de back-up. Contrats pluriannuels signés sur épices stratégiques. Stock de sécurité boyaux porté à 8 semaines. Tableau de bord supply risk partagé en comité de direction mensuel.",
+  "filiere": "Charcuterie & salaison",
+  "badgeIsomorphe": false
+ }
+]

@@ -1,0 +1,92 @@
+[
+ {
+  "ordre": 1,
+  "fonction": "Directeur d'usine",
+  "secteur": "Poudre de lait & ingrédients laitiers",
+  "titre": "Interim DU pendant CAPEX tour de séchage",
+  "duree": "9 mois",
+  "contexte": "Départ du DU pendant la construction d'une nouvelle tour de séchage poudre de lait. CAPEX 12M€, mise en service prévue dans 4 mois, collecte laitière contractée à honorer.",
+  "resultat": "Tour mise en service dans les délais. Capacité de séchage portée de 800 à 1200 t/mois. Contrats export Asie sécurisés.",
+  "objectifs": []
+ },
+ {
+  "ordre": 2,
+  "fonction": "Directeur de production",
+  "secteur": "Lait UHT & stérilisé",
+  "titre": "Optimisation rendement ligne UHT",
+  "duree": "6 mois",
+  "contexte": "DP muté en interne. Ligne UHT à 62% de TRS, pertes matière en hausse, cadence insuffisante pour couvrir les volumes GMS Marques d'enseigne.",
+  "resultat": "TRS porté à 81%. Pertes matière réduites de 4,2% à 1,8%. Volumes GMS livrés à 100% du plan.",
+  "objectifs": []
+ },
+ {
+  "ordre": 3,
+  "fonction": "Directeur qualité",
+  "secteur": "Poudre infantile & nutrition",
+  "titre": "Sécurisation certifications poudre infantile",
+  "duree": "7 mois",
+  "contexte": "DQ parti chez un concurrent. Site certifié FSSC 22000 avec audit de renouvellement dans 5 mois. Production de poudre infantile export Chine sous réglementation CNCA.",
+  "resultat": "FSSC 22000 renouvelé sans non-conformité majeure. Agrément CNCA maintenu. Programme de food defense déployé.",
+  "objectifs": []
+ },
+ {
+  "ordre": 3,
+  "fonction": "Directeur de production",
+  "secteur": "",
+  "titre": "Structuration des équipes postées et management de proximité en laiterie multi-ateliers",
+  "duree": "9 mois",
+  "contexte": "Laiterie de 1 500 personnes sur 4 sites, fonctionnement en 3×8 continu. Réorganisation post-fusion de 2 coopératives avec des cultures managériales très différentes. Chefs d'équipe sans cadre commun, rituels de passation de poste inexistants. Absentéisme à 12% sur les postes de nuit. Ordonnancement centralisé mais non respecté par les ateliers.",
+  "resultat": "Référentiel managérial commun déployé sur les 4 sites. Rituels de passation de poste standardisés en 15 minutes. Absentéisme nuit réduit à 7,5%. Ordonnancement respecté à 94% contre 78% avant. 24 chefs d'équipe formés au management opérationnel.",
+  "objectifs": []
+ },
+ {
+  "ordre": 4,
+  "fonction": "Supply & Achats",
+  "secteur": "Collecte & valorisation laitière",
+  "titre": "Restructuration achats lait post-fin des quotas",
+  "duree": "8 mois",
+  "contexte": "Directeur achats parti. Volatilité du prix du lait à +30% en 6 mois. Contrats de collecte à renégocier avec 120 producteurs, marge opérationnelle compressée à 1,1%.",
+  "resultat": "Contrats pluriannuels signés avec 85% des producteurs. Marge opérationnelle ramenée à 3,4%. Outil de couverture prix mis en place.",
+  "objectifs": []
+ },
+ {
+  "ordre": 4,
+  "fonction": "Finance & RH",
+  "secteur": "",
+  "titre": "Conduite des NAO et restructuration du dialogue social post-fusion coopérative",
+  "duree": "6 mois",
+  "contexte": "Deux laiteries coopératives fusionnent, créant un site unique de 450 personnes avec deux CSE distincts, des grilles salariales incompatibles et des accords d'entreprise contradictoires. Les tensions entre les anciens collectifs menacent la productivité. Un DRH de transition est missionné pour conduire le dialogue social et unifier le cadre RH.",
+  "resultat": "CSE unique constitué dans les délais réglementaires. NAO conclues avec grille salariale harmonisée. Accord d'entreprise unifié signé par 3 organisations syndicales sur 4. Plan de prévention des risques psychosociaux déployé avec baisse de 35 % de l'absentéisme.",
+  "objectifs": []
+ },
+ {
+  "ordre": 5,
+  "fonction": "DAF",
+  "secteur": "Coopérative laitière multi-produits",
+  "titre": "Pilotage financier fusion 2 coopératives laitières",
+  "duree": "11 mois",
+  "contexte": "Fusion de 2 coopératives régionales. DAF du site absorbé non remplacé. Double plan comptable, reporting incompatible, assemblée générale des adhérents dans 8 mois.",
+  "resultat": "Plan comptable unifié en M5. Reporting mensuel opérationnel pour l'AG. Synergies identifiées : 1,8M€ d'économies annuelles.",
+  "objectifs": []
+ },
+ {
+  "ordre": 6,
+  "fonction": "DRH",
+  "secteur": "Lactose & coproduits laitiers",
+  "titre": "Gestion sociale intégration site racheté",
+  "duree": "7 mois",
+  "contexte": "Rachat d'un site de lactose par le groupe. DRH site en poste mais dépassé par l'harmonisation des conventions collectives et la mise en place du CSE commun.",
+  "resultat": "Accord d'harmonisation signé en M4. CSE commun élu. Turnover post-acquisition contenu à 6% vs 18% habituellement.",
+  "objectifs": []
+ },
+ {
+  "ordre": 6,
+  "fonction": "Finance & RH",
+  "secteur": "",
+  "titre": "Accompagnement social et reclassement lors de la fermeture d'un site de conditionnement lait",
+  "duree": "14 mois",
+  "contexte": "Un groupe laitier national décide de fermer un site de conditionnement de lait UHT devenu obsolète, impactant 120 salariés dans un bassin d'emploi fragile. Le PSE doit être exemplaire pour préserver l'image du groupe auprès des coopérateurs. Un DRH de transition est missionné pour piloter la restructuration sociale.",
+  "resultat": "PSE validé par la DREETS sans recours contentieux. PDV accepté par 38 salariés. 95 reclassements réalisés dont 52 en interne sur d'autres sites laitiers du groupe. Cellule de reclassement externe avec taux de retour à l'emploi de 88 % à 12 mois.",
+  "objectifs": []
+ }
+]

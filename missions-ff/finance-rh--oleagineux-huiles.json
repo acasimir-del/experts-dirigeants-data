@@ -1,0 +1,28 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Construction du reporting de marge brute par ligne de trituration et analyse des variances matière",
+  "duree": "7 mois",
+  "region": "Hauts-de-France",
+  "taille": "280 personnes",
+  "niveau": "Performance",
+  "tension": "Finance",
+  "contexte": "Site de trituration traitant 4 000 tonnes de colza par jour. Les standards de coûts n'ont pas été révisés depuis 3 ans et la comptabilité analytique ne distingue pas les marges par ligne. Le contrôle de gestion est porté par une seule personne en burn-out.",
+  "resultat": "Nouvelle matrice analytique déployée sur 4 lignes, écarts de rendement matière identifiés représentant 1,8 M€/an de pertes, reporting flash hebdomadaire livré à J+2.",
+  "filiere": "Oléagineux & huiles",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Fiabilisation des clôtures et consolidation comptable multi-sites huilerie",
+  "duree": "9 mois",
+  "region": "Bouches-du-Rhône",
+  "taille": "420 personnes",
+  "niveau": "Cohérence",
+  "tension": "Gouvernance",
+  "contexte": "Huilier multi-sites intégré à un groupe coopératif. La consolidation de 5 établissements génère des incohérences sur les inter-compagnies, les immobilisations ne sont pas correctement amorties depuis la refonte SI et le cut-off campagne pose problème chaque année.",
+  "resultat": "Clôture annuelle livrée en 45 jours contre 72, élimination de 100% des écarts inter-compagnies, cartographie des immobilisations remise à jour, certification des comptes obtenue sans réserve.",
+  "filiere": "Oléagineux & huiles",
+  "badgeIsomorphe": false
+ }
+]

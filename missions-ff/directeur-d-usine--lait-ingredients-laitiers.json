@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Management relais pendant arrêt maladie longue durée",
+  "duree": "10 mois",
+  "region": "Normandie",
+  "taille": "210 salariés",
+  "niveau": "Performance",
+  "tension": "RH",
+  "contexte": "DU en arrêt maladie de longue durée. Site de collecte et transformation, 210 salariés, livraison quotidienne GMS.",
+  "resultat": "Aucune rupture de collecte. Résultat d'exploitation maintenu. DU titulaire réintégrée à J+280.",
+  "filiere": "Lait & ingrédients laitiers",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Redressement suite à incident qualité majeur",
+  "duree": "5 mois",
+  "region": "Pays de la Loire",
+  "taille": "180 salariés",
+  "niveau": "Existence",
+  "tension": "Légitimité ext.",
+  "contexte": "Rappel produit national suite à contamination listeria. Direction de crise à assumer face aux autorités sanitaires et aux clients.",
+  "resultat": "Reprise totale d'activité en 8 semaines. Plan HACCP renforcé validé par la DDPP.",
+  "filiere": "Lait & ingrédients laitiers",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 5,
+  "titre": "Structuration industrielle post-intégration groupe",
+  "duree": "9 mois",
+  "region": "Nord",
+  "taille": "400 salariés",
+  "niveau": "Transformation",
+  "tension": "Commerce",
+  "contexte": "Intégration d'un site de nutrition infantile dans un nouveau groupe. Process ultra-réglementé, 400 salariés, certification FSSC 22000 à renouveler. DU sortant, aucun successeur identifié.",
+  "resultat": "FSSC 22000 renouvelé sans réserve majeure. Standards groupe déployés. Nouveau DU recruté et intégré.",
+  "filiere": "Lait & ingrédients laitiers",
+  "badgeIsomorphe": false
+ }
+]

@@ -1,0 +1,15 @@
+[
+ {
+  "ordre": 2,
+  "titre": "Pilotage achats lait et négociation contractuelle multi-producteurs",
+  "duree": "6 mois",
+  "region": "Alsace",
+  "taille": "390 personnes • 1 site",
+  "niveau": "Performance",
+  "tension": "Finance",
+  "contexte": "Coopérative laitière de 390 personnes, 4e rang français en fromage frais, avec un approvisionnement de 90 000 tonnes de lait par an. Intégration récente de 30 nouveaux producteurs ayant complexifié la planification des volumes. Investissement de 11 M€ dans un nouvel entrepôt nécessitant une refonte des flux amont. Pas de segmentation des producteurs par qualité/volume. Coûts de non-qualité lait (antibiotiques, cellules) représentant 2,5% du volume collecté.",
+  "resultat": "Segmentation producteurs en 3 tiers (premium/standard/suivi renforcé) avec grille tarifaire différenciée. Coûts de non-qualité ramenés à 0,8% du volume. Planification des flux intégrée au nouvel entrepôt. Contrats annuels renégociés avec clause qualité et bonus volume.",
+  "filiere": "Produits laitiers frais & desserts lactés",
+  "badgeIsomorphe": false
+ }
+]

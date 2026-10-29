@@ -1,0 +1,28 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Mise en place S&OP et gestion de la saisonnalité récolte légumes surgelés",
+  "duree": "8 mois",
+  "region": "Bretagne",
+  "taille": "860 personnes • 3 sites",
+  "niveau": "Performance",
+  "tension": "Industriel",
+  "contexte": "Site de surgélation de légumes de 860 personnes sur 3 usines, traitant 170 000 tonnes par an avec un approvisionnement auprès de 1 300 agriculteurs. Campagne de récolte concentrée sur 4 mois (juin-septembre) nécessitant une montée en charge brutale. Pas de processus S&OP formalisé entre la direction agricole et la production. Pertes matière de 8% en pic de récolte par saturation des lignes IQF. Capacité de stockage froid insuffisante générant du transport navette coûteux.",
+  "resultat": "S&OP instauré avec réunion mensuelle agricole-production-commercial. Planification des campagnes anticipée à M-3 avec contrats de récolte échelonnés. Pertes matière réduites à 4,5% en pic. Plan de lissage capacitaire inter-sites déployé, réduisant le transport navette de 40%.",
+  "filiere": "Surgelés",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Diversification panel fournisseurs poisson et maîtrise des coûts matière surgelé",
+  "duree": "6 mois",
+  "region": "Hauts-de-France",
+  "taille": "200 personnes • 1 site",
+  "niveau": "Cohérence",
+  "tension": "Finance",
+  "contexte": "Usine de produits surgelés panés de 200 personnes, mono-produit à 97% sur le poisson pané. Approvisionnement en filets de colin concentré sur 2 importateurs représentant 90% du volume. Hausse des cours du poisson blanc de +15% sur 12 mois sans capacité de négociation. Projet de diversification vers les légumes surgelés nécessitant de nouveaux fournisseurs et une refonte du sourcing. Aucun outil de suivi des prix matière ni de benchmark marché.",
+  "resultat": "Panel élargi à 5 fournisseurs poisson qualifiés (3 origines géographiques). Outil de veille prix matière déployé avec indexation trimestrielle. Sourcing légumes mis en place avec 3 fournisseurs qualifiés pour la diversification. Impact matière limité à +4% vs +15% du marché.",
+  "filiere": "Surgelés",
+  "badgeIsomorphe": false
+ }
+]

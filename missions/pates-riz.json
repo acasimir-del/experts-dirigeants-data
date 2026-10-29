@@ -1,0 +1,62 @@
+[
+ {
+  "ordre": 1,
+  "fonction": "Directeur d'usine",
+  "secteur": "Pâtes sèches",
+  "titre": "Directeur d'usine — Relance usine pâtes sèches après arrêt prolongé et perte de compétences",
+  "duree": "10 mois",
+  "contexte": "Usine pâtes sèches 150 pers., arrêt technique 4 mois pour rénovation séchoirs. Redémarrage chaotique : 60 % des conducteurs de ligne partis, rendement matière semoule effondré à 82 % (norme 94 %). Clients export perdant patience. Recrutement accéléré 25 opérateurs + formation intensive process pâtes (extrusion, séchage haute température). Recalibration séchoirs avec fournisseur. Réintroduction contrôle humidité en continu. Plan de rattrapage livraisons export avec priorisation références clés.",
+  "resultat": "Rendement matière remonté à 93 % en 5 mois. 100 % des lignes opérationnelles sous 3 mois. Clients export : 0 perte définitive, taux de service revenu à 96 %. Effectif stabilisé.",
+  "objectifs": []
+ },
+ {
+  "ordre": 2,
+  "fonction": "Directeur de production",
+  "secteur": "Riz & céréales",
+  "titre": "Directeur de production — Optimisation process continu rizerie et réduction casse grain",
+  "duree": "9 mois",
+  "contexte": "Rizerie 120 pers., taux de brisures 14 % (objectif 8 %) générant 900 K€/an de perte valeur. Process continu étuvage-blanchiment-calibrage mal maîtrisé. Compétences rizicoles en voie de disparition locale. Audit procédé étuvage (temps/température/humidité). Remplacement calibreuse optique. Formation maître rizier pour 6 opérateurs clés. Mise en place SPC sur taux de brisures avec seuils d'alerte automatisés.",
+  "resultat": "Taux de brisures ramené à 7,5 %. Gain valorisation +720 K€/an. OEE blanchiment +12 pts. Compétence rizière pérennisée avec 3 opérateurs certifiés maîtres riziers.",
+  "objectifs": []
+ },
+ {
+  "ordre": 3,
+  "fonction": "Directeur qualité",
+  "secteur": "Pâtes fraîches",
+  "titre": "Directeur qualité — Sécurisation microbiologique pâtes fraîches et extension DLC",
+  "duree": "12 mois",
+  "contexte": "Usine pâtes fraîches 170 pers., 3 alertes Listeria en 18 mois dont 1 rappel produit. DLC limitée à 21 jours vs 35 jours chez concurrents. Risque de déréférencement GMS imminent. Cartographie environnementale Listeria (560 prélèvements). Refonte plan de nettoyage ZAC (zones à atmosphère contrôlée). Installation sas surpression et traitement UV post-conditionnement. Validation DLC étendue par challenge tests.",
+  "resultat": "Zéro alerte Listeria sur 14 mois. DLC étendue à 33 jours, compétitive marché. Déréférencement évité, gain d'1 nouvelle référence chez Carrefour. Coûts rappel éliminés (–380 K€/an).",
+  "objectifs": []
+ },
+ {
+  "ordre": 4,
+  "fonction": "DAF",
+  "secteur": "Semoule & couscous",
+  "titre": "DAF — Restructuration financière semoulerie coopérative post-fusion",
+  "duree": "14 mois",
+  "contexte": "Semoulerie coopérative 95 pers., fusion de 2 entités avec doublons comptables, 2 SI incompatibles. Résultat net –1,2 M€. Banques exigeant business plan crédible sous 90 jours pour maintenir lignes de crédit. Migration comptable sur SI unique. Business plan 5 ans avec scénarios blé dur (couverture prix). Cession actif immobilier non stratégique (1,4 M€). Restructuration dette avec pool bancaire. Reporting mensuel groupe normalisé.",
+  "resultat": "Lignes de crédit maintenues. Résultat net +200 K€ à 18 mois. SI comptable unifié en 4 mois. Ratio dette/EBITDA ramené de 6,2 à 3,8.",
+  "objectifs": []
+ },
+ {
+  "ordre": 5,
+  "fonction": "Supply & Achats",
+  "secteur": "Pâtes sèches",
+  "titre": "Supply & Achats — Sécurisation filière blé dur et optimisation achats semoule",
+  "duree": "8 mois",
+  "contexte": "Usine pâtes sèches 200 pers., dépendance 85 % sur un seul fournisseur semoule. Volatilité blé dur +30 % en 12 mois. Aucune couverture prix, marge laminée. Risque rupture approvisionnement identifié. Diversification panel fournisseurs semoule (3 → 6). Contrats cadre avec couverture à terme sur 60 % des volumes. Qualification semoule alternative (blé dur français filière CRC). Stockage tampon semoule porté de 3 à 10 jours.",
+  "resultat": "Dépendance fournisseur n°1 ramenée à 45 %. Volatilité coût semoule absorbée (écart max ±5 % vs ±22 % avant). Zéro rupture approvisionnement sur 12 mois. Économie achats 320 K€/an.",
+  "objectifs": []
+ },
+ {
+  "ordre": 6,
+  "fonction": "DRH",
+  "secteur": "Semoule & couscous",
+  "titre": "DRH — Gestion pénibilité et attractivité site couscous process continu",
+  "duree": "15 mois",
+  "contexte": "Site couscous 130 pers., process continu 24/7, taux AT 45 pour 1000 (secteur : 25). Postes roulage/séchage classés pénibilité chaleur + poussière. Turnover 40 %, postes vacants depuis 6 mois sur conduite ligne. Diagnostic pénibilité complet avec ergonome. Investissement 600 K€ ventilation/aspiration postes critiques. Refonte grille salariale avec primes pénibilité revalorisées. Partenariat CFA pour alternants conduite process continu.",
+  "resultat": "Taux AT ramené à 22 pour 1000 (–51 %). Turnover réduit à 18 %. 6 postes vacants pourvus dont 4 via alternance. Note Glassdoor site passée de 2,8 à 3,9.",
+  "objectifs": []
+ }
+]

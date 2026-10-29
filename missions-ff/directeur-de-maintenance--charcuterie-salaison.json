@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Fiabilisation des lignes de cuisson et conditionnement charcuterie",
+  "duree": "8 mois",
+  "region": "Bretagne",
+  "taille": "2 560 personnes multi-sites",
+  "niveau": "Performance",
+  "tension": "Industriel",
+  "contexte": "Coopérative porcine avec 17 sites de salaison en restructuration. TRS dégradé à 55% sur les lignes de cuisson et conditionnement du site principal. Pannes récurrentes sur les autoclaves et les trancheurs. GMAO multi-sites non harmonisée. Ratio préventif/correctif de 30/70.",
+  "resultat": "TRS porté à 71% sur le site pilote. GMAO unifiée déployée sur 5 sites prioritaires. Ratio préventif/correctif amélioré à 55/45. MTBF autoclaves doublé. Plan de remplacement trancheurs lancé.",
+  "filiere": "Charcuterie & salaison",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Démarche TPM post-modernisation site de jambons cuits",
+  "duree": "9 mois",
+  "region": "Nouvelle-Aquitaine",
+  "taille": "500 personnes",
+  "niveau": "Cohérence",
+  "tension": "Efficience",
+  "contexte": "Site historique de charcuterie récemment modernisé (25M€ investis sur 3 ans) mais OEE à 61% sur le nouvel atelier moulage-cuisson. Opérateurs non formés sur les équipements récents. Absence de standards de maintenance autonome. Micro-arrêts représentant 18% du temps de production.",
+  "resultat": "OEE porté à 74%. 3 piliers TPM déployés (maintenance autonome, amélioration ciblée, formation). 80 opérateurs certifiés niveau 1. Micro-arrêts réduits à 7%. Standards visuels créés pour 100% des postes.",
+  "filiere": "Charcuterie & salaison",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Pilotage programme de modernisation et réduction énergétique multi-sites",
+  "duree": "10 mois",
+  "region": "Rhône-Alpes",
+  "taille": "1 300 personnes multi-sites",
+  "niveau": "Existence",
+  "tension": "Finance",
+  "contexte": "Groupe charcutier avec 4 sites vieillissants sous contrainte de rentabilité de l'actionnaire international. Budget CAPEX de 12M€ pour modernisation des séchoirs et des cellules de maturation. Cahiers des charges à rédiger pour 3 lots équipementiers. Objectif de réduction de 20% de la facture énergétique.",
+  "resultat": "Séchoirs modernisés sur 2 sites pilotes. Consommation énergétique réduite de 18%. Cahiers des charges livrés et appels d'offres lancés pour les 2 sites restants. Réception provisoire validée. Budget CAPEX tenu à -1%.",
+  "filiere": "Charcuterie & salaison",
+  "badgeIsomorphe": false
+ }
+]

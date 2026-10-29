@@ -1,0 +1,42 @@
+[
+ {
+  "ordre": 1,
+  "fonction": "Directeur qualité",
+  "secteur": "",
+  "titre": "Gestion de crise rappel produit et refonte du plan de maîtrise sanitaire",
+  "duree": "6 mois",
+  "contexte": "Laiterie de 280 personnes confrontée à un rappel produit lié à une contamination Listeria sur une ligne de conditionnement. Plan de maîtrise sanitaire incomplet, nettoyage en place (NEP) insuffisant et root cause analysis inexistante dans la culture du site.",
+  "resultat": "Root cause identifiée en 48h, zoning sanitaire revu sur 100% du site. Nouveau protocole NEP validé avec réduction de 90% de la charge microbienne. Zéro rappel produit sur les 18 mois suivants.",
+  "objectifs": []
+ },
+ {
+  "ordre": 1,
+  "fonction": "Directeur de maintenance",
+  "secteur": "",
+  "titre": "Plan de fiabilisation équipements et réduction pannes sur site laitier coopératif",
+  "duree": "8 mois",
+  "contexte": "Coopérative laitière de 1 250 personnes confrontée à un vieillissement du parc machines (pasteurisateurs, écrémeuses, homogénéiseurs). MTBF en baisse de 20% sur 2 ans. Équipe maintenance sous-dimensionnée par rapport à la criticité des équipements. Pression réglementaire forte sur la chaîne du froid.",
+  "resultat": "MTBF amélioré de 35% sur les équipements critiques. Plan de maintenance prédictive déployé (vibrations, thermographie). Recrutement et intégration de 4 techniciens spécialisés. Zéro rupture chaîne du froid sur la période.",
+  "objectifs": []
+ },
+ {
+  "ordre": 2,
+  "fonction": "Directeur de production",
+  "secteur": "",
+  "titre": "Redressement TRS lignes de conditionnement lait et crème",
+  "duree": "7 mois",
+  "contexte": "Laiterie familiale de 217 personnes en croissance forte après investissement de 30 M€ dans une unité poudre infantile. TRS des lignes de conditionnement lait UHT et crème dégradé à 58%. Micro-arrêts non tracés, maintenance curative uniquement. Conducteurs sans standards de conduite.",
+  "resultat": "TRS porté à 74% sur les 5 lignes de conditionnement. Plan de maintenance préventive déployé sur les équipements critiques. Fiches de conduite standardisées pour chaque format. Gain de capacité équivalent à 0,5 ligne supplémentaire.",
+  "objectifs": []
+ },
+ {
+  "ordre": 3,
+  "fonction": "Finance & RH",
+  "secteur": "",
+  "titre": "Restructuration du financement et pilotage cash d'une laiterie en difficulté",
+  "duree": "10 mois",
+  "contexte": "Une laiterie coopérative bretonne fait face à une crise de trésorerie liée à la chute des cours du beurre et à un programme d'investissement de 11 M€ en beurrerie. Le covenant bancaire est menacé, le DPO dépasse 90 jours et les fournisseurs d'emballage menacent de suspendre les livraisons. Un directeur financier de transition est missionné pour sécuriser le financement.",
+  "resultat": "Covenant bancaire renégocié avec obtention d'un waiver de 6 mois. Affacturage mis en place réduisant le DSO de 58 à 38 jours. Plan de financement CAPEX restructuré avec crédit-bail sur les équipements beurrerie. Prévisions cash à 13 semaines adoptées par le COMEX.",
+  "objectifs": []
+ }
+]

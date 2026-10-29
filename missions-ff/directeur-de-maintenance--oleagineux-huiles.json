@@ -1,0 +1,28 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Structuration maintenance préventive site raffinage huile",
+  "duree": "6 mois",
+  "region": "Nord",
+  "taille": "~210 personnes",
+  "niveau": "Performance",
+  "tension": "Efficience",
+  "contexte": "Site de raffinage avec des arrêts non planifiés fréquents sur les colonnes de désodorisation et les groupes froids. Programme de décarbonation en cours (6 M€) nécessitant une fiabilisation préalable des utilités. Maintenance en mode pompier, pas de GMAO exploitée.",
+  "resultat": "GMAO remise en service, 680 gammes de maintenance préventive créées. MTBF des équipements critiques amélioré de 40%. Arrêts non planifiés réduits de 28% en 5 mois.",
+  "filiere": "Oléagineux & huiles",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Pilotage travaux neufs modernisation atelier extraction",
+  "duree": "10 mois",
+  "region": "Loire-Atlantique",
+  "taille": "~150 personnes",
+  "niveau": "Transformation",
+  "tension": "Industriel",
+  "contexte": "Budget CAPEX de 18 M€ pour moderniser l'atelier d'extraction et installer une nouvelle ligne de trituration tournesol. Bureau d'études sous-dimensionné face à l'ampleur du projet. Contraintes ICPE lourdes sur un site Seveso seuil haut. Production à maintenir pendant les travaux.",
+  "resultat": "Nouvelle ligne de trituration tournesol installée et qualifiée. Cahiers des charges ICPE conformes validés par la DREAL. Zéro accident pendant la phase travaux. Montée en cadence à 85% de la capacité nominale en 3 mois.",
+  "filiere": "Oléagineux & huiles",
+  "badgeIsomorphe": false
+ }
+]

@@ -1,0 +1,28 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Management relais suite départ négocié",
+  "duree": "8 mois",
+  "region": "Nord",
+  "taille": "~200",
+  "niveau": "Cohérence",
+  "tension": "Gouvernance",
+  "contexte": "Rupture conventionnelle du DU brasseur. Site de 65 salariés, 12 références dont 3 IGP. Période de forte activité estivale.",
+  "resultat": "Saison estivale assurée sans rupture. IGP maintenues. DU brasseur recruté et intégré.",
+  "filiere": "Brasserie",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Structuration industrielle post-levée de fonds",
+  "duree": "9 mois",
+  "region": "Bretagne",
+  "taille": "~319",
+  "niveau": "Transformation",
+  "tension": "Industriel",
+  "contexte": "Brasserie artisanale en forte croissance après levée. Passage à l'industrie : process, qualité, supply. Fondateurs dépassés.",
+  "resultat": "Système qualité structuré. Capacité de production doublée. Première certification IFS obtenue.",
+  "filiere": "Brasserie",
+  "badgeIsomorphe": false
+ }
+]

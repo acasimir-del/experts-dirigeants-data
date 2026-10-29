@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Montee en cadence ligne casserie ovoproduits liquides",
+  "duree": "6 mois",
+  "region": "Bretagne",
+  "taille": "140 collaborateurs",
+  "niveau": "Transformation",
+  "tension": "Industriel",
+  "contexte": "Nouvelle ligne de casserie Sanovo installee pour doubler la capacite en ovoproduits liquides. Equipes a former, parametres de pasteurisation a qualifier. Responsable de production en arret maladie longue duree.",
+  "resultat": "Cadence cible de 120 000 oeufs/heure atteinte en 8 semaines. Taux de casse stabilise a 0,4 %. 18 operateurs formes et autonomes. Qualification FSSC 22000 obtenue.",
+  "filiere": "Œufs & ovoproduits",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Reorganisation planning conditionnement pic saisonnier",
+  "duree": "4 mois",
+  "region": "Ile-de-France",
+  "taille": "210 collaborateurs",
+  "niveau": "Cohérence",
+  "tension": "Efficience",
+  "contexte": "Pic de Paques avec des volumes en hausse de 40 % sur 6 semaines. Planification sous Excel, ruptures recurrentes en alveoles carton. Directeur de production demissionnaire.",
+  "resultat": "Pic Paques absorbe sans rupture client. Ordonnancement migre sur ERP. Taux de service porte a 98,5 %. Temps de changement de format reduit de 35 %.",
+  "filiere": "Œufs & ovoproduits",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Amelioration rendement matiere casserie vieillissante",
+  "duree": "5 mois",
+  "region": "Auvergne-Rhone-Alpes",
+  "taille": "75 collaborateurs",
+  "niveau": "Performance",
+  "tension": "Finance",
+  "contexte": "Casserie ancienne avec rendement matiere degrade a 87 %. Taux de casse eleve, separation blanc-jaune imprecise. Perte de marche aupres de clients IAA exigeants.",
+  "resultat": "Rendement matiere porte a 94 %. Taux de casse divise par 3 (de 2,8 % a 0,9 %). Deux clients IAA reconquis. Gain de 180 000 EUR/an en perte matiere evitee.",
+  "filiere": "Œufs & ovoproduits",
+  "badgeIsomorphe": false
+ }
+]

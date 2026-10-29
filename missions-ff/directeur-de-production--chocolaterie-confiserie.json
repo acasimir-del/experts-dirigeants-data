@@ -1,0 +1,28 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Montée en cadence post-transfert de production chocolat de couverture",
+  "duree": "8 mois",
+  "region": "Normandie",
+  "taille": "275 personnes",
+  "niveau": "Cohérence",
+  "tension": "RH",
+  "contexte": "Site de première transformation cacao ayant reçu un transfert de volumes d'un site étranger du groupe. Qualification de 2 nouvelles lignes de conchage en cours. Conducteurs de ligne à former sur les nouveaux équipements. TRS à 55% sur les lignes transférées vs 78% cible. Plan social récent ayant fragilisé le collectif.",
+  "resultat": "TRS porté à 74% sur les lignes transférées. 45 conducteurs de ligne qualifiés sur les nouveaux équipements. Cadences nominales atteintes en 6 mois. Plan de formation structuré avec tutorat croisé entre anciens et nouveaux opérateurs.",
+  "filiere": "Chocolaterie & confiserie",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Gestion du pic Noël et planification saisonnière en chocolaterie",
+  "duree": "7 mois",
+  "region": "Drôme",
+  "taille": "350 personnes (hors saisonniers)",
+  "niveau": "Performance",
+  "tension": "Commerce",
+  "contexte": "Chocolaterie grand cru (couvertures professionnels) avec un pic saisonnier Noël représentant 45% du CA annuel. Ordonnancement des OF défaillant : taux de service à 82% en période de pic. Recrutement de 80 saisonniers à intégrer et former en 3 semaines. Conducteurs de ligne en surcharge, absenteisme à 12% en haute saison.",
+  "resultat": "Taux de service porté à 97% sur le pic Noël. Programme d'intégration accélérée des saisonniers déployé (formation en 10 jours vs 21 précédemment). Absentéisme ramené à 6%. Séquencement des OF anticipé sur 8 semaines glissantes avec les chefs d'équipe.",
+  "filiere": "Chocolaterie & confiserie",
+  "badgeIsomorphe": false
+ }
+]

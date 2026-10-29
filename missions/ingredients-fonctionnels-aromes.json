@@ -1,0 +1,62 @@
+[
+ {
+  "ordre": 1,
+  "fonction": "Directeur d'usine",
+  "secteur": "Arômes alimentaires",
+  "titre": "Directeur d'usine de transition — transfert industriel R&D vers production d'arômes naturels",
+  "duree": "9 mois",
+  "contexte": "ETI spécialisée en arômes naturels. Transfert de 12 formules R&D vers production industrielle bloqué depuis 18 mois : rendements pilote non reproductibles à l'échelle, CAPEX ligne d'extraction supercritique CO₂ non arbitré, équipes R&D et production en silo.",
+  "resultat": "9 formules sur 12 industrialisées en 7 mois, rendement extraction +23 %, ligne supercritique commissionnée (2,1 M€), time-to-market réduit de 14 à 6 mois.",
+  "objectifs": []
+ },
+ {
+  "ordre": 2,
+  "fonction": "Directeur de production",
+  "secteur": "Texturants & épaississants",
+  "titre": "Directeur de production de transition — montée en cadence texturants clean-label",
+  "duree": "7 mois",
+  "contexte": "Site B2B de texturants fonctionnels. Demande clean-label en hausse de 40 % mais lignes saturées. Taux de service tombé à 82 %. Reformulation des gammes amidons modifiés vers alternatives natives exigée par 3 clients MDD majeurs.",
+  "resultat": "Taux de service remonté à 96 %, capacité clean-label doublée (+5 200 t/an), 2 nouveaux référencements GMS validés, rebut reformulation ramené de 8 % à 2,5 %.",
+  "objectifs": []
+ },
+ {
+  "ordre": 3,
+  "fonction": "Directeur qualité",
+  "secteur": "Colorants naturels",
+  "titre": "Directeur qualité de transition — mise en conformité colorants naturels post-audit FSSC 22000",
+  "duree": "6 mois",
+  "contexte": "PME colorants naturels (curcumine, bêta-carotène). Audit FSSC 22000 révèle 14 non-conformités majeures : traçabilité matières premières incomplète, CCP non documentés, plan HACCP obsolète. Risque de perte de certification et de 3 clients clés (60 % du CA).",
+  "resultat": "14 NC majeures soldées en 5 mois, certification FSSC 22000 renouvelée sans réserve, traçabilité lot étendue de la récolte au dosage, zéro réclamation client sur 4 mois post-mission.",
+  "objectifs": []
+ },
+ {
+  "ordre": 4,
+  "fonction": "Supply & Achats",
+  "secteur": "Protéines fonctionnelles",
+  "titre": "Supply & Achats de transition — sécurisation sourcing protéines fonctionnelles",
+  "duree": "8 mois",
+  "contexte": "Site de protéines fonctionnelles (pois, blé). Volatilité prix matière première (+35 % en 12 mois), dépendance à 2 fournisseurs pour 75 % du volume, pas de couverture prix. Marge brute passée de 28 % à 19 %.",
+  "resultat": "Panel fournisseurs élargi de 2 à 7, contrats cadres 18 mois avec clauses d'indexation, marge brute restaurée à 26 %, stock de sécurité optimisé (–18 jours) sans rupture.",
+  "objectifs": []
+ },
+ {
+  "ordre": 5,
+  "fonction": "DAF",
+  "secteur": "Arômes alimentaires",
+  "titre": "DAF de transition — restructuration financière post-CAPEX ligne d'extraction",
+  "duree": "6 mois",
+  "contexte": "ETI arômes après investissement ligne d'extraction de 3,5 M€. BFR explosé, trésorerie tendue, covenant bancaire en risque de breach. Reporting financier mensuel inexistant, pas de suivi projet CAPEX.",
+  "resultat": "Covenant sécurisé (leverage ramené de 4,2x à 3,1x), reporting mensuel installé en 6 semaines, BFR réduit de 12 jours (renégociation délais fournisseurs + facturation acompte clients), refinancement 1,8 M€ obtenu.",
+  "objectifs": []
+ },
+ {
+  "ordre": 6,
+  "fonction": "DRH",
+  "secteur": "Texturants & épaississants",
+  "titre": "DRH de transition — plan de compétences et recrutement techniciens process",
+  "duree": "7 mois",
+  "contexte": "Site ingrédients fonctionnels en tension RH : 14 postes vacants (techniciens process, conducteurs séchage), turnover à 22 %, absentéisme 9 %. Bassin d'emploi concurrentiel avec chimie et pharma. Pas de GPEC ni de parcours d'intégration structuré.",
+  "resultat": "11 postes pourvus sur 14, turnover ramené à 13 %, parcours d'intégration 90 jours déployé, partenariat 2 lycées pro signé, absentéisme réduit à 5,5 %.",
+  "objectifs": []
+ }
+]

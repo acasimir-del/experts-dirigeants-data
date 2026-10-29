@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Plan de fiabilisation equipements casserie multi-sites",
+  "duree": "8 mois",
+  "region": "Pays de la Loire",
+  "taille": "250 collaborateurs",
+  "niveau": "Cohérence",
+  "tension": "Industriel",
+  "contexte": "Trois sites de casserie avec un taux de pannes en hausse de 40 % sur 18 mois. Casseuses Moba vieillissantes, pas de GMAO. Directeur maintenance parti a la retraite sans plan de succession.",
+  "resultat": "GMAO deployee sur les 3 sites. Taux de pannes reduit de 55 %. Plan de maintenance preventive calibre. Budget pieces de rechange optimise a -18 %.",
+  "filiere": "Œufs & ovoproduits",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Installation et qualification nouvelle calibreuse optique",
+  "duree": "5 mois",
+  "region": "Normandie",
+  "taille": "120 collaborateurs",
+  "niveau": "Transformation",
+  "tension": "Industriel",
+  "contexte": "Remplacement d'une calibreuse mecanique par un systeme optique avec detection de microfissures. Installation a realiser pendant la production, sans arret superieur a 48 heures.",
+  "resultat": "Installation realisee en 36 heures d'arret. Calibreuse qualifiee en 2 semaines. Detection microfissures operationnelle, taux de retour client divise par 4. Cadence portee a 40 000 oeufs/heure.",
+  "filiere": "Œufs & ovoproduits",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Mise aux normes utilites site ovoproduits pour export",
+  "duree": "6 mois",
+  "region": "Grand Est",
+  "taille": "65 collaborateurs",
+  "niveau": "Performance",
+  "tension": "Légitimité ext.",
+  "contexte": "Site ovoproduits seches visant l'agrement export Japon et Coree. Utilites (froid, vapeur, air comprime) non conformes aux exigences sanitaires export. Responsable maintenance demissionnaire.",
+  "resultat": "Agrement export Japon obtenu au premier audit. Reseau vapeur renove. Consommation energetique reduite de 12 %. Investissement de 1,2 M EUR tenu dans le budget.",
+  "filiere": "Œufs & ovoproduits",
+  "badgeIsomorphe": false
+ }
+]

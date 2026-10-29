@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Stabilisation production post-départ directeur — BVP (Métier)",
+  "duree": "5 mois",
+  "region": "Bretagne",
+  "taille": "320 personnes",
+  "niveau": "Existence",
+  "tension": "Industriel",
+  "contexte": "Directeur de production parti sans préavis sur un site de 6 lignes en 3x8. Rendements matière en baisse de 4 points en deux semaines.",
+  "resultat": "Rendements rétablis à 93%. Ordonnancement restructuré. Passation CDI réalisée.",
+  "filiere": "Boulangerie viennoiserie & pâtisserie (BVP)",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 1,
+  "titre": "Ordonnancement multi-lignes et taux de service en pic saisonnier viennoiserie",
+  "duree": "7 mois",
+  "region": "Rhône-Alpes",
+  "taille": "400 personnes • 9 lignes",
+  "niveau": "Performance",
+  "tension": "Industriel",
+  "contexte": "Site de 400 personnes en 3×8, 9 lignes de viennoiserie et pain de mie. Ordonnancement des OF géré sur tableur par un seul planificateur. Taux de service dégradé à 91% sur les MDD avec pénalités GMS croissantes. Séquencement des changements de format non optimisé, temps de SMED jamais mesuré. Pics de Noël et Pâques nécessitant le recours à 80 intérimaires sans parcours d'intégration.",
+  "resultat": "Taux de service porté à 97,4% en pic saisonnier. Ordonnancement digitalisé avec planification à J+7 glissant. Temps de SMED réduit de 35% sur les 4 lignes principales. Parcours intérimaires structuré en 3 jours, taux de rebut première semaine divisé par 2.",
+  "filiere": "Boulangerie viennoiserie & pâtisserie (BVP)",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Pilotage montée en cadence nouvelle ligne",
+  "duree": "7 mois",
+  "region": "Nord",
+  "taille": "250 personnes",
+  "niveau": "Performance",
+  "tension": "Efficience",
+  "contexte": "Nouvelle ligne de pâtisserie surgelée installée mais cadence bloquée à 60% du nominal. Directeur de production en arrêt longue durée.",
+  "resultat": "Cadence nominale atteinte en J+80. TRS porté de 58% à 76%.",
+  "filiere": "Boulangerie viennoiserie & pâtisserie (BVP)",
+  "badgeIsomorphe": false
+ }
+]

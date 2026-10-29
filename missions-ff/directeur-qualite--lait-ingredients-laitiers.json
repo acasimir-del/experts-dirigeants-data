@@ -1,0 +1,28 @@
+[
+ {
+  "ordre": 2,
+  "titre": "Préparation audit client grande distribution et mise à niveau BRC",
+  "duree": "7 mois",
+  "region": "Pays de la Loire",
+  "taille": "350 personnes",
+  "niveau": "Performance",
+  "tension": "Commerce",
+  "contexte": "Laiterie MDD de 350 personnes devant passer un audit BRC exigé par son client distributeur principal (40% du CA). Score BRC précédent insuffisant (grade C), mettant en péril le renouvellement du contrat. Système de traçabilité lait-produit fini lacunaire et gestion documentaire non centralisée.",
+  "resultat": "Score BRC relevé de grade C à grade A. Traçabilité complète lait-produit fini en moins de 2h (vs 8h avant). Contrat distributeur renouvelé pour 3 ans avec extension à 2 nouvelles références.",
+  "filiere": "Lait & ingrédients laitiers",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Structuration qualité post-acquisition et harmonisation multi-sites laitiers",
+  "duree": "11 mois",
+  "region": "Alsace",
+  "taille": "850 personnes",
+  "niveau": "Transformation",
+  "tension": "Gouvernance",
+  "contexte": "Coopérative laitière ayant acquis un site fromager de 200 personnes. Deux cultures qualité incompatibles : l'acquéreur en IFS, la cible en BRC. Aucun référentiel commun pour les CCP, gestion des allergènes différente, et systèmes de traçabilité non interopérables.",
+  "resultat": "Référentiel qualité unique IFS/BRC déployé sur les 3 sites en 9 mois. Interopérabilité traçabilité à 100%. Économie de 180k EUR/an sur les coûts de double certification.",
+  "filiere": "Lait & ingrédients laitiers",
+  "badgeIsomorphe": false
+ }
+]

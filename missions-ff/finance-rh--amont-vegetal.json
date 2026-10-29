@@ -1,0 +1,15 @@
+[
+ {
+  "ordre": 5,
+  "titre": "Pilotage trésorerie et risque MP en période de volatilité blé — lissage du prix payé aux adhérents",
+  "duree": "6 mois",
+  "region": "Picardie",
+  "taille": "150 personnes • Coopérative",
+  "niveau": "Existence",
+  "tension": "Finance",
+  "contexte": "Coopérative meunière régionale dont les achats de blé auprès des céréaliers adhérents représentent 70% du chiffre d'affaires. Les prévisions de cash sont inexistantes, le crédit fournisseur est au maximum et la couverture matière première sur Euronext est mal gérée, générant des pertes de 600 K€ sur la dernière campagne. Conséquence directe : capacité à lisser le prix payé aux sociétaires-céréaliers fragilisée.",
+  "resultat": "Modèle de prévision cash à 13 semaines déployé, politique de couverture formalisée limitant le risque à 20% du volume, ligne de financement campagne restructurée à conditions améliorées. Capacité rétablie à garantir aux adhérents un prix de campagne lissant la volatilité des marchés.",
+  "filiere": "Amont végétal",
+  "badgeIsomorphe": false
+ }
+]

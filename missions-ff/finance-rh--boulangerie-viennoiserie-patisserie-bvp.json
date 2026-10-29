@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Interim DAF site en période de clôture — BVP (Métier)",
+  "duree": "5 mois",
+  "region": "Normandie",
+  "taille": "380 personnes",
+  "niveau": "Existence",
+  "tension": "Finance",
+  "contexte": "DAF parti en octobre, clôture annuelle à piloter. Pas de contrôle de gestion industriel en place, reporting groupe attendu en J+10.",
+  "resultat": "Clôture livrée en J+8. CDG industriel déployé par ligne. Recrutement CDI accompagné.",
+  "filiere": "Boulangerie viennoiserie & pâtisserie (BVP)",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Reprise des clôtures comptables et mise en conformité IFRS post-acquisition",
+  "duree": "6 mois",
+  "region": "Bourgogne",
+  "taille": "790 personnes",
+  "niveau": "Performance",
+  "tension": "Gouvernance",
+  "contexte": "Un fabricant d'ingrédients de boulangerie intégré à un groupe coté doit harmoniser ses pratiques comptables avec les normes IFRS du groupe acquéreur. Les clôtures mensuelles accusent 15 jours de retard et les provisions ne sont pas documentées. Un directeur comptable de transition est missionné pour remettre à niveau la comptabilité du site.",
+  "resultat": "Clôtures mensuelles ramenées à J+5. Liasse fiscale produite sans réserve par les commissaires aux comptes. Politique d'immobilisations et d'amortissements alignée sur le référentiel groupe. Cut-off achats fiabilisé avec écart résiduel inférieur à 0,3 %.",
+  "filiere": "Boulangerie viennoiserie & pâtisserie (BVP)",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 6,
+  "titre": "Plan de recrutement métiers en tension",
+  "duree": "6 mois",
+  "region": "Hauts-de-France",
+  "taille": "400 personnes",
+  "niveau": "Transformation",
+  "tension": "RH",
+  "contexte": "Extension de site créant 90 postes. DRH en surcharge, pas de stratégie de recrutement. Bassin d'emploi rural, métiers pénuriés (boulangers, conducteurs de ligne).",
+  "resultat": "78 postes pourvus en 5 mois. Partenariats écoles et Pôle Emploi structurés. Programme d'intégration déployé.",
+  "filiere": "Boulangerie viennoiserie & pâtisserie (BVP)",
+  "badgeIsomorphe": false
+ }
+]

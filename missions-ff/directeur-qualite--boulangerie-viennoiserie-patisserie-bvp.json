@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Préparation audit IFS en urgence — BVP (Métier)",
+  "duree": "4 mois",
+  "region": "Normandie",
+  "taille": "300 personnes",
+  "niveau": "Existence",
+  "tension": "Légitimité ext.",
+  "contexte": "Directeur qualité parti 10 semaines avant l'audit IFS Higher Level. Documentation lacunaire, plan HACCP non à jour.",
+  "resultat": "Audit IFS Higher Level réussi à 96,2%. Plan HACCP refondu. Documentation qualité restructurée.",
+  "filiere": "Boulangerie viennoiserie & pâtisserie (BVP)",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Redressement post-crise allergène",
+  "duree": "5 mois",
+  "region": "Île-de-France",
+  "taille": "180 personnes",
+  "niveau": "Performance",
+  "tension": "Légitimité ext.",
+  "contexte": "Rappel produit sur contamination croisée allergène (noisette). Client GMS exige un plan d'action sous 30 jours.",
+  "resultat": "Plan d'action validé en J+21. Ségrégation allergènes renforcée. Contrat client maintenu.",
+  "filiere": "Boulangerie viennoiserie & pâtisserie (BVP)",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 4,
+  "titre": "Déploiement culture qualité équipes postées",
+  "duree": "6 mois",
+  "region": "Bretagne",
+  "taille": "400 personnes",
+  "niveau": "Performance",
+  "tension": "Industriel",
+  "contexte": "Taux de réclamations clients en hausse de 35% sur 6 mois. Les équipes de nuit n'appliquent pas les autocontrôles. Pas de référent qualité en poste.",
+  "resultat": "Réclamations réduites de 42%. Autocontrôles systématisés sur les 3 postes. Référents qualité formés par équipe.",
+  "filiere": "Boulangerie viennoiserie & pâtisserie (BVP)",
+  "badgeIsomorphe": false
+ }
+]

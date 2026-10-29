@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Pilotage site lait infantile pendant audit AFSCA export",
+  "duree": "8 mois",
+  "region": "Hauts-de-France",
+  "taille": "280 collaborateurs",
+  "niveau": "Existence",
+  "tension": "Légitimité ext.",
+  "contexte": "Depart du directeur d'usine d'un site de lait infantile 6 semaines avant un audit AFSCA pour le renouvellement de l'agrement export. Site en salle blanche ISO 7, 45 000 tonnes/an de poudres infantiles. Risque de perte de l'agrement et de 30 % du chiffre d'affaires export.",
+  "resultat": "Audit AFSCA reussi sans reserve majeure. Agrement export renouvele pour 3 ans. Taux de conformite documentaire porte de 87 % a 98 %.",
+  "filiere": "Nutrition spécialisée",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Transfert industriel post-acquisition site nutrition clinique",
+  "duree": "12 mois",
+  "region": "Auvergne-Rhone-Alpes",
+  "taille": "150 collaborateurs",
+  "niveau": "Transformation",
+  "tension": "Industriel",
+  "contexte": "Rachat d'un site de nutrition enterale par un groupe international. Transfert de 12 references de nutrition clinique depuis un site ferme. Revalidation analytique complete sur chaque produit transfere. Equipes locales en situation d'incertitude.",
+  "resultat": "12 references transferees et revalidees en 10 mois. Zero rupture d'approvisionnement hospitalier. Turnover limite a 8 % malgre le contexte.",
+  "filiere": "Nutrition spécialisée",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Redressement qualite site complements alimentaires apres retrait de lot",
+  "duree": "6 mois",
+  "region": "Pays de la Loire",
+  "taille": "90 collaborateurs",
+  "niveau": "Existence",
+  "tension": "Industriel",
+  "contexte": "Retrait de lot massif sur une gamme de complements alimentaires apres detection de contamination croisee allergenes. Suspension temporaire de la certification IFS. Direction qualite et direction d'usine vacantes simultanement.",
+  "resultat": "Certification IFS retrouvee en 4 mois. Taux de non-conformite reduit de 12 % a 1,5 %. Reprise des livraisons GMS sous 3 mois.",
+  "filiere": "Nutrition spécialisée",
+  "badgeIsomorphe": false
+ }
+]

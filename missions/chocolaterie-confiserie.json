@@ -1,0 +1,92 @@
+[
+ {
+  "ordre": 1,
+  "fonction": "Directeur d'usine",
+  "secteur": "Chocolaterie de couverture",
+  "titre": "Restructuration de la production lors du départ du directeur d'usine en pleine campagne de Pâques",
+  "duree": "8 mois",
+  "contexte": "Départ soudain du directeur d'usine à trois semaines du pic de Pâques. Site spécialisé en chocolat de couverture avec 4 lignes de tempérage et une cadence saisonnière x3 sur février-mars — aucun plan de succession en place.",
+  "resultat": "Campagne de Pâques livrée à 98% OTIF (+7 pts vs N-1). OEE remonté de 62% à 74% sur les lignes de moulage. Taux de rebut tempérage ramené de 4,2% à 1,8%.",
+  "objectifs": []
+ },
+ {
+  "ordre": 2,
+  "fonction": "Directeur de production",
+  "secteur": "Tablettes & moulages",
+  "titre": "Montée en cadence d'une nouvelle ligne d'enrobage pour le lancement d'une gamme export",
+  "duree": "7 mois",
+  "contexte": "Investissement CAPEX de 6 M€ sur une ligne d'enrobage haute cadence pour adresser un contrat MDD export Allemagne-Benelux. Démarrage retardé de 10 semaines, pression client sur les délais de qualification.",
+  "resultat": "Ligne qualifiée en 14 semaines (vs 22 prévues initialement). Cadence nominale 2,4 t/h atteinte. Lancement export réussi : 1 200 tonnes livrées sur le premier semestre, marge brute +3,5 pts vs budget.",
+  "objectifs": []
+ },
+ {
+  "ordre": 2,
+  "fonction": "Directeur qualité",
+  "secteur": "",
+  "titre": "Transformation du systeme qualite pour certification IFS Food v8 chocolaterie premium",
+  "duree": "10 mois",
+  "contexte": "Chocolatier premium bean-to-bar (500-999 salaries) historiquement certifie ISO 9001 uniquement, souhaitant acceder aux appels d'offres grande distribution et export. Necessite une certification IFS Food v8 sur l'ensemble du perimetre (torrefaction, conchage, moulage, conditionnement). Aucun referentiel food safety structure en place. Equipe qualite orientee controle organoleptique mais sans competence HACCP reglementaire.",
+  "resultat": "Certification IFS Food v8 obtenue niveau superieur (score 97%). Plan HACCP complet deploye sur les 4 ateliers. 12 CCP identifies et instrumentes (temperatures, detecteurs metaux, rayons X). Formation de 35 cadres et techniciens a l'audit interne IFS. Ouverture de 3 nouveaux marches export (Japon, USA, Moyen-Orient).",
+  "objectifs": []
+ },
+ {
+  "ordre": 3,
+  "fonction": "Directeur qualité",
+  "secteur": "Pralinés & enrobés",
+  "titre": "Harmonisation qualité post-acquisition d'une chocolaterie artisanale intégrée au groupe",
+  "duree": "6 mois",
+  "contexte": "Rachat d'un atelier artisanal de pralinés et enrobés (60 salariés) par un groupe industriel. Deux référentiels qualité incompatibles, traçabilité cacao non conforme aux exigences IFS du groupe, et résistance culturelle forte des équipes artisanales.",
+  "resultat": "Certification IFS Food obtenue en 5 mois. Traçabilité cacao lot-par-lot déployée sur 100% des références. Taux de non-conformités clients divisé par 3 (de 1,2% à 0,4%).",
+  "objectifs": []
+ },
+ {
+  "ordre": 3,
+  "fonction": "Directeur qualité",
+  "secteur": "",
+  "titre": "Structuration qualite post-acquisition et harmonisation referentiel confiserie multi-sites",
+  "duree": "9 mois",
+  "contexte": "Confiseur familial (250 salaries) recemment integre a un groupe apres rachat. Rapatriement de production depuis un site etranger. Coexistence de deux systemes qualite incompatibles (ancien site vs nouveau). Pas de referentiel BRC commun, documentations en 3 langues, pratiques d'hygiene heterogenes. Audit de certification BRC prevu a 8 mois.",
+  "resultat": "Referentiel qualite unique BRC v9 deploye. Systeme documentaire unifie et digitalise (450 documents harmonises). Audit BRC reussi grade A au premier passage. Formation croisee des equipes qualite (12 personnes) aux deux cultures industrielles. Taux de non-conformites fournisseurs reduit de 40% grace a un programme d'audit amont structure.",
+  "objectifs": []
+ },
+ {
+  "ordre": 3,
+  "fonction": "Directeur qualité",
+  "secteur": "",
+  "titre": "Déploiement culture qualité et réduction réclamations chocolaterie premium",
+  "duree": "6 mois",
+  "contexte": "Chocolatier haut de gamme familial en croissance rapide (rapatriement de production depuis l'étranger). Taux de réclamations clients en hausse de 60% sur 12 mois (défauts visuels moulage, écarts organoleptiques). Pas de responsable qualité dédié — fonction portée par le directeur de production. Besoin de structurer un service qualité autonome et d'ancrer une culture food safety dans les équipes.",
+  "resultat": "Service qualité créé (recrutement de 2 techniciens qualité pérennes). Plan de formation HACCP dispensé à 100% des opérateurs. Cahier des charges fournisseur cacao refondu. Taux de réclamations réduit de 55% en 5 mois. Processus de libération des lots formalisé. Audit client export réussi.",
+  "objectifs": []
+ },
+ {
+  "ordre": 4,
+  "fonction": "Supply & Achats",
+  "secteur": "Confiserie industrielle",
+  "titre": "Sécurisation de la chaîne d'approvisionnement cacao face à la volatilité cours et ruptures fournisseurs",
+  "duree": "10 mois",
+  "contexte": "Flambée du cours du cacao (+45% en 6 mois) combinée à la défaillance d'un fournisseur Côte d'Ivoire couvrant 35% des volumes. Risque d'arrêt de 2 lignes de confiserie industrielle avant la campagne de Noël.",
+  "resultat": "Zéro arrêt de ligne sur la campagne Noël. Panel fournisseurs diversifié de 3 à 7 origines. Couverture prix sécurisée à 18 mois. Impact matière absorbé : marge opérationnelle maintenue à 8,2% (vs 6,1% sans plan).",
+  "objectifs": []
+ },
+ {
+  "ordre": 4,
+  "fonction": "Finance & RH",
+  "secteur": "",
+  "titre": "Mediation sociale et prevention des conflits lors du passage en equipes de week-end en confiserie saisonniere",
+  "duree": "5 mois",
+  "contexte": "Site confiseur confronte a un pic saisonnier Noel-Paques necessitant le passage en equipes de week-end. Le CSE s'oppose au projet, les representants du personnel menacent d'un droit d'alerte, et le climat social se degrade.",
+  "resultat": "Accord d'entreprise signe sur le travail du week-end avec majorations negociees. Zero jour de greve pendant les 2 campagnes saisonnieres. Indicateur climat social remonte de 4,2 a 7,1/10.",
+  "objectifs": []
+ },
+ {
+  "ordre": 4,
+  "fonction": "Directeur d'usine",
+  "secteur": "",
+  "titre": "Redressement financier post-hausse cacao",
+  "duree": "8 mois",
+  "contexte": "Explosion du cours mondial du cacao (+80% en 18 mois). PME sous-traitante MDD dont les marges sont devenues négatives. Direction générale cherche un profil capable de restructurer les coûts de transformation sans perdre les référencements clients.",
+  "resultat": "Renégociation tarifaire avec 3 donneurs d'ordre. Réduction de 14% des coûts de non-qualité. Marge opérationnelle restaurée à +2,5% en 6 mois.",
+  "objectifs": []
+ }
+]

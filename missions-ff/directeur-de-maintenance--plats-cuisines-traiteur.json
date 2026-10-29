@@ -1,0 +1,28 @@
+[
+ {
+  "ordre": 2,
+  "titre": "Déploiement maintenance autonome en atelier plats cuisinés frais",
+  "duree": "6 mois",
+  "region": "Nouvelle-Aquitaine",
+  "taille": "~250 personnes",
+  "niveau": "Performance",
+  "tension": "RH",
+  "contexte": "3 usines de plats élaborés avec des équipes production et maintenance en silos. Investissements continus (cuiseurs, tri optique) mais opérateurs non impliqués dans l'entretien premier niveau. Micro-arrêts fréquents sur les doseuses et les thermoformeuses, 40% du temps maintenance absorbé par le curatif.",
+  "resultat": "Piliers 1 et 2 TPM déployés sur 5 lignes pilotes (barquettes et IQF). 90 opérateurs formés. Leçons ponctuelles créées pour 15 équipements. Ratio curatif/préventif passé de 70/30 à 45/55.",
+  "filiere": "Plats cuisinés & traiteur",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Pilotage CAPEX restructuration outil de production pâtisserie surgelée",
+  "duree": "11 mois",
+  "region": "Bretagne",
+  "taille": "~460 personnes",
+  "niveau": "Existence",
+  "tension": "Finance",
+  "contexte": "Investissement de 12 M€ sur 2 sites après entrée d'un fonds au capital. Cession d'un 3ème site en parallèle, transfert d'équipements à organiser. Bureau d'études à créer de zéro pour piloter la modernisation des tunnels de surgélation et des lignes de pâtisserie. Contraintes sécurité alimentaire (IFS) pendant les travaux.",
+  "resultat": "Cellule bureau d'études de 3 personnes recrutée et structurée. 8 cahiers des charges techniques rédigés. Transfert de 2 lignes du site cédé réalisé en 4 mois. Maintien certification IFS pendant toute la durée des travaux. Budget consommé à 95% de l'enveloppe.",
+  "filiere": "Plats cuisinés & traiteur",
+  "badgeIsomorphe": false
+ }
+]

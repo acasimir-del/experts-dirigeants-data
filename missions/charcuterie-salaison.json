@@ -1,0 +1,108 @@
+[
+ {
+  "ordre": 1,
+  "fonction": "Directeur d'usine",
+  "secteur": "Salaison sèche artisanale",
+  "titre": "Interim DU pendant mise aux normes séchoirs",
+  "duree": "8 mois",
+  "contexte": "Départ du DU fondateur en transmission familiale. Séchoirs à moderniser pour absorber +40% de volume MDD. Site artisanal en mutation industrielle.",
+  "resultat": "Séchoirs automatisés opérationnels en M5. Capacité passée de 800 à 1100 t/an. Contrat MDD signé pour 3 ans.",
+  "objectifs": []
+ },
+ {
+  "ordre": 1,
+  "fonction": "Directeur d'usine",
+  "secteur": "Abattage bovin • Grand Est",
+  "titre": "Interim DU site d'abattage certifié halal export",
+  "duree": "6 mois",
+  "contexte": "Directeur d'abattoir parti sous 8 jours. Site de 320 salariés, 1 200 tonnes/semaine, agrément export Maghreb et Moyen-Orient en jeu.",
+  "resultat": "Agrément export maintenu. Cadences rétablies à 100% en J+15. Passation CDI réalisée.",
+  "objectifs": [
+   "Prendre la direction opérationnelle sous 5 jours",
+   "Maintenir l'agrément halal et les flux export",
+   "Organiser la passation avec le CDI recruté"
+  ]
+ },
+ {
+  "ordre": 2,
+  "fonction": "Directeur de production",
+  "secteur": "Charcuterie cuite LS",
+  "titre": "Optimisation cadence ligne tranchage-conditionnement",
+  "duree": "6 mois",
+  "contexte": "DP licencié. Ligne de tranchage à 55% de TRS, goulot d'engorgement sur le conditionnement sous atmosphère modifiée, retards de livraison GMS chroniques.",
+  "resultat": "TRS porté à 74%. Délai de livraison ramené de J+3 à J+1. Pénalités GMS éliminées.",
+  "objectifs": []
+ },
+ {
+  "ordre": 2,
+  "fonction": "Directeur d'usine",
+  "secteur": "Charcuterie cuite • Bretagne",
+  "titre": "Pilotage démarrage nouvelle ligne de jambons cuits",
+  "duree": "8 mois",
+  "contexte": "Investissement de 6M€ validé. DU en surcharge sur le site existant. Besoin d'un profil expérimenté pour piloter le démarrage sans déstabiliser la production courante.",
+  "resultat": "Ligne opérationnelle en J+110. Rendements nominaux atteints en J+150. Zéro écart qualité au démarrage.",
+  "objectifs": [
+   "Piloter le démarrage sans impact sur l'existant",
+   "Atteindre les rendements nominaux dans les délais",
+   "Former les équipes de conduite de ligne"
+  ]
+ },
+ {
+  "ordre": 3,
+  "fonction": "Directeur qualité",
+  "secteur": "Saucisserie sèche & fumée",
+  "titre": "Restructuration système qualité post-rappel",
+  "duree": "7 mois",
+  "contexte": "DQ démissionnaire après un rappel produit. IFS à reconquérir, confiance clients à rétablir. 2 référencements MDD suspendus.",
+  "resultat": "IFS Higher récupéré en M5. Les 2 référencements réactivés. Plan de maîtrise sanitaire entièrement refondu.",
+  "objectifs": []
+ },
+ {
+  "ordre": 3,
+  "fonction": "Directeur de production",
+  "secteur": "Découpe porcine • Pays de la Loire",
+  "titre": "Stabilisation production post-départ directeur — Charcuterie",
+  "duree": "5 mois",
+  "contexte": "Directeur de production parti sans préavis. Site de découpe en 5x8, 180 salariés. Rendements carcasse en chute, conflits d'ordonnancement entre ateliers.",
+  "resultat": "Rendements stabilisés à 93,5%. Ordonnancement restructuré. Passation CDI réalisée en douceur.",
+  "objectifs": [
+   "Stabiliser les rendements carcasse au-dessus de 92%",
+   "Résoudre les conflits d'ordonnancement inter-ateliers",
+   "Encadrer les équipes de nuit sans rupture managériale"
+  ]
+ },
+ {
+  "ordre": 4,
+  "fonction": "Supply & Achats",
+  "secteur": "Charcuterie cuite & pâtés",
+  "titre": "Refonte sourcing porc après perte fournisseur clé",
+  "duree": "5 mois",
+  "contexte": "Directeur achats parti. Le fournisseur principal de porc (45% du volume) rompt son contrat. 3 semaines de stock, pic hivernal qui approche.",
+  "resultat": "Panel fournisseurs reconstitué en 3 semaines. Zéro rupture d'approvisionnement. Coût matière contenu à +2% vs +8% du marché.",
+  "objectifs": []
+ },
+ {
+  "ordre": 4,
+  "fonction": "Directeur qualité",
+  "secteur": "Transformation bovine • Normandie",
+  "titre": "Préparation audit FSSC 22000 en urgence",
+  "duree": "4 mois",
+  "contexte": "Responsable qualité parti 8 semaines avant l'audit FSSC 22000. Plan HACCP non à jour, documentation traçabilité lacunaire, client GMS en alerte.",
+  "resultat": "Audit FSSC 22000 réussi du premier coup. Plan HACCP refondu. Client GMS rassuré.",
+  "objectifs": [
+   "Réussir l'audit FSSC 22000",
+   "Refondre le plan HACCP sur l'ensemble des ateliers",
+   "Restructurer la documentation traçabilité"
+  ]
+ },
+ {
+  "ordre": 5,
+  "fonction": "DAF",
+  "secteur": "Charcuterie sèche premium IGP",
+  "titre": "Pilotage financier LBO sur site de salaison",
+  "duree": "10 mois",
+  "contexte": "LBO sur une salaison corse premium. DAF sortant. Structuration financière du deal, mise en place du reporting groupe, optimisation BFR pour tenir les covenants.",
+  "resultat": "Covenants respectés dès le premier semestre. BFR réduit de 22 jours. Reporting mensuel intégré au groupe.",
+  "objectifs": []
+ }
+]

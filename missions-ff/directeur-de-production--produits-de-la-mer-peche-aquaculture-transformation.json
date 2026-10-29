@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Optimisation des rendements matiere sur lignes de filetage",
+  "duree": "5 mois",
+  "region": "Bretagne",
+  "taille": "220 collaborateurs",
+  "niveau": "Performance",
+  "tension": "Efficience",
+  "contexte": "Site de filetage et conditionnement de poisson frais. Rendements matiere a 42 % sur le cabillaud et 38 % sur le lieu noir, inferieurs de 5 points aux standards du secteur. Pertes de parage non mesurees par espece.",
+  "resultat": "Rendement cabillaud porte a 47 %, lieu noir a 43 %. Pertes de parage reduites de 18 %. Gain matiere de 320 K EUR sur 5 mois. Suivi rendement par espece deploye en temps reel.",
+  "filiere": "Produits de la mer (pêche / aquaculture / transformation)",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Gestion de crise sanitaire listeria sur ligne de saumon fume",
+  "duree": "4 mois",
+  "region": "Hauts-de-France",
+  "taille": "180 collaborateurs",
+  "niveau": "Existence",
+  "tension": "Légitimité ext.",
+  "contexte": "Detection de Listeria monocytogenes sur une ligne de tranchage saumon fume. Arret immediat de la ligne, rappel de 12 lots. Audit DDPP en cours. Risque de suspension d'agrement sanitaire.",
+  "resultat": "Agrement sanitaire maintenu. Ligne redemarree en 3 semaines apres nettoyage approfondi et refonte du plan de zonage. Zero detection Listeria sur 200 prelevements post-reprise. Perte de CA limitee a 450 K EUR vs 2 M EUR si suspension.",
+  "filiere": "Produits de la mer (pêche / aquaculture / transformation)",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Reorganisation des ateliers pour absorption de nouveaux volumes surimi",
+  "duree": "8 mois",
+  "region": "Normandie",
+  "taille": "420 collaborateurs",
+  "niveau": "Cohérence",
+  "tension": "Commerce",
+  "contexte": "Gain d'un marche MDD surimi representant +30 % de volumes. Lignes existantes saturees a 92 % de TRS. Pas de budget pour nouvelle ligne. Necessite d'optimiser les changements de format et de reduire les temps de nettoyage inter-recettes.",
+  "resultat": "Capacite augmentee de 28 % sans investissement ligne. TRS porte a 85 % par reduction des temps de changement de 45 a 22 minutes. 3 nouvelles references MDD lancees dans les delais. Gain de marge de 180 K EUR/an.",
+  "filiere": "Produits de la mer (pêche / aquaculture / transformation)",
+  "badgeIsomorphe": false
+ }
+]

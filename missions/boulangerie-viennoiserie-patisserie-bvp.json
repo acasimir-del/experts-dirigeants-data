@@ -1,0 +1,108 @@
+[
+ {
+  "ordre": 1,
+  "fonction": "Finance & RH",
+  "secteur": "",
+  "titre": "Construction du PRI et reporting industriel multi-sites viennoiserie",
+  "duree": "9 mois",
+  "contexte": "Un groupe de boulangerie-viennoiserie industrielle exploitant 5 sites en France constate des écarts majeurs entre les coûts standards et les coûts réels de production. L'absence de prix de revient industriel fiable empêche le pilotage des marges par ligne de produit. La direction générale mandate un contrôleur de gestion de transition pour structurer le reporting usine.",
+  "resultat": "PRI déployé sur les 5 sites avec granularité par ligne de produit. Écarts de performance identifiés et réduits de 12 % en 6 mois. Budget de production fiabilisé et adopté par les directeurs de site. Marge brute par famille de produit visible en temps réel.",
+  "objectifs": []
+ },
+ {
+  "ordre": 1,
+  "fonction": "Supply & Achats",
+  "secteur": "",
+  "titre": "Déploiement S&OP et lissage de charge sur site viennoiserie multi-lignes",
+  "duree": "8 mois",
+  "contexte": "Site de 200 personnes produisant 1 400 références de viennoiseries et pains surgelés pour la RHF et la GMS. Pas de processus S&OP formalisé : la planification se fait à la semaine par le directeur de production, sans arbitrage commercial structuré. Taux de service dégradé à 88% sur les MDD avec des ruptures récurrentes en pic saisonnier (Noël, Pâques). Stocks de produits finis à 18 jours en moyenne, avec 4% de démarque surgelé. Aucune visibilité au-delà de 2 semaines sur la demande.",
+  "resultat": "Processus S&OP mensuel instauré avec réunion demand review et supply review. Taux de service remonté à 96,5% en pic saisonnier. Stocks réduits à 12 jours avec démarque divisée par 2. Horizon de planification porté à 8 semaines glissantes.",
+  "objectifs": []
+ },
+ {
+  "ordre": 1,
+  "fonction": "Directeur de production",
+  "secteur": "",
+  "titre": "Ordonnancement multi-références et gestion des OF en BVP",
+  "duree": "7 mois",
+  "contexte": "Site de 435 personnes sur 3 ateliers (pain, viennoiserie, pâtisserie). Ordonnancement des OF géré sous Excel par 2 planificateurs, avec 140 références actives et des changements de série quotidiens. Retards de lancement récurrents, taux de service dégradé à 91%. Direction générale exige un passage à 97% sous 6 mois.",
+  "resultat": "Taux de service remonté à 97,4% en 5 mois. Séquencement des OF optimisé avec réduction de 35% des changements de série. Outil de planification déployé, 2 planificateurs formés et autonomes.",
+  "objectifs": []
+ },
+ {
+  "ordre": 1,
+  "fonction": "Directeur qualité",
+  "secteur": "",
+  "titre": "Reconstruction du système FSSC 22000 après échec d'audit de certification",
+  "duree": "8 mois",
+  "contexte": "Boulangerie industrielle de 435 personnes sur 3 sites ayant échoué à l'audit FSSC 22000 après un changement de périmètre. Système documentaire obsolète, CCP non maîtrisés sur les lignes viennoiserie, et traçabilité allergènes défaillante sur les flux partagés.",
+  "resultat": "Certification FSSC 22000 obtenue en 6 mois. Réduction de 72% des non-conformités CCP. Mise en place d'un système de traçabilité allergènes temps réel couvrant 100% des lignes.",
+  "objectifs": []
+ },
+ {
+  "ordre": 1,
+  "fonction": "Directeur de maintenance",
+  "secteur": "",
+  "titre": "Redressement TRS et structuration GMAO sur lignes haute cadence",
+  "duree": "7 mois",
+  "contexte": "TRS en chute à 54% sur les 9 lignes de pâtisserie industrielle. Pannes récurrentes sur les fours tunnel et les enrobeuses. GMAO obsolète, aucune maintenance préventive structurée. Le site de 400 personnes subit des arrêts non planifiés quotidiens impactant le taux de service client.",
+  "resultat": "TRS remonté à 72% en 5 mois. GMAO refondue avec plan préventif sur 100% des équipements critiques. Taux de pannes divisé par 3. Stock pièces de rechange rationalisé (-25% valeur, +15% disponibilité).",
+  "objectifs": []
+ },
+ {
+  "ordre": 2,
+  "fonction": "Directeur d'usine",
+  "secteur": "Viennoiserie surgelée • Alsace",
+  "titre": "Pilotage ouverture de ligne supplémentaire",
+  "duree": "7 mois",
+  "contexte": "Investissement CAPEX validé mais DU en surcharge. Besoin d'un profil expérimenté pour piloter le démarrage sans déstabiliser l'existant.",
+  "resultat": "Ligne opérationnelle en J+90. Cadence nominale atteinte en J+130.",
+  "objectifs": [
+   "Piloter le démarrage sans impact sur la production existante",
+   "Atteindre la cadence nominale dans les délais contractuels",
+   "Former les équipes de conduite de ligne"
+  ]
+ },
+ {
+  "ordre": 3,
+  "fonction": "Directeur de production",
+  "secteur": "Viennoiserie industrielle • Bretagne",
+  "titre": "Stabilisation production post-départ directeur — BVP (Filière)",
+  "duree": "5 mois",
+  "contexte": "Directeur de production parti sans préavis sur un site de 6 lignes en 3x8. Rendements matière en baisse de 4 points en deux semaines.",
+  "resultat": "Rendements rétablis à 93%. Ordonnancement restructuré. Passation CDI réalisée.",
+  "objectifs": [
+   "Stabiliser les rendements matière au-dessus de 92%",
+   "Restructurer l'ordonnancement des 6 lignes",
+   "Encadrer les équipes de nuit sans rupture managériale"
+  ]
+ },
+ {
+  "ordre": 4,
+  "fonction": "Directeur de maintenance",
+  "secteur": "Viennoiserie industrielle • Hauts-de-France",
+  "titre": "Structuration maintenance préventive site BVP (Filière)",
+  "duree": "6 mois",
+  "contexte": "Site de viennoiserie en 3x8 sans plan de maintenance préventive. Taux de panne à 8%, pertes de production hebdomadaires.",
+  "resultat": "Taux de panne ramené à 3,5%. Plan préventif niveaux 1-3 déployé. GMAO opérationnelle.",
+  "objectifs": [
+   "Réduire les pannes non planifiées de 30%",
+   "Déployer un plan de maintenance préventive niveaux 1 à 3",
+   "Mettre en place une GMAO adaptée au feu continu"
+  ]
+ },
+ {
+  "ordre": 5,
+  "fonction": "Directeur qualité",
+  "secteur": "Viennoiserie industrielle • Normandie",
+  "titre": "Préparation audit IFS en urgence — BVP (Filière)",
+  "duree": "4 mois",
+  "contexte": "Directeur qualité parti 10 semaines avant l'audit IFS Higher Level. Documentation lacunaire, plan HACCP non à jour.",
+  "resultat": "Audit IFS Higher Level réussi à 96,2%. Plan HACCP refondu. Documentation qualité restructurée.",
+  "objectifs": [
+   "Préparer et réussir l'audit IFS Higher Level",
+   "Refondre le plan HACCP",
+   "Restructurer la documentation qualité"
+  ]
+ }
+]

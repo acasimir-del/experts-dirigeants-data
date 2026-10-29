@@ -1,0 +1,62 @@
+[
+ {
+  "ordre": 1,
+  "fonction": "Directeur d'usine",
+  "secteur": "Collecte & stockage grains",
+  "titre": "Directeur d'usine de transition — pilotage campagne moisson et modernisation silo",
+  "duree": "8 mois",
+  "contexte": "Coopérative céréalière, 12 silos sur 4 départements. Campagne moisson sous-optimisée : files d'attente de 3h en pointe, 2 silos non conformes (ventilation, anti-explosion). CAPEX 6 M€ de modernisation engagé mais pilotage projet inexistant.",
+  "resultat": "Temps d'attente moisson réduit à 45 min (flux digitalisé), 2 silos mis en conformité ATEX, CAPEX livré dans les temps et –8 % vs budget, capacité de stockage +15 000 t.",
+  "objectifs": []
+ },
+ {
+  "ordre": 2,
+  "fonction": "Directeur de production",
+  "secteur": "Transformation oléoprotéagineux",
+  "titre": "Directeur de production de transition — démarrage unité de trituration oléoprotéagineux",
+  "duree": "10 mois",
+  "contexte": "Coopérative lançant une unité de trituration colza/tournesol pour capter la valeur ajoutée en aval. Ligne neuve mais équipe sans expérience process continu, rendement extraction à 35 % (cible 42 %), qualité tourteau hors spec pour clients feed.",
+  "resultat": "Rendement extraction porté à 43 %, qualité tourteau conforme (protéines >34 %), 4 contrats feed signés, EBITDA unité positif à M+8, équipe autonome formée.",
+  "objectifs": []
+ },
+ {
+  "ordre": 3,
+  "fonction": "Supply & Achats",
+  "secteur": "Coopérative céréalière",
+  "titre": "Supply & Achats de transition — couverture prix et trading grains post-fusion coopérative",
+  "duree": "7 mois",
+  "contexte": "Coopérative céréalière post-fusion (2 entités, 8 000 adhérents). Politique de couverture prix inexistante, pertes de 2,4 M€ sur la campagne précédente (ventes spot mal timées). Pas d'outil de gestion des positions, reporting au board opaque.",
+  "resultat": "Politique de couverture formalisée (70 % hedgé en pré-campagne), outil de suivi positions déployé, pertes trading éliminées, marge collecte sécurisée à +1,8 €/t vs N-1.",
+  "objectifs": []
+ },
+ {
+  "ordre": 4,
+  "fonction": "Directeur qualité",
+  "secteur": "Semences & phyto",
+  "titre": "Directeur qualité de transition — certification semences et traçabilité parcellaire",
+  "duree": "8 mois",
+  "contexte": "Semencier régional, 45 variétés en multiplication. Traçabilité parcellaire défaillante (2 lots déclassés en C2 par SOC en 12 mois), système qualité papier, non-conformités récurrentes sur taux de germination. Risque de retrait d'agrément SOC.",
+  "resultat": "Traçabilité digitale parcelle-à-lot déployée, zéro déclassement SOC sur la campagne suivante, taux de germination moyen +4 points, agrément SOC conforté.",
+  "objectifs": []
+ },
+ {
+  "ordre": 5,
+  "fonction": "DAF",
+  "secteur": "Coopérative céréalière",
+  "titre": "DAF de transition — restructuration financière coopérative après campagne déficitaire",
+  "duree": "6 mois",
+  "contexte": "Coopérative céréalière en difficulté financière après 2 campagnes de sécheresse. Fonds propres érodés, ratio d'endettement à 85 %, Crédit Agricole exigeant un plan de redressement sous 90 jours. Complément de prix adhérents suspendu.",
+  "resultat": "Plan de redressement validé par le CA et la banque en 45 jours, cession d'actifs non stratégiques (2,1 M€), ratio d'endettement ramené à 68 %, complément de prix partiellement rétabli.",
+  "objectifs": []
+ },
+ {
+  "ordre": 6,
+  "fonction": "DRH",
+  "secteur": "Collecte & stockage grains",
+  "titre": "DRH de transition — gestion saisonniers et sécurité campagne moisson",
+  "duree": "6 mois",
+  "contexte": "Coopérative céréalière recrutant 60 saisonniers pour la moisson. Accidentologie en hausse (3 AT graves en 2 campagnes), pas de parcours d'intégration, turnover saisonniers à 50 %. Inspection du travail menaçant de suspendre l'activité silo.",
+  "resultat": "Parcours intégration saisonniers déployé (2 jours formation sécurité), zéro AT grave sur la campagne, turnover saisonniers ramené à 20 %, vivier de 40 saisonniers fidélisés.",
+  "objectifs": []
+ }
+]

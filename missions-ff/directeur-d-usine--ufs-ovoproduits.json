@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Redemarrage casserie apres crise influenza aviaire",
+  "duree": "7 mois",
+  "region": "Nouvelle-Aquitaine",
+  "taille": "180 collaborateurs",
+  "niveau": "Existence",
+  "tension": "Industriel",
+  "contexte": "Site de casserie arrete pendant 3 mois suite a un episode IAHP dans la zone d'elevage. Cheptel fournisseur abattu, rupture d'approvisionnement complete. Directeur d'usine parti pendant la crise.",
+  "resultat": "Redemarrage complet en 6 semaines. Nouveaux contrats de collecte securises avec 12 eleveurs. Production retrouvee a 85 % du nominal en 4 mois. Zero non-conformite au redemarrage.",
+  "filiere": "Œufs & ovoproduits",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Pilotage conversion cage vers plein air sur site mixte",
+  "duree": "9 mois",
+  "region": "Pays de la Loire",
+  "taille": "320 collaborateurs",
+  "niveau": "Transformation",
+  "tension": "Industriel",
+  "contexte": "Investissement de 11 M EUR pour convertir 4 batiments d'elevage cage en plein air. Exploitation mixte pendant la transition. Direction de site vacante suite a demission.",
+  "resultat": "Conversion livree avec 3 semaines d'avance. Certification plein air obtenue au premier audit. Taux de ponte maintenu a 92 % pendant la transition. Budget respecte a -2 %.",
+  "filiere": "Œufs & ovoproduits",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Restructuration site conditionnement oeufs coquille",
+  "duree": "6 mois",
+  "region": "Hauts-de-France",
+  "taille": "95 collaborateurs",
+  "niveau": "Performance",
+  "tension": "Efficience",
+  "contexte": "Site de conditionnement en perte de competitivite face a la concurrence. Calibreuse obsolete, taux de casse a 3,2 %. Plan de modernisation a conduire sans arret de production.",
+  "resultat": "Nouvelle calibreuse installee et qualifiee. Taux de casse ramene a 0,8 %. Productivite augmentee de 25 %. 12 postes requalifies sans licenciement.",
+  "filiere": "Œufs & ovoproduits",
+  "badgeIsomorphe": false
+ }
+]

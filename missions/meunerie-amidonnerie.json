@@ -1,0 +1,92 @@
+[
+ {
+  "ordre": 1,
+  "fonction": "Directeur d'usine",
+  "secteur": "Meunerie industrielle",
+  "titre": "Restructuration post-fusion d'un moulin coopératif 24/7",
+  "duree": "9 mois",
+  "contexte": "Moulin coopératif 24/7 (1 200 t/j) issu de la fusion de deux entités régionales. Deux cultures managériales incompatibles, doublons de postes sur les fonctions support, et ligne de tamisage vétuste générant 8 % de perte matière.",
+  "resultat": "Organigramme unifié en 14 semaines, turnover réduit de 22 % à 9 %, perte matière ramenée à 3,5 % après remplacement de 4 plansichters. EBITDA site +1,8 M EUR sur l'exercice.",
+  "objectifs": []
+ },
+ {
+  "ordre": 2,
+  "fonction": "Directeur de production",
+  "secteur": "Amidonnerie de blé",
+  "titre": "Pilotage CAPEX nouvelle ligne de broyage en amidonnerie de blé",
+  "duree": "12 mois",
+  "contexte": "Amidonnerie de blé (800 t/j) investissant 14 M EUR dans une nouvelle ligne de broyage-séparation. Planning dérivé de 4 mois, équipe projet sous-dimensionnée, production existante à maintenir pendant travaux.",
+  "resultat": "Ligne commissionnée avec 6 semaines de retard rattrapé, rendement extraction amidon +2,4 points vs ancienne ligne, zéro accident sur chantier (185 000 h travaillées).",
+  "objectifs": []
+ },
+ {
+  "ordre": 3,
+  "fonction": "Supply & Achats",
+  "secteur": "Meunerie industrielle",
+  "titre": "Maîtrise de la volatilité blé et refonte achats matière première",
+  "duree": "6 mois",
+  "contexte": "Moulin industriel (900 t/j) subissant une exposition prix blé non couverte de 4 M EUR. Aucune politique de hedging formalisée, marges écrasées deux exercices consécutifs, trésorerie tendue.",
+  "resultat": "Politique de couverture à terme déployée (horizon 6 mois glissants), coût matière stabilisé à +/- 3 %, marge brute restaurée de 11 % à 16 % en 5 mois.",
+  "objectifs": []
+ },
+ {
+  "ordre": 4,
+  "fonction": "Directeur de maintenance",
+  "secteur": "Amidonnerie de maïs",
+  "titre": "Mise en conformité ICPE et plan de maintenance prédictive",
+  "duree": "8 mois",
+  "contexte": "Amidonnerie de maïs classée Seveso seuil bas, mise en demeure DREAL après incident vapeur. Plan de maintenance curatif uniquement, 14 arrêts non planifiés en 12 mois, TRS tombé à 72 %.",
+  "resultat": "Levée de mise en demeure en 10 semaines, déploiement GMAO et maintenance conditionnelle sur 35 équipements critiques, TRS remonté à 88 %, arrêts non planifiés réduits à 3/an.",
+  "objectifs": []
+ },
+ {
+  "ordre": 4,
+  "fonction": "Finance & RH",
+  "secteur": "",
+  "titre": "Médiation CSE et négociation d'un accord sur le travail posté dans une amidonnerie en restructuration",
+  "duree": "9 mois",
+  "contexte": "Amidonnerie de 2 700 salariés en réorganisation industrielle avec fermeture d'une ligne et redéploiement de 120 opérateurs. Le CSE conteste les critères de mobilité, les IRP multiplient les expertises et la CSSCT a identifié des risques psychosociaux liés à l'incertitude.",
+  "resultat": "Accord de mobilité interne signé avec 95% de reclassement, 3 accords CSSCT sur la prévention RPS, zéro recours au tribunal, programme de soutien psychologique déployé.",
+  "objectifs": []
+ },
+ {
+  "ordre": 4,
+  "fonction": "Directeur d'usine",
+  "secteur": "",
+  "titre": "Redressement coûts post-hausse céréales",
+  "duree": "7 mois",
+  "contexte": "Explosion du coût du blé post-crise Ukraine. Marges négatives sur les contrats industriels. 8 moulins régionaux à piloter simultanément avec des mix produits hétérogènes.",
+  "resultat": "Renégociation de 85% des contrats en 4 mois. Marge opérationnelle restaurée. Plan d'optimisation mouture déployé.",
+  "objectifs": []
+ },
+ {
+  "ordre": 5,
+  "fonction": "Directeur qualité",
+  "secteur": "Semoulerie",
+  "titre": "Certification IFS/BRC et refonte HACCP semoulerie export",
+  "duree": "7 mois",
+  "contexte": "Semoulerie de blé dur (350 t/j) perdant un contrat export Maghreb faute de certification IFS niveau supérieur. 47 non-conformités identifiées lors du pré-audit, équipe qualité de 2 personnes pour un site de 120.",
+  "resultat": "Certification IFS Higher Level obtenue au premier audit, non-conformités soldées à 100 %, contrat export récupéré (2,1 M EUR/an), taux de réclamation client divisé par 3.",
+  "objectifs": []
+ },
+ {
+  "ordre": 5,
+  "fonction": "Finance & RH",
+  "secteur": "",
+  "titre": "Plan formation et montée en compétences des conducteurs de process amidonnier après modernisation",
+  "duree": "10 mois",
+  "contexte": "Amidonnerie ayant investi 62 M€ dans la reconstruction d'un moulin ultramoderne. Les opérateurs maîtrisent les anciens équipements mais pas les automates de nouvelle génération. Le turnover est faible mais la pyramide des âges est défavorable avec 35% des effectifs à moins de 5 ans de la retraite.",
+  "resultat": "210 opérateurs formés aux nouveaux process, matrice de compétences digitalisée, 15 tuteurs internes certifiés, taux de polyvalence porté à 2,4 postes par opérateur.",
+  "objectifs": []
+ },
+ {
+  "ordre": 5,
+  "fonction": "Directeur d'usine",
+  "secteur": "",
+  "titre": "Pilotage démarrage nouvelle unité mouture",
+  "duree": "9 mois",
+  "contexte": "Investissement CAPEX de 35 M€ pour un moulin de 900 t/jour. DU existant en surcharge, besoin d'un profil expérimenté pour piloter la qualification sans déstabiliser les 9 autres sites.",
+  "resultat": "Moulin qualifié en J+150. Capacité nominale atteinte. IFS Food 7 obtenu au premier audit.",
+  "objectifs": []
+ }
+]

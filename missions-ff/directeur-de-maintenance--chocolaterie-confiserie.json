@@ -1,0 +1,28 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Plan de fiabilité équipements et réduction des pannes en chocolaterie",
+  "duree": "7 mois",
+  "region": "Occitanie",
+  "taille": "250 personnes",
+  "niveau": "Existence",
+  "tension": "Industriel",
+  "contexte": "Site de moulage chocolat avec taux de pannes machines de 12% et pertes matière de 4,5%. GMAO obsolète, plan de maintenance préventive inexistant sur les tempéreuses et les enrobeuses. Multiplication des interventions correctives en période de pic Noël.",
+  "resultat": "Taux de pannes ramené à 5,8%. Pertes matière réduites à 2,1%. GMAO migrée vers solution cloud. Plan de maintenance préventive déployé sur 100% des tempéreuses et enrobeuses. Zéro arrêt non planifié pendant le pic Noël.",
+  "filiere": "Chocolaterie & confiserie",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Études d'implantation et pilotage modernisation entrepôt automatisé",
+  "duree": "8 mois",
+  "region": "Alsace",
+  "taille": "250 personnes",
+  "niveau": "Performance",
+  "tension": "Commerce",
+  "contexte": "Investissement de 13M€ pour modernisation de l'outil industriel et construction d'un entrepôt automatisé de 6 800 palettes. Cahiers des charges équipementiers à rédiger, études d'implantation à valider, rapatriement d'une production depuis l'étranger à intégrer.",
+  "resultat": "Entrepôt automatisé réceptionné en J+180. Cahiers des charges livrés dans les délais. Rapatriement production intégré sans perte de capacité. Budget CAPEX respecté à -3%.",
+  "filiere": "Chocolaterie & confiserie",
+  "badgeIsomorphe": false
+ }
+]

@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Déploiement d'un S&OP multi-moulins et pilotage des stocks farines industrielles",
+  "duree": "8 mois",
+  "region": "Île-de-France",
+  "taille": "~550 personnes",
+  "niveau": "Cohérence",
+  "tension": "Efficience",
+  "contexte": "Meunier exploitant 10 moulins en France avec 550 salariés et 1 million de tonnes de blé traitées par an. Processus S&OP inexistant à l'échelle groupe : chaque moulin gère ses prévisions et ses stocks de farine indépendamment. Stocks de farines industrielles hétérogènes entre moulins (de 2 à 6 semaines de couverture selon les sites). Taux de service clients industriels à 91% avec des pénalités contractuelles croissantes. Transferts inter-moulins fréquents mais non planifiés, générant 400 K€/an de surcoûts logistiques.",
+  "resultat": "S&OP mensuel déployé au niveau groupe avec consolidation des prévisions par famille de farine. Stocks harmonisés à 3 semaines de couverture sur tous les moulins. Taux de service remonté à 97%. Transferts inter-moulins planifiés et réduits de 40% grâce à l'affectation optimisée des commandes. Surcoûts logistiques ramenés à 180 K€/an.",
+  "filiere": "Meunerie & amidonnerie",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Structuration des achats de blé et gestion de la campagne moisson en minoterie",
+  "duree": "6 mois",
+  "region": "Île-de-France",
+  "taille": "~400 personnes",
+  "niveau": "Performance",
+  "tension": "Commerce",
+  "contexte": "Minoterie historique avec 8 moulins régionaux et un approvisionnement 100% blé français dans un rayon de 125 km. Achats de blé concentrés sur la période de moisson (juillet-septembre) sans stratégie d'étalement formalisée. Dépendance à 2 coopératives représentant 85% des volumes. Qualité des lots de blé hétérogène (taux de protéines, indice de Hagberg) imposant des mélanges correctifs coûteux. Pas de grille de spécifications achats partagée avec les fournisseurs.",
+  "resultat": "Stratégie d'achat blé formalisée avec étalement des engagements sur 3 fenêtres (pré-moisson, moisson, post-moisson). Panel élargi à 4 coopératives et 2 négociants. Grille de spécifications qualité déployée auprès des fournisseurs avec prime/décote par paramètre. Réduction de 60% des mélanges correctifs en moulin. Économie de 280 K€ sur la campagne grâce à la diversification et l'échelonnement des achats.",
+  "filiere": "Meunerie & amidonnerie",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Refonte du MRP et pilotage des approvisionnements amidon sur site process continu",
+  "duree": "7 mois",
+  "region": "Hauts-de-France",
+  "taille": "~2 700 personnes",
+  "niveau": "Performance",
+  "tension": "Industriel",
+  "contexte": "Site amidonnier de 2 700 personnes traitant 7 000 tonnes/jour de matières premières en process continu 24/7. Approvisionnements en maïs, blé et pomme de terre gérés par des plannings hebdomadaires manuels sans intégration ERP. Ruptures d'approvisionnement en matière première ayant causé 3 arrêts de ligne non planifiés en 6 mois (coût estimé à 1,2 M€). Stocks de sécurité matière première dimensionnés de façon empirique. Multi-sourcing limité sur le maïs avec un seul silo portuaire d'importation.",
+  "resultat": "MRP paramétré et intégré à l'ERP pour les 15 matières premières critiques. Stocks de sécurité recalculés par méthode statistique intégrant la saisonnalité des récoltes. Zéro arrêt non planifié lié aux approvisionnements sur les 4 mois suivant le déploiement. Second point d'entrée maïs qualifié via terminal portuaire alternatif. Processus de revue hebdomadaire des approvisionnements formalisé avec production et achats.",
+  "filiere": "Meunerie & amidonnerie",
+  "badgeIsomorphe": false
+ }
+]

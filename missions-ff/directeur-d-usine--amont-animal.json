@@ -1,0 +1,28 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Interim DU pendant recrutement CDI — Amont animal",
+  "duree": "7 mois",
+  "region": "Pays de la Loire",
+  "taille": "85 salariés • ETI familiale",
+  "niveau": "Cohérence",
+  "tension": "RH",
+  "contexte": "Départ du DU en désaccord avec la nouvelle direction. Site de 85 salariés, livraisons quotidiennes chez 340 éleveurs.",
+  "resultat": "Zéro rupture de livraison. Recrutement CDI accompagné et passation réalisée.",
+  "filiere": "Amont animal",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Optimisation formules et réduction coûts matières",
+  "duree": "6 mois",
+  "region": "Bretagne",
+  "taille": "350 salariés • ETI innovante",
+  "niveau": "Performance",
+  "tension": "Efficience",
+  "contexte": "Hausse du coût des matères protéiques. Actionnaire demandant une révision des formules sans dégrader les performances zootechniques.",
+  "resultat": "Économies de 8% sur coûts matières. Performances zootechniques éleveurs maintenues.",
+  "filiere": "Amont animal",
+  "badgeIsomorphe": false
+ }
+]

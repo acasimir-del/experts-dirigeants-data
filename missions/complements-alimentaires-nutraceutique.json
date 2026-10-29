@@ -1,0 +1,62 @@
+[
+ {
+  "ordre": 1,
+  "fonction": "Directeur qualité",
+  "secteur": "Gélules & comprimés",
+  "titre": "Transition GMP pharma sur site gélules & comprimés",
+  "duree": "9 mois",
+  "contexte": "Site historique en complément alimentaire souhaitant passer sous référentiel GMP pharma pour accéder aux marchés hospitaliers et export. Deux audits ANSM échoués. Documentation qualité héritée de 15 ans de croissance organique, jamais harmonisée.",
+  "resultat": "Certification GMP obtenue au 3e audit, 8 mois après prise de poste. 100 % des dossiers de lot reformatés. Formation de 12 référents qualité internes. Premier contrat hospitalier signé dans les 30 jours post-certification.",
+  "objectifs": []
+ },
+ {
+  "ordre": 2,
+  "fonction": "Directeur d'usine",
+  "secteur": "Ampoules liquides",
+  "titre": "Intégration post-acquisition façonnier ampoules",
+  "duree": "8 mois",
+  "contexte": "Rachat d'un façonnier d'ampoules liquides par un groupe nutraceutique. Fondateur parti, encadrement intermédiaire absent, aucun reporting groupe. Deux cultures d'entreprise incompatibles : artisanat vs process industriel. 40 % du CA dépendant d'un seul client.",
+  "resultat": "Organigramme restructuré avec 3 chefs d'équipe recrutés. Reporting mensuel opérationnel en 6 semaines. Diversification client : part du client principal ramenée de 40 % à 28 %. EBITDA amélioré de 2,1 points sur la période.",
+  "objectifs": []
+ },
+ {
+  "ordre": 3,
+  "fonction": "Directeur de production",
+  "secteur": "Gélules & comprimés",
+  "titre": "CAPEX nouvelle ligne encapsulation haute cadence",
+  "duree": "7 mois",
+  "contexte": "Investissement de 8 M€ dans une ligne d'encapsulation à 200 000 gélules/h pour absorber la croissance D2C (+35 %/an). Le directeur de production précédent a démissionné pendant la phase de réception. Aucun plan de montée en cadence formalisé, fournisseur machine allemand en retard.",
+  "resultat": "Ligne réceptionnée et qualifiée en 4 mois. Cadence nominale atteinte au mois 6 avec un TRS de 82 %. Formation de 24 opérateurs sur les nouveaux équipements. ROI du CAPEX recalé à 2,8 ans vs 3,5 ans prévu.",
+  "objectifs": []
+ },
+ {
+  "ordre": 4,
+  "fonction": "Supply & Achats",
+  "secteur": "Poudres protéinées",
+  "titre": "Gestion pic saisonnier poudres protéinées sans DP",
+  "duree": "5 mois",
+  "contexte": "Pic saisonnier janvier-mars (résolutions fitness) représentant 45 % du CA annuel. Le directeur supply parti en décembre, aucun S&OP en place. 12 références en rupture sur les 3 principaux e-retailers. Matières premières whey en tension mondiale.",
+  "resultat": "Zéro rupture sur le pic suivant grâce à un S&OP flash mis en place en 3 semaines. Contrats whey sécurisés à prix fixe sur 6 mois. Taux de service remonté de 71 % à 96 %. Économie de 340 K€ sur les achats spot évités.",
+  "objectifs": []
+ },
+ {
+  "ordre": 5,
+  "fonction": "DRH",
+  "secteur": "Probiotiques",
+  "titre": "Restructuration RH site probiotiques post-fusion",
+  "duree": "6 mois",
+  "contexte": "Fusion de deux sites probiotiques (lyophilisation + conditionnement) sur un seul. 30 postes en doublon, conventions collectives différentes, absentéisme à 14 %. Le DRH groupe gère à distance sans connaissance terrain. CSE en opposition frontale.",
+  "resultat": "Harmonisation des statuts en 4 mois via accord d'entreprise. 28 reclassements internes sur 30 postes en doublon. Absentéisme ramené à 7 %. Accord CSE obtenu à l'unanimité sur la nouvelle organisation.",
+  "objectifs": []
+ },
+ {
+  "ordre": 6,
+  "fonction": "DAF",
+  "secteur": "Ampoules liquides",
+  "titre": "Redressement financier façonnier ampoules en perte",
+  "duree": "6 mois",
+  "contexte": "Façonnier d'ampoules en perte opérationnelle depuis 18 mois (-800 K€/an). Coûts de revient non fiabilisés, pricing hérité sans révision depuis 5 ans. Le DAF précédent gérait aussi la comptabilité : aucun contrôle de gestion. Banque menaçant de couper la ligne de trésorerie.",
+  "resultat": "Retour à l'équilibre en 5 mois. Révision tarifaire sur 80 % du portefeuille (+12 % en moyenne). Mise en place d'un contrôle de gestion industriel avec coûts standards. Ligne bancaire renouvelée pour 3 ans.",
+  "objectifs": []
+ }
+]

@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Plan de maintenance préventive multi-sites avant moisson",
+  "duree": "7 mois",
+  "region": "Normandie",
+  "taille": "320 collaborateurs",
+  "niveau": "Performance",
+  "tension": "Industriel",
+  "contexte": "Coopérative céréalière avec 30 sites de stockage. Pas de plan de maintenance préventive structuré. Pannes récurrentes sur les séchoirs et élévateurs en pleine campagne, générant des files d'attente de camions de 4 heures. Directeur de maintenance parti en mars.",
+  "resultat": "Plan de maintenance préventive déployé sur les 30 sites avant moisson. Taux de panne en campagne réduit de 65 %. Disponibilité séchoirs portée à 97 %. Économie de 380 K€ en réparations curatives.",
+  "filiere": "Coopératives agricoles",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Mise aux normes ATEX d'un réseau de silos post-fusion",
+  "duree": "10 mois",
+  "region": "Bourgogne-Franche-Comté",
+  "taille": "200 collaborateurs",
+  "niveau": "Cohérence",
+  "tension": "Gouvernance",
+  "contexte": "Fusion de deux coopératives ayant doublé le parc de silos à 45 sites. Audit DREAL révélant 18 non-conformités ATEX majeures. Budget de 5 M€ voté par le CA mais calendrier serré avant la campagne suivante. Aucun coordinateur travaux neufs en poste.",
+  "resultat": "18 non-conformités ATEX levées dans les délais. Budget respecté à 98 %. Système de détection incendie déployé sur 45 sites. Zéro arrêté préfectoral pendant la campagne suivante.",
+  "filiere": "Coopératives agricoles",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Remplacement des équipements de ventilation sur un site de stockage longue durée",
+  "duree": "5 mois",
+  "region": "Occitanie",
+  "taille": "85 collaborateurs",
+  "niveau": "Transformation",
+  "tension": "Efficience",
+  "contexte": "Site de stockage de 80 000 tonnes avec ventilateurs de plus de 30 ans. Pertes de qualité sur les lots stockés liées à un mauvais contrôle de température. Réclamations client meuniers en hausse. Investissement de 2,5 M€ à piloter en inter-campagne.",
+  "resultat": "Remplacement de 24 ventilateurs et installation de sondes thermohydrométriques connectées. Température des lots maîtrisée à +/- 1°C. Réclamations meuniers réduites de 80 %. Travaux terminés 3 semaines avant le début de la collecte.",
+  "filiere": "Coopératives agricoles",
+  "badgeIsomorphe": false
+ }
+]

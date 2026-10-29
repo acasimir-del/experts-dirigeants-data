@@ -1,0 +1,92 @@
+[
+ {
+  "ordre": 1,
+  "fonction": "Directeur de production",
+  "secteur": "Eau minérale embouteillage",
+  "titre": "CAPEX ligne PET soufflage-remplissage 40 000 bph",
+  "duree": "8 mois",
+  "contexte": "Investissement de 12 M€ dans une ligne combi soufflage-remplissage à 40 000 bph pour remplacer 2 anciennes lignes à 15 000 bph. Le directeur de production parti avant la réception des équipements. Contrainte de basculement sans rupture d'approvisionnement des enseignes pendant la transition.",
+  "resultat": "Ligne réceptionnée et qualifiée en 5 mois. Montée en cadence à 38 000 bph effectifs au mois 7. Rendement matière PET amélioré de 8 % grâce à l'allègement des préformes. Zéro rupture client pendant les 3 mois de transition.",
+  "objectifs": []
+ },
+ {
+  "ordre": 2,
+  "fonction": "DAF",
+  "secteur": "Eau minérale embouteillage",
+  "titre": "Redressement financier embouteilleur régional",
+  "duree": "6 mois",
+  "contexte": "Embouteilleur régional en procédure d'alerte : trésorerie à 15 jours, surcoûts énergie non répercutés (+40 % sur le PET et l'électricité). Le DAF parti, comptabilité tenue par un cabinet externe sans visibilité sur les marges par référence. Négociation bancaire urgente.",
+  "resultat": "Plan de trésorerie stabilisé en 3 semaines. Renégociation des tarifs GMS avec clause d'indexation matière (+6,5 % obtenus). Coût de revient par bouteille recalculé et partagé avec le CODIR. Ligne de crédit renouvelée à 18 mois.",
+  "objectifs": []
+ },
+ {
+  "ordre": 2,
+  "fonction": "Directeur qualité",
+  "secteur": "",
+  "titre": "Pilotage audit client GMS et plan de remediation tracabilite jus de fruits",
+  "duree": "6 mois",
+  "contexte": "Embouteilleur jus de fruits (320 salaries, marques nationales) confronte a un audit client MDD negatif avec suspension des references. Tracabilite amont defaillante sur les approvisionnements en concentres de fruits (origines multiples, melanges de lots non documentes). Allergenes non maitrises sur les lignes multi-produits. Le client GMS exige un plan de remediation sous 90 jours.",
+  "resultat": "Audit de re-qualification client reussi avec note A. Systeme de tracabilite lot-par-lot deploye de la reception matieres au produit fini. Matrice allergenes revisee, protocole de nettoyage valide par challenge tests. References MDD retablies sous 4 mois. Zero rappel produit sur la periode.",
+  "objectifs": []
+ },
+ {
+  "ordre": 3,
+  "fonction": "Directeur qualité",
+  "secteur": "Eau minérale embouteillage",
+  "titre": "Sécurisation source et conformité réglementaire eaux",
+  "duree": "7 mois",
+  "contexte": "Détection de traces de métabolites de pesticides sur un forage. ARS menaçant de suspendre l'autorisation d'exploitation. Le directeur qualité parti en pleine crise. Médiatisation locale naissante. Nécessité de sécuriser la ressource ET de maintenir la production sur les forages conformes.",
+  "resultat": "Plan de protection de la ressource déployé en 10 semaines. Forage concerné isolé, production maintenue à 85 % via les 2 forages conformes. Autorisation ARS renouvelée après investissement filtration 1,8 M€. Zéro article de presse négatif post-intervention.",
+  "objectifs": []
+ },
+ {
+  "ordre": 3,
+  "fonction": "Directeur qualité",
+  "secteur": "",
+  "titre": "Mise en conformité réglementation eau potable et refonte plan de surveillance",
+  "duree": "6 mois",
+  "contexte": "Nouvelle réglementation européenne sur les eaux embouteillées imposant des seuils renforcés sur les PFAS et microplastiques. Site historique d'embouteillage eau minérale sous contrôle ARS renforcé après signalement associatif. Plan de surveillance existant obsolète. Direction groupe (Danemark) exige une mise en conformité rapide sous peine de fermeture du site.",
+  "resultat": "Plan de surveillance analytique reconstruit (42 paramètres vs 18 auparavant). Conformité PFAS validée par le laboratoire agréé. Rapport ARS clôturé sans suite. Culture food safety renforcée auprès des 12 chefs d'équipe. Documentation qualité entièrement refondue pour audit BRC.",
+  "objectifs": []
+ },
+ {
+  "ordre": 4,
+  "fonction": "Supply & Achats",
+  "secteur": "Jus de fruits pasteurisés",
+  "titre": "Gestion pic estival jus de fruits sans directeur supply",
+  "duree": "5 mois",
+  "contexte": "Pic estival représentant 55 % du CA annuel à 6 semaines. Directeur supply démissionnaire. Stocks de concentrés de fruits à 60 % du niveau cible, transport en tension (pénurie de conducteurs). Le site alimente 3 000 points de vente GMS en direct.",
+  "resultat": "Pic estival couvert à 98 % de taux de service (vs 84 % l'année précédente). Contrats concentrés sécurisés en urgence avec 2 fournisseurs alternatifs. Affrètement dédié négocié pour la période. Gain de 520 K€ en évitant les dépannages spot.",
+  "objectifs": []
+ },
+ {
+  "ordre": 4,
+  "fonction": "Directeur d'usine",
+  "secteur": "",
+  "titre": "Pilotage de crise réglementaire post-scandale sanitaire",
+  "duree": "7 mois",
+  "contexte": "Site d'embouteillage d'eaux minérales sous le coup d'une information judiciaire pour pratiques de traitement non conformes. PSE de 170 postes en cours. Cession du groupe prévue sous 18 mois. Direction cherche un DU de crise capable de gérer les autorités sanitaires tout en maintenant la production.",
+  "resultat": "Mise en conformité validée par l'ARS en 14 semaines. Production maintenue à 85% de la capacité nominale. Aucun déréférencement GMS.",
+  "objectifs": []
+ },
+ {
+  "ordre": 5,
+  "fonction": "Directeur d'usine",
+  "secteur": "Boissons fonctionnelles",
+  "titre": "Intégration post-rachat site boissons fonctionnelles",
+  "duree": "9 mois",
+  "contexte": "Rachat d'une PME de boissons fonctionnelles (kombucha, energy drinks) par un groupe embouteilleur. Choc culturel : start-up agile vs processus industriel groupe. Le fondateur parti post-earn out, équipe R&D démotivée, 3 lancements produits gelés. Le groupe veut industrialiser sans tuer l'innovation.",
+  "resultat": "3 lancements dégelés et industrialisés en 6 mois. Gouvernance hybride mise en place : R&D autonome sur le développement, process groupe sur la production. Rétention de 100 % de l'équipe R&D clé. Volume multiplié par 2,3 sur les 12 mois suivants.",
+  "objectifs": []
+ },
+ {
+  "ordre": 5,
+  "fonction": "Directeur d'usine",
+  "secteur": "",
+  "titre": "Management de transition post-conflit social majeur",
+  "duree": "9 mois",
+  "contexte": "Site d'embouteillage haute cadence (240 000 bouteilles/jour) paralysé par une grève massive suite à un projet de délocalisation partielle. Projet suspendu mais climat social explosif. Actionnaire international exige un retour à la normale et un dialogue social reconstruit.",
+  "resultat": "Reprise complète de la production en 4 semaines. Accord d'entreprise signé. Taux de service rétabli à 98,5%. Plan industriel révisé et accepté par les partenaires sociaux.",
+  "objectifs": []
+ }
+]

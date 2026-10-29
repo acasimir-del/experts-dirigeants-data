@@ -1,0 +1,28 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Redressement qualite post-rappel produit et plan de maitrise allergenes chocolaterie",
+  "duree": "7 mois",
+  "region": "Occitanie",
+  "taille": "1 800 personnes",
+  "niveau": "Existence",
+  "tension": "Légitimité ext.",
+  "contexte": "Chocolatier industriel multi-sites (1 800 salaries, 7 usines) apres un rappel produit DGCCRF pour presence de noisette non declaree dans une reference MDD. Contamination croisee entre lignes chocolat noir et fourres praline. Plan de maitrise allergenes inexistant sur 3 des 7 sites. Perte de confiance des distributeurs et menace de dereferencement.",
+  "resultat": "Matrice allergenes deployee sur les 7 sites. Procedures de changement de production validees par challenge tests analytiques. Zonage allergenes mis en place (zones dediees fruits a coque vs sans). Taux de rappel ramene a zero sur 6 mois. Confiance distributeurs retablie, volumes MDD recuperes a 95%.",
+  "filiere": "Chocolaterie & confiserie",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Structuration qualité post-plan social et harmonisation multi-sites",
+  "duree": "9 mois",
+  "region": "Normandie",
+  "taille": "~250 personnes",
+  "niveau": "Cohérence",
+  "tension": "Gouvernance",
+  "contexte": "Groupe mondial de première transformation cacao ayant finalisé un plan social de 250 postes à l'échelle mondiale. Le site français de couverture chocolat (250 salariés, 24h/7j) doit absorber des volumes supplémentaires tout en harmonisant son système qualité avec les standards groupe. Responsable qualité parti dans le PSE. HACCP et documentation BRC non à jour depuis 18 mois.",
+  "resultat": "Système qualité reconstruit : 23 procédures HACCP mises à jour, 8 CCP revalidés. Audit BRC grade A obtenu. Formation food safety déployée pour 180 opérateurs en 3 vagues. Taux de réclamations clients réduit de 45% en 7 mois. Intégration des nouveaux volumes sans incident qualité.",
+  "filiere": "Chocolaterie & confiserie",
+  "badgeIsomorphe": false
+ }
+]

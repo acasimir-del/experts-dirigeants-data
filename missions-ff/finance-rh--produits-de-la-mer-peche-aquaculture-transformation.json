@@ -1,0 +1,41 @@
+[
+ {
+  "ordre": 1,
+  "titre": "Mise en place du controle de gestion industriel sur un site de conserverie",
+  "duree": "6 mois",
+  "region": "Bretagne",
+  "taille": "175 collaborateurs",
+  "niveau": "Cohérence",
+  "tension": "Finance",
+  "contexte": "Conserverie de poisson avec 80 references produits. Pas de comptabilite analytique, marge brute calculee au global. Impossible de connaitre la rentabilite par espece ou par client. Budget annuel de 28 M EUR de CA.",
+  "resultat": "Comptabilite analytique deployee avec 15 centres de couts. Marge par espece calculee mensuellement. 8 references deficitaires identifiees et arretees. Gain de marge brute de 2,2 points en 6 mois.",
+  "filiere": "Produits de la mer (pêche / aquaculture / transformation)",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 2,
+  "titre": "Gestion sociale d'un PSE et reclassement apres fermeture d'atelier",
+  "duree": "8 mois",
+  "region": "Normandie",
+  "taille": "260 collaborateurs",
+  "niveau": "Existence",
+  "tension": "RH",
+  "contexte": "Site de transformation de produits de la mer avec fermeture d'un atelier de mareyage devenu non rentable. Plan de sauvegarde de l'emploi a negocier pour 42 postes. Bassin d'emploi tendu avec peu d'alternatives locales. Relations sociales degradees apres 2 greves.",
+  "resultat": "PSE negocie en 4 mois avec accord unanime des syndicats. 28 reclassements internes effectues. 14 departs avec accompagnement reclassement externe. Zero contentieux prud'homal. Reprise de la production sur les ateliers maintenus sans perturbation.",
+  "filiere": "Produits de la mer (pêche / aquaculture / transformation)",
+  "badgeIsomorphe": false
+ },
+ {
+  "ordre": 3,
+  "titre": "Structuration RH et gestion de la saisonnalite sur site d'aquaculture",
+  "duree": "5 mois",
+  "region": "Nouvelle-Aquitaine",
+  "taille": "90 collaborateurs",
+  "niveau": "Performance",
+  "tension": "RH",
+  "contexte": "Site d'elevage et de transformation de truites et saumons. Effectif qui passe de 90 a 160 entre septembre et janvier. Turn-over saisonniers a 55 %. Pas de parcours d'integration structure. Absenteisme a 9 % sur les postes de conditionnement.",
+  "resultat": "Turn-over saisonniers ramene a 22 %. Parcours d'integration de 5 jours deploye. Absenteisme reduit a 5,5 %. Pool de 40 saisonniers fidelises pour la campagne suivante. Cout recrutement reduit de 35 %.",
+  "filiere": "Produits de la mer (pêche / aquaculture / transformation)",
+  "badgeIsomorphe": false
+ }
+]

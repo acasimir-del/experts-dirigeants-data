@@ -1,0 +1,62 @@
+[
+ {
+  "ordre": 1,
+  "fonction": "Directeur d'usine",
+  "secteur": "Surgelés légumes IQF",
+  "titre": "Directeur d'usine — Restructuration logistique grand froid sur plateforme IQF légumes",
+  "duree": "14 mois",
+  "contexte": "Site IQF légumes 280 pers., EBITDA négatif 3 exercices consécutifs. Chaîne froid –25 °C vétuste, coûts énergie +40 %. Campagne haricots verts compromise par pannes répétées tunnel de surgélation. Audit complet ligne IQF et logistique aval. Renégociation contrat frigoriste, plan CAPEX 2,1 M€ tunnel neuf. Réorganisation équipes campagne saisonnière (3×8 → 2×12 sur 14 semaines). Mise en place suivi TRS temps réel.",
+  "resultat": "EBITDA redevenu positif à +4,2 % en 12 mois. Rendement matière +6 pts sur campagne petits pois. Coût énergie froid réduit de 28 %. Zéro rupture chaîne logistique MDD sur la saison.",
+  "objectifs": []
+ },
+ {
+  "ordre": 2,
+  "fonction": "Directeur de production",
+  "secteur": "Surgelés pizzas & snacking",
+  "titre": "Directeur de production — Montée en cadence ligne pizzas surgelées pour contrat MDD",
+  "duree": "10 mois",
+  "contexte": "Usine pizzas surgelées 190 pers., contrat MDD grande enseigne exigeant +35 % de volume sous 6 mois. Ligne garnissage saturée, taux de service tombé à 88 %. Pénalités logistiques en cascade. Doublement poste garnissage avec convoyeur parallèle. Passage en flux tiré sur emballage. Formation polyvalence 40 opérateurs. Négociation cahier des charges MDD pour réduire nombre de références de 24 à 16.",
+  "resultat": "Taux de service remonté à 98,5 %. Volume livré +38 % en 5 mois. Coût de revient pizza unitaire –9 %. Contrat MDD renouvelé 3 ans.",
+  "objectifs": []
+ },
+ {
+  "ordre": 3,
+  "fonction": "Directeur qualité",
+  "secteur": "Surgelés poissons panés",
+  "titre": "Directeur qualité — Mise en conformité BRC/IFS site poissons panés après audit critique",
+  "duree": "12 mois",
+  "contexte": "Site poissons panés 220 pers., non-conformités majeures BRC sur traçabilité allergènes et gestion corps étrangers. Menace de déréférencement par 2 enseignes. Détecteurs métaux obsolètes sur 3 lignes. Remplacement 3 détecteurs métaux + installation rayons X fin de ligne. Refonte HACCP complète avec focus allergènes croisés (gluten, poisson, œuf). Digitalisation traçabilité lot matière première → produit fini. 800 h de formation hygiène.",
+  "resultat": "Audit BRC repassé grade A en 9 mois. Zéro réclamation allergène sur 12 mois glissants. Taux de détection corps étrangers 99,7 %. Référencements maintenus, +1 nouvelle enseigne.",
+  "objectifs": []
+ },
+ {
+  "ordre": 4,
+  "fonction": "Supply & Achats",
+  "secteur": "Glaces industrielles",
+  "titre": "Supply & Achats — Sécurisation approvisionnement et optimisation cold chain glaces industrielles",
+  "duree": "11 mois",
+  "contexte": "Plateforme glaces MDD 310 pers., 4 entrepôts –25 °C sous-exploités. Coûts logistiques surgelés 18 % du CA, benchmark secteur à 12 %. Ruptures fréquentes en matières grasses laitières pendant pic estival. Mutualisation 4 entrepôts en 2 hubs régionaux. Contrats cadre matières grasses avec 3 fournisseurs (couverture avril-sept). Déploiement WMS surgelé avec FIFO strict. Optimisation tournées –25 °C avec pooling inter-sites.",
+  "resultat": "Coûts logistiques ramenés à 13,1 % du CA (–27 % relatif). Zéro rupture matière grasse sur saison estivale. Taux de remplissage camions +14 pts. Économie annuelle 1,8 M€.",
+  "objectifs": []
+ },
+ {
+  "ordre": 5,
+  "fonction": "DRH",
+  "secteur": "Surgelés légumes IQF",
+  "titre": "DRH — Gestion sociale et fidélisation campagniers sur site IQF légumes saisonnier",
+  "duree": "18 mois",
+  "contexte": "Site IQF 250 pers. permanents + 180 saisonniers. Turnover campagniers 65 %, absentéisme pic à 22 %. Difficultés recrutement en zone rurale, image employeur dégradée. CSE conflictuel après plan social avorté. Création parcours d'intégration saisonniers (3 jours). Prime fidélité campagne complète. Partenariat Pôle Emploi + lycées agricoles pour vivier. Refonte dialogue social avec CSE (accord QVT). Aménagement postes pénibilité froid.",
+  "resultat": "Turnover saisonniers ramené à 35 % (–30 pts). Absentéisme redescendu à 11 %. 90 % des saisonniers recontactés acceptent la campagne suivante. Accord QVT signé à l'unanimité.",
+  "objectifs": []
+ },
+ {
+  "ordre": 6,
+  "fonction": "Directeur de maintenance",
+  "secteur": "Surgelés pizzas & snacking",
+  "titre": "Directeur de maintenance — Plan de fiabilisation tunnels et chambres froides site snacking surgelé",
+  "duree": "13 mois",
+  "contexte": "Site snacking surgelé 200 pers., 12 pannes majeures froid/an provoquant pertes produit (450 K€/an). GMAO inexistante, maintenance 100 % curative. Compresseurs NH3 en fin de vie, risque ICPE identifié. Déploiement GMAO et plan préventif sur 100 % des équipements froid. Remplacement 2 compresseurs NH3 critiques. Formation 8 techniciens en froid industriel (habilitation NH3). Mise en place astreinte 24/7 avec escalade automatisée.",
+  "resultat": "Pannes majeures réduites de 12 à 2/an. Pertes produit froid ramenées à 80 K€/an (–82 %). MTBF tunnels surgélation ×3. Conformité ICPE NH3 validée par DREAL.",
+  "objectifs": []
+ }
+]

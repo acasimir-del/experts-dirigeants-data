@@ -1,0 +1,21 @@
+{
+ "accroche_hero": "En chocolaterie et biscuiterie, les allergènes sont le premier risque qualité.",
+ "fonction": "Directeur qualité",
+ "filiere": "Chocolaterie & confiserie",
+ "slug": "directeur-qualite-chocolaterie",
+ "image": "",
+ "image_hero": "",
+ "secteurs_pills": [],
+ "edito_fonction_filiere": [
+  "En chocolaterie et biscuiterie, les allergènes sont le premier risque qualité. Lait, fruits à coque, gluten, oeufs - quatre des quatorze allergènes réglementaires coexistent souvent sur les mêmes lignes polyvalentes, et chaque changement de recette impose un protocole de nettoyage validé par le directeur qualité avant le redémarrage. Chez Lindt, Cémoi ou Mondelez, un écart sur ce protocole peut déclencher un rappel médiatisé et une procédure de responsabilité civile. Quand le directeur qualité part en août, la validation des plannings allergènes de la campagne de Noël reste sans signature.",
+  "Son équipe directe : un responsable laboratoire (physico-chimie, microbiologie, tests ELISA allergènes), un responsable assurance qualité (HACCP, IFS Food, gestion des plan d'action allergènes), un responsable qualité production (contrôleurs de ligne, gestion des corps étrangers - les chocolateries sont les sites les plus sensibles sur ce point), et un responsable réclamations et affaires réglementaires (interface avec les autorités sanitaires et les clients en cas d'incident). Ce sont 3 à 4 N-1 avec des profils très spécialisés.",
+  "Ses interservices les plus exigeants : la production d'abord - la séquence d'ordonnancement des recettes dépend directement des contraintes allergènes validées par le directeur qualité, et toute modification de planning impose une revalidation du nettoyage. Les achats ensuite : en chocolaterie haut de gamme, les certifications origine cacao (Rainforest, Fairtrade) sont vérifiées à chaque lot entrant par le responsable qualité, et tout écart de certification fournisseur génère un blocage de matière première.",
+  "TFA positionne sous cinq jours - en directeur qualité pour maintenir la maîtrise allergènes et valider les plannings de nettoyage de campagne, ou un cran en dessous en responsable assurance qualité ou responsable laboratoire pour assurer la continuité des contrôles."
+ ],
+ "paragraph1": "En chocolaterie et biscuiterie, les allergènes sont le premier risque qualité. Lait, fruits à coque, gluten, oeufs - quatre des quatorze allergènes réglementaires coexistent souvent sur les mêmes lignes polyvalentes, et chaque changement de recette impose un protocole de nettoyage validé par le directeur qualité avant le redémarrage. Chez Lindt, Cémoi ou Mondelez, un écart sur ce protocole peut déclencher un rappel médiatisé et une procédure de responsabilité civile. Quand le directeur qualité part en août, la validation des plannings allergènes de la campagne de Noël reste sans signature.",
+ "paragraph2": "Son équipe directe : un responsable laboratoire (physico-chimie, microbiologie, tests ELISA allergènes), un responsable assurance qualité (HACCP, IFS Food, gestion des plan d'action allergènes), un responsable qualité production (contrôleurs de ligne, gestion des corps étrangers - les chocolateries sont les sites les plus sensibles sur ce point), et un responsable réclamations et affaires réglementaires (interface avec les autorités sanitaires et les clients en cas d'incident). Ce sont 3 à 4 N-1 avec des profils très spécialisés.",
+ "paragraph3": "Ses interservices les plus exigeants : la production d'abord - la séquence d'ordonnancement des recettes dépend directement des contraintes allergènes validées par le directeur qualité, et toute modification de planning impose une revalidation du nettoyage. Les achats ensuite : en chocolaterie haut de gamme, les certifications origine cacao (Rainforest, Fairtrade) sont vérifiées à chaque lot entrant par le responsable qualité, et tout écart de certification fournisseur génère un blocage de matière première.",
+ "paragraph4": "TFA positionne sous cinq jours - en directeur qualité pour maintenir la maîtrise allergènes et valider les plannings de nettoyage de campagne, ou un cran en dessous en responsable assurance qualité ou responsable laboratoire pour assurer la continuité des contrôles.",
+ "enjeux_ff": "",
+ "image_enjeux_ff": ""
+}

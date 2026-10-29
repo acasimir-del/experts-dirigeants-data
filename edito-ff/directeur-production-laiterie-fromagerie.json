@@ -1,0 +1,21 @@
+{
+ "accroche_hero": "En laiterie, le lait arrive la nuit et ne peut pas attendre.",
+ "fonction": "Directeur de production",
+ "filiere": "Laiterie & fromagerie",
+ "slug": "directeur-production-laiterie-fromagerie",
+ "image": "",
+ "image_hero": "",
+ "secteurs_pills": [],
+ "edito_fonction_filiere": [
+  "En laiterie, le planning ne commence pas à la commande - il commence à la traite. Le directeur de production est le premier à décider : on oriente le lot vers le fromage blanc, vers le beurre, ou on le retourne. Quand il part en mars, en plein pic de collecte printanier, c'est cette décision-là qui devient orpheline.",
+  "Son équipe directe : 3 à 4 chefs d'atelier (fabrication, affinage, pasteurisation, conditionnement), un responsable ordonnancement qui gère la séquence des cuves et des lignes, et un animateur amélioration continue sur les sites Lactalis, Savencia ou Sodiaal de plus de 200 personnes. Ces profils sont très endogames - le chef d'atelier affinage d'un camembert AOP ne se remplace pas avec un profil généraliste, et l'ordonnanceur connaît par coeur les temps de prise et les fenêtres microbiologiques.",
+  "Ses deux interservices critiques : la qualité d'abord - chaque lot fromager est libéré après analyses microbiologiques, et quand le labo rend ses résultats à J+1 sur des produits frais à DLC courte, la marge est nulle. Le conflit structurel : la production veut libérer, la qualité veut attendre. La supply chain ensuite : les grandes surfaces commandent à la semaine avec des taux de service à 98,5 %, et la variabilité de la collecte estivale rend la promesse difficile à tenir sans arbitrage permanent.",
+  "TFA positionne sous cinq jours - en directeur de production si le poste est vacant, ou un cran en dessous en chef d'atelier fabrication ou responsable ordonnancement pour absorber un pic de collecte ou une crise de libération de lots sans déstabiliser l'équipe."
+ ],
+ "paragraph1": "En laiterie, le planning ne commence pas à la commande - il commence à la traite. Le directeur de production est le premier à décider : on oriente le lot vers le fromage blanc, vers le beurre, ou on le retourne. Quand il part en mars, en plein pic de collecte printanier, c'est cette décision-là qui devient orpheline.",
+ "paragraph2": "Son équipe directe : 3 à 4 chefs d'atelier (fabrication, affinage, pasteurisation, conditionnement), un responsable ordonnancement qui gère la séquence des cuves et des lignes, et un animateur amélioration continue sur les sites Lactalis, Savencia ou Sodiaal de plus de 200 personnes. Ces profils sont très endogames - le chef d'atelier affinage d'un camembert AOP ne se remplace pas avec un profil généraliste, et l'ordonnanceur connaît par coeur les temps de prise et les fenêtres microbiologiques.",
+ "paragraph3": "Ses deux interservices critiques : la qualité d'abord - chaque lot fromager est libéré après analyses microbiologiques, et quand le labo rend ses résultats à J+1 sur des produits frais à DLC courte, la marge est nulle. Le conflit structurel : la production veut libérer, la qualité veut attendre. La supply chain ensuite : les grandes surfaces commandent à la semaine avec des taux de service à 98,5 %, et la variabilité de la collecte estivale rend la promesse difficile à tenir sans arbitrage permanent.",
+ "paragraph4": "TFA positionne sous cinq jours - en directeur de production si le poste est vacant, ou un cran en dessous en chef d'atelier fabrication ou responsable ordonnancement pour absorber un pic de collecte ou une crise de libération de lots sans déstabiliser l'équipe.",
+ "enjeux_ff": "",
+ "image_enjeux_ff": ""
+}

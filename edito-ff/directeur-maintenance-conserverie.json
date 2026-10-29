@@ -1,0 +1,21 @@
+{
+ "accroche_hero": "En conserverie, la campagne est la maintenance.",
+ "fonction": "Directeur de maintenance",
+ "filiere": "Conserverie & surgelés",
+ "slug": "directeur-maintenance-conserverie",
+ "image": "",
+ "image_hero": "",
+ "secteurs_pills": [],
+ "edito_fonction_filiere": [
+  "En conserverie, la campagne est la maintenance. Pendant les 45 semaines qui précèdent l'ouverture, le directeur de maintenance révise chaque remplisseuse, chaque sertisseuse, chaque staphyser. Pendant la campagne, il gère les pannes en 4×8, sans pouvoir programmer une intervention qui arrêterait la ligne plus de 20 minutes. Quand il part en avril, à six semaines du démarrage, Bonduelle, D'Aucy ou Coroos perdent la mémoire technique de leurs équipements les plus critiques.",
+  "Son équipe directe : un responsable maintenance fabrication (staphysers, remplisseuses, sertisseuses ou tunnels de surgélation - les équipements qui font le produit), un responsable maintenance manutention et conditionnement (palettiseurs, convoyeurs, étiqueteuses), un responsable énergie-utilités (vapeur haute pression pour la stérilisation, froid pour les surgelés - deux besoins opposés sur le même site), et un responsable méthodes-GMAO. Hors campagne, l'équipe est réduite de moitié et travaille sur les travaux neufs et les révisions.",
+  "Ses interservices les plus exigeants : la production d'abord - en conserverie saisonnière, chaque heure d'arrêt non planifié de la staphyser pendant la campagne se traduit par des matières premières blanchîes qui ne peuvent pas attendre. La qualité ensuite : la stérilisation en conserve est un paramètre HACCP critique - tout écart de température ou de durée enregistré par la staphyser impose un blocage de lot et une analyse de risque immédiate.",
+  "TFA positionne sous cinq jours - en directeur de maintenance avant l'ouverture de campagne pour reprendre le plan préventif, ou un cran en dessous en responsable maintenance fabrication pour assurer la supervision des équipements critiques pendant les semaines de pointe."
+ ],
+ "paragraph1": "En conserverie, la campagne est la maintenance. Pendant les 45 semaines qui précèdent l'ouverture, le directeur de maintenance révise chaque remplisseuse, chaque sertisseuse, chaque staphyser. Pendant la campagne, il gère les pannes en 4×8, sans pouvoir programmer une intervention qui arrêterait la ligne plus de 20 minutes. Quand il part en avril, à six semaines du démarrage, Bonduelle, D'Aucy ou Coroos perdent la mémoire technique de leurs équipements les plus critiques.",
+ "paragraph2": "Son équipe directe : un responsable maintenance fabrication (staphysers, remplisseuses, sertisseuses ou tunnels de surgélation - les équipements qui font le produit), un responsable maintenance manutention et conditionnement (palettiseurs, convoyeurs, étiqueteuses), un responsable énergie-utilités (vapeur haute pression pour la stérilisation, froid pour les surgelés - deux besoins opposés sur le même site), et un responsable méthodes-GMAO. Hors campagne, l'équipe est réduite de moitié et travaille sur les travaux neufs et les révisions.",
+ "paragraph3": "Ses interservices les plus exigeants : la production d'abord - en conserverie saisonnière, chaque heure d'arrêt non planifié de la staphyser pendant la campagne se traduit par des matières premières blanchîes qui ne peuvent pas attendre. La qualité ensuite : la stérilisation en conserve est un paramètre HACCP critique - tout écart de température ou de durée enregistré par la staphyser impose un blocage de lot et une analyse de risque immédiate.",
+ "paragraph4": "TFA positionne sous cinq jours - en directeur de maintenance avant l'ouverture de campagne pour reprendre le plan préventif, ou un cran en dessous en responsable maintenance fabrication pour assurer la supervision des équipements critiques pendant les semaines de pointe.",
+ "enjeux_ff": "",
+ "image_enjeux_ff": ""
+}

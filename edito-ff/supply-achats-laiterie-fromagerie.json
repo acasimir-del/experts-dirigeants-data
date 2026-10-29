@@ -1,0 +1,21 @@
+{
+ "accroche_hero": "En laiterie, l'approvisionnement n'est pas un flux - c'est une collecte.",
+ "fonction": "Supply & Achats",
+ "filiere": "Laiterie & fromagerie",
+ "slug": "supply-achats-laiterie-fromagerie",
+ "image": "",
+ "image_hero": "",
+ "secteurs_pills": [],
+ "edito_fonction_filiere": [
+  "En laiterie, l'approvisionnement n'est pas un flux - c'est une collecte. Le directeur supply & achats d'un site laitier ne commande pas ses matières premières : il les négocie avec des coopératives, il pièce les volumes manquants sur marché, et il anticipe les défaillances de collecte saisonnières avec 4 à 6 semaines d'avance. Quand il part en février, en pleine période de renonégociation des contrats de collecte, Lactalis, Savencia ou Agrial perdent la mémoire de ces négociations et la relation directe avec les producteurs.",
+  "Son équipe directe : un responsable approvisionnements lait (pilotage des contrats de collecte, relation avec les coopératives et les producteurs indépendants), un responsable achats ingrédients et emballages (sel, ferments, présures, films, pots - des composants à DLC courte qui ne peuvent pas stocker en excès), et un responsable planification-ordonnancement (le pivot entre les volumes collectés et la capacité des ateliers de transformation). Ce sont 2 à 3 N-1 avec des profils hybrides agro-achats, rares sur le marché.",
+  "Ses interservices les plus exigeants : la production d'abord - en laiterie, le volume collecté chaque nuit conditionne le planning de transformation du lendemain matin, et c'est le directeur supply qui doit ajuster en temps réel les orientations lait (beurre, poudre, fromage) selon les disponibilités cuves. La finance ensuite : les coûts de la matière lait représentent 60 à 75 % du coût de production, et les variations de prix de collecte impactent immédiatement les marges du site.",
+  "TFA positionne sous cinq jours - en directeur supply & achats pour reprendre les négociations de collecte et le pilotage des approvisionnements, ou un cran en dessous en responsable approvisionnements ou responsable planification pour assurer la continuité des flux sans rupture."
+ ],
+ "paragraph1": "En laiterie, l'approvisionnement n'est pas un flux - c'est une collecte. Le directeur supply & achats d'un site laitier ne commande pas ses matières premières : il les négocie avec des coopératives, il pièce les volumes manquants sur marché, et il anticipe les défaillances de collecte saisonnières avec 4 à 6 semaines d'avance. Quand il part en février, en pleine période de renonégociation des contrats de collecte, Lactalis, Savencia ou Agrial perdent la mémoire de ces négociations et la relation directe avec les producteurs.",
+ "paragraph2": "Son équipe directe : un responsable approvisionnements lait (pilotage des contrats de collecte, relation avec les coopératives et les producteurs indépendants), un responsable achats ingrédients et emballages (sel, ferments, présures, films, pots - des composants à DLC courte qui ne peuvent pas stocker en excès), et un responsable planification-ordonnancement (le pivot entre les volumes collectés et la capacité des ateliers de transformation). Ce sont 2 à 3 N-1 avec des profils hybrides agro-achats, rares sur le marché.",
+ "paragraph3": "Ses interservices les plus exigeants : la production d'abord - en laiterie, le volume collecté chaque nuit conditionne le planning de transformation du lendemain matin, et c'est le directeur supply qui doit ajuster en temps réel les orientations lait (beurre, poudre, fromage) selon les disponibilités cuves. La finance ensuite : les coûts de la matière lait représentent 60 à 75 % du coût de production, et les variations de prix de collecte impactent immédiatement les marges du site.",
+ "paragraph4": "TFA positionne sous cinq jours - en directeur supply & achats pour reprendre les négociations de collecte et le pilotage des approvisionnements, ou un cran en dessous en responsable approvisionnements ou responsable planification pour assurer la continuité des flux sans rupture.",
+ "enjeux_ff": "",
+ "image_enjeux_ff": ""
+}

@@ -1,0 +1,21 @@
+{
+ "accroche_hero": "En amidonnerie ou en trituration, la production n'a pas de séquence - elle a un état.",
+ "fonction": "Directeur de production",
+ "filiere": "Meunerie & amidonnerie",
+ "slug": "directeur-production-meunerie",
+ "image": "",
+ "image_hero": "",
+ "secteurs_pills": [],
+ "edito_fonction_filiere": [
+  "En amidonnerie ou en trituration, la production n'a pas de séquence - elle a un état. Le procédé est continu, piloté depuis une salle de contrôle DCS, et le directeur de production est l'interface entre les opérateurs de quart et les équipes méthodes et maintenance. Quand il part pendant l'arrêt technique annuel - ces 15 jours où chaque équipement est ouvert et révisé - personne ne connaît mieux que lui la priorisation des interventions et la séquence de redémarrage.",
+  "Son équipe directe : un responsable quart (chef d'équipe de supervision process, en rotation 3×8), un responsable méthodes-process (ingénieur qui documente les paramètres opératoires et suit les rendements de transformation), un responsable qualité-laboratoire (analyses produits en cours et finis), et un responsable HSE-sécurité procédé - en process chimique et alimentaire, les risques ATEX et de manutention de produits pulvérulents sont structurels. Chez Roquette, Tereos ou Chamtor, le directeur de production a également sous sa responsabilité un ingénieur continu-amélioration chargé des rendements de transformation.",
+  "Ses interservices les plus exigeants : la maintenance d'abord - en process continu, chaque intervention corrective est une décision commune entre le directeur de production et le responsable maintenance : arrêter le procédé ou le maintenir en mode dégradé ? La supply chain ensuite : les clients industriels (boulangers, fabricants de plats cuisinés, huiliers) ont des contrats d'approvisionnement hebdomadaires - tout incident de production impacte immédiatement leur propre planning de fabrication.",
+  "TFA positionne sous cinq jours - en directeur de production pour assurer la continuité du procédé, ou un cran en dessous en responsable quart ou responsable méthodes-process pour renforcer la supervision technique pendant un arrêt ou une remise en route complexe."
+ ],
+ "paragraph1": "En amidonnerie ou en trituration, la production n'a pas de séquence - elle a un état. Le procédé est continu, piloté depuis une salle de contrôle DCS, et le directeur de production est l'interface entre les opérateurs de quart et les équipes méthodes et maintenance. Quand il part pendant l'arrêt technique annuel - ces 15 jours où chaque équipement est ouvert et révisé - personne ne connaît mieux que lui la priorisation des interventions et la séquence de redémarrage.",
+ "paragraph2": "Son équipe directe : un responsable quart (chef d'équipe de supervision process, en rotation 3×8), un responsable méthodes-process (ingénieur qui documente les paramètres opératoires et suit les rendements de transformation), un responsable qualité-laboratoire (analyses produits en cours et finis), et un responsable HSE-sécurité procédé - en process chimique et alimentaire, les risques ATEX et de manutention de produits pulvérulents sont structurels. Chez Roquette, Tereos ou Chamtor, le directeur de production a également sous sa responsabilité un ingénieur continu-amélioration chargé des rendements de transformation.",
+ "paragraph3": "Ses interservices les plus exigeants : la maintenance d'abord - en process continu, chaque intervention corrective est une décision commune entre le directeur de production et le responsable maintenance : arrêter le procédé ou le maintenir en mode dégradé ? La supply chain ensuite : les clients industriels (boulangers, fabricants de plats cuisinés, huiliers) ont des contrats d'approvisionnement hebdomadaires - tout incident de production impacte immédiatement leur propre planning de fabrication.",
+ "paragraph4": "TFA positionne sous cinq jours - en directeur de production pour assurer la continuité du procédé, ou un cran en dessous en responsable quart ou responsable méthodes-process pour renforcer la supervision technique pendant un arrêt ou une remise en route complexe.",
+ "enjeux_ff": "",
+ "image_enjeux_ff": ""
+}
